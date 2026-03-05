@@ -49,8 +49,9 @@
 
     .payment-section { max-width: 1100px; width: 100%; margin: 0 auto 48px; padding: 0 24px; }
     .payment-box { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 28px 32px; }
-    .payment-grid { display: flex; flex-wrap: wrap; gap: 12px; }
-    .payment-item { display: flex; align-items: center; gap: 10px; padding: 10px 18px; border: 1px solid var(--border); border-radius: 999px; background: var(--bg); font-size: .85rem; }
+    .payment-grid { display: flex; flex-wrap: wrap; gap: 28px; align-items: center; }
+    .payment-item { display: flex; flex-direction: column; align-items: center; gap: 8px; font-size: .75rem; color: var(--muted); }
+    .payment-item svg { width: 48px; height: 48px; }
 
     footer { border-top: 1px solid var(--border); padding: 32px 24px; display: flex; flex-direction: column; align-items: center; gap: 20px; }
     .social-links { display: flex; gap: 20px; }
@@ -89,10 +90,13 @@
   <div class="payment-box">
     <p class="section-label" style="margin-bottom:20px;">Formas de pago aceptadas</p>
     <div class="payment-grid">
-      <div class="payment-item">💳 Tarjeta de crédito</div>
-      <div class="payment-item">📲 Bizum</div>
-      <div class="payment-item">📦 Contrareembolso</div>
-      <div class="payment-item">📱 Pago por móvil</div>
+      <div class="payment-item"><svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg"><rect width="48" height="48" rx="6" fill="#1A1F71"/><path d="M20 30H16L19 18H23L20 30Z" fill="white"/><path d="M32 18.4C31.2 18.1 30 18 28.6 18C24.9 18 22.3 19.9 22.3 22.6C22.3 24.6 24.1 25.7 25.5 26.4C27 27.1 27.5 27.6 27.5 28.2C27.5 29.1 26.4 29.5 25.4 29.5C24 29.5 23.3 29.3 22.1 28.8L21.6 28.6L21.1 31.6C22.1 32 24 32.3 25.9 32.3C29.8 32.3 32.4 30.4 32.4 27.5C32.4 25.9 31.4 24.7 29.3 23.7C28 23 27.2 22.6 27.2 21.9C27.2 21.3 27.9 20.7 29.3 20.7C30.4 20.7 31.2 20.9 31.8 21.2L32.1 21.3L32.6 18.4H32Z" fill="white"/><path d="M37.5 18H34.7C33.8 18 33.1 18.3 32.7 19.2L27.2 30H31.1L31.9 27.8H36.7L37.2 30H40.7L37.5 18ZM33 25C33.3 24.2 34.5 21 34.5 21C34.5 21 34.8 20.2 35 19.7L35.2 20.9C35.2 20.9 36 24.4 36.2 25H33Z" fill="white"/><path d="M14.4 18L10.7 26.4L10.3 24.5C9.6 22.3 7.6 19.9 5.3 18.7L8.7 30H12.6L18.3 18H14.4Z" fill="white"/><path d="M7.5 18H1.5L1.4 18.3C6.1 19.5 9.2 22.3 10.3 25.5L9.1 19.2C8.9 18.3 8.3 18 7.5 18Z" fill="#F9A51A"/></svg>Visa</div>
+      <div class="payment-item"><svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg"><rect width="48" height="48" rx="6" fill="#252525"/><circle cx="18" cy="24" r="10" fill="#EB001B"/><circle cx="30" cy="24" r="10" fill="#F79E1B"/><path d="M24 16.3a10 10 0 0 1 0 15.4A10 10 0 0 1 24 16.3z" fill="#FF5F00"/></svg>Mastercard</div>
+      <div class="payment-item"><svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg"><rect width="48" height="48" rx="6" fill="#00ADEF"/><text x="24" y="30" font-size="13" font-weight="bold" fill="white" text-anchor="middle" font-family="Arial">bizum</text></svg>Bizum</div>
+      <div class="payment-item"><svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg"><rect width="48" height="48" rx="6" fill="#003087"/><path d="M29 14H20C19.3 14 18.7 14.5 18.6 15.2L15.5 33.2C15.4 33.7 15.8 34.1 16.3 34.1H20.7C21.4 34.1 22 33.6 22.1 32.9L22.9 28.4C23 27.7 23.6 27.2 24.3 27.2H26.4C30.7 27.2 33.4 25 34 20.7C34.3 18.8 34 17.3 33 16.2C32 15 30.6 14 29 14Z" fill="#009CDE"/><path d="M13 19H18C21.2 19 22.5 20.4 22 23.1C21.5 25.8 19.3 27.1 16.5 27.1H14.7L13.8 32.7H9.8L13 19Z" fill="white"/></svg>PayPal</div>
+      <div class="payment-item"><svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg"><rect width="48" height="48" rx="6" fill="#f3eef9"/><rect x="8" y="13" width="32" height="22" rx="3" stroke="#522398" stroke-width="2"/><line x1="8" y1="21" x2="40" y2="21" stroke="#522398" stroke-width="2"/><line x1="13" y1="29" x2="20" y2="29" stroke="#522398" stroke-width="2" stroke-linecap="round"/></svg>Transferencia</div>
+      <div class="payment-item"><svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg"><rect width="48" height="48" rx="6" fill="#f3eef9"/><circle cx="24" cy="24" r="12" stroke="#522398" stroke-width="2"/><path d="M24 14v2M24 32v2M18 24h-2M32 24h2" stroke="#522398" stroke-width="2" stroke-linecap="round"/><path d="M28 19.5C27 18.5 25.6 18 24 18c-3.3 0-5 1.8-5 4 0 4.5 8 3.5 8 7 0 2-1.8 3-4 3-1.8 0-3.3-.7-4.2-1.8" stroke="#522398" stroke-width="2" stroke-linecap="round"/></svg>Efectivo</div>
+      <div class="payment-item"><svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg"><rect width="48" height="48" rx="6" fill="#f3eef9"/><rect x="8" y="16" width="24" height="18" rx="2" stroke="#522398" stroke-width="2"/><polyline points="34,28 38,32 44,24" stroke="#522398" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><line x1="13" y1="24" x2="25" y2="24" stroke="#522398" stroke-width="2" stroke-linecap="round"/><line x1="13" y1="28" x2="20" y2="28" stroke="#522398" stroke-width="2" stroke-linecap="round"/></svg>Contrareembolso</div>
     </div>
   </div>
 </section>
