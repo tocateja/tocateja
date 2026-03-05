@@ -78,3 +78,21 @@ def fetch_products():
                 "image": image_url,
                 "url": f"https://es.wallapop.com/item/{slug}",
                 "location": content.get("location", {}).get("city", "Pamplona") if isinstance(content.get("location"), dict) else "Pamplona",
+                "condition": "",
+            })
+
+        output = {"productos": products, "total": len(products)}
+        output_path = os.path.join(os.path.dirname(__file__), "..", "productos.json")
+
+        with open(output_path, "w", encoding="utf-8") as f:
+            json.dump(output, f, ensure_ascii=False, indent=2)
+
+        print(f"✅ {len(products)} productos guardados en productos.json")
+
+    except Exception as e:
+        print(f"❌ Error: {e}")
+        raise
+
+
+if __name__ == "__main__":
+    fetch_products()
