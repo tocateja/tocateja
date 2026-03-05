@@ -1,4 +1,14 @@
 {
-  "productos": [],
-  "total": 0
+  "productos": [
+    {
+      "title": "iPhone 13 128GB",
+      "price": 420,
+      "status": "available",
+      "image": "",
+      "url": "https://es.wallapop.com/item/TU-ENLACE",
+      "location": "Pamplona",
+      "condition": "Muy buen estado"
+    }
+  ],
+  "total": 1
 }
