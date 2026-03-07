@@ -49,20 +49,33 @@
 
     .payment-section { max-width: 1100px; width: 100%; margin: 0 auto 48px; padding: 0 24px; }
     .payment-box { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 28px 32px; }
-    .payment-grid { display: flex; flex-wrap: wrap; gap: 28px; align-items: center; }
-    .payment-item { display: flex; flex-direction: column; align-items: center; gap: 8px; font-size: .75rem; color: var(--muted); }
-    .payment-item svg { width: 48px; height: 48px; }
+    .payment-grid { display: flex; flex-wrap: wrap; gap: 28px; align-items: center; justify-content: center; }
+    .payment-item { display: flex; flex-direction: column; align-items: center; gap: 8px; font-size: .8rem; color: var(--muted); }
+    .payment-item svg { width: 90px; height: 90px; }
 
     footer { border-top: 1px solid var(--border); padding: 32px 24px; display: flex; flex-direction: column; align-items: center; gap: 20px; }
-    .social-links { display: flex; gap: 20px; }
-    .social-link { display: flex; align-items: center; justify-content: center; width: 40px; height: 40px; border: 1px solid var(--border); border-radius: 50%; background: var(--surface); color: var(--text); text-decoration: none; transition: background .18s, border-color .18s, transform .18s; }
+    .social-links { display: flex; gap: 24px; }
+    .social-link { display: flex; align-items: center; justify-content: center; width: 90px; height: 90px; border: 1px solid var(--border); border-radius: 50%; background: var(--surface); color: var(--text); text-decoration: none; transition: background .18s, border-color .18s, transform .18s; }
     .social-link:hover { background: var(--purple); border-color: var(--purple); color: #fff; transform: translateY(-2px); }
-    .social-link svg { width: 17px; height: 17px; }
+    .social-link svg { width: 40px; height: 40px; }
     .footer-copy { font-size: .72rem; color: var(--muted); }
 
     @keyframes fadeUp { from { opacity: 0; transform: translateY(16px); } to { opacity: 1; transform: translateY(0); } }
     header { animation: fadeUp .5s ease both; }
-    @media (max-width: 600px) { .cta-banner { flex-direction: column; align-items: flex-start; } .grid { grid-template-columns: repeat(2, 1fr); } .payment-box { padding: 20px; } }
+    @media (max-width: 600px) { .logo-img { height: auto; max-width: 85%; } .cta-banner { flex-direction: column; align-items: flex-start; } .grid { grid-template-columns: repeat(2, 1fr); } .payment-box { padding: 20px; } .card-title { font-size: .85rem; white-space: normal; overflow: visible; text-overflow: unset; } }
+
+    .modal-overlay { display: none; position: fixed; inset: 0; background: rgba(0,0,0,.5); z-index: 1000; align-items: center; justify-content: center; padding: 24px; }
+    .modal-overlay.active { display: flex; }
+    .modal { background: var(--surface); border-radius: var(--radius); max-width: 680px; width: 100%; max-height: 80vh; overflow-y: auto; padding: 40px; }
+    .modal h2 { font-size: 1.2rem; font-weight: 700; margin-bottom: 24px; color: var(--purple); }
+    .modal h3 { font-size: .9rem; font-weight: 600; margin: 20px 0 8px; }
+    .modal p, .modal li { font-size: .85rem; line-height: 1.7; color: #444; margin-bottom: 8px; }
+    .modal ul { padding-left: 20px; margin-bottom: 8px; }
+    .modal-close { float: right; background: none; border: none; font-size: 1.4rem; cursor: pointer; color: var(--muted); margin-top: -8px; }
+    .modal-close:hover { color: var(--text); }
+    .footer-legal { display: flex; gap: 24px; font-size: .72rem; }
+    .footer-legal a { color: var(--muted); text-decoration: none; border-bottom: 1px solid var(--border); cursor: pointer; }
+    .footer-legal a:hover { color: var(--purple); }
   </style>
 </head>
 <body>
@@ -106,12 +119,73 @@
     <a class="social-link" href="https://www.instagram.com/tocatejapamplona/" target="_blank" title="Instagram">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="20" height="20" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="0.5" fill="currentColor"/></svg>
     </a>
-    <a class="social-link" href="https://www.facebook.com/search/top?q=tocateja&locale=es_ES" target="_blank" title="Facebook">
+    <a class="social-link" href="https://www.facebook.com/TocatejaPamplona/" target="_blank" title="Facebook">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/></svg>
     </a>
   </div>
+  <div class="footer-legal">
+    <a onclick="document.getElementById('modal-privacidad').classList.add('active')">Política de privacidad</a>
+    <a onclick="document.getElementById('modal-legal').classList.add('active')">Aviso legal</a>
+  </div>
   <p class="footer-copy">© 2025 Tocateja · Compramos · Vendemos · Cambiamos · tocateja.net</p>
 </footer>
+
+<!-- Modal Política de Privacidad -->
+<div class="modal-overlay" id="modal-privacidad">
+  <div class="modal">
+    <button class="modal-close" onclick="document.getElementById('modal-privacidad').classList.remove('active')">✕</button>
+    <h2>Política de Privacidad</h2>
+    <p>Última actualización: marzo 2026</p>
+    <h3>1. Responsable del tratamiento</h3>
+    <p>Razón social: NEW OKAIDO S.L. · Nombre comercial: TOCATEJA · CIF: B31636848 · C/ Paulino Caballero 37 bj, 31003 Pamplona (Navarra) · tocateja@tocateja.net</p>
+    <h3>2. Datos que recogemos</h3>
+    <p>Este sitio web no recoge datos personales de forma activa. No disponemos de formularios de contacto ni registro de usuarios. Los únicos datos tratados son los generados automáticamente por el servidor web (dirección IP, navegador, páginas visitadas) con fines estadísticos y de seguridad.</p>
+    <h3>3. Finalidad y base legal</h3>
+    <p>Los datos de navegación se tratan con base en el interés legítimo del responsable (art. 6.1.f RGPD) para garantizar la seguridad del sitio y mejorar la experiencia de usuario.</p>
+    <h3>4. Conservación</h3>
+    <p>Los datos de acceso al servidor se conservan durante un máximo de 12 meses, conforme a la normativa aplicable.</p>
+    <h3>5. Destinatarios</h3>
+    <p>No se ceden datos a terceros salvo obligación legal. El sitio web está alojado en Netlify (EE.UU.), con las garantías adecuadas conforme al RGPD.</p>
+    <h3>6. Tus derechos</h3>
+    <p>Puedes ejercer tus derechos de acceso, rectificación, supresión, limitación, portabilidad y oposición escribiendo a tocateja@tocateja.net. También puedes reclamar ante la Agencia Española de Protección de Datos (aepd.es).</p>
+    <h3>7. Cookies</h3>
+    <p>Este sitio web no utiliza cookies propias de seguimiento ni publicidad. Puede utilizar cookies técnicas estrictamente necesarias para el funcionamiento del sitio.</p>
+  </div>
+</div>
+
+<!-- Modal Aviso Legal -->
+<div class="modal-overlay" id="modal-legal">
+  <div class="modal">
+    <button class="modal-close" onclick="document.getElementById('modal-legal').classList.remove('active')">✕</button>
+    <h2>Aviso Legal</h2>
+    <h3>1. Datos identificativos</h3>
+    <p>En cumplimiento de la Ley 34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y Comercio Electrónico (LSSI-CE), se informa:</p>
+    <ul>
+      <li><strong>Razón social:</strong> NEW OKAIDO S.L.</li>
+      <li><strong>Nombre comercial:</strong> TOCATEJA</li>
+      <li><strong>CIF:</strong> B31636848</li>
+      <li><strong>Domicilio:</strong> C/ Paulino Caballero 37 bj, 31003 Pamplona (Navarra)</li>
+      <li><strong>Email:</strong> tocateja@tocateja.net</li>
+      <li><strong>Web:</strong> www.tocateja.net</li>
+    </ul>
+    <h3>2. Objeto</h3>
+    <p>Este sitio web tiene carácter informativo y comercial. Muestra el catálogo de productos disponibles para la compra-venta en el establecimiento físico de Tocateja, Pamplona.</p>
+    <h3>3. Propiedad intelectual</h3>
+    <p>Los contenidos, diseño y código de este sitio web son propiedad de NEW OKAIDO S.L. o de terceros que han autorizado su uso. Queda prohibida su reproducción total o parcial sin autorización expresa.</p>
+    <h3>4. Responsabilidad</h3>
+    <p>NEW OKAIDO S.L. no se responsabiliza de los daños derivados del uso del sitio web, ni de posibles errores en los contenidos. Los precios y disponibilidad de los productos pueden variar sin previo aviso.</p>
+    <h3>5. Legislación aplicable</h3>
+    <p>Las presentes condiciones se rigen por la legislación española. Para cualquier controversia, las partes se someten a los Juzgados y Tribunales de Pamplona.</p>
+  </div>
+</div>
+
+<script>
+document.querySelectorAll('.modal-overlay').forEach(function(overlay) {
+  overlay.addEventListener('click', function(e) {
+    if (e.target === overlay) overlay.classList.remove('active');
+  });
+});
+</script>
 
 <script>
   const EMOJI = { default: "🏷️", phone: "📱", laptop: "💻", tablet: "📱", camera: "📷", console: "🎮", watch: "⌚", headphones: "🎧", monitor: "🖥️", speaker: "🔊" };
