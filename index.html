@@ -76,6 +76,21 @@
     .footer-legal { display: flex; gap: 24px; font-size: .72rem; }
     .footer-legal a { color: var(--muted); text-decoration: none; border-bottom: 1px solid var(--border); cursor: pointer; }
     .footer-legal a:hover { color: var(--purple); }
+
+    /* Categorías */
+    .categories-section { max-width: 1200px; margin: 0 auto 8px; padding: 0 24px; }
+    .cat-chips { display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; margin-bottom: 8px; }
+    .chip { padding: 7px 15px; border-radius: 50px; border: 1.5px solid var(--border); background: var(--surface); font-size: .78rem; font-weight: 500; color: var(--muted); cursor: pointer; transition: all .18s; white-space: nowrap; }
+    .chip:hover { border-color: var(--purple); color: var(--purple); }
+    .chip.active { background: var(--purple); border-color: var(--purple); color: #fff; }
+    .chip-count { font-size: .68rem; opacity: .75; }
+    .info-bar { max-width: 1200px; margin: 12px auto 4px; padding: 0 24px; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 8px; }
+    .info-bar span { font-size: .78rem; color: var(--muted); }
+    .sort-select { font-size: .76rem; border: 1px solid var(--border); background: var(--surface); color: var(--text); padding: 5px 10px; border-radius: 8px; cursor: pointer; outline: none; }
+    @media (max-width: 600px) {
+      .chip { font-size: .72rem; padding: 6px 11px; }
+      .info-bar { flex-direction: column; align-items: flex-start; }
+    }
   </style>
 </head>
 <body>
@@ -108,7 +123,6 @@
       <div class="payment-item"><svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg"><rect width="48" height="48" rx="6" fill="#00ADEF"/><text x="24" y="30" font-size="13" font-weight="bold" fill="white" text-anchor="middle" font-family="Arial">bizum</text></svg>Bizum</div>
       <div class="payment-item"><svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg"><rect width="48" height="48" rx="6" fill="#003087"/><path d="M29 14H20C19.3 14 18.7 14.5 18.6 15.2L15.5 33.2C15.4 33.7 15.8 34.1 16.3 34.1H20.7C21.4 34.1 22 33.6 22.1 32.9L22.9 28.4C23 27.7 23.6 27.2 24.3 27.2H26.4C30.7 27.2 33.4 25 34 20.7C34.3 18.8 34 17.3 33 16.2C32 15 30.6 14 29 14Z" fill="#009CDE"/><path d="M13 19H18C21.2 19 22.5 20.4 22 23.1C21.5 25.8 19.3 27.1 16.5 27.1H14.7L13.8 32.7H9.8L13 19Z" fill="white"/></svg>PayPal</div>
       <div class="payment-item"><svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg"><rect width="48" height="48" rx="6" fill="#f3eef9"/><rect x="8" y="13" width="32" height="22" rx="3" stroke="#522398" stroke-width="2"/><line x1="8" y1="21" x2="40" y2="21" stroke="#522398" stroke-width="2"/><line x1="13" y1="29" x2="20" y2="29" stroke="#522398" stroke-width="2" stroke-linecap="round"/></svg>Transferencia</div>
-      <div class="payment-item"><svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg"><rect width="48" height="48" rx="6" fill="#f3eef9"/><circle cx="24" cy="24" r="12" stroke="#522398" stroke-width="2"/><path d="M24 14v2M24 32v2M18 24h-2M32 24h2" stroke="#522398" stroke-width="2" stroke-linecap="round"/><path d="M28 19.5C27 18.5 25.6 18 24 18c-3.3 0-5 1.8-5 4 0 4.5 8 3.5 8 7 0 2-1.8 3-4 3-1.8 0-3.3-.7-4.2-1.8" stroke="#522398" stroke-width="2" stroke-linecap="round"/></svg>Efectivo</div>
       <div class="payment-item"><svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg"><rect width="48" height="48" rx="6" fill="#f3eef9"/><rect x="8" y="16" width="24" height="18" rx="2" stroke="#522398" stroke-width="2"/><polyline points="34,28 38,32 44,24" stroke="#522398" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><line x1="13" y1="24" x2="25" y2="24" stroke="#522398" stroke-width="2" stroke-linecap="round"/><line x1="13" y1="28" x2="20" y2="28" stroke="#522398" stroke-width="2" stroke-linecap="round"/></svg>Contrareembolso</div>
     </div>
   </div>
@@ -188,60 +202,91 @@ document.querySelectorAll('.modal-overlay').forEach(function(overlay) {
 </script>
 
 <script>
-  const EMOJI = { default: "🏷️", phone: "📱", laptop: "💻", tablet: "📱", camera: "📷", console: "🎮", watch: "⌚", headphones: "🎧", monitor: "🖥️", speaker: "🔊" };
+const GITHUB_JSON = 'https://raw.githubusercontent.com/tocateja/tocateja/main/productos.json';
+let allProducts = [];
+let currentCat = 'todas';
 
-  function getEmoji(title) {
-    const t = title.toLowerCase();
-    if (/iphone|samsung|xiaomi|móvil|movil|teléfono|telefono/.test(t)) return "📱";
-    if (/macbook|portátil|portatil|laptop|ordenador/.test(t)) return "💻";
-    if (/ipad|tablet/.test(t)) return "📱";
-    if (/cámara|camara|sony|nikon|canon/.test(t)) return "📷";
-    if (/playstation|xbox|nintendo|consola/.test(t)) return "🎮";
-    if (/watch|reloj/.test(t)) return "⌚";
-    if (/airpods|auricular|headphone/.test(t)) return "🎧";
-    if (/monitor|pantalla/.test(t)) return "🖥️";
-    if (/altavoz|bose|sonos/.test(t)) return "🔊";
-    return "🏷️";
-  }
+const catCountMap = {
+  'Móviles': 'count-moviles', 'Gaming': 'count-gaming', 'TV y Audio': 'count-audio',
+  'Informática': 'count-info', 'Foto y Vídeo': 'count-foto', 'Joyería': 'count-joyeria',
+  'Hogar': 'count-hogar', 'Electrodomésticos': 'count-electro', 'Deporte': 'count-deporte',
+  'Juguetes': 'count-juguetes', 'Herramientas': 'count-herramientas', 'Motor': 'count-motor',
+  'Moda': 'count-moda', 'Otros': 'count-otros'
+};
 
-  async function loadProducts() {
-    const grid = document.getElementById("grid");
-    try {
-      const res = await fetch("https://raw.githubusercontent.com/tocateja/tocateja/main/productos.json?v=" + Date.now());
-      const data = await res.json();
-      const products = data.productos || [];
-
-      if (products.length === 0) {
-        grid.innerHTML = '<div class="loading">No hay productos disponibles en este momento.</div>';
-        return;
-      }
-
-      grid.innerHTML = products.map((p, i) => {
-        const sold = p.status === "sold";
-        const price = typeof p.price === "number" ? p.price.toLocaleString("es-ES") + " €" : p.price + " €";
-        const img = p.image
-          ? `<img src="${p.image}" alt="${p.title}" loading="lazy" />`
-          : `<div class="placeholder">${getEmoji(p.title)}</div>`;
-        return `
-          <a class="card" href="${p.url}" target="_blank" style="animation: fadeUp .4s ${0.1 + i * 0.05}s ease both; opacity:0">
-            <div class="card-img">
-              ${img}
-              <span class="card-status${sold ? ' sold' : ''}">${sold ? 'Vendido' : 'Disponible'}</span>
-            </div>
-            <div class="card-body">
-              <p class="card-title">${p.title}</p>
-              <p class="card-meta">${p.condition ? p.condition + ' · ' : ''}${p.location}</p>
-              <p class="card-price">${price}</p>
-            </div>
-          </a>`;
-      }).join("");
-
-    } catch (e) {
-      grid.innerHTML = '<div class="error">No se pudieron cargar los productos. <a href="https://es.wallapop.com/user/tocatejat-336797287" target="_blank">Ver en Wallapop →</a></div>';
+function updateCounts(products) {
+  const countById = document.getElementById('count-todas');
+  if (countById) countById.textContent = `(${products.length})`;
+  Object.keys(catCountMap).forEach(cat => {
+    const el = document.getElementById(catCountMap[cat]);
+    if (el) {
+      const n = products.filter(p => p.category === cat).length;
+      el.textContent = n > 0 ? `(${n})` : '';
     }
-  }
+  });
+  // Hide chips with 0 products
+  document.querySelectorAll('.chip[data-cat]').forEach(chip => {
+    const cat = chip.dataset.cat;
+    if (cat === 'todas') return;
+    const n = products.filter(p => p.category === cat).length;
+    chip.style.display = n > 0 ? '' : 'none';
+  });
+}
 
-  loadProducts();
+function renderGrid(products) {
+  const grid = document.getElementById('grid');
+  if (!grid) return;
+  if (!products.length) {
+    grid.innerHTML = '<p style="color:var(--muted);text-align:center;grid-column:1/-1;padding:40px 0;">No hay productos en esta categoría</p>';
+    return;
+  }
+  grid.innerHTML = products.map(p => {
+    const img = p.image ? `<img src="${p.image}" alt="${p.title}" loading="lazy" style="width:100%;height:100%;object-fit:cover;" onerror="this.style.display='none'">` : '';
+    const price = typeof p.price === 'number' ? p.price.toLocaleString('es-ES', {minimumFractionDigits: p.price % 1 ? 2 : 0, maximumFractionDigits: 2}) : p.price;
+    return `<a class="card" href="${p.url}" target="_blank" rel="noopener">
+      <div class="card-img">${img}<span class="badge">${p.status === 'available' ? 'DISPONIBLE' : p.status.toUpperCase()}</span></div>
+      <div class="card-body">
+        <p class="card-title">${p.title}</p>
+        <p class="card-location">${p.location || 'Pamplona'}</p>
+        <p class="card-price">${price} €</p>
+      </div>
+    </a>`;
+  }).join('');
+}
+
+function applyFilter() {
+  let filtered = currentCat === 'todas' ? allProducts : allProducts.filter(p => p.category === currentCat);
+  const sort = document.getElementById('sort-select') ? document.getElementById('sort-select').value : 'reciente';
+  if (sort === 'precio-asc') filtered = [...filtered].sort((a, b) => a.price - b.price);
+  if (sort === 'precio-desc') filtered = [...filtered].sort((a, b) => b.price - a.price);
+  const label = document.getElementById('result-label');
+  if (label) label.textContent = `${filtered.length} producto${filtered.length !== 1 ? 's' : ''}${currentCat !== 'todas' ? ' en ' + currentCat : ''}`;
+  renderGrid(filtered);
+}
+
+fetch(GITHUB_JSON)
+  .then(r => r.json())
+  .then(data => {
+    allProducts = data.productos || [];
+    updateCounts(allProducts);
+    applyFilter();
+  })
+  .catch(() => {
+    const grid = document.getElementById('grid');
+    if (grid) grid.innerHTML = '<p style="color:var(--muted);text-align:center;grid-column:1/-1;padding:40px 0;">Error cargando productos.</p>';
+  });
+
+document.getElementById('chips').addEventListener('click', e => {
+  const chip = e.target.closest('.chip');
+  if (!chip) return;
+  document.querySelectorAll('.chip').forEach(c => c.classList.remove('active'));
+  chip.classList.add('active');
+  currentCat = chip.dataset.cat;
+  applyFilter();
+});
+
+const sortSel = document.getElementById('sort-select');
+if (sortSel) sortSel.addEventListener('change', applyFilter);
 </script>
 </body>
 </html>
