@@ -101,7 +101,36 @@
 </header>
 
 <div class="divider"></div>
+  
+<section class="categories-section">
+  <div class="cat-chips" id="chips">
+    <button class="chip active" data-cat="todas">Todos <span class="chip-count" id="count-todas"></span></button>
+    <button class="chip" data-cat="Gaming">Gaming <span class="chip-count" id="count-gaming"></span></button>
+    <button class="chip" data-cat="TV y Audio">TV y Audio <span class="chip-count" id="count-audio"></span></button>
+    <button class="chip" data-cat="Informática">Informática <span class="chip-count" id="count-info"></span></button>
+    <button class="chip" data-cat="Móviles">Móviles <span class="chip-count" id="count-moviles"></span></button>
+    <button class="chip" data-cat="Foto y Vídeo">Foto y Vídeo <span class="chip-count" id="count-foto"></span></button>
+    <button class="chip" data-cat="Hogar">Hogar <span class="chip-count" id="count-hogar"></span></button>
+    <button class="chip" data-cat="Electrodomésticos">Electrodomésticos <span class="chip-count" id="count-electro"></span></button>
+    <button class="chip" data-cat="Deporte">Deporte <span class="chip-count" id="count-deporte"></span></button>
+    <button class="chip" data-cat="Juguetes">Juguetes <span class="chip-count" id="count-juguetes"></span></button>
+    <button class="chip" data-cat="Joyería">Joyería <span class="chip-count" id="count-joyeria"></span></button>
+    <button class="chip" data-cat="Herramientas">Herramientas <span class="chip-count" id="count-herramientas"></span></button>
+    <button class="chip" data-cat="Motor">Motor <span class="chip-count" id="count-motor"></span></button>
+    <button class="chip" data-cat="Moda">Moda <span class="chip-count" id="count-moda"></span></button>
+    <button class="chip" data-cat="Otros">Otros <span class="chip-count" id="count-otros"></span></button>
+  </div>
+</section>
 
+<div class="info-bar">
+  <span id="result-label"></span>
+  <select id="sort-select">
+    <option value="reciente">Más recientes</option>
+    <option value="precio-asc">Precio: menor a mayor</option>
+    <option value="precio-desc">Precio: mayor a menor</option>
+  </select>
+</div>
+  
 <main>
   <p class="section-label">Últimos productos</p>
   <div class="grid" id="grid"><div class="loading">Cargando productos…</div></div>
