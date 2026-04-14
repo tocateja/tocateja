@@ -1,6 +1,294 @@
 {
   "productos": [
     {
+      "id": "1252353642",
+      "title": "Mando Nintendo N64 Gris (Joystick Roto)",
+      "price": 11.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kp/ma/__/c10420p1252353642/i6434543486.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/mando-nintendo-n64-gris-joystick-roto-1252353642",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1252347977",
+      "title": "Guitarra Clásica Cibeles 201F",
+      "price": 89.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kp/m5/__/c10420p1252347977/i6434509919.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/guitarra-clasica-cibeles-201f-1252347977",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1252341978",
+      "title": "Mando DualSense PS5 Azul y Negro",
+      "price": 54.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kp/m1/__/c10420p1252341978/i6434472426.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/mando-dualsense-ps5-azul-y-negro-1252341978",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1237927986",
+      "title": "Apple AirPods Max y Smart Case Negro",
+      "price": 265.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kh/13/__/c10420p1237927986/i6342925462.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/apple-airpods-max-y-smart-case-negro-1237927986",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
+      "id": "1120855966",
+      "title": "ALTAVOZ DE CONFERENCIA JABRA",
+      "price": 33.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ij/bt/__/c10420p1120855966/i5554026038.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/altavoz-de-conferencia-jabra-1120855966",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1204308903",
+      "title": "Auriculares Bluetooth Bose",
+      "price": 76.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/jx/0i/__/c10420p1204308903/i6123345925.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/auriculares-bluetooth-bose-1204308903",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "TV y Audio"
+    },
+    {
+      "id": "1207537245",
+      "title": "Dock Station Dell",
+      "price": 36.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/jy/xp/__/c10420p1207537245/i6146246124.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/dock-station-dell-1207537245",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Informática"
+    },
+    {
+      "id": "1252336437",
+      "title": "Consola Game Boy Color Morada Transparente",
+      "price": 46.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kp/lw/__/c10420p1252336437/i6434441433.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/consola-game-boy-color-morada-transparente-1252336437",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1204281536",
+      "title": "Calculadora Gráfica HP 50G",
+      "price": 31.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/jw/zx/__/c10420p1204281536/i6122968577.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/calculadora-grafica-hp-50g-1204281536",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Informática"
+    },
+    {
+      "id": "1244464022",
+      "title": "Barra de Sonido JBL BAR 2.0 All-in-One MK2",
+      "price": 110.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kk/x6/__/c10420p1244464022/i6383343003.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/barra-de-sonido-jbl-bar-2-0-all-in-one-mk2-1244464022",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "TV y Audio"
+    },
+    {
+      "id": "1194608809",
+      "title": "Pareja de Altavoces",
+      "price": 11.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/jr/8m/__/c10420p1194608809/i6038918937.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/pareja-de-altavoces-1194608809",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1194603576",
+      "title": "Cegadora De Iluminación Blinder 2L",
+      "price": 40.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/jr/8i/__/c10420p1194603576/i6038847231.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/cegadora-de-iluminacion-blinder-1194603576",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Informática"
+    },
+    {
+      "id": "1234141970",
+      "title": "Foco LED profesional Elation",
+      "price": 119.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ke/ry/__/c10420p1234141970/i6316182297.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/foco-led-profesional-elation-1234141970",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Informática"
+    },
+    {
+      "id": "1136412307",
+      "title": "RECEPTOR SATELITE DIGITAL FONESTAR",
+      "price": 20.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/is/l9/__/c10420p1136412307/i5672932056.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/receptor-satelite-digital-fonestar-1136412307",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "TV y Audio"
+    },
+    {
+      "id": "1231688176",
+      "title": "Auriculares Inalámbricos Sennheiser RS 165 TV",
+      "price": 66.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kd/bc/__/c10420p1231688176/i6299594142.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/auriculares-inalambricos-sennheiser-rs-165-tv-1231688176",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "TV y Audio"
+    },
+    {
+      "id": "1252324349",
+      "title": "Batería Portátil QBrand PD-65W 30000mAh",
+      "price": 34.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kp/ln/__/c10420p1252324349/i6434373571.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/bateria-portatil-qbrand-pd-65w-30000mah-1252324349",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Informática"
+    },
+    {
+      "id": "1252320025",
+      "title": "Samsung Galaxy A57 5G",
+      "price": 465.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kp/lk/__/c10420p1252320025/i6434348068.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/samsung-galaxy-a57-5g-1252320025",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
+      "id": "1252310728",
+      "title": "Woxter Scriba 95 black V.8",
+      "price": 46.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kp/ld/__/c10420p1252310728/i6434290083.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/woxter-scriba-95-black-v-8-1252310728",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1240695685",
+      "title": "VHS Blancanieves y los Siete Enanitos Disney",
+      "price": 18.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ki/oe/__/c10420p1240695685/i6360683463.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vhs-blancanieves-y-los-siete-enanitos-disney-1240695685",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1252221088",
+      "title": "Consola PS4 FAT 500GB Negra",
+      "price": 89.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kp/jf/__/c10420p1252221088/i6433747726.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/consola-ps4-fat-500gb-negra-1252221088",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1252213716",
+      "title": "Consola PS5 Edición Digital",
+      "price": 390.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kp/ja/__/c10420p1252213716/i6433700714.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/consola-ps5-edicion-digital-1252213716",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1252199985",
+      "title": "Portátil Dell Vostro 3520 Negro",
+      "price": 465.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kp/iz/__/c10420p1252199985/i6433617024.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/portatil-dell-vostro-3520-negro-1252199985",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Informática"
+    },
+    {
+      "id": "1244732927",
+      "title": "Consola Xbox Series X + Mando Rojo",
+      "price": 349.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kl/2y/__/c10420p1244732927/i6385006798.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/consola-xbox-series-x---mando-rojo-1244732927",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1247591201",
+      "title": "Juego Xbox One NFS Heat Racing",
+      "price": 10.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/km/s7/__/c10420p1247591201/i6402241788.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/juego-xbox-one-nfs-heat-racing-1247591201",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
       "id": "1224967882",
       "title": "Comics Orcos & Goblins Vol 1 y 2.",
       "price": 41.5,
@@ -445,18 +733,6 @@
       "category": "Música e Instrumentos"
     },
     {
-      "id": "1247569927",
-      "title": "Super Mario 3D All-Stars Nintendo Switch",
-      "price": 49.95,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/km/rr/__/c10420p1247569927/i6402108930.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/super-mario-3d-all-stars-nintendo-switch-1247569927",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
       "id": "1247573189",
       "title": "Juego Switch Tortugas Ninja Cowabunga Collection",
       "price": 10.5,
@@ -479,18 +755,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Deporte"
-    },
-    {
-      "id": "1247591201",
-      "title": "Juego Xbox One NFS Heat Racing",
-      "price": 10.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/km/s7/__/c10420p1247591201/i6402241788.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/juego-xbox-one-nfs-heat-racing-1247591201",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
     },
     {
       "id": "1247588550",
@@ -1093,18 +1357,6 @@
       "category": "Herramientas"
     },
     {
-      "id": "1245565368",
-      "title": "Monitor curvo 24\" Asus CG24V",
-      "price": 99.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kl/ks/__/c10420p1245565368/i6390183337.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/monitor-curvo-24-asus-cg24v-1245565368",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Informática"
-    },
-    {
       "id": "1245559580",
       "title": "Robot Aspirador Xiaomi Robot Vacuum S12",
       "price": 125.0,
@@ -1127,18 +1379,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Electrodomésticos"
-    },
-    {
-      "id": "1245530124",
-      "title": "Robot Aspirador Xiaomi Vacuum E12",
-      "price": 89.95,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kl/k1/__/c10420p1245530124/i6389996047.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/robot-aspirador-xiaomi-vacuum-e12-1245530124",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
     },
     {
       "id": "1245462065",
@@ -1297,18 +1537,6 @@
       "category": "Libros, Cómics y Revistas"
     },
     {
-      "id": "1244865967",
-      "title": "Ebook Kindle D1100 Negro",
-      "price": 40.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kl/5s/__/c10420p1244865967/i6385782139.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/ebook-kindle-d1100-negro-1244865967",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
       "id": "1244858171",
       "title": "iPhone 16e 128GB Negro",
       "price": 499.0,
@@ -1417,18 +1645,6 @@
       "category": "Deporte"
     },
     {
-      "id": "1244732927",
-      "title": "Consola Xbox Series X + Mando Rojo",
-      "price": 349.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kl/2y/__/c10420p1244732927/i6385006798.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/consola-xbox-series-x---mando-rojo-1244732927",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
       "id": "1244726405",
       "title": "Mando PowerA Switch Negro",
       "price": 29.95,
@@ -1451,18 +1667,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Herramientas"
-    },
-    {
-      "id": "1244510586",
-      "title": "Monitor Xiaomi 23,8 Negro",
-      "price": 65.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kk/y6/__/c10420p1244510586/i6383590754.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/monitor-xiaomi-23-8-negro-1244510586",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
     },
     {
       "id": "1244486859",
@@ -1499,18 +1703,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
-    },
-    {
-      "id": "1244464022",
-      "title": "Barra de Sonido JBL BAR 2.0 All-in-One MK2",
-      "price": 125.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kk/x6/__/c10420p1244464022/i6383343003.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/barra-de-sonido-jbl-bar-2-0-all-in-one-mk2-1244464022",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "TV y Audio"
     },
     {
       "id": "1244454894",
@@ -1825,18 +2017,6 @@
       "category": "Libros, Cómics y Revistas"
     },
     {
-      "id": "1240695685",
-      "title": "VHS Blancanieves y los Siete Enanitos Disney",
-      "price": 21.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ki/oe/__/c10420p1240695685/i6360683463.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/vhs-blancanieves-y-los-siete-enanitos-disney-1240695685",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
       "id": "1240694973",
       "title": "VHS El Retorno de Jafar Disney Español",
       "price": 21.5,
@@ -2036,18 +2216,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/ki/jy/__/c10420p1240487806/i6359328016.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/bicicleta-de-equilibrio-infantil-1240487806",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Deporte"
-    },
-    {
-      "id": "1240481441",
-      "title": "Bicicleta Infantil Btwin 500 Rosa/Negra",
-      "price": 75.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ki/jt/__/c10420p1240481441/i6359292188.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/bicicleta-infantil-btwin-500-rosa-negra-1240481441",
       "location": "Pamplona",
       "condition": "",
       "category": "Deporte"
@@ -2845,18 +3013,6 @@
       "category": "Juguetes"
     },
     {
-      "id": "1237927986",
-      "title": "Apple AirPods Max y Smart Case Negro",
-      "price": 299.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kh/13/__/c10420p1237927986/i6342925462.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/apple-airpods-max-y-smart-case-negro-1237927986",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
-    },
-    {
       "id": "1237915609",
       "title": "Aspirador Coche Black & Decker 12V",
       "price": 31.5,
@@ -3277,18 +3433,6 @@
       "category": "Móviles y Smartwatches"
     },
     {
-      "id": "1234141970",
-      "title": "Foco LED profesional Elation",
-      "price": 159.95,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ke/ry/__/c10420p1234141970/i6316182297.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/foco-led-profesional-elation-1234141970",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Informática"
-    },
-    {
       "id": "1234125458",
       "title": "Giradiscos Sony",
       "price": 69.95,
@@ -3503,18 +3647,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Electrodomésticos"
-    },
-    {
-      "id": "1231688176",
-      "title": "Auriculares Inalámbricos Sennheiser RS 165 TV",
-      "price": 79.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kd/bc/__/c10420p1231688176/i6299594142.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/auriculares-inalambricos-sennheiser-rs-165-tv-1231688176",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "TV y Audio"
     },
     {
       "id": "1231531937",
@@ -5098,7 +5230,7 @@
       "url": "https://es.wallapop.com/item/receptor-wifi-belkin-1221995418",
       "location": "Pamplona",
       "condition": "",
-      "category": "TV y Audio"
+      "category": "Otros"
     },
     {
       "id": "1219744849",
@@ -6169,18 +6301,6 @@
       "category": "Música e Instrumentos"
     },
     {
-      "id": "1194603576",
-      "title": "Cegadora De Iluminación Blinder 2L",
-      "price": 50.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/jr/8i/__/c10420p1194603576/i6038847231.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/cegadora-de-iluminacion-blinder-1194603576",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Informática"
-    },
-    {
       "id": "1165526176",
       "title": "Humidificador Xiaomi 4 Litros",
       "price": 24.5,
@@ -6205,18 +6325,6 @@
       "category": "Electrodomésticos"
     },
     {
-      "id": "1207537245",
-      "title": "Dock Station Dell",
-      "price": 51.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/jy/xp/__/c10420p1207537245/i6146246124.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/dock-station-dell-1207537245",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Informática"
-    },
-    {
       "id": "1148380051",
       "title": "10 Focos LED A estrenar",
       "price": 15.5,
@@ -6239,30 +6347,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Móviles y Smartwatches"
-    },
-    {
-      "id": "1204308903",
-      "title": "Auriculares Bluetooth Bose",
-      "price": 119.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/jx/0i/__/c10420p1204308903/i6123345925.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/auriculares-bluetooth-bose-1204308903",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "TV y Audio"
-    },
-    {
-      "id": "1204281536",
-      "title": "Calculadora Gráfica HP 50G",
-      "price": 46.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/jw/zx/__/c10420p1204281536/i6122968577.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/calculadora-grafica-hp-50g-1204281536",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Informática"
     },
     {
       "id": "1180859808",
@@ -6745,18 +6829,6 @@
       "category": "Música e Instrumentos"
     },
     {
-      "id": "1194608809",
-      "title": "Pareja de Altavoces",
-      "price": 16.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/jr/8m/__/c10420p1194608809/i6038918937.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/pareja-de-altavoces-1194608809",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
-    },
-    {
       "id": "1193444038",
       "title": "Nivel Láser Settop EK-118G",
       "price": 99.0,
@@ -7105,18 +7177,6 @@
       "category": "Electrodomésticos"
     },
     {
-      "id": "1120855966",
-      "title": "ALTAVOZ DE CONFERENCIA JABRA",
-      "price": 46.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ij/bt/__/c10420p1120855966/i5554026038.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/altavoz-de-conferencia-jabra-1120855966",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
-    },
-    {
       "id": "1111262061",
       "title": "LÁMPARA PLAFON",
       "price": 11.5,
@@ -7342,7 +7402,7 @@
       "url": "https://es.wallapop.com/item/reposapies-fellowes-1181095546",
       "location": "Pamplona",
       "condition": "",
-      "category": "Informática"
+      "category": "Otros"
     },
     {
       "id": "1181060715",
@@ -7957,18 +8017,6 @@
       "category": "Informática"
     },
     {
-      "id": "1136412307",
-      "title": "RECEPTOR SATELITE DIGITAL FONESTAR",
-      "price": 36.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/is/l9/__/c10420p1136412307/i5672932056.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/receptor-satelite-digital-fonestar-1136412307",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "TV y Audio"
-    },
-    {
       "id": "1147146730",
       "title": "Filtro Antical Lavadoras y Lavavajillas",
       "price": 6.0,
@@ -8221,5 +8269,5 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 685
+  "total": 689
 }
