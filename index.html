@@ -80,18 +80,26 @@
     /* Categorías */
     .categories-section { max-width: 1200px; margin: 0 auto 8px; padding: 0 24px; }
     .cat-chips { display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; margin-bottom: 8px; }
-    .chip { padding: 8px 17px; border-radius: 50px; border: 1.5px solid var(--purple); background: var(--purple); font-size: .9rem; font-weight: 500; color: #fff; cursor: pointer; transition: all .18s; white-space: nowrap; opacity: .75; }
-.chip:hover { opacity: 1; }
-.chip.active { opacity: 1; box-shadow: 0 2px 10px rgba(82,35,152,.35); }
+    .chip { padding: 7px 15px; border-radius: 50px; border: 1.5px solid var(--border); background: var(--surface); font-size: .78rem; font-weight: 500; color: var(--muted); cursor: pointer; transition: all .18s; white-space: nowrap; }
+    .chip:hover { border-color: var(--purple); color: var(--purple); }
+    .chip.active { background: var(--purple); border-color: var(--purple); color: #fff; }
     .chip-count { font-size: .68rem; opacity: .75; }
     .info-bar { max-width: 1200px; margin: 12px auto 4px; padding: 0 24px; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 8px; }
     .info-bar span { font-size: .78rem; color: var(--muted); }
     .sort-select { font-size: .76rem; border: 1px solid var(--border); background: var(--surface); color: var(--text); padding: 5px 10px; border-radius: 8px; cursor: pointer; outline: none; }
     @media (max-width: 600px) {
-     .chip { font-size: .83rem; padding: 7px 13px; }
+      .chip { font-size: .72rem; padding: 6px 11px; }
       .info-bar { flex-direction: column; align-items: flex-start; }
     }
-  </style>
+  
+  /* Widget reseñas */
+  .reviews-widget { display: flex; flex-direction: column; align-items: center; gap: 6px; padding: 16px 24px; background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); max-width: 320px; width: 100%; }
+  .reviews-stars { color: #f5a623; font-size: 1.3rem; letter-spacing: 2px; }
+  .reviews-score { font-size: 1.5rem; font-weight: 700; color: var(--text); }
+  .reviews-total { font-size: .78rem; color: var(--muted); }
+  .reviews-link { font-size: .78rem; color: var(--wallapop); text-decoration: none; font-weight: 500; margin-top: 2px; }
+  .reviews-link:hover { text-decoration: underline; }
+</style>
 </head>
 <body>
 
@@ -101,36 +109,6 @@
 </header>
 
 <div class="divider"></div>
-  <section class="categories-section">
-  <div class="cat-chips" id="chips">
-    <button class="chip active" data-cat="todas">Todos <span class="chip-count" id="count-todas"></span></button>
-    <button class="chip" data-cat="Gaming">Gaming <span class="chip-count" id="count-gaming"></span></button>
-    <button class="chip" data-cat="Música e Instrumentos">Música e Instrumentos <span class="chip-count" id="count-musica"></span></button>
-    <button class="chip" data-cat="Libros, Cómics y Revistas">Libros, Cómics y Revistas <span class="chip-count" id="count-libros"></span></button>
-    <button class="chip" data-cat="Juguetes">Juguetes <span class="chip-count" id="count-juguetes"></span></button>
-    <button class="chip" data-cat="Hogar">Hogar <span class="chip-count" id="count-hogar"></span></button>
-    <button class="chip" data-cat="Móviles y Smartwatches">Móviles y Smartwatches <span class="chip-count" id="count-moviles"></span></button>
-    <button class="chip" data-cat="Informática">Informática <span class="chip-count" id="count-info"></span></button>
-    <button class="chip" data-cat="Electrodomésticos">Electrodomésticos <span class="chip-count" id="count-electro"></span></button>
-    <button class="chip" data-cat="Herramientas">Herramientas <span class="chip-count" id="count-herramientas"></span></button>
-    <button class="chip" data-cat="Deporte">Deporte <span class="chip-count" id="count-deporte"></span></button>
-    <button class="chip" data-cat="Antigüedades y Coleccionismo">Antigüedades y Coleccionismo <span class="chip-count" id="count-antiguedades"></span></button>
-    <button class="chip" data-cat="Joyería y Complementos">Joyería y Complementos <span class="chip-count" id="count-joyeria"></span></button>
-    <button class="chip" data-cat="Foto y Vídeo">Foto y Vídeo <span class="chip-count" id="count-foto"></span></button>
-    <button class="chip" data-cat="TV y Audio">TV y Audio <span class="chip-count" id="count-audio"></span></button>
-    <button class="chip" data-cat="Motor">Motor <span class="chip-count" id="count-motor"></span></button>
-    <button class="chip" data-cat="Moda">Moda <span class="chip-count" id="count-moda"></span></button>
-  </div>
-</section>
-
-<div class="info-bar">
-  <span id="result-label"></span>
-  <select id="sort-select">
-    <option value="reciente">Más recientes</option>
-    <option value="precio-asc">Precio: menor a mayor</option>
-    <option value="precio-desc">Precio: mayor a menor</option>
-  </select>
-</div>
 
 <main>
   <p class="section-label">Últimos productos</p>
@@ -167,7 +145,13 @@
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/></svg>
     </a>
   </div>
-  <div class="footer-legal">
+    <div class="reviews-widget" id="reviews-widget" style="display:none">
+    <div class="reviews-stars" id="reviews-stars">★★★★★</div>
+    <div class="reviews-score" id="reviews-score"></div>
+    <div class="reviews-total" id="reviews-total"></div>
+    <a class="reviews-link" href="https://es.wallapop.com/user/tocatejat-336797287/reviews" target="_blank">Ver todas las valoraciones en Wallapop →</a>
+  </div>
+<div class="footer-legal">
     <a onclick="document.getElementById('modal-privacidad').classList.add('active')">Política de privacidad</a>
     <a onclick="document.getElementById('modal-legal').classList.add('active')">Aviso legal</a>
   </div>
@@ -237,22 +221,11 @@ let allProducts = [];
 let currentCat = 'todas';
 
 const catCountMap = {
-  'Gaming': 'count-gaming',
-  'Música e Instrumentos': 'count-musica',
-  'Libros, Cómics y Revistas': 'count-libros',
-  'Juguetes': 'count-juguetes',
-  'Hogar': 'count-hogar',
-  'Móviles y Smartwatches': 'count-moviles',
-  'Informática': 'count-info',
-  'Electrodomésticos': 'count-electro',
-  'Herramientas': 'count-herramientas',
-  'Deporte': 'count-deporte',
-  'Antigüedades y Coleccionismo': 'count-antiguedades',
-  'Joyería y Complementos': 'count-joyeria',
-  'Foto y Vídeo': 'count-foto',
-  'TV y Audio': 'count-audio',
-  'Motor': 'count-motor',
-  'Moda': 'count-moda'
+  'Móviles': 'count-moviles', 'Gaming': 'count-gaming', 'TV y Audio': 'count-audio',
+  'Informática': 'count-info', 'Foto y Vídeo': 'count-foto', 'Joyería': 'count-joyeria',
+  'Hogar': 'count-hogar', 'Electrodomésticos': 'count-electro', 'Deporte': 'count-deporte',
+  'Juguetes': 'count-juguetes', 'Herramientas': 'count-herramientas', 'Motor': 'count-motor',
+  'Moda': 'count-moda', 'Otros': 'count-otros'
 };
 
 function updateCounts(products) {
@@ -328,6 +301,22 @@ document.getElementById('chips').addEventListener('click', e => {
 
 const sortSel = document.getElementById('sort-select');
 if (sortSel) sortSel.addEventListener('change', applyFilter);
+</script>
+<script>
+fetch('https://raw.githubusercontent.com/tocateja/tocateja/main/resenas.json')
+  .then(r => r.json())
+  .then(data => {
+    if (!data.total) return;
+    const avg = data.average;
+    const full = Math.floor(avg);
+    const half = avg - full >= 0.5;
+    const stars = '★'.repeat(full) + (half ? '½' : '') + '☆'.repeat(5 - full - (half ? 1 : 0));
+    document.getElementById('reviews-stars').textContent = stars;
+    document.getElementById('reviews-score').textContent = avg.toFixed(1) + ' / 5';
+    document.getElementById('reviews-total').textContent = data.total.toLocaleString('es-ES') + ' valoraciones';
+    document.getElementById('reviews-widget').style.display = 'flex';
+  })
+  .catch(() => {});
 </script>
 </body>
 </html>
