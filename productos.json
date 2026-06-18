@@ -4345,18 +4345,6 @@
       "category": "Música e Instrumentos"
     },
     {
-      "id": "1229082817",
-      "title": "Vinilo Tracy Chapman",
-      "price": 16.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kb/ri/__/c10420p1229082817/i6282366105.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/vinilo-tracy-chapman-1229082817",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
-    },
-    {
       "id": "1271130180",
       "title": "Báscula de Precisión GRAM",
       "price": 95.0,
@@ -7897,6 +7885,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 658,
-  "actualizado": "2026-06-18T12:01:55"
+  "total": 657,
+  "actualizado": "2026-06-18T13:01:56"
 }
