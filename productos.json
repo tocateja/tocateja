@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1273239632",
+      "title": "Secador de manos LOSDI A estrenar",
+      "price": 20.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l2/1x/__/c10420p1273239632/i6567613795.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/secador-de-manos-losdi-1273239632",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1273649081",
       "title": "Guitarra Clásica Alhambra",
       "price": 210.0,
@@ -140,18 +152,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/ko/v7/__/c10420p1251090824/i6427316016.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/portatil-hp-elitebook-8-g1i-16-1251090824",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
-      "id": "1273239632",
-      "title": "Secador de manos LOSDI",
-      "price": 20.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l2/1x/__/c10420p1273239632/i6565295775.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/secador-de-manos-losdi-1273239632",
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
@@ -7946,5 +7946,5 @@
     }
   ],
   "total": 662,
-  "actualizado": "2026-06-18T18:31:57"
+  "actualizado": "2026-06-18T19:02:00"
 }
