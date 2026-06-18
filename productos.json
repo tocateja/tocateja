@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1273649081",
+      "title": "Guitarra Clásica Alhambra",
+      "price": 210.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l2/ap/__/c10420p1273649081/i6567584410.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/guitarra-clasica-alhambra-1273649081",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
       "id": "1273634050",
       "title": "Calefactor Pared ADM",
       "price": 26.5,
@@ -7933,6 +7945,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 661,
-  "actualizado": "2026-06-18T18:01:57"
+  "total": 662,
+  "actualizado": "2026-06-18T18:31:57"
 }
