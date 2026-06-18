@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1206850100",
+      "title": "Samsung Galaxy S25 FE Precintado",
+      "price": 390.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/jy/iz/__/c10420p1206850100/i6140548232.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/samsung-galaxy-s25-fe-precintado-1206850100",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
       "id": "1251090824",
       "title": "Destacado",
       "price": 1425.0,
@@ -131,18 +143,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1206850100",
-      "title": "Samsung Galaxy S25 FE Precintado",
-      "price": 390.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/jy/iz/__/c10420p1206850100/i6140548232.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/samsung-galaxy-s25-fe-precintado-1206850100",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
     },
     {
       "id": "1272999308",
@@ -7225,18 +7225,6 @@
       "category": "Antigüedades y Coleccionismo"
     },
     {
-      "id": "1116389052",
-      "title": "PROGRAMA FIESTAS SAN FERMIN 2001",
-      "price": 6.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ig/o3/__/c10420p1116389052/i6004226728.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/programa-fiestas-san-fermin-1970-1116389052",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Antigüedades y Coleccionismo"
-    },
-    {
       "id": "1138918535",
       "title": "Grapadora Rexel Delphi roja",
       "price": 13.5,
@@ -7921,6 +7909,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 660,
-  "actualizado": "2026-06-18T10:31:56"
+  "total": 659,
+  "actualizado": "2026-06-18T11:01:55"
 }
