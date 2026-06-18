@@ -349,18 +349,6 @@
       "category": "Libros, Cómics y Revistas"
     },
     {
-      "id": "1163334850",
-      "title": "Comic Stumptown",
-      "price": 11.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/j8/ma/__/c10420p1163334850/i5865701352.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/comic-stumptown-1163334850",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
       "id": "1268592446",
       "title": "El señor de los anillos la trilogía  DVD",
       "price": 30.5,
@@ -7885,6 +7873,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 657,
-  "actualizado": "2026-06-18T14:03:11"
+  "total": 656,
+  "actualizado": "2026-06-18T15:01:56"
 }
