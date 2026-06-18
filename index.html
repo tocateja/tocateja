@@ -312,6 +312,7 @@ function renderGrid(products) {
 function applyFilter() {
   let filtered = currentCat === 'todas' ? allProducts : allProducts.filter(p => p.category === currentCat);
   const sort = document.getElementById('sort-select') ? document.getElementById('sort-select').value : 'reciente';
+  if (sort === 'reciente') filtered = [...filtered].sort((a, b) => (parseInt(b.id) || 0) - (parseInt(a.id) || 0));
   if (sort === 'precio-asc') filtered = [...filtered].sort((a, b) => a.price - b.price);
   if (sort === 'precio-desc') filtered = [...filtered].sort((a, b) => b.price - a.price);
   const label = document.getElementById('result-label');
@@ -319,12 +320,20 @@ function applyFilter() {
   renderGrid(filtered);
 }
 
-fetch(GITHUB_JSON)
+fetch(GITHUB_JSON + '?t=' + Date.now())
   .then(r => r.json())
   .then(data => {
     allProducts = data.productos || [];
     updateCounts(allProducts);
     applyFilter();
+    if (data.actualizado) {
+      const label = document.getElementById('result-label');
+      const d = new Date(data.actualizado);
+      const txt = 'Actualizado: ' + d.toLocaleString('es-ES', {day:'2-digit',month:'2-digit',year:'numeric',hour:'2-digit',minute:'2-digit'});
+      if (label && !document.getElementById('last-update')) {
+        label.insertAdjacentHTML('afterend', `<p id="last-update" style="color:var(--muted);font-size:.8rem;margin:4px 0 0;">${txt}</p>`);
+      }
+    }
   })
   .catch(() => {
     const grid = document.getElementById('grid');
@@ -344,7 +353,7 @@ const sortSel = document.getElementById('sort-select');
 if (sortSel) sortSel.addEventListener('change', applyFilter);
 </script>
 <script>
-fetch('https://raw.githubusercontent.com/tocateja/tocateja/main/resenas.json')
+fetch('https://raw.githubusercontent.com/tocateja/tocateja/main/resenas.json?t=' + Date.now())
   .then(r => r.json())
   .then(data => {
     if (!data.total) return;
