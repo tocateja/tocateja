@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1116596436",
+      "title": "PROGRAMA FIESTAS SAN FERMIN 1979",
+      "price": 8.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ig/sj/__/c10420p1116596436/i5518394196.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/programa-fiestas-san-fermin-1979-1116596436",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Antigüedades y Coleccionismo"
+    },
+    {
       "id": "1206850100",
       "title": "Samsung Galaxy S25 FE Precintado",
       "price": 390.0,
@@ -5821,18 +5833,6 @@
       "category": "Otros"
     },
     {
-      "id": "1269215980",
-      "title": "Amplificador megafonía Optimus",
-      "price": 37.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kz/np/__/c10420p1269215980/i6540902316.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/amplificador-megafonia-optimus-1269215980",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
-    },
-    {
       "id": "1269208108",
       "title": "Antena Amplificada AM/FM Konig",
       "price": 19.5,
@@ -6839,18 +6839,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Hogar"
-    },
-    {
-      "id": "1116596436",
-      "title": "PROGRAMA FIESTAS SAN FERMIN 1979",
-      "price": 8.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ig/sj/__/c10420p1116596436/i5518394196.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/programa-fiestas-san-fermin-1979-1116596436",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Antigüedades y Coleccionismo"
     },
     {
       "id": "1120138271",
@@ -7909,6 +7897,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 659,
-  "actualizado": "2026-06-18T11:01:55"
+  "total": 658,
+  "actualizado": "2026-06-18T12:01:55"
 }
