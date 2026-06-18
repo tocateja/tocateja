@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1273634050",
+      "title": "Calefactor Pared ADM",
+      "price": 26.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l2/ae/__/c10420p1273634050/i6567503281.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/calefactor-pared-adm-digital-1273634050",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Electrodomésticos"
+    },
+    {
+      "id": "1273631710",
+      "title": "Calefactor Pared ADM",
+      "price": 26.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l2/ac/__/c10420p1273631710/i6567491203.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/calefactor-pared-adm-1273631710",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Electrodomésticos"
+    },
+    {
       "id": "1273626889",
       "title": "Cepillo Karcher Soft Wash Brush K2-K7 Precintado",
       "price": 10.5,
@@ -7909,6 +7933,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 659,
-  "actualizado": "2026-06-18T17:31:57"
+  "total": 661,
+  "actualizado": "2026-06-18T18:01:57"
 }
