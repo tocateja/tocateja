@@ -1,6 +1,42 @@
 {
   "productos": [
     {
+      "id": "1273626889",
+      "title": "Cepillo Karcher Soft Wash Brush K2-K7 Precintado",
+      "price": 10.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l2/a8/__/c10420p1273626889/i6567466374.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/cepillo-karcher-soft-wash-brush-k2-k7-precintado-1273626889",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1273625228",
+      "title": "Karcher FJ 6 Foam Jet Accesorio Hidrolimpiadora",
+      "price": 11.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l2/a7/__/c10420p1273625228/i6567457583.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/karcher-fj-6-foam-jet-accesorio-hidrolimpiadora-1273625228",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1273623338",
+      "title": "Mini plancha Jata vintage",
+      "price": 20.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l2/a6/__/c10420p1273623338/i6567446529.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/mini-plancha-jata-vintage-1273623338",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Antigüedades y Coleccionismo"
+    },
+    {
       "id": "1273354455",
       "title": "Thermomix TM6-1",
       "price": 599.0,
@@ -623,18 +659,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
-    },
-    {
-      "id": "1237796423",
-      "title": "Teclado y funda iPad Magic Keyboard A3339",
-      "price": 199.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kg/y9/__/c10420p1237796423/i6342183510.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/teclado-y-funda-ipad-magic-keyboard-a3339-1237796423",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
     },
     {
       "id": "1270547597",
@@ -7885,6 +7909,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 657,
-  "actualizado": "2026-06-18T17:01:57"
+  "total": 659,
+  "actualizado": "2026-06-18T17:31:57"
 }
