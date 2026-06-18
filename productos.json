@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1273354455",
+      "title": "Thermomix TM6-1",
+      "price": 599.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l2/4e/__/c10420p1273354455/i6565913466.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/thermomix-tm6-1-1273354455",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Electrodomésticos"
+    },
+    {
+      "id": "1273616634",
+      "title": "Cenicero Decorativo Sol Azteca",
+      "price": 11.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l2/a0/__/c10420p1273616634/i6567410735.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/cenicero-decorativo-sol-azteca-1273616634",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1194353746",
       "title": "Vinilo Depeche Mode 101",
       "price": 49.0,
@@ -47,18 +71,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1273354455",
-      "title": "Thermomix TM6-1",
-      "price": 599.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l2/4e/__/c10420p1273354455/i6565913466.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/thermomix-tm6-1-1273354455",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Electrodomésticos"
     },
     {
       "id": "1273239632",
@@ -7873,6 +7885,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 656,
-  "actualizado": "2026-06-18T15:01:56"
+  "total": 657,
+  "actualizado": "2026-06-18T17:01:57"
 }
