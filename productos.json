@@ -1,16 +1,16 @@
 {
   "productos": [
     {
-      "id": "1273944222",
-      "title": "Figura Final Fantasy XIII Snow Villiers",
-      "price": 41.5,
+      "id": "1273952385",
+      "title": "Cinta Andadora iWalk",
+      "price": 119.0,
       "currency": "EUR",
       "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l2/h1/__/c10420p1273944222/i6569380050.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/figura-final-fantasy-xiii-1273944222",
+      "image": "https://cdn.wallapop.com/images/10420/l2/h7/__/c10420p1273952385/i6569426210.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/cinta-andadora-iwalk-1273952385",
       "location": "Pamplona",
       "condition": "",
-      "category": "Hogar"
+      "category": "Otros"
     },
     {
       "id": "1273939114",
@@ -23,6 +23,18 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Informática"
+    },
+    {
+      "id": "1273944222",
+      "title": "Figura Final Fantasy XIII Snow Villiers",
+      "price": 41.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l2/h1/__/c10420p1273944222/i6569380050.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/figura-final-fantasy-xiii-1273944222",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Hogar"
     },
     {
       "id": "1273935309",
@@ -8005,6 +8017,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 667,
-  "actualizado": "2026-06-19T18:32:38"
+  "total": 668,
+  "actualizado": "2026-06-19T19:02:14"
 }
