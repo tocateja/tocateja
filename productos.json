@@ -1,6 +1,42 @@
 {
   "productos": [
     {
+      "id": "1273944222",
+      "title": "Figura Final Fantasy XIII Snow Villiers",
+      "price": 41.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l2/h1/__/c10420p1273944222/i6569380050.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/figura-final-fantasy-xiii-1273944222",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Hogar"
+    },
+    {
+      "id": "1273939114",
+      "title": "Torre PC HP",
+      "price": 99.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l2/gx/__/c10420p1273939114/i6569351662.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/torre-pc-hp-1273939114",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Informática"
+    },
+    {
+      "id": "1273935309",
+      "title": "Caballito de Tiovivo",
+      "price": 290.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l2/gu/__/c10420p1273935309/i6569329614.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/caballito-de-tiovivo-1273935309",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1273932361",
       "title": "Cazadora Cordura Moto Stina",
       "price": 50.5,
@@ -7969,6 +8005,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 664,
-  "actualizado": "2026-06-19T18:03:40"
+  "total": 667,
+  "actualizado": "2026-06-19T18:32:38"
 }
