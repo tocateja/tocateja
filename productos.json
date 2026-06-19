@@ -2677,18 +2677,6 @@
       "category": "Otros"
     },
     {
-      "id": "1271771333",
-      "title": "Samsung Galaxy Z Flip 5",
-      "price": 299.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l1/6h/__/c10420p1271771333/i6556867548.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/samsung-galaxy-z-flip-5-1271771333",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
-    },
-    {
       "id": "1244464022",
       "title": "Barra de Sonido JBL BAR 2.0 All-in-One MK2",
       "price": 110.0,
@@ -7993,6 +7981,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 666,
-  "actualizado": "2026-06-19T12:32:04"
+  "total": 665,
+  "actualizado": "2026-06-19T13:02:04"
 }
