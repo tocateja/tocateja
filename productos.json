@@ -1,6 +1,66 @@
 {
   "productos": [
     {
+      "id": "1273814533",
+      "title": "Consola Nintendo 2DS",
+      "price": 69.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l2/e9/__/c10420p1273814533/i6568635666.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/consola-nintendo-2ds-1273814533",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1273812685",
+      "title": "Xiaomi Redmi 15C 5G",
+      "price": 95.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l2/e8/__/c10420p1273812685/i6568625142.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/xiaomi-redmi-15c-5g-128gb-verde-1273812685",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
+      "id": "1220756320",
+      "title": "Soldador Eléctrico 30W Pemco",
+      "price": 6.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/k6/t1/__/c10420p1220756320/i6228324015.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/soldador-electrico-30w-pemco-1220756320",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Herramientas"
+    },
+    {
+      "id": "1234799295",
+      "title": "Escuela Blame! And Son On",
+      "price": 10.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kf/61/__/c10420p1234799295/i6320359387.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/escuela-blame-and-son-on-1234799295",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1234800457",
+      "title": "Noise 1 (Seinen Manga) (Spanish Edition)",
+      "price": 10.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kf/62/__/c10420p1234800457/i6320365213.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/noise-1-seinen-manga-spanish-edition-1234800457",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
       "id": "1273239632",
       "title": "Secador de manos LOSDI A estrenar",
       "price": 20.5,
@@ -1679,18 +1739,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1220756320",
-      "title": "Soldador Eléctrico 30W Pemco",
-      "price": 6.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/k6/t1/__/c10420p1220756320/i6228324015.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/soldador-electrico-30w-pemco-1220756320",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Herramientas"
     },
     {
       "id": "1258986315",
@@ -5077,30 +5125,6 @@
       "category": "Música e Instrumentos"
     },
     {
-      "id": "1234800457",
-      "title": "Noise 1 (Seinen Manga) (Spanish Edition)",
-      "price": 10.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kf/62/__/c10420p1234800457/i6320365213.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/noise-1-seinen-manga-spanish-edition-1234800457",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1234799295",
-      "title": "Escuela Blame! And Son On",
-      "price": 10.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kf/61/__/c10420p1234799295/i6320359387.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/escuela-blame-and-son-on-1234799295",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
       "id": "1245711876",
       "title": "Atornilladora neumática Parkside PDSS 850 A1",
       "price": 26.5,
@@ -7945,6 +7969,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 662,
-  "actualizado": "2026-06-18T19:02:00"
+  "total": 664,
+  "actualizado": "2026-06-19T11:02:02"
 }
