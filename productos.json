@@ -1,13 +1,25 @@
 {
   "productos": [
     {
-      "id": "1273834269",
-      "title": "Chaqueta Moto RST Mujer",
-      "price": 76.95,
+      "id": "1273932361",
+      "title": "Cazadora Cordura Moto Stina",
+      "price": 50.5,
       "currency": "EUR",
       "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l2/eo/__/c10420p1273834269/i6568750620.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/chaqueta-moto-rst-mujer-1273834269",
+      "image": "https://cdn.wallapop.com/images/10420/l2/gs/__/c10420p1273932361/i6569313779.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/cazadora-cordura-moto-stina-1273932361",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Motor"
+    },
+    {
+      "id": "1273929531",
+      "title": "Chaqueta Textil Moto Mujer Alpinestars",
+      "price": 99.99,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l2/gq/__/c10420p1273929531/i6569298503.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/chaqueta-textil-moto-mujer-alpinestars-1273929531",
       "location": "Pamplona",
       "condition": "",
       "category": "Motor"
@@ -23,6 +35,30 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Hogar"
+    },
+    {
+      "id": "1268592446",
+      "title": "El señor de los anillos la trilogía  DVD",
+      "price": 30.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kz/ac/__/c10420p1268592446/i6536185881.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/el-senor-de-los-anillos-la-trilogia-dvd-1268592446",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1273834269",
+      "title": "Chaqueta Moto RST Mujer",
+      "price": 76.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l2/eo/__/c10420p1273834269/i6568750620.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/chaqueta-moto-rst-mujer-1273834269",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Motor"
     },
     {
       "id": "1273817127",
@@ -107,18 +143,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1273649081",
-      "title": "Guitarra Clásica Alhambra",
-      "price": 210.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l2/ap/__/c10420p1273649081/i6567584410.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/guitarra-clasica-alhambra-1273649081",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
     },
     {
       "id": "1273634050",
@@ -500,18 +524,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/l0/od/__/c10420p1270927290/i6551472041.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/super-humor-mortadelo-y-filemon-tomo-7-1270927290",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1268592446",
-      "title": "El señor de los anillos la trilogía  DVD",
-      "price": 30.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kz/ac/__/c10420p1268592446/i6536185881.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/el-senor-de-los-anillos-la-trilogia-dvd-1268592446",
       "location": "Pamplona",
       "condition": "",
       "category": "Libros, Cómics y Revistas"
@@ -7957,6 +7969,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 663,
-  "actualizado": "2026-06-19T14:08:52"
+  "total": 664,
+  "actualizado": "2026-06-19T18:03:40"
 }
