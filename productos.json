@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1273822182",
+      "title": "Figura Coleccionista Nadal Quijote",
+      "price": 95.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l2/ef/__/c10420p1273822182/i6568681461.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/figura-coleccionista-nadal-quijote-1273822182",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Hogar"
+    },
+    {
+      "id": "1273817127",
+      "title": "Samsung Galaxy A16",
+      "price": 99.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l2/eb/__/c10420p1273817127/i6568650839.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/samsung-galaxy-a16-1273817127",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
       "id": "1273814533",
       "title": "Consola Nintendo 2DS",
       "price": 69.0,
@@ -7969,6 +7993,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 664,
-  "actualizado": "2026-06-19T11:02:02"
+  "total": 666,
+  "actualizado": "2026-06-19T11:32:03"
 }
