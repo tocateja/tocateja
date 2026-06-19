@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1273834269",
+      "title": "Chaqueta Moto RST Mujer",
+      "price": 76.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l2/eo/__/c10420p1273834269/i6568750620.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/chaqueta-moto-rst-mujer-1273834269",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Motor"
+    },
+    {
       "id": "1273822182",
       "title": "Figura Coleccionista Nadal Quijote",
       "price": 95.0,
@@ -7981,6 +7993,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 665,
-  "actualizado": "2026-06-19T12:02:00"
+  "total": 666,
+  "actualizado": "2026-06-19T12:32:04"
 }
