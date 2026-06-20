@@ -529,78 +529,6 @@
       "category": "Gaming"
     },
     {
-      "id": "1270928262",
-      "title": "Mortadelo y Filemón Especial Mundiales Tomo 9",
-      "price": 10.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l0/oe/__/c10420p1270928262/i6551476928.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/mortadelo-y-filemon-especial-mundiales-tomo-9-1270928262",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1270925895",
-      "title": "Super Humor Mortadelo y Filemón Tomo 5",
-      "price": 10.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l0/oc/__/c10420p1270925895/i6551464871.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/super-humor-mortadelo-y-filemon-tomo-5-1270925895",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1270929458",
-      "title": "Super Humor Mortadelo y Filemón Tomo 13",
-      "price": 10.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l0/of/__/c10420p1270929458/i6551484074.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/super-humor-mortadelo-y-filemon-tomo-13-1270929458",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1270932471",
-      "title": "Super Humor Mortadelo y Filemón Tomo 31",
-      "price": 10.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l0/oh/__/c10420p1270932471/i6551500782.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/super-humor-mortadelo-y-filemon-tomo-31-1270932471",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1270931944",
-      "title": "Super Humor Mortadelo y Filemón Tomo 33",
-      "price": 10.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l0/oh/__/c10420p1270931944/i6551497284.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/super-humor-mortadelo-y-filemon-tomo-33-1270931944",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1270927290",
-      "title": "Super Humor Mortadelo y Filemón Tomo 7",
-      "price": 10.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l0/od/__/c10420p1270927290/i6551472041.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/super-humor-mortadelo-y-filemon-tomo-7-1270927290",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
       "id": "1244746181",
       "title": "Prismáticos Solognac 8x25",
       "price": 13.5,
@@ -7993,6 +7921,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 666,
-  "actualizado": "2026-06-20T14:02:36"
+  "total": 660,
+  "actualizado": "2026-06-20T20:03:48"
 }
