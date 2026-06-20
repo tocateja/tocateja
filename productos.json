@@ -1,6 +1,54 @@
 {
   "productos": [
     {
+      "id": "1274130421",
+      "title": "Limpiadora Alta Presión Karcher K5 Precintado",
+      "price": 269.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l2/l1/__/c10420p1274130421/i6570429435.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/limpiadora-alta-presion-karcher-k5-precintado-1274130421",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1273354455",
+      "title": "Destacado",
+      "price": 599.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l2/4e/__/c10420p1273354455/i6565913466.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/thermomix-tm6-1-1273354455",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1268883920",
+      "title": "Samsung Galaxy Z Fold 6",
+      "price": 595.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kz/gl/__/c10420p1268883920/i6538682794.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/samsung-galaxy-z-fold-6-1268883920",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
+      "id": "1268592446",
+      "title": "El señor de los anillos la trilogía  DVD",
+      "price": 30.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kz/ac/__/c10420p1268592446/i6536185881.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/el-senor-de-los-anillos-la-trilogia-dvd-1268592446",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
       "id": "1273952385",
       "title": "Cinta Andadora iWalk",
       "price": 119.0,
@@ -83,18 +131,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Hogar"
-    },
-    {
-      "id": "1268592446",
-      "title": "El señor de los anillos la trilogía  DVD",
-      "price": 30.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kz/ac/__/c10420p1268592446/i6536185881.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/el-senor-de-los-anillos-la-trilogia-dvd-1268592446",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
     },
     {
       "id": "1273834269",
@@ -241,18 +277,6 @@
       "category": "Antigüedades y Coleccionismo"
     },
     {
-      "id": "1273354455",
-      "title": "Thermomix TM6-1",
-      "price": 599.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l2/4e/__/c10420p1273354455/i6565913466.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/thermomix-tm6-1-1273354455",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Electrodomésticos"
-    },
-    {
       "id": "1273616634",
       "title": "Cenicero Decorativo Sol Azteca",
       "price": 11.5,
@@ -302,7 +326,7 @@
     },
     {
       "id": "1251090824",
-      "title": "Destacado",
+      "title": "Portátil HP Elitebook 8 G1i 16",
       "price": 1425.0,
       "currency": "EUR",
       "status": "available",
@@ -310,7 +334,7 @@
       "url": "https://es.wallapop.com/item/portatil-hp-elitebook-8-g1i-16-1251090824",
       "location": "Pamplona",
       "condition": "",
-      "category": "Otros"
+      "category": "Libros, Cómics y Revistas"
     },
     {
       "id": "1273256104",
@@ -719,18 +743,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
-    },
-    {
-      "id": "1272593245",
-      "title": "Guitarra Eléctrica Harley Benton Roja",
-      "price": 125.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l1/o3/__/c10420p1272593245/i6561400918.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/guitarra-electrica-harley-benton-roja-1272593245",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
     },
     {
       "id": "1272587988",
@@ -4669,18 +4681,6 @@
       "category": "Libros, Cómics y Revistas"
     },
     {
-      "id": "1271095810",
-      "title": "Edición Integral Rue del 13 Percebe",
-      "price": 13.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l0/rz/__/c10420p1271095810/i6552635744.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/edicion-integral-rue-del-13-percebe-1271095810",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
       "id": "1271091295",
       "title": "Super Humor Zipi y Zape Tomo 3",
       "price": 10.5,
@@ -5747,18 +5747,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Hogar"
-    },
-    {
-      "id": "1268883920",
-      "title": "Samsung Galaxy Z Fold 6",
-      "price": 595.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kz/gl/__/c10420p1268883920/i6538682794.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/samsung-galaxy-z-fold-6-1268883920",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
     },
     {
       "id": "1116615499",
@@ -8005,6 +7993,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 667,
-  "actualizado": "2026-06-19T19:32:09"
+  "total": 666,
+  "actualizado": "2026-06-20T14:02:36"
 }
