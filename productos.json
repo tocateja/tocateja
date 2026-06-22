@@ -1,6 +1,66 @@
 {
   "productos": [
     {
+      "id": "1274761640",
+      "title": "Calculadora Vintage Radio Shack",
+      "price": 16.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l2/yk/__/c10420p1274761640/i6573579045.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/calculadora-vintage-radio-shack-1274761640",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "TV y Audio"
+    },
+    {
+      "id": "1245462065",
+      "title": "Teclado Gaming Corsair K70 RGB PRO Negro",
+      "price": 59.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kl/ik/__/c10420p1245462065/i6389589826.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/teclado-gaming-corsair-k70-rgb-pro-negro-1245462065",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1274757472",
+      "title": "Altavoz Bluetooth Ortizan",
+      "price": 29.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l2/yh/__/c10420p1274757472/i6573555112.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/altavoz-bluetooth-ortizan-1274757472",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1270896860",
+      "title": "Altavoz Bluetooth Sony SRS-XB31 Azul/Verde",
+      "price": 49.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l0/nq/__/c10420p1270896860/i6551291811.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/altavoz-bluetooth-sony-srs-xb31-azul-verde-1270896860",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1259771646",
+      "title": "Altavoz Bluetooth Marshall Emberton II Negro/Dorad",
+      "price": 99.99,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ku/1a/__/c10420p1259771646/i6481459968.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/altavoz-bluetooth-marshall-emberton-ii-negro-dorad-1259771646",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
       "id": "1260730247",
       "title": "Samsung Galaxy Buds3",
       "price": 75.0,
@@ -5281,18 +5341,6 @@
       "category": "Informática"
     },
     {
-      "id": "1245462065",
-      "title": "Teclado Gaming Corsair K70 RGB PRO Negro",
-      "price": 59.95,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kl/ik/__/c10420p1245462065/i6389589826.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/teclado-gaming-corsair-k70-rgb-pro-negro-1245462065",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
       "id": "1168688760",
       "title": "Calzado Seguridad Kingsmann A estrenar",
       "price": 19.5,
@@ -8029,6 +8077,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 669,
-  "actualizado": "2026-06-22T13:32:17"
+  "total": 673,
+  "actualizado": "2026-06-22T14:02:54"
 }
