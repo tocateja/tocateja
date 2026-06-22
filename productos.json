@@ -1,6 +1,42 @@
 {
   "productos": [
     {
+      "id": "1274836283",
+      "title": "Cazadora Doble Capa Trangoworld",
+      "price": 59.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/05/__/c10420p1274836283/i6573990675.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/cazadora-doble-capa-trangoworld-1274836283",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Moda"
+    },
+    {
+      "id": "1274830268",
+      "title": "FC 26 Nintendo Switch 2",
+      "price": 30.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/01/__/c10420p1274830268/i6573952848.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/fc-26-nintendo-switch-2-1274830268",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1274829810",
+      "title": "Kirby Air Riders Nintendo Switch 2",
+      "price": 41.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/00/__/c10420p1274829810/i6573950035.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/kirby-air-riders-nintendo-switch-2-1274829810",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
       "id": "1274828019",
       "title": "Disney Art Academy Nintendo 3DS",
       "price": 6.5,
@@ -8137,6 +8173,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 678,
-  "actualizado": "2026-06-22T17:32:30"
+  "total": 681,
+  "actualizado": "2026-06-22T18:02:27"
 }
