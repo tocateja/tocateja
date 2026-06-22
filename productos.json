@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1271106823",
+      "title": "Lo mejor de Pepe Gotera y Otilio",
+      "price": 16.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l0/s8/__/c10420p1271106823/i6552710387.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/lo-mejor-de-pepe-gotera-y-otilio-1271106823",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1274130421",
       "title": "Limpiadora Alta Presión Karcher K5 Precintado",
       "price": 269.0,
@@ -767,18 +779,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
-    },
-    {
-      "id": "1270547597",
-      "title": "Fregona Eléctrica Dyson Clean+Wash Precintada",
-      "price": 299.99,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l0/g8/__/c10420p1270547597/i6548744570.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/fregona-electrica-dyson-clean-wash-precintada-1270547597",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
     },
     {
       "id": "1269212158",
@@ -4549,18 +4549,6 @@
       "category": "Libros, Cómics y Revistas"
     },
     {
-      "id": "1271106823",
-      "title": "Lo mejor de Pepe Gotera y Otilio",
-      "price": 16.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l0/s8/__/c10420p1271106823/i6552710387.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/lo-mejor-de-pepe-gotera-y-otilio-1271106823",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
       "id": "1271105177",
       "title": "Edición Integral Rompetechos Segunda parte",
       "price": 24.95,
@@ -7921,6 +7909,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 660,
-  "actualizado": "2026-06-20T20:03:48"
+  "total": 659,
+  "actualizado": "2026-06-22T02:02:54"
 }
