@@ -1,6 +1,90 @@
 {
   "productos": [
     {
+      "id": "1255380142",
+      "title": "Prismáticos Antares Vintage Coated Lens",
+      "price": 75.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kr/f5/__/c10420p1255380142/i6452613756.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/prismaticos-antares-vintage-coated-lens-1255380142",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Deporte"
+    },
+    {
+      "id": "1274743594",
+      "title": "Armónica M. Hohner Echo Doble Cara",
+      "price": 50.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l2/y6/__/c10420p1274743594/i6573476625.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/armonica-m-hohner-echo-doble-cara-1274743594",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1180825396",
+      "title": "Armónica Hohner Chromonica",
+      "price": 62.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/jj/16/__/c10420p1180825396/i5961312572.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/armonica-hohner-chromonica-1180825396",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1274737892",
+      "title": "Tensiómetro de Muñeca Ecomed",
+      "price": 13.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l2/y2/__/c10420p1274737892/i6573444302.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/tensiometro-de-muneca-ecomed-1274737892",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Juguetes"
+    },
+    {
+      "id": "1271105177",
+      "title": "Edición Integral Rompetechos Segunda parte",
+      "price": 24.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l0/s7/__/c10420p1271105177/i6552698860.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/edicion-integral-rompetechos-segunda-parte-1271105177",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1245788568",
+      "title": "Cámara Vintage Capta Años 50",
+      "price": 25.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kl/pk/__/c10420p1245788568/i6391687790.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/camara-vintage-capta-anos-50-1245788568",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Foto y Vídeo"
+    },
+    {
+      "id": "1268419522",
+      "title": "Fujinon XF 100-400MM 1:4.5-5.6  R LM OIS WR",
+      "price": 990.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kz/6m/__/c10420p1268419522/i6533993164.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/fujinon-xf-100-400mm-1-4-5-5-6-r-lm-ois-wr-1268419522",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1237216336",
       "title": "Objetivo Sony VCL-HGE07A Wide Angle Cap",
       "price": 51.5,
@@ -4657,18 +4741,6 @@
       "category": "Libros, Cómics y Revistas"
     },
     {
-      "id": "1271105177",
-      "title": "Edición Integral Rompetechos Segunda parte",
-      "price": 24.95,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l0/s7/__/c10420p1271105177/i6552698860.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/edicion-integral-rompetechos-segunda-parte-1271105177",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
       "id": "1271102361",
       "title": "Edición Integral Rompetechos Parte 1",
       "price": 24.95,
@@ -5171,18 +5243,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1180825396",
-      "title": "Armónica Hohner Chromonica",
-      "price": 62.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/jj/16/__/c10420p1180825396/i5961312572.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/armonica-hohner-chromonica-1180825396",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
     },
     {
       "id": "1239988484",
@@ -6563,18 +6623,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Joyería y Complementos"
-    },
-    {
-      "id": "1255380142",
-      "title": "Prismáticos Antares Vintage Coated Lens",
-      "price": 75.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kr/f5/__/c10420p1255380142/i6452613756.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/prismaticos-antares-vintage-coated-lens-1255380142",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Deporte"
     },
     {
       "id": "1255376795",
@@ -7981,6 +8029,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 665,
-  "actualizado": "2026-06-22T12:32:06"
+  "total": 669,
+  "actualizado": "2026-06-22T13:02:32"
 }
