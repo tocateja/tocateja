@@ -1,6 +1,54 @@
 {
   "productos": [
     {
+      "id": "1237216336",
+      "title": "Objetivo Sony VCL-HGE07A Wide Angle Cap",
+      "price": 51.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kg/lu/__/c10420p1237216336/i6338215240.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/objetivo-sony-vcl-hge07a-wide-angle-cap-1237216336",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Foto y Vídeo"
+    },
+    {
+      "id": "1274734184",
+      "title": "Cámara Reflex Analógica Nikon F50 + Objetivo 28-80",
+      "price": 41.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l2/xz/__/c10420p1274734184/i6573422443.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/camara-reflex-analogica-nikon-f50---objetivo-28-80-1274734184",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Foto y Vídeo"
+    },
+    {
+      "id": "1274730561",
+      "title": "Estación Meteorológica Auriol",
+      "price": 11.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l2/xw/__/c10420p1274730561/i6573403295.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/estacion-meteorologica-auriol-1274730561",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Joyería y Complementos"
+    },
+    {
+      "id": "1274725465",
+      "title": "Linterna de Bolsillo Led Wurth",
+      "price": 31.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l2/xs/__/c10420p1274725465/i6573372453.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/linterna-de-bolsillo-led-wurth-1274725465",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1274722785",
       "title": "Linterna LED Wurth Precintado",
       "price": 31.5,
@@ -6133,18 +6181,6 @@
       "category": "Gaming"
     },
     {
-      "id": "1237216336",
-      "title": "Objetivo Sony VCL-HGE07A Wide Angle Cap",
-      "price": 51.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kg/lu/__/c10420p1237216336/i6338215240.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/objetivo-sony-vcl-hge07a-wide-angle-cap-1237216336",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Foto y Vídeo"
-    },
-    {
       "id": "1252535331",
       "title": "Ebook Wolder mibuk Blanco",
       "price": 23.5,
@@ -6359,18 +6395,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
-    },
-    {
-      "id": "1268419522",
-      "title": "Fujinon XF 100-400MM 1:4.5-5.6  R LM OIS WR",
-      "price": 990.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kz/6m/__/c10420p1268419522/i6533993164.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/fujinon-xf-100-400mm-1-4-5-5-6-r-lm-ois-wr-1268419522",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
     },
     {
       "id": "1268224319",
@@ -6887,18 +6911,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Hogar"
-    },
-    {
-      "id": "1245788568",
-      "title": "Cámara Vintage Capta Años 50",
-      "price": 25.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kl/pk/__/c10420p1245788568/i6391687790.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/camara-vintage-capta-anos-50-1245788568",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Foto y Vídeo"
     },
     {
       "id": "1236946431",
@@ -7969,6 +7981,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 664,
-  "actualizado": "2026-06-22T12:02:02"
+  "total": 665,
+  "actualizado": "2026-06-22T12:32:06"
 }
