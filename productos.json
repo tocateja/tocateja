@@ -4753,18 +4753,6 @@
       "category": "Libros, Cómics y Revistas"
     },
     {
-      "id": "1271114088",
-      "title": "Cómic Mortadeluxe",
-      "price": 10.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l0/sd/__/c10420p1271114088/i6552757184.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/comic-mortadeluxe-1271114088",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
       "id": "1271113530",
       "title": "Lo mejor de 13 Rue del Percebe",
       "price": 16.5,
@@ -8065,6 +8053,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 672,
-  "actualizado": "2026-06-22T15:02:14"
+  "total": 671,
+  "actualizado": "2026-06-22T17:02:30"
 }
