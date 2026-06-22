@@ -1,6 +1,90 @@
 {
   "productos": [
     {
+      "id": "1274828019",
+      "title": "Disney Art Academy Nintendo 3DS",
+      "price": 6.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l2/zz/__/c10420p1274828019/i6573940674.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/disney-art-academy-nintendo-3ds-1274828019",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1274827256",
+      "title": "Mario Sports Superstars Nintendo 3DS",
+      "price": 9.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l2/zz/__/c10420p1274827256/i6573937311.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/mario-sports-superstars-nintendo-3ds-1274827256",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1274825911",
+      "title": "Call of Duty Black Ops II PS3",
+      "price": 8.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l2/zx/__/c10420p1274825911/i6573929800.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/call-of-duty-black-ops-ii-ps3-1274825911",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1274824862",
+      "title": "Super Mario Land Game Boy Nintendo",
+      "price": 13.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l2/zx/__/c10420p1274824862/i6573923562.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/super-mario-land-game-boy-nintendo-1274824862",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1274822122",
+      "title": "MegaMan 2 Game Boy Nintendo",
+      "price": 21.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l2/zv/__/c10420p1274822122/i6573908120.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/megaman-2-game-boy-nintendo-1274822122",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1274821431",
+      "title": "Fifa 15 Nintendo 3DS",
+      "price": 8.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l2/zu/__/c10420p1274821431/i6573902208.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/fifa-15-nintendo-3ds-1274821431",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1274819887",
+      "title": "Grapadora El Casco",
+      "price": 50.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l2/zt/__/c10420p1274819887/i6573892034.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/grapadora-el-casco-cromada-1274819887",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Herramientas"
+    },
+    {
       "id": "1274761640",
       "title": "Calculadora Vintage Radio Shack",
       "price": 16.5,
@@ -8053,6 +8137,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 671,
-  "actualizado": "2026-06-22T17:02:30"
+  "total": 678,
+  "actualizado": "2026-06-22T17:32:30"
 }
