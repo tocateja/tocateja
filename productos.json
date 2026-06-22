@@ -1,6 +1,54 @@
 {
   "productos": [
     {
+      "id": "1274722785",
+      "title": "Linterna LED Wurth Precintado",
+      "price": 31.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l2/xq/__/c10420p1274722785/i6573357939.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/linterna-led-wurth-precintado-1274722785",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1274720938",
+      "title": "Linterna Recargable EDM",
+      "price": 21.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l2/xo/__/c10420p1274720938/i6573344675.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/linterna-recargable-edm-1274720938",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1274718091",
+      "title": "Juego Cubiertos Vintage",
+      "price": 30.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l2/xm/__/c10420p1274718091/i6573328411.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/juego-cubiertos-vintage-1274718091",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Antigüedades y Coleccionismo"
+    },
+    {
+      "id": "1274714699",
+      "title": "Smartwatch Amazfit Active 2",
+      "price": 55.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l2/xk/__/c10420p1274714699/i6573306484.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/smartwatch-amazfit-active-2-1274714699",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
       "id": "1274711665",
       "title": "Cámara Instax Mini 9 Rosa Fujifilm",
       "price": 41.5,
@@ -7921,6 +7969,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 660,
-  "actualizado": "2026-06-22T11:32:03"
+  "total": 664,
+  "actualizado": "2026-06-22T12:02:02"
 }
