@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1274711665",
+      "title": "Cámara Instax Mini 9 Rosa Fujifilm",
+      "price": 41.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l2/xh/__/c10420p1274711665/i6573290715.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/camara-instax-mini-9-rosa-fujifilm-1274711665",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Foto y Vídeo"
+    },
+    {
+      "id": "1274709252",
+      "title": "Grifo Bañera Roca Mitos Plata",
+      "price": 46.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l2/xf/__/c10420p1274709252/i6573279338.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/grifo-banera-roca-mitos-plata-1274709252",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Joyería y Complementos"
+    },
+    {
       "id": "1272569157",
       "title": "Portátil HP 15\"",
       "price": 190.0,
@@ -935,18 +959,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
-    },
-    {
-      "id": "1266096970",
-      "title": "Samsung Galaxy Z Flip 4 512GB Beige",
-      "price": 399.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kx/su/__/c10420p1266096970/i6519923039.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/samsung-galaxy-z-flip-4-512gb-beige-1266096970",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
     },
     {
       "id": "1266464713",
@@ -7909,6 +7921,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 659,
-  "actualizado": "2026-06-22T10:32:05"
+  "total": 660,
+  "actualizado": "2026-06-22T11:32:03"
 }
