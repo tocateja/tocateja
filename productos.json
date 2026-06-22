@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1272569157",
+      "title": "Portátil HP 15\"",
+      "price": 190.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l1/nk/__/c10420p1272569157/i6561271806.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/portatil-hp-15-1272569157",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Informática"
+    },
+    {
       "id": "1271106823",
       "title": "Lo mejor de Pepe Gotera y Otilio",
       "price": 16.5,
@@ -26,7 +38,7 @@
     },
     {
       "id": "1273354455",
-      "title": "Destacado",
+      "title": "Thermomix TM6-1",
       "price": 599.0,
       "currency": "EUR",
       "status": "available",
@@ -34,7 +46,7 @@
       "url": "https://es.wallapop.com/item/thermomix-tm6-1-1273354455",
       "location": "Pamplona",
       "condition": "",
-      "category": "Otros"
+      "category": "Electrodomésticos"
     },
     {
       "id": "1268883920",
@@ -752,18 +764,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/l1/no/__/c10420p1272573985/i6561294929.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/portatil-asus-vivobook-15-1272573985",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Informática"
-    },
-    {
-      "id": "1272569157",
-      "title": "Portátil HP 15\"",
-      "price": 190.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l1/nk/__/c10420p1272569157/i6561271806.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/portatil-hp-15-1272569157",
       "location": "Pamplona",
       "condition": "",
       "category": "Informática"
@@ -7910,5 +7910,5 @@
     }
   ],
   "total": 659,
-  "actualizado": "2026-06-22T02:02:54"
+  "actualizado": "2026-06-22T10:32:05"
 }
