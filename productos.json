@@ -1,6 +1,54 @@
 {
   "productos": [
     {
+      "id": "1219952031",
+      "title": "Reloj Sandoz Cerámica Blanco y cobre",
+      "price": 145.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/k6/bt/__/c10420p1219952031/i6224082819.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/reloj-sandoz-ceramica-blanco-y-cobre-1219952031",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Joyería y Complementos"
+    },
+    {
+      "id": "1274858739",
+      "title": "Reloj Pulsera Lotus",
+      "price": 59.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/0n/__/c10420p1274858739/i6574134165.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/reloj-pulsera-lotus-1274858739",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Joyería y Complementos"
+    },
+    {
+      "id": "1274855661",
+      "title": "Reloj Armani Exchange",
+      "price": 64.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/0k/__/c10420p1274855661/i6574113771.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/reloj-armani-exchange-1274855661",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Joyería y Complementos"
+    },
+    {
+      "id": "1274851562",
+      "title": "Mini Botella Antigua para Coleccionistas",
+      "price": 46.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/0h/__/c10420p1274851562/i6574086675.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/mini-botella-antigua-para-coleccionistas-1274851562",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1274846235",
       "title": "Tablet Redmi Pad 2",
       "price": 125.0,
@@ -911,30 +959,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Móviles y Smartwatches"
-    },
-    {
-      "id": "1259000353",
-      "title": "CD Sinead O'Connor - Throw Down Your Arms",
-      "price": 26.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kt/kq/__/c10420p1259000353/i6475356027.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/cd-sinead-o-connor-throw-down-your-arms-1259000353",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
-      "id": "1257297991",
-      "title": "CD Prince and The Revolution/ Parade Paisley Park",
-      "price": 6.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ks/k9/__/c10420p1257297991/i6463410176.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/cd-prince-and-the-revolution-parade-paisley-park-1257297991",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
     },
     {
       "id": "1272999308",
@@ -2785,18 +2809,6 @@
       "category": "Otros"
     },
     {
-      "id": "1219952031",
-      "title": "Reloj Sandoz Cerámica Blanco y cobre",
-      "price": 145.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/k6/bt/__/c10420p1219952031/i6224082819.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/reloj-sandoz-ceramica-blanco-y-cobre-1219952031",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Joyería y Complementos"
-    },
-    {
       "id": "1218139509",
       "title": "Reloj Jaguar J803",
       "price": 135.0,
@@ -3371,18 +3383,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1237950382",
-      "title": "Juego de habilidad de madera",
-      "price": 5.95,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kh/1k/__/c10420p1237950382/i6343049947.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/juego-de-habilidad-de-madera-1237950382",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Juguetes"
     },
     {
       "id": "1238145061",
@@ -7117,18 +7117,6 @@
       "category": "Hogar"
     },
     {
-      "id": "1141490913",
-      "title": "Set Gin Tonic Toque - 10 aderezos",
-      "price": 13.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/iv/m4/__/c10420p1141490913/i5718224432.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/set-gin-tonic-toque-10-aderezos-1141490913",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Hogar"
-    },
-    {
       "id": "1236946431",
       "title": "Butaca Christie rosa terciopelo",
       "price": 295.0,
@@ -8197,6 +8185,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 683,
-  "actualizado": "2026-06-22T18:32:35"
+  "total": 682,
+  "actualizado": "2026-06-22T19:32:33"
 }
