@@ -1,6 +1,42 @@
 {
   "productos": [
     {
+      "id": "1275156731",
+      "title": "Guitarra Acústica Martinez",
+      "price": 95.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/71/__/c10420p1275156731/i6575929766.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/guitarra-acustica-martinez-1275156731",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1275153444",
+      "title": "Reloj Casio G-Shock",
+      "price": 50.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/6y/__/c10420p1275153444/i6575911792.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/reloj-casio-g-shock-1275153444",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Joyería y Complementos"
+    },
+    {
+      "id": "1275150500",
+      "title": "Libro ¿Qué Pacha, Mamá? Lola Vendetta",
+      "price": 10.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/6w/__/c10420p1275150500/i6575895713.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/libro-que-pacha-mama-lola-vendetta-1275150500",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
       "id": "1275147548",
       "title": "Samsung Galaxy S21 Ultra",
       "price": 275.0,
@@ -8257,6 +8293,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 688,
-  "actualizado": "2026-06-23T18:02:19"
+  "total": 691,
+  "actualizado": "2026-06-23T18:32:22"
 }
