@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1275138364",
+      "title": "Reloj Pulsera Michael Kors",
+      "price": 115.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/6n/__/c10420p1275138364/i6575821268.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/reloj-pulsera-michael-kors-1275138364",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Joyería y Complementos"
+    },
+    {
+      "id": "1275131809",
+      "title": "Reloj Pulsera Daniel Wellington",
+      "price": 115.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/6i/__/c10420p1275131809/i6575782640.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/reloj-pulsera-daniel-wellington-1275131809",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Joyería y Complementos"
+    },
+    {
       "id": "1275054704",
       "title": "Teclado Gaming Razer",
       "price": 40.5,
@@ -8197,6 +8221,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 683,
-  "actualizado": "2026-06-23T17:02:23"
+  "total": 685,
+  "actualizado": "2026-06-23T17:32:39"
 }
