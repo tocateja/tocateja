@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1251090824",
+      "title": "Portátil HP Elitebook 8 G1i 16 PRECINTADO",
+      "price": 1365.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ko/v7/__/c10420p1251090824/i6427316016.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/portatil-hp-elitebook-8-g1i-16-1251090824",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
       "id": "1275067642",
       "title": "Monitor LG LED 27\" 200 HZ",
       "price": 155.0,
@@ -899,18 +911,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Móviles y Smartwatches"
-    },
-    {
-      "id": "1251090824",
-      "title": "Portátil HP Elitebook 8 G1i 16",
-      "price": 1425.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ko/v7/__/c10420p1251090824/i6427316016.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/portatil-hp-elitebook-8-g1i-16-1251090824",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
     },
     {
       "id": "1273256104",
@@ -6769,18 +6769,6 @@
       "category": "Informática"
     },
     {
-      "id": "781663189",
-      "title": "TOCATEJA",
-      "price": 0.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/cx/dr/__/c10420p781663189/i5316597556.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/tocateja-781663189",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
       "id": "1255572179",
       "title": "Espumador Leche Nespresso Negro",
       "price": 40.5,
@@ -8197,6 +8185,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 683,
-  "actualizado": "2026-06-23T13:32:32"
+  "total": 682,
+  "actualizado": "2026-06-23T14:04:04"
 }
