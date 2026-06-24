@@ -1,6 +1,66 @@
 {
   "productos": [
     {
+      "id": "1275380180",
+      "title": "Mando Wii Motion Plus Nintendo Rojo",
+      "price": 23.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/bt/__/c10420p1275380180/i6577294463.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/mando-wii-motion-plus-nintendo-rojo-1275380180",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1275378239",
+      "title": "Mi Experto en Vida Sana Nintendo DS + Podómetro",
+      "price": 5.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/bs/__/c10420p1275378239/i6577284460.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/mi-experto-en-vida-sana-nintendo-ds---podometro-1275378239",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1272047046",
+      "title": "Radio Cassette National Panasonic",
+      "price": 95.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l1/cd/__/c10420p1272047046/i6558552959.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/radio-cassette-national-panasonic-1272047046",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "TV y Audio"
+    },
+    {
+      "id": "1275375032",
+      "title": "Coche Miniatura Fast & Furious Dom's Dodge Charger",
+      "price": 10.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/bp/__/c10420p1275375032/i6577268773.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/coche-miniatura-fast-furious-dom-s-dodge-charger-1275375032",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Motor"
+    },
+    {
+      "id": "1275374116",
+      "title": "Coche Miniatura Fast & Furious",
+      "price": 10.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/bo/__/c10420p1275374116/i6577264105.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/coche-miniatura-fast-furious-1275374116",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Motor"
+    },
+    {
       "id": "1275366441",
       "title": "Coche Miniatura Fast and Furious",
       "price": 10.5,
@@ -1057,30 +1117,6 @@
       "category": "Herramientas"
     },
     {
-      "id": "1234799295",
-      "title": "Escuela Blame! And Son On",
-      "price": 10.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kf/61/__/c10420p1234799295/i6320359387.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/escuela-blame-and-son-on-1234799295",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1234800457",
-      "title": "Noise 1 (Seinen Manga) (Spanish Edition)",
-      "price": 10.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kf/62/__/c10420p1234800457/i6320365213.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/noise-1-seinen-manga-spanish-edition-1234800457",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
       "id": "1273239632",
       "title": "Secador de manos LOSDI A estrenar",
       "price": 20.5,
@@ -1847,18 +1883,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Móviles y Smartwatches"
-    },
-    {
-      "id": "1272047046",
-      "title": "Radio Cassette National Panasonic",
-      "price": 95.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l1/cd/__/c10420p1272047046/i6558552959.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/radio-cassette-national-panasonic-1272047046",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "TV y Audio"
     },
     {
       "id": "1265366402",
@@ -8377,6 +8401,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 698,
-  "actualizado": "2026-06-24T13:32:50"
+  "total": 700,
+  "actualizado": "2026-06-24T14:05:11"
 }
