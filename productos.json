@@ -1,6 +1,42 @@
 {
   "productos": [
     {
+      "id": "1275434322",
+      "title": "Cazadora Moto Cordura Mujer Dainese",
+      "price": 115.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/cz/__/c10420p1275434322/i6577572981.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/chaqueta-dainese-moto-cordura-mujer-1275434322",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Motor"
+    },
+    {
+      "id": "1275431244",
+      "title": "Arcón Congelador Jocel",
+      "price": 215.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/cx/__/c10420p1275431244/i6577557974.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/arcon-congelador-jocel-1275431244",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Electrodomésticos"
+    },
+    {
+      "id": "1251090824",
+      "title": "Destacado",
+      "price": 1365.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ko/v7/__/c10420p1251090824/i6427316016.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/portatil-hp-elitebook-8-g1i-16-1251090824",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1275380180",
       "title": "Mando Wii Motion Plus Nintendo Rojo",
       "price": 23.5,
@@ -383,18 +419,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1251090824",
-      "title": "Portátil HP Elitebook 8 G1i 16 PRECINTADO",
-      "price": 1365.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ko/v7/__/c10420p1251090824/i6427316016.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/portatil-hp-elitebook-8-g1i-16-1251090824",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
     },
     {
       "id": "1275057479",
@@ -1508,18 +1532,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/l1/o9/__/c10420p1272601877/i6561449245.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/consola-sony-ps3-320gb-1272601877",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
-      "id": "1271439852",
-      "title": "Consola Sony PS3 320Gb",
-      "price": 79.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l0/zd/__/c10420p1271439852/i6554756822.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/consola-sony-ps3-300gb-negra-1271439852",
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
@@ -8401,6 +8413,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 700,
-  "actualizado": "2026-06-24T14:05:11"
+  "total": 701,
+  "actualizado": "2026-06-24T17:02:42"
 }
