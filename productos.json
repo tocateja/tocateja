@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1275461679",
+      "title": "Consola portátil Nintendo Switch 2",
+      "price": 379.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/dk/__/c10420p1275461679/i6577711255.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/consola-portatil-nintendo-switch-2-1275461679",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
       "id": "1275452262",
       "title": "Luz Bici Recargable Gemini Moon",
       "price": 16.5,
@@ -8497,6 +8509,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 708,
-  "actualizado": "2026-06-24T18:02:38"
+  "total": 709,
+  "actualizado": "2026-06-24T18:32:39"
 }
