@@ -1,6 +1,54 @@
 {
   "productos": [
     {
+      "id": "1275351735",
+      "title": "Figura Stormtrooper Star Wars Hasbro",
+      "price": 11.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/b7/__/c10420p1275351735/i6577156141.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/figura-stormtrooper-star-wars-hasbro-1275351735",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Hogar"
+    },
+    {
+      "id": "1275349899",
+      "title": "Muñeco Funko The Umbrella Academy Pogo N°935",
+      "price": 8.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/b6/__/c10420p1275349899/i6577145783.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/muneco-funko-the-umbrella-academy-pogo-n935-1275349899",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Juguetes"
+    },
+    {
+      "id": "1275347988",
+      "title": "Muñeco Funko  Riverdale Jughead Jones N° 591",
+      "price": 8.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/b4/__/c10420p1275347988/i6577135547.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/muneco-funko-riverdale-jughead-jones-n-591-1275347988",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Juguetes"
+    },
+    {
+      "id": "1275344085",
+      "title": "Reloj Pulsera Casio",
+      "price": 69.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/b1/__/c10420p1275344085/i6577116698.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/reloj-pulsera-casio-1275344085",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Joyería y Complementos"
+    },
+    {
       "id": "1275338535",
       "title": "Reloj Pulsera Casio",
       "price": 79.0,
@@ -8281,6 +8329,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 690,
-  "actualizado": "2026-06-24T12:02:17"
+  "total": 694,
+  "actualizado": "2026-06-24T12:33:03"
 }
