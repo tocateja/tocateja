@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1275366441",
+      "title": "Coche Miniatura Fast and Furious",
+      "price": 10.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/bj/__/c10420p1275366441/i6577226489.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/coche-miniatura-fast-furious-roman-s-chevy-camar-1275366441",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Motor"
+    },
+    {
+      "id": "1275363774",
+      "title": "Figura Kanan Jarrus Star Wars Hasbro",
+      "price": 11.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/bg/__/c10420p1275363774/i6577214843.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/figura-kanan-jarrus-star-wars-hasbro-1275363774",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Hogar"
+    },
+    {
       "id": "1275358241",
       "title": "Figura Han Solo Star Wars Hasbro",
       "price": 21.5,
@@ -311,18 +335,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1275067642",
-      "title": "Monitor LG LED 27\" 200 HZ",
-      "price": 155.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l3/54/__/c10420p1275067642/i6575402441.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/monitor-lg-led-27-1275067642",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Informática"
     },
     {
       "id": "1275057479",
@@ -8365,6 +8377,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 697,
-  "actualizado": "2026-06-24T13:02:36"
+  "total": 698,
+  "actualizado": "2026-06-24T13:32:50"
 }
