@@ -1,6 +1,54 @@
 {
   "productos": [
     {
+      "id": "1275452262",
+      "title": "Luz Bici Recargable Gemini Moon",
+      "price": 16.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/dd/__/c10420p1275452262/i6577662478.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/luz-bici-recargable-gemini-moon-1275452262",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1275449207",
+      "title": "Luz bici Blackburn Dayblazer 550 USB-C",
+      "price": 20.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/da/__/c10420p1275449207/i6577646915.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/luz-bici-blackburn-dayblazer-550-usb-c-1275449207",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1275448132",
+      "title": "Luz Bici Blackburn Dayblazer 550 Lúmenes USB-C",
+      "price": 20.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/da/__/c10420p1275448132/i6577641304.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/luz-bici-blackburn-dayblazer-550-lumenes-usb-c-1275448132",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1275447155",
+      "title": "Luces Bicicleta Tiger A estrenar",
+      "price": 6.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/d9/__/c10420p1275447155/i6577636721.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/luces-bicicleta-tiger-a-estrenar-1275447155",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Deporte"
+    },
+    {
       "id": "1275444391",
       "title": "Calefactor Cecotec Ready Warm 6650",
       "price": 50.5,
@@ -8449,6 +8497,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 704,
-  "actualizado": "2026-06-24T17:32:48"
+  "total": 708,
+  "actualizado": "2026-06-24T18:02:38"
 }
