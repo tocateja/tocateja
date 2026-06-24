@@ -1,6 +1,54 @@
 {
   "productos": [
     {
+      "id": "1209742720",
+      "title": "Grifo Miomare para lavabo Eco-Clic",
+      "price": 19.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/k0/8z/__/c10420p1209742720/i6159840767.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/grifo-miomare-para-lavabo-eco-clic-1209742720",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Hogar"
+    },
+    {
+      "id": "1180819354",
+      "title": "Termómetro e Higrómetro Digital SODANY",
+      "price": 9.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/jj/12/__/c10420p1180819354/i5961284758.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/termometro-e-higrometro-digital-sodany-1180819354",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Electrodomésticos"
+    },
+    {
+      "id": "1194745902",
+      "title": "Set Whisky 7 Piezas Cristal De  Bohemia A estrenar",
+      "price": 35.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/jr/bj/__/c10420p1194745902/i6039928791.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/set-whisky-7-piezas-cristal-de-bohemia-a-estrenar-1194745902",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Joyería y Complementos"
+    },
+    {
+      "id": "1274130421",
+      "title": "Limpiadora Alta Presión Karcher K5 Precintado",
+      "price": 269.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l2/l1/__/c10420p1274130421/i6570429435.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/limpiadora-alta-presion-karcher-k5-precintado-1274130421",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1275156731",
       "title": "Guitarra Acústica Martinez",
       "price": 95.0,
@@ -685,18 +733,6 @@
       "category": "Joyería y Complementos"
     },
     {
-      "id": "1274130421",
-      "title": "Limpiadora Alta Presión Karcher K5 Precintado",
-      "price": 269.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l2/l1/__/c10420p1274130421/i6570429435.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/limpiadora-alta-presion-karcher-k5-precintado-1274130421",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
       "id": "1273354455",
       "title": "Thermomix TM6-1",
       "price": 599.0,
@@ -1148,18 +1184,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/l1/v9/__/c10420p1272927763/i6563423211.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/iphone-11-pro-1272927763",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
-    },
-    {
-      "id": "1272925265",
-      "title": "Realme GT2",
-      "price": 125.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l1/v7/__/c10420p1272925265/i6563408851.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/realme-gt2-1272925265",
       "location": "Pamplona",
       "condition": "",
       "category": "Móviles y Smartwatches"
@@ -2039,18 +2063,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1260147797",
-      "title": "Call of Duty Infinite Warfare Legacy Edition PS4",
-      "price": 12.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ku/9c/__/c10420p1260147797/i6483973709.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/call-of-duty-infinite-warfare-legacy-edition-ps4-1260147797",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
     },
     {
       "id": "1260230185",
@@ -6817,18 +6829,6 @@
       "category": "Joyería y Complementos"
     },
     {
-      "id": "1209742720",
-      "title": "Grifo Miomare para lavabo Eco-Clic",
-      "price": 17.95,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/k0/8z/__/c10420p1209742720/i6159840767.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/grifo-miomare-para-lavabo-eco-clic-1209742720",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Hogar"
-    },
-    {
       "id": "1196806558",
       "title": "Adaptador VHS-C a VHS Philips Precintado",
       "price": 39.95,
@@ -7007,18 +7007,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Deporte"
-    },
-    {
-      "id": "1180819354",
-      "title": "Termómetro e Higrómetro Digital SODANY",
-      "price": 9.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/jj/12/__/c10420p1180819354/i5961284758.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/termometro-e-higrometro-digital-sodany-1180819354",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Electrodomésticos"
     },
     {
       "id": "1178558745",
@@ -7513,18 +7501,6 @@
       "category": "Libros, Cómics y Revistas"
     },
     {
-      "id": "1194745902",
-      "title": "Set Whisky 7 Piezas Cristal De  Bohemia A estrenar",
-      "price": 51.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/jr/bj/__/c10420p1194745902/i6039928791.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/set-whisky-7-piezas-cristal-de-bohemia-a-estrenar-1194745902",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Joyería y Complementos"
-    },
-    {
       "id": "1191818284",
       "title": "SingStar La edad de oro del Pop PlayStation 2",
       "price": 4.5,
@@ -7535,18 +7511,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Música e Instrumentos"
-    },
-    {
-      "id": "1189508745",
-      "title": "Aplique Pared Alemar Precintado",
-      "price": 31.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/jo/7a/__/c10420p1189508745/i6010066032.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/aplique-pared-alemar-hexagonal-nuevo-1189508745",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Hogar"
     },
     {
       "id": "1134976784",
@@ -8281,6 +8245,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 690,
-  "actualizado": "2026-06-23T19:02:41"
+  "total": 687,
+  "actualizado": "2026-06-24T11:32:50"
 }
