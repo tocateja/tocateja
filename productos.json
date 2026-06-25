@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1275683285",
+      "title": "Mando Nintendo Switch 2 Pro Edición Resident Evil",
+      "price": 69.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/ib/__/c10420p1275683285/i6578980353.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/mando-nintendo-switch-2-pro-edicion-resident-evil-1275683285",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
       "id": "1275678767",
       "title": "Móvil Honor 200",
       "price": 199.0,
@@ -191,18 +203,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Motor"
-    },
-    {
-      "id": "1275431244",
-      "title": "Arcón Congelador Jocel",
-      "price": 215.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l3/cx/__/c10420p1275431244/i6577557974.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/arcon-congelador-jocel-1275431244",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Electrodomésticos"
     },
     {
       "id": "1251090824",
@@ -8486,5 +8486,5 @@
     }
   ],
   "total": 707,
-  "actualizado": "2026-06-25T13:32:36"
+  "actualizado": "2026-06-25T14:05:59"
 }
