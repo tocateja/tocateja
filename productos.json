@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1275789551",
+      "title": "Elefante Decorativo Metálico",
+      "price": 15.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/kl/__/c10420p1275789551/i6579571584.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/elefante-decorativo-metalico-1275789551",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1275786458",
+      "title": "Farol Sobremuro Jardín",
+      "price": 16.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/kj/__/c10420p1275786458/i6579565897.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/farol-sobremuro-jardin-negro-1275786458",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1275783885",
       "title": "Candelabro Dorado",
       "price": 20.5,
@@ -800,18 +824,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/l2/zz/__/c10420p1274827256/i6573937311.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/mario-sports-superstars-nintendo-3ds-1274827256",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
-      "id": "1274825911",
-      "title": "Call of Duty Black Ops II PS3",
-      "price": 8.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l2/zx/__/c10420p1274825911/i6573929800.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/call-of-duty-black-ops-ii-ps3-1274825911",
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
@@ -1931,18 +1943,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "TV y Audio"
-    },
-    {
-      "id": "1265362616",
-      "title": "Altavoz Bluetooth Zealot S87 Negro",
-      "price": 65.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kx/d4/__/c10420p1265362616/i6516230558.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/altavoz-bluetooth-zealot-s87-negro-1265362616",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
     },
     {
       "id": "1262715438",
@@ -8486,5 +8486,5 @@
     }
   ],
   "total": 707,
-  "actualizado": "2026-06-25T19:02:41"
+  "actualizado": "2026-06-25T19:32:40"
 }
