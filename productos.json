@@ -433,18 +433,6 @@
       "category": "Música e Instrumentos"
     },
     {
-      "id": "1275153444",
-      "title": "Reloj Casio G-Shock",
-      "price": 50.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l3/6y/__/c10420p1275153444/i6575911792.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/reloj-casio-g-shock-1275153444",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Joyería y Complementos"
-    },
-    {
       "id": "1275150500",
       "title": "Libro ¿Qué Pacha, Mamá? Lola Vendetta",
       "price": 10.5,
@@ -8497,6 +8485,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 708,
-  "actualizado": "2026-06-24T19:32:40"
+  "total": 707,
+  "actualizado": "2026-06-25T10:32:36"
 }
