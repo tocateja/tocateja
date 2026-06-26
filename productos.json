@@ -1,6 +1,42 @@
 {
   "productos": [
     {
+      "id": "1275981409",
+      "title": "MotoGP 25 PS4",
+      "price": 20.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/op/__/c10420p1275981409/i6580776837.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/motogp-25-ps4-1275981409",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1275980529",
+      "title": "FIFA 23 PS4",
+      "price": 9.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/oo/__/c10420p1275980529/i6580770969.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/fifa-23-ps4-1275980529",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1275979237",
+      "title": "Far Cry Primal PS4",
+      "price": 10.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/on/__/c10420p1275979237/i6580763678.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/far-cry-primal-ps4-1275979237",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
       "id": "1275960657",
       "title": "Monitor Dell LED 24\"",
       "price": 85.0,
@@ -1151,18 +1187,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Joyería y Complementos"
-    },
-    {
-      "id": "1274725465",
-      "title": "Linterna de Bolsillo Led Wurth",
-      "price": 31.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l2/xs/__/c10420p1274725465/i6573372453.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/linterna-de-bolsillo-led-wurth-1274725465",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
     },
     {
       "id": "1274722785",
@@ -8485,6 +8509,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 707,
-  "actualizado": "2026-06-26T12:02:42"
+  "total": 709,
+  "actualizado": "2026-06-26T12:32:49"
 }
