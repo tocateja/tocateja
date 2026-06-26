@@ -1429,18 +1429,6 @@
       "category": "Móviles y Smartwatches"
     },
     {
-      "id": "1268592446",
-      "title": "El señor de los anillos la trilogía  DVD",
-      "price": 30.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kz/ac/__/c10420p1268592446/i6536185881.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/el-senor-de-los-anillos-la-trilogia-dvd-1268592446",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
       "id": "1273952385",
       "title": "Cinta Andadora iWalk",
       "price": 119.0,
@@ -8617,6 +8605,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 718,
-  "actualizado": "2026-06-26T18:02:49"
+  "total": 717,
+  "actualizado": "2026-06-26T18:32:41"
 }
