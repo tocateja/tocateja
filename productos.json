@@ -1,6 +1,54 @@
 {
   "productos": [
     {
+      "id": "1276080310",
+      "title": "Estante Big Board Precintado",
+      "price": 13.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/qt/__/c10420p1276080310/i6581327516.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/estante-big-board-precintado-1276080310",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1276078566",
+      "title": "Manoplas Legión o Regulares",
+      "price": 25.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/qs/__/c10420p1276078566/i6581319293.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/manoplas-legion-o-regulares-1276078566",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1276075100",
+      "title": "Objeto religioso",
+      "price": 11.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/qp/__/c10420p1276075100/i6581299560.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/objeto-religioso-1276075100",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1276074180",
+      "title": "Objeto religioso antiguo",
+      "price": 11.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/qp/__/c10420p1276074180/i6581294992.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/objeto-religioso-antiguo-1276074180",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1276072883",
       "title": "Cuadro Religioso Última Cena de Jesús",
       "price": 50.5,
@@ -8569,6 +8617,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 714,
-  "actualizado": "2026-06-26T17:32:53"
+  "total": 718,
+  "actualizado": "2026-06-26T18:02:49"
 }
