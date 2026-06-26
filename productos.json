@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1275988282",
+      "title": "Figura Pantera Decorativa",
+      "price": 10.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/ou/__/c10420p1275988282/i6580813883.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/figura-pantera-decorativa-1275988282",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Hogar"
+    },
+    {
+      "id": "1275984939",
+      "title": "Reloj Pulsera Lanscotte Swarovski",
+      "price": 149.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/os/__/c10420p1275984939/i6580795394.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/reloj-pulsera-lanscotte-swarovski-1275984939",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Joyería y Complementos"
+    },
+    {
       "id": "1275981409",
       "title": "MotoGP 25 PS4",
       "price": 20.5,
@@ -2219,18 +2243,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Hogar"
-    },
-    {
-      "id": "1261896294",
-      "title": "Radio CD Cassette Panasonic RX-DS10 Negro",
-      "price": 65.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kv/at/__/c10420p1261896294/i6494757718.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/radio-cd-cassette-panasonic-rx-ds10-negro-1261896294",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
     },
     {
       "id": "1262734680",
@@ -5315,18 +5327,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1271125726",
-      "title": "Portátil Prixton Netbook Pro 15,6\" 4GB RAM 128GB.",
-      "price": 159.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l0/sm/__/c10420p1271125726/i6552831044.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/portatil-prixton-netbook-pro-15-6-4gb-ram-128gb-1271125726",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Informática"
     },
     {
       "id": "1271120442",
@@ -8510,5 +8510,5 @@
     }
   ],
   "total": 709,
-  "actualizado": "2026-06-26T12:32:49"
+  "actualizado": "2026-06-26T13:02:35"
 }
