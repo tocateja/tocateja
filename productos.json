@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1275960657",
+      "title": "Monitor Dell LED 24\"",
+      "price": 85.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/o9/__/c10420p1275960657/i6580660704.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/monitor-dell-led-24-1275960657",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Informática"
+    },
+    {
+      "id": "1247258437",
+      "title": "Gourmax Pro Airfryer Horno Plancha",
+      "price": 225.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/km/l2/__/c10420p1247258437/i6400101477.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/gourmax-pro-airfryer-horno-plancha-1247258437",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Electrodomésticos"
+    },
+    {
       "id": "1244299174",
       "title": "Destacado",
       "price": 185.0,
@@ -8473,6 +8497,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 706,
-  "actualizado": "2026-06-26T11:02:31"
+  "total": 708,
+  "actualizado": "2026-06-26T11:32:47"
 }
