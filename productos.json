@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1276072883",
+      "title": "Cuadro Religioso Última Cena de Jesús",
+      "price": 50.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/qo/__/c10420p1276072883/i6581288676.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/cuadro-religioso-ultima-cena-de-jesus-1276072883",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Hogar"
+    },
+    {
+      "id": "1257298832",
+      "title": "CD Prince - The Controversy",
+      "price": 6.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ks/k9/__/c10420p1257298832/i6463414765.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/cd-prince-the-controversy-1257298832",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1270896860",
       "title": "Altavoz Bluetooth Sony SRS-XB31 Azul/Verde",
       "price": 49.95,
@@ -2744,18 +2768,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/kt/kg/__/c10420p1258986315/i6475261314.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/cd-georges-moustaki-le-meteque-1258986315",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
-      "id": "1257298832",
-      "title": "CD Prince - The Controversy",
-      "price": 6.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ks/k9/__/c10420p1257298832/i6463414765.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/cd-prince-the-controversy-1257298832",
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
@@ -8557,6 +8569,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 713,
-  "actualizado": "2026-06-26T17:02:39"
+  "total": 714,
+  "actualizado": "2026-06-26T17:32:53"
 }
