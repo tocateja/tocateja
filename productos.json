@@ -1,6 +1,78 @@
 {
   "productos": [
     {
+      "id": "1275998922",
+      "title": "Cuadro Punto de Cruz Flores Cestas",
+      "price": 5.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/p3/__/c10420p1275998922/i6580874073.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/cuadro-punto-de-cruz-flores-cestas-1275998922",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Hogar"
+    },
+    {
+      "id": "1275997044",
+      "title": "Figura Decorativa Mujer Época",
+      "price": 13.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/p1/__/c10420p1275997044/i6580863056.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/figura-decorativa-mujer-epoca-1275997044",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Hogar"
+    },
+    {
+      "id": "1275995533",
+      "title": "Objeto religioso",
+      "price": 11.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/p0/__/c10420p1275995533/i6580853945.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/objeto-religioso-1275995533",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1275981409",
+      "title": "MotoGP 25 PS4",
+      "price": 20.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/op/__/c10420p1275981409/i6580776837.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/motogp-25-ps4-1275981409",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1275993375",
+      "title": "Placa Retrato Jesucristo Metal",
+      "price": 16.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/oy/__/c10420p1275993375/i6580842062.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/placa-retrato-jesucristo-metal-1275993375",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1275991887",
+      "title": "2 Figuras de Alabastro",
+      "price": 95.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/ox/__/c10420p1275991887/i6580833203.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/2-figuras-de-alabastro-1275991887",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Hogar"
+    },
+    {
       "id": "1275988282",
       "title": "Figura Pantera Decorativa",
       "price": 10.5,
@@ -23,18 +95,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Joyería y Complementos"
-    },
-    {
-      "id": "1275981409",
-      "title": "MotoGP 25 PS4",
-      "price": 20.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l3/op/__/c10420p1275981409/i6580776837.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/motogp-25-ps4-1275981409",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
     },
     {
       "id": "1275980529",
@@ -584,18 +644,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/l3/b1/__/c10420p1275344085/i6577116698.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/reloj-pulsera-casio-1275344085",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Joyería y Complementos"
-    },
-    {
-      "id": "1275338535",
-      "title": "Reloj Pulsera Casio",
-      "price": 79.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l3/ax/__/c10420p1275338535/i6577089577.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/reloj-1275338535",
       "location": "Pamplona",
       "condition": "",
       "category": "Joyería y Complementos"
@@ -8509,6 +8557,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 709,
-  "actualizado": "2026-06-26T13:02:35"
+  "total": 713,
+  "actualizado": "2026-06-26T13:32:42"
 }
