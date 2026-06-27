@@ -1,6 +1,114 @@
 {
   "productos": [
     {
+      "id": "1234481991",
+      "title": "Exprimidor Nexia Premium 40W 700ml",
+      "price": 13.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ke/z8/__/c10420p1234481991/i6318336861.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/exprimidor-nexia-premium-40w-700ml-1234481991",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Electrodomésticos"
+    },
+    {
+      "id": "1276263916",
+      "title": "CD y DVD Concierto Morat Madrid Balas Perdidas",
+      "price": 40.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/ur/__/c10420p1276263916/i6582412391.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/cd-y-dvd-concierto-morat-madrid-balas-perdidas-1276263916",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1276259926",
+      "title": "iPhone 14 Plus 128GB",
+      "price": 399.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/uo/__/c10420p1276259926/i6582393116.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/iphone-14-plus-128gb-1276259926",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
+      "id": "1276255524",
+      "title": "Cómic Street Fighter Volúmen Uno Hadoken",
+      "price": 10.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/ul/__/c10420p1276255524/i6582371170.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/comic-street-fighter-volumen-uno-hadoken-1276255524",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1276254274",
+      "title": "Cómic Daredevil De Mark Waid La sonrisa del diablo",
+      "price": 10.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/uk/__/c10420p1276254274/i6582364858.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/comic-daredevil-de-mark-waid-la-sonrisa-del-diablo-1276254274",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1276253496",
+      "title": "Cómic Daredevil de Mark Waid Pecado original",
+      "price": 10.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/uj/__/c10420p1276253496/i6582361171.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/comic-daredevil-de-mark-waid-pecado-original-1276253496",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1276250824",
+      "title": "Scott Pilgrim. Su vida y sus cosas Vol. 1",
+      "price": 6.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/uh/__/c10420p1276250824/i6582347343.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/scott-pilgrim-su-vida-y-sus-cosas-vol-1-1276250824",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1276245411",
+      "title": "Misal Latino Castellano",
+      "price": 20.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/ud/__/c10420p1276245411/i6582320016.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/misal-latino-castellano-1276245411",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1268883920",
+      "title": "Samsung Galaxy Z Fold 6",
+      "price": 595.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kz/gl/__/c10420p1268883920/i6538682794.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/samsung-galaxy-z-fold-6-1268883920",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
       "id": "1269208108",
       "title": "Antena Amplificada AM/FM Konig",
       "price": 19.5,
@@ -445,18 +553,6 @@
       "category": "Informática"
     },
     {
-      "id": "1234481991",
-      "title": "Exprimidor Nexia Premium 40W 700ml",
-      "price": 11.99,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ke/z8/__/c10420p1234481991/i6318336861.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/exprimidor-nexia-premium-40w-700ml-1234481991",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Electrodomésticos"
-    },
-    {
       "id": "1275448132",
       "title": "Luz Bici Blackburn Dayblazer 550 Precintado",
       "price": 20.5,
@@ -889,18 +985,6 @@
       "category": "Joyería y Complementos"
     },
     {
-      "id": "1275054704",
-      "title": "Teclado Gaming Razer",
-      "price": 40.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l3/4u/__/c10420p1275054704/i6575329311.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/teclado-gaming-razer-1275054704",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
       "id": "781663189",
       "title": "TOCATEJA",
       "price": 0.0,
@@ -1139,18 +1223,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
-    },
-    {
-      "id": "1274757472",
-      "title": "Altavoz Bluetooth Ortizan",
-      "price": 29.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l2/yh/__/c10420p1274757472/i6573555112.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/altavoz-bluetooth-ortizan-1274757472",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
     },
     {
       "id": "1259771646",
@@ -1415,18 +1487,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Electrodomésticos"
-    },
-    {
-      "id": "1268883920",
-      "title": "Samsung Galaxy Z Fold 6",
-      "price": 595.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kz/gl/__/c10420p1268883920/i6538682794.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/samsung-galaxy-z-fold-6-1268883920",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
     },
     {
       "id": "1273952385",
@@ -1799,18 +1859,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
-    },
-    {
-      "id": "1244746181",
-      "title": "Prismáticos Solognac 8x25",
-      "price": 13.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kl/38/__/c10420p1244746181/i6385085502.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/prismaticos-solognac-8x25-1244746181",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Deporte"
     },
     {
       "id": "1145170093",
@@ -3865,18 +3913,6 @@
       "category": "Libros, Cómics y Revistas"
     },
     {
-      "id": "1224766943",
-      "title": "Black Paradox (Flexibook)",
-      "price": 9.95,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/k9/70/__/c10420p1224766943/i6253314661.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/black-paradox-flexibook-1224766943",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
       "id": "1247466866",
       "title": "Auriculares JBL Tune 760 NC Bluetooth Negro",
       "price": 51.5,
@@ -5701,18 +5737,6 @@
       "category": "Música e Instrumentos"
     },
     {
-      "id": "1245101054",
-      "title": "Consola PS5 Edición Digital Blanca",
-      "price": 365.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kl/au/__/c10420p1245101054/i6387320118.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/consola-ps5-edicion-digital-blanca-1245101054",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
       "id": "1244846102",
       "title": "Samsung Tab S7 FE 5G 12.4 Gris",
       "price": 265.0,
@@ -6037,18 +6061,6 @@
       "category": "Hogar"
     },
     {
-      "id": "1159914014",
-      "title": "Maniquí Hombre Negro Sentado",
-      "price": 95.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/j6/kz/__/c10420p1159914014/i5842955985.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/maniqui-hombre-negro-sentado-1159914014",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Hogar"
-    },
-    {
       "id": "1166665204",
       "title": "Zipi y Zape. Detectives en acción Comic",
       "price": 8.5,
@@ -6059,18 +6071,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1159917729",
-      "title": "Maniquí Hombre Negro - Expositor",
-      "price": 85.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/j6/l2/__/c10420p1159917729/i5842974358.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/maniqui-hombre-negro-expositor-1159917729",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Hogar"
     },
     {
       "id": "1166663201",
@@ -8594,5 +8594,5 @@
     }
   ],
   "total": 716,
-  "actualizado": "2026-06-27T02:03:12"
+  "actualizado": "2026-06-27T14:03:09"
 }
