@@ -362,7 +362,7 @@
     },
     {
       "id": "1244299174",
-      "title": "Destacado",
+      "title": "Escarchador copas Sontec Pro",
       "price": 185.0,
       "currency": "EUR",
       "status": "available",
@@ -374,7 +374,7 @@
     },
     {
       "id": "1275469055",
-      "title": "Destacado",
+      "title": "Teclado Electrónico Yamaha 61 Teclas",
       "price": 575.0,
       "currency": "EUR",
       "status": "available",
@@ -382,7 +382,7 @@
       "url": "https://es.wallapop.com/item/teclado-electronico-yamaha-61-teclas-1275469055",
       "location": "Pamplona",
       "condition": "",
-      "category": "Otros"
+      "category": "Informática"
     },
     {
       "id": "1275952429",
@@ -8582,5 +8582,5 @@
     }
   ],
   "total": 715,
-  "actualizado": "2026-06-28T02:03:46"
+  "actualizado": "2026-06-28T14:03:03"
 }
