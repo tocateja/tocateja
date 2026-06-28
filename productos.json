@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1268883920",
+      "title": "Samsung Galaxy Z Fold 6",
+      "price": 595.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kz/gl/__/c10420p1268883920/i6538682794.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/samsung-galaxy-z-fold-6-1268883920",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
+      "id": "1274722785",
+      "title": "Linterna LED Wurth Precintado",
+      "price": 31.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l2/xq/__/c10420p1274722785/i6573357939.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/linterna-led-wurth-precintado-1274722785",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1234481991",
       "title": "Exprimidor Nexia Premium 40W 700ml",
       "price": 13.5,
@@ -95,18 +119,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1268883920",
-      "title": "Samsung Galaxy Z Fold 6",
-      "price": 595.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kz/gl/__/c10420p1268883920/i6538682794.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/samsung-galaxy-z-fold-6-1268883920",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
     },
     {
       "id": "1269208108",
@@ -1403,18 +1415,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Joyería y Complementos"
-    },
-    {
-      "id": "1274722785",
-      "title": "Linterna LED Wurth Precintado",
-      "price": 31.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l2/xq/__/c10420p1274722785/i6573357939.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/linterna-led-wurth-precintado-1274722785",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
     },
     {
       "id": "1274720938",
@@ -3095,18 +3095,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Electrodomésticos"
-    },
-    {
-      "id": "1235171042",
-      "title": "Baliza Geolocalizada V16 Certificada DGT",
-      "price": 29.95,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kf/e0/__/c10420p1235171042/i6322483036.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/baliza-geolocalizada-v16-certificada-dgt-1235171042",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Motor"
     },
     {
       "id": "1199373710",
@@ -8593,6 +8581,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 716,
-  "actualizado": "2026-06-27T14:03:09"
+  "total": 715,
+  "actualizado": "2026-06-28T02:03:46"
 }
