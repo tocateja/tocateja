@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1276940473",
+      "title": "Samsung Galaxy Watch4 Classic Negro/Amarillo",
+      "price": 99.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l4/99/__/c10420p1276940473/i6585863072.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/samsung-galaxy-watch4-classic-negro-amarillo-1276940473",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
       "id": "1276882760",
       "title": "Barra de sonido Xiaomi",
       "price": 59.0,
@@ -3683,18 +3695,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1244464022",
-      "title": "Barra de Sonido JBL BAR 2.0 All-in-One MK2",
-      "price": 110.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kk/x6/__/c10420p1244464022/i6383343003.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/barra-de-sonido-jbl-bar-2-0-all-in-one-mk2-1244464022",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "TV y Audio"
     },
     {
       "id": "1252347977",
@@ -8558,5 +8558,5 @@
     }
   ],
   "total": 713,
-  "actualizado": "2026-06-29T14:04:17"
+  "actualizado": "2026-06-29T17:03:12"
 }
