@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1276882760",
+      "title": "Barra de sonido Xiaomi",
+      "price": 59.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l4/81/__/c10420p1276882760/i6585563938.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/barra-de-sonido-xiaomi-1276882760",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
+      "id": "1270896860",
+      "title": "Altavoz Bluetooth Sony SRS-XB31 Azul/Verde",
+      "price": 49.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l0/nq/__/c10420p1270896860/i6551291811.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/altavoz-bluetooth-sony-srs-xb31-azul-verde-1270896860",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
       "id": "1276848257",
       "title": "Cámara iSmartAlarm Spot+ 1080P",
       "price": 10.5,
@@ -299,18 +323,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1270896860",
-      "title": "Altavoz Bluetooth Sony SRS-XB31 Azul/Verde",
-      "price": 49.95,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l0/nq/__/c10420p1270896860/i6551291811.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/altavoz-bluetooth-sony-srs-xb31-azul-verde-1270896860",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
     },
     {
       "id": "1275998922",
@@ -8557,6 +8569,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 713,
-  "actualizado": "2026-06-29T11:33:10"
+  "total": 714,
+  "actualizado": "2026-06-29T13:32:40"
 }
