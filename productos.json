@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1276982134",
+      "title": "Apple Watch Series 10 46MM GPS+ Cell",
+      "price": 249.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l4/a5/__/c10420p1276982134/i6586072835.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/apple-watch-series-10-46mm-gps--cell-1276982134",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
       "id": "1276940473",
       "title": "Samsung Galaxy Watch4 Classic Negro/Amarillo",
       "price": 99.0,
@@ -59,18 +71,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Motor"
-    },
-    {
-      "id": "1276841628",
-      "title": "Consola PS4 Slim 500GB",
-      "price": 99.95,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l4/75/__/c10420p1276841628/i6585335341.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/consola-ps4-slim-500gb-1276841628",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
     },
     {
       "id": "1206850100",
@@ -3455,18 +3455,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Móviles y Smartwatches"
-    },
-    {
-      "id": "1254228207",
-      "title": "Grand Theft Auto V PS4",
-      "price": 17.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kq/qg/__/c10420p1254228207/i6445380419.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/grand-theft-auto-v-ps4-1254228207",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
     },
     {
       "id": "1254186594",
@@ -8533,6 +8521,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 711,
-  "actualizado": "2026-06-29T18:03:47"
+  "total": 710,
+  "actualizado": "2026-06-29T19:02:50"
 }
