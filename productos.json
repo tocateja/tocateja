@@ -1,6 +1,54 @@
 {
   "productos": [
     {
+      "id": "1206850100",
+      "title": "Samsung Galaxy S25 FE Precintado",
+      "price": 390.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/jy/iz/__/c10420p1206850100/i6140548232.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/samsung-galaxy-s25-fe-precintado-1206850100",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
+      "id": "1245462065",
+      "title": "Teclado Gaming Corsair K70 RGB PRO Negro",
+      "price": 59.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kl/ik/__/c10420p1245462065/i6389589826.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/teclado-gaming-corsair-k70-rgb-pro-negro-1245462065",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1230147534",
+      "title": "FCS Flight Pack Thrustmaster T16000M",
+      "price": 125.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kc/eb/__/c10420p1230147534/i6295059980.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/thrustmaster-simulador-de-vuelo-1230147534",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1266377670",
+      "title": "Samsung Galaxy S25 FE 128GB",
+      "price": 390.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kx/yv/__/c10420p1266377670/i6521853915.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/samsung-galaxy-s25-fe-128gb-1266377670",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
       "id": "1268883920",
       "title": "Samsung Galaxy Z Fold 6",
       "price": 595.0,
@@ -1225,18 +1273,6 @@
       "category": "TV y Audio"
     },
     {
-      "id": "1245462065",
-      "title": "Teclado Gaming Corsair K70 RGB PRO Negro",
-      "price": 59.95,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kl/ik/__/c10420p1245462065/i6389589826.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/teclado-gaming-corsair-k70-rgb-pro-negro-1245462065",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
       "id": "1259771646",
       "title": "Altavoz Bluetooth Marshall Emberton II Negro/Dorad",
       "price": 99.99,
@@ -1715,18 +1751,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Antigüedades y Coleccionismo"
-    },
-    {
-      "id": "1206850100",
-      "title": "Samsung Galaxy S25 FE Precintado",
-      "price": 390.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/jy/iz/__/c10420p1206850100/i6140548232.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/samsung-galaxy-s25-fe-precintado-1206850100",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
     },
     {
       "id": "1273256104",
@@ -3155,18 +3179,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Herramientas"
-    },
-    {
-      "id": "1254209715",
-      "title": "Juego PS4 PES 2016 Edición Day One",
-      "price": 9.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kq/q2/__/c10420p1254209715/i6445287584.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/juego-ps4-pes-2016-edicion-day-one-1254209715",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
     },
     {
       "id": "1254242411",
@@ -5269,18 +5281,6 @@
       "category": "Música e Instrumentos"
     },
     {
-      "id": "1266377670",
-      "title": "Samsung Galaxy S25 FE 128GB",
-      "price": 390.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kx/yv/__/c10420p1266377670/i6521853915.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/samsung-galaxy-s25-fe-128gb-1266377670",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
-    },
-    {
       "id": "1271424202",
       "title": "Tado Bridge X Conector Dispositivos",
       "price": 30.5,
@@ -6781,18 +6781,6 @@
       "category": "Gaming"
     },
     {
-      "id": "1268875133",
-      "title": "Dragon Ball Z Kakarot PS4",
-      "price": 10.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kz/ge/__/c10420p1268875133/i6538624081.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/dragon-ball-z-kakarot-ps4-1268875133",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
       "id": "1268872352",
       "title": "Fifa 21 PS4 (PlayStation 4)",
       "price": 4.5,
@@ -6887,18 +6875,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Motor"
-    },
-    {
-      "id": "1230147534",
-      "title": "FCS Flight Pack Thrustmaster T16000M",
-      "price": 125.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kc/eb/__/c10420p1230147534/i6295059980.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/thrustmaster-simulador-de-vuelo-1230147534",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
     },
     {
       "id": "1252535331",
@@ -8581,6 +8557,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 715,
-  "actualizado": "2026-06-28T14:03:03"
+  "total": 713,
+  "actualizado": "2026-06-29T11:02:50"
 }
