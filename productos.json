@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1277283557",
+      "title": "Calibre Pie de Rey Mitutoyo Para interior Piezas",
+      "price": 69.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l4/gm/__/c10420p1277283557/i6587788702.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/calibre-pie-de-rey-mitutoyo-para-interior-piezas-1277283557",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1271120442",
       "title": "Embrujadas Colección Definitiva DVD",
       "price": 99.99,
@@ -5341,18 +5353,6 @@
       "category": "Gaming"
     },
     {
-      "id": "1196554287",
-      "title": "Vinilo Mancini's Angels - Banda Sonora",
-      "price": 7.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/js/eb/__/c10420p1196554287/i6053923106.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/vinilo-mancini-s-angels-banda-sonora-1196554287",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
-    },
-    {
       "id": "1194259278",
       "title": "Vinilo Liza Minnelli - Results",
       "price": 6.5,
@@ -8450,5 +8450,5 @@
     }
   ],
   "total": 704,
-  "actualizado": "2026-06-30T18:02:46"
+  "actualizado": "2026-06-30T18:32:42"
 }
