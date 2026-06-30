@@ -1,18 +1,6 @@
 {
   "productos": [
     {
-      "id": "1274829810",
-      "title": "Kirby Air Riders Nintendo Switch 2",
-      "price": 39.95,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l3/00/__/c10420p1274829810/i6573950035.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/kirby-air-riders-nintendo-switch-2-1274829810",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
       "id": "1276250824",
       "title": "Scott Pilgrim. Su vida y sus cosas Vol. 1",
       "price": 6.5,
@@ -7729,18 +7717,6 @@
       "category": "Gaming"
     },
     {
-      "id": "1156143870",
-      "title": "Ghost Recon Breakpoint Xbox One",
-      "price": 6.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/j4/c6/__/c10420p1156143870/i5819757325.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/ghost-recon-breakpoint-xbox-one-1156143870",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
       "id": "1156144472",
       "title": "The Division-  Xbox One",
       "price": 6.5,
@@ -8497,6 +8473,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 708,
-  "actualizado": "2026-06-30T10:32:45"
+  "total": 706,
+  "actualizado": "2026-06-30T11:32:50"
 }
