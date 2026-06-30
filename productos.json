@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1274829810",
+      "title": "Kirby Air Riders Nintendo Switch 2",
+      "price": 39.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/00/__/c10420p1274829810/i6573950035.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/kirby-air-riders-nintendo-switch-2-1274829810",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1276250824",
+      "title": "Scott Pilgrim. Su vida y sus cosas Vol. 1",
+      "price": 6.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/uh/__/c10420p1276250824/i6582347343.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/scott-pilgrim-su-vida-y-sus-cosas-vol-1-1276250824",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1276982134",
       "title": "Apple Watch Series 10 46MM GPS+ Cell",
       "price": 249.0,
@@ -215,18 +239,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1276250824",
-      "title": "Scott Pilgrim. Su vida y sus cosas Vol. 1",
-      "price": 6.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l3/uh/__/c10420p1276250824/i6582347343.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/scott-pilgrim-su-vida-y-sus-cosas-vol-1-1276250824",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
     },
     {
       "id": "1276245411",
@@ -1177,18 +1189,6 @@
       "category": "Gaming"
     },
     {
-      "id": "1274829810",
-      "title": "Kirby Air Riders Nintendo Switch 2",
-      "price": 41.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l3/00/__/c10420p1274829810/i6573950035.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/kirby-air-riders-nintendo-switch-2-1274829810",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
       "id": "1274828019",
       "title": "Disney Art Academy Nintendo 3DS",
       "price": 6.5,
@@ -1763,18 +1763,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1273230988",
-      "title": "Plancha de pelo GHD",
-      "price": 99.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l2/1r/__/c10420p1273230988/i6565247219.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/plancha-de-pelo-ghd-1273230988",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Electrodomésticos"
     },
     {
       "id": "1273225059",
@@ -5269,18 +5257,6 @@
       "category": "Gaming"
     },
     {
-      "id": "1271417307",
-      "title": "Amplificador Guitarra Eleca EG-10J(OD)",
-      "price": 33.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l0/yv/__/c10420p1271417307/i6554620426.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/amplificador-guitarra-eleca-eg-10j-od-1271417307",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
-    },
-    {
       "id": "1199407298",
       "title": "Juego Lego Marvel Vengadores PSVita Precintado",
       "price": 19.5,
@@ -8521,6 +8497,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 710,
-  "actualizado": "2026-06-29T19:02:50"
+  "total": 708,
+  "actualizado": "2026-06-30T10:32:45"
 }
