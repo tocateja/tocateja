@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1265968476",
+      "title": "Consola Xbox Series X + Mando Rojo",
+      "price": 370.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kx/q3/__/c10420p1265968476/i6519177422.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/consola-xbox-series-x---mando-rojo-1265968476",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
       "id": "1276250824",
       "title": "Scott Pilgrim. Su vida y sus cosas Vol. 1",
       "price": 6.5,
@@ -2183,18 +2195,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Móviles y Smartwatches"
-    },
-    {
-      "id": "1265968476",
-      "title": "Consola Xbox Series X + Mando Rojo",
-      "price": 370.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kx/q3/__/c10420p1265968476/i6519177422.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/consola-xbox-series-x---mando-rojo-1265968476",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
     },
     {
       "id": "1266664915",
@@ -6805,18 +6805,6 @@
       "category": "Libros, Cómics y Revistas"
     },
     {
-      "id": "1254321125",
-      "title": "Móvil OPPO Reno14 F 5G 256GB",
-      "price": 195.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kq/sg/__/c10420p1254321125/i6445938378.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/movil-oppo-reno14-f-5g-256gb-1254321125",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
-    },
-    {
       "id": "1240130407",
       "title": "Muñeca Monster high Frankie Stein (Precintada)",
       "price": 18.5,
@@ -8461,6 +8449,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 705,
-  "actualizado": "2026-06-30T12:02:37"
+  "total": 704,
+  "actualizado": "2026-06-30T17:32:33"
 }
