@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1277482157",
+      "title": "Pinza Amperimétrica Vintage Kyoritsu",
+      "price": 26.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l4/kv/__/c10420p1277482157/i6589121327.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/pinza-amperimetrica-vintage-kyoritsu-1277482157",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Antigüedades y Coleccionismo"
+    },
+    {
       "id": "1277471552",
       "title": "Samsung Galaxy S21 Ultra",
       "price": 275.0,
@@ -1619,18 +1631,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Motor"
-    },
-    {
-      "id": "1273814533",
-      "title": "Consola Nintendo 2DS",
-      "price": 69.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l2/e9/__/c10420p1273814533/i6568635666.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/consola-nintendo-2ds-1273814533",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
     },
     {
       "id": "1273812685",
@@ -8402,5 +8402,5 @@
     }
   ],
   "total": 700,
-  "actualizado": "2026-07-01T11:03:14"
+  "actualizado": "2026-07-01T11:32:51"
 }
