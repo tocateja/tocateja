@@ -1,6 +1,66 @@
 {
   "productos": [
     {
+      "id": "1277490851",
+      "title": "LIBRO DE INGLÉS FUTURE PROSPECTS 1",
+      "price": 11.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l4/l2/__/c10420p1277490851/i6589174651.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/libro-de-ingles-future-prospects-1-1277490851",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1277489107",
+      "title": "Transportador de ángulos Mitutoyo",
+      "price": 59.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l4/l0/__/c10420p1277489107/i6589163462.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/transportador-de-angulos-mitutoyo-1277489107",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1277488409",
+      "title": "Móvil Honor 200",
+      "price": 199.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l4/l0/__/c10420p1277488409/i6589160197.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/movil-honor-200-1277488409",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
+      "id": "1277488212",
+      "title": "Samsung Galaxy Buds3",
+      "price": 75.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l4/l0/__/c10420p1277488212/i6589157860.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/samsung-galaxy-buds3-1277488212",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
+      "id": "1277487446",
+      "title": "Cámara Endoscópica Ferrex",
+      "price": 26.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l4/kz/__/c10420p1277487446/i6589152979.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/camara-endoscopica-ferrex-1277487446",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Foto y Vídeo"
+    },
+    {
       "id": "1277482157",
       "title": "Pinza Amperimétrica Vintage Kyoritsu",
       "price": 26.5,
@@ -11,18 +71,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Antigüedades y Coleccionismo"
-    },
-    {
-      "id": "1277471552",
-      "title": "Samsung Galaxy S21 Ultra",
-      "price": 275.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l4/kn/__/c10420p1277471552/i6589052164.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/samsung-galaxy-s21-ultra-1277471552",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
     },
     {
       "id": "1259553843",
@@ -8401,6 +8449,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 700,
-  "actualizado": "2026-07-01T11:32:51"
+  "total": 704,
+  "actualizado": "2026-07-01T12:03:05"
 }
