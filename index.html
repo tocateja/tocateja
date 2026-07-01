@@ -33,6 +33,9 @@
     .card-img .placeholder { width: 100%; height: 100%; display: flex; align-items: center; justify-content: center; font-size: 2.8rem; }
     .card-status { position: absolute; top: 10px; left: 10px; font-size: .65rem; font-weight: 500; letter-spacing: .5px; text-transform: uppercase; padding: 3px 9px; border-radius: 999px; background: var(--purple); color: white; }
     .card-status.sold { background: #aaa; }
+    .badge { position: absolute; top: 10px; left: 10px; font-size: .65rem; font-weight: 500; letter-spacing: .5px; text-transform: uppercase; padding: 3px 9px; border-radius: 999px; background: var(--purple); color: #fff; }
+    .badge.reserved { background: #f5a623; }
+    .badge.sold { background: #aaa; }
     .card-body { padding: 14px 16px 16px; display: flex; flex-direction: column; gap: 4px; flex: 1; }
     .card-title { font-size: .88rem; font-weight: 500; line-height: 1.35; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
     .card-meta { font-size: .75rem; color: var(--muted); }
@@ -299,7 +302,7 @@ function renderGrid(products) {
     const img = p.image ? `<img src="${p.image}" alt="${p.title}" loading="lazy" style="width:100%;height:100%;object-fit:cover;" onerror="this.style.display='none'">` : '';
     const price = typeof p.price === 'number' ? p.price.toLocaleString('es-ES', {minimumFractionDigits: p.price % 1 ? 2 : 0, maximumFractionDigits: 2}) : p.price;
     return `<a class="card" href="${p.url}" target="_blank" rel="noopener">
-      <div class="card-img">${img}<span class="badge">${p.status === 'available' ? 'DISPONIBLE' : p.status.toUpperCase()}</span></div>
+      <div class="card-img">${img}<span class="badge${p.status === 'sold' ? ' sold' : p.status === 'reserved' ? ' reserved' : ''}">${p.status === 'sold' ? 'VENDIDO' : p.status === 'reserved' ? 'RESERVADO' : 'DISPONIBLE'}</span></div>
       <div class="card-body">
         <p class="card-title">${p.title}</p>
         <p class="card-location">${p.location || 'Pamplona'}</p>
