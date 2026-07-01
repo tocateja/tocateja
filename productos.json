@@ -145,18 +145,6 @@
       "category": "Motor"
     },
     {
-      "id": "1206850100",
-      "title": "Samsung Galaxy S25 FE Precintado",
-      "price": 390.0,
-      "currency": "EUR",
-      "status": "reserved",
-      "image": "https://cdn.wallapop.com/images/10420/jy/iz/__/c10420p1206850100/i6140548232.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/samsung-galaxy-s25-fe-precintado-1206850100",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
-    },
-    {
       "id": "1245462065",
       "title": "Teclado Gaming Corsair K70 RGB PRO Negro",
       "price": 59.95,
@@ -8425,6 +8413,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 702,
-  "actualizado": "2026-07-01T02:29:26"
+  "total": 701,
+  "actualizado": "2026-07-01T08:03:21"
 }
