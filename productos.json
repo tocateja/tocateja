@@ -1,6 +1,42 @@
 {
   "productos": [
     {
+      "id": "1277522024",
+      "title": "Reloj solar antiguo",
+      "price": 30.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l4/lq/__/c10420p1277522024/i6589363467.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/reloj-solar-antiguo-1277522024",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Joyería y Complementos"
+    },
+    {
+      "id": "1277515985",
+      "title": "Fallout 4 Xbox One",
+      "price": 9.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l4/ll/__/c10420p1277515985/i6589323806.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/fallout-4-xbox-one-1277515985",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1277514857",
+      "title": "Tales of Vesperia Definitive Edition Xbox One",
+      "price": 16.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l4/lk/__/c10420p1277514857/i6589315948.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/tales-of-vesperia-definitive-edition-xbox-one-1277514857",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
       "id": "1277512991",
       "title": "Fallout 76 Xbox One",
       "price": 5.5,
@@ -8509,6 +8545,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 709,
-  "actualizado": "2026-07-01T13:02:51"
+  "total": 712,
+  "actualizado": "2026-07-01T13:32:51"
 }
