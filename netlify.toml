@@ -1,0 +1,4 @@
+[build]
+  # Omite el build cuando un commit solo toca los datos (productos.json / resenas.json),
+  # ya que la web los lee en vivo desde la CDN de GitHub (no dependen del deploy).
+  ignore = "git diff --quiet $CACHED_COMMIT_REF $COMMIT_REF -- . ':!productos.json' ':!resenas.json'"
