@@ -1,6 +1,102 @@
 {
   "productos": [
     {
+      "id": "1277512991",
+      "title": "Fallout 76 Xbox One",
+      "price": 5.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l4/lj/__/c10420p1277512991/i6589306015.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/fallout-76-xbox-one-1277512991",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1277512116",
+      "title": "Two Point Campus Nintendo Switch Precintado",
+      "price": 6.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l4/li/__/c10420p1277512116/i6589301967.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/two-point-campus-nintendo-switch-precintado-1277512116",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1277511375",
+      "title": "The Callisto Protocol Xbox Series X",
+      "price": 9.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l4/li/__/c10420p1277511375/i6589296559.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/the-callisto-protocol-xbox-series-x-1277511375",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1277510002",
+      "title": "Assassins Creed Origins Xbox One",
+      "price": 9.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l4/lh/__/c10420p1277510002/i6589287981.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/assassins-creed-origins-xbox-one-1277510002",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1277504969",
+      "title": "Cautín Profesional JBC",
+      "price": 51.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l4/ld/__/c10420p1277504969/i6589256585.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/cautin-profesional-jbc-1277504969",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1277503231",
+      "title": "Puzzle Gigante Espacio 60x40cm Precintado",
+      "price": 7.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l4/lb/__/c10420p1277503231/i6589246442.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/puzzle-gigante-espacio-60x40cm-precintado-1277503231",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Juguetes"
+    },
+    {
+      "id": "1277500828",
+      "title": "Corona Starrett Fast Cut 152mm",
+      "price": 41.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l4/l9/__/c10420p1277500828/i6589231976.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/corona-starrett-fast-cut-152mm-1277500828",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Joyería y Complementos"
+    },
+    {
+      "id": "1277496416",
+      "title": "Lámpara Flexo Ikea Ranarp",
+      "price": 25.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l4/l6/__/c10420p1277496416/i6589205455.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/lampara-flexo-ikea-ranarp-1277496416",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Hogar"
+    },
+    {
       "id": "1277490851",
       "title": "LIBRO DE INGLÉS FUTURE PROSPECTS 1",
       "price": 11.5,
@@ -779,18 +875,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1275472131",
-      "title": "Teclado Yamaha 5 Octavas",
-      "price": 79.95,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l3/ds/__/c10420p1275472131/i6577762351.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/teclado-yamaha-5-octavas-1275472131",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Informática"
     },
     {
       "id": "1275452262",
@@ -3956,18 +4040,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/kh/5q/__/c10420p1238145061/i6344443989.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/juego-de-habilidad-de-madera-1238145061",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Juguetes"
-    },
-    {
-      "id": "1237943935",
-      "title": "Juego de habilidad de madera",
-      "price": 5.95,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kh/1f/__/c10420p1237943935/i6343012981.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/juego-de-habilidad-de-madera-1237943935",
       "location": "Pamplona",
       "condition": "",
       "category": "Juguetes"
@@ -7309,18 +7381,6 @@
       "category": "Foto y Vídeo"
     },
     {
-      "id": "1227239823",
-      "title": "Cuadro Fuente Navarrería Pamplona",
-      "price": 7.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ka/o0/__/c10420p1227239823/i6271145434.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/cuadro-fuente-navarreria-pamplona-1227239823",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Hogar"
-    },
-    {
       "id": "1186476432",
       "title": "Colección Monedas 30 Ligas 30 Monedas Marca",
       "price": 41.5,
@@ -8449,6 +8509,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 704,
-  "actualizado": "2026-07-01T12:03:05"
+  "total": 709,
+  "actualizado": "2026-07-01T13:02:51"
 }
