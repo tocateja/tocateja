@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1277851870",
+      "title": "Lámpara de lluvia vintage",
+      "price": 40.5,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/l4/ss/__/c10420p1277851870/i6591952628.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/lampara-de-lluvia-vintage-1277851870",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Hogar"
+    },
+    {
+      "id": "1277490851",
+      "title": "LIBRO DE INGLÉS FUTURE PROSPECTS 1",
+      "price": 11.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l4/l2/__/c10420p1277490851/i6589174651.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/libro-de-ingles-future-prospects-1-1277490851",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
       "id": "1277869757",
       "title": "Guante de Béisbol Rawlings",
       "price": 31.5,
@@ -35,18 +59,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Informática"
-    },
-    {
-      "id": "1277851870",
-      "title": "Lámpara de lluvia vintage",
-      "price": 40.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l4/ss/__/c10420p1277851870/i6591952628.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/lampara-de-lluvia-vintage-1277851870",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Hogar"
     },
     {
       "id": "1276882760",
@@ -203,18 +215,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Hogar"
-    },
-    {
-      "id": "1277490851",
-      "title": "LIBRO DE INGLÉS FUTURE PROSPECTS 1",
-      "price": 11.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l4/l2/__/c10420p1277490851/i6589174651.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/libro-de-ingles-future-prospects-1-1277490851",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
     },
     {
       "id": "1277489107",
@@ -428,18 +428,6 @@
       "status": "reserved",
       "image": "https://cdn.wallapop.com/images/10420/kx/yv/__/c10420p1266377670/i6521853915.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/samsung-galaxy-s25-fe-128gb-1266377670",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
-    },
-    {
-      "id": "1268883920",
-      "title": "Samsung Galaxy Z Fold 6",
-      "price": 595.0,
-      "currency": "EUR",
-      "status": "reserved",
-      "image": "https://cdn.wallapop.com/images/10420/kz/gl/__/c10420p1268883920/i6538682794.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/samsung-galaxy-z-fold-6-1268883920",
       "location": "Pamplona",
       "condition": "",
       "category": "Móviles y Smartwatches"
@@ -8377,6 +8365,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 698,
-  "actualizado": "2026-07-02T13:03:01"
+  "total": 697,
+  "actualizado": "2026-07-02T14:33:03"
 }
