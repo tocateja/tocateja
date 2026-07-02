@@ -1825,18 +1825,6 @@
       "category": "Otros"
     },
     {
-      "id": "1273225059",
-      "title": "Consola Xbox Series S 512gb",
-      "price": 195.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l2/1m/__/c10420p1273225059/i6565214900.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/consola-xbox-series-s-512gb-1273225059",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
       "id": "1273219431",
       "title": "Apple TV 3ª Generación",
       "price": 26.5,
@@ -2219,18 +2207,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
-    },
-    {
-      "id": "1266464713",
-      "title": "Auriculares Sony WH-1000XM6 Bluetooth Negros",
-      "price": 299.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ky/0q/__/c10420p1266464713/i6522381699.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/auriculares-sony-wh-1000xm6-bluetooth-negros-1266464713",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "TV y Audio"
     },
     {
       "id": "1262715438",
@@ -8365,6 +8341,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 697,
-  "actualizado": "2026-07-02T14:33:03"
+  "total": 695,
+  "actualizado": "2026-07-02T18:02:53"
 }
