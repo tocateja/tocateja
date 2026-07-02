@@ -1381,18 +1381,6 @@
       "category": "TV y Audio"
     },
     {
-      "id": "1259771646",
-      "title": "Altavoz Bluetooth Marshall Emberton II Negro/Dorad",
-      "price": 99.99,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ku/1a/__/c10420p1259771646/i6481459968.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/altavoz-bluetooth-marshall-emberton-ii-negro-dorad-1259771646",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
-    },
-    {
       "id": "1274751405",
       "title": "Crimpadora Profesional Phoenix Contact",
       "price": 99.0,
@@ -5413,30 +5401,6 @@
       "category": "Libros, Cómics y Revistas"
     },
     {
-      "id": "1271091295",
-      "title": "Super Humor Zipi y Zape Tomo 3",
-      "price": 10.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l0/rw/__/c10420p1271091295/i6552597308.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/super-humor-zipi-y-zape-tomo-3-1271091295",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1271090636",
-      "title": "Super Humor Zipi y Zape Tomo 4",
-      "price": 10.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l0/rv/__/c10420p1271090636/i6552592419.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/super-humor-zipi-y-zape-tomo-4-1271090636",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
       "id": "1271090084",
       "title": "Super Humor Zipi y Zape Tomo 2",
       "price": 10.5,
@@ -8341,6 +8305,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 695,
-  "actualizado": "2026-07-02T18:02:53"
+  "total": 692,
+  "actualizado": "2026-07-02T19:02:42"
 }
