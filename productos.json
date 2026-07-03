@@ -1,6 +1,42 @@
 {
   "productos": [
     {
+      "id": "1278266173",
+      "title": "Maleta + Neceser Debota & Lomba",
+      "price": 50.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l5/1o/__/c10420p1278266173/i6595938287.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/maleta---neceser-debota-lomba-1278266173",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1278257744",
+      "title": "Maleta de viaje Diesport",
+      "price": 26.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l5/1h/__/c10420p1278257744/i6595831260.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/maleta-de-viaje-diesport-1278257744",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1231688176",
+      "title": "Auriculares Inalámbricos Sennheiser RS 165 TV",
+      "price": 64.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kd/bc/__/c10420p1231688176/i6299594142.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/auriculares-inalambricos-sennheiser-rs-165-tv-1231688176",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "TV y Audio"
+    },
+    {
       "id": "1278251568",
       "title": "Sneakers Camuflaje Raw Vintage",
       "price": 16.5,
@@ -8377,6 +8413,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 698,
-  "actualizado": "2026-07-03T11:32:35"
+  "total": 701,
+  "actualizado": "2026-07-03T12:02:36"
 }
