@@ -1,6 +1,54 @@
 {
   "productos": [
     {
+      "id": "1278290926",
+      "title": "Máscara decorativa Indio",
+      "price": 13.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l5/27/__/c10420p1278290926/i6596243582.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/mascara-decorativa-indio-1278290926",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1277869757",
+      "title": "Guante de Béisbol Rawlings",
+      "price": 31.5,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/l4/t6/__/c10420p1277869757/i6592173632.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/guante-de-beisbol-rawlings-1277869757",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1278283999",
+      "title": "Protector Parachoques  Rolmovil Precintado",
+      "price": 6.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l5/22/__/c10420p1278283999/i6596155402.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/protector-parachoques-rolmovil-precintado-1278283999",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
+      "id": "1278277993",
+      "title": "TV Box GT Combo",
+      "price": 31.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l5/1x/__/c10420p1278277993/i6596088795.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/tv-box-gt-combo-1278277993",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1278266173",
       "title": "Maleta + Neceser Debota & Lomba",
       "price": 50.5,
@@ -167,18 +215,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Móviles y Smartwatches"
-    },
-    {
-      "id": "1277869757",
-      "title": "Guante de Béisbol Rawlings",
-      "price": 31.5,
-      "currency": "EUR",
-      "status": "reserved",
-      "image": "https://cdn.wallapop.com/images/10420/l4/t6/__/c10420p1277869757/i6592173632.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/guante-de-beisbol-rawlings-1277869757",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
     },
     {
       "id": "1277851870",
@@ -587,18 +623,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
-    },
-    {
-      "id": "1266377670",
-      "title": "Samsung Galaxy S25 FE 128GB",
-      "price": 390.0,
-      "currency": "EUR",
-      "status": "reserved",
-      "image": "https://cdn.wallapop.com/images/10420/kx/yv/__/c10420p1266377670/i6521853915.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/samsung-galaxy-s25-fe-128gb-1266377670",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
     },
     {
       "id": "1274722785",
@@ -8413,6 +8437,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 701,
-  "actualizado": "2026-07-03T12:02:36"
+  "total": 703,
+  "actualizado": "2026-07-03T12:34:18"
 }
