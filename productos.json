@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1278295302",
+      "title": "Auriculares Samsung Buds 3 Pro",
+      "price": 69.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l5/2a/__/c10420p1278295302/i6596302578.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/auriculares-samsung-buds-3-pro-1278295302",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "TV y Audio"
+    },
+    {
       "id": "1278290926",
       "title": "Máscara decorativa Indio",
       "price": 13.5,
@@ -623,18 +635,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
-    },
-    {
-      "id": "1274722785",
-      "title": "Linterna LED Wurth Precintado",
-      "price": 31.5,
-      "currency": "EUR",
-      "status": "reserved",
-      "image": "https://cdn.wallapop.com/images/10420/l2/xq/__/c10420p1274722785/i6573357939.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/linterna-led-wurth-precintado-1274722785",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
     },
     {
       "id": "1234481991",
@@ -8438,5 +8438,5 @@
     }
   ],
   "total": 703,
-  "actualizado": "2026-07-03T12:34:18"
+  "actualizado": "2026-07-03T13:02:56"
 }
