@@ -1,6 +1,42 @@
 {
   "productos": [
     {
+      "id": "1278251568",
+      "title": "Sneakers Camuflaje Raw Vintage",
+      "price": 16.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l5/1d/__/c10420p1278251568/i6595751008.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/sneakers-camuflaje-raw-vintage-1278251568",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Antigüedades y Coleccionismo"
+    },
+    {
+      "id": "1278247534",
+      "title": "Sneakers  Camuflaje Raw Vintage",
+      "price": 16.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l5/1a/__/c10420p1278247534/i6595697963.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/sneakers-camuflaje-raw-vintage-1278247534",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Antigüedades y Coleccionismo"
+    },
+    {
+      "id": "1278237850",
+      "title": "El Rey León Trilogía DVD",
+      "price": 21.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l5/12/__/c10420p1278237850/i6595570185.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/el-rey-leon-trilogia-dvd-1278237850",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
       "id": "1278228480",
       "title": "Juego Carmageddon 64 Nintendo 64",
       "price": 21.5,
@@ -6037,18 +6073,6 @@
       "category": "Hogar"
     },
     {
-      "id": "1231688176",
-      "title": "Auriculares Inalámbricos Sennheiser RS 165 TV",
-      "price": 64.95,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kd/bc/__/c10420p1231688176/i6299594142.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/auriculares-inalambricos-sennheiser-rs-165-tv-1231688176",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "TV y Audio"
-    },
-    {
       "id": "1239759584",
       "title": "Vinilo Amaya - Volver",
       "price": 4.0,
@@ -8353,6 +8377,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 696,
-  "actualizado": "2026-07-03T11:02:44"
+  "total": 698,
+  "actualizado": "2026-07-03T11:32:35"
 }
