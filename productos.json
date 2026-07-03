@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1278393721",
+      "title": "Nintendo 3DS XL Blanca",
+      "price": 185.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l5/4e/__/c10420p1278393721/i6596863893.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/nintendo-3ds-xl-blanca-1278393721",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
       "id": "1247444770",
       "title": "Altavoz Bluetooth LG XBOOM Negro",
       "price": 125.0,
@@ -1667,18 +1679,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Juguetes"
-    },
-    {
-      "id": "1245788568",
-      "title": "Cámara Vintage Capta Años 50",
-      "price": 25.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kl/pk/__/c10420p1245788568/i6391687790.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/camara-vintage-capta-anos-50-1245788568",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Foto y Vídeo"
     },
     {
       "id": "1268419522",
@@ -6925,18 +6925,6 @@
       "category": "Gaming"
     },
     {
-      "id": "1240479752",
-      "title": "Bicicleta Urbana Fixed Verde Fosforito",
-      "price": 135.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ki/js/__/c10420p1240479752/i6359282419.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/bicicleta-urbana-fixed-verde-fosforito-1240479752",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Deporte"
-    },
-    {
       "id": "1196464353",
       "title": "Bicicleta Estática Horizontal FM",
       "price": 135.0,
@@ -8425,6 +8413,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 702,
-  "actualizado": "2026-07-03T18:02:43"
+  "total": 701,
+  "actualizado": "2026-07-03T18:32:45"
 }
