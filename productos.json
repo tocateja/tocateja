@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1278216055",
+      "title": "Xiaomi Redmi 15C",
+      "price": 110.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l5/0l/__/c10420p1278216055/i6595270173.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/xiaomi-redmi-15c-1278216055",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
+      "id": "1278212915",
+      "title": "Samsung Galaxy A34 5G",
+      "price": 140.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l5/0j/__/c10420p1278212915/i6595226818.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/samsung-galaxy-a34-5g-1278212915",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
       "id": "1277869757",
       "title": "Guante de Béisbol Rawlings",
       "price": 31.5,
@@ -3037,18 +3061,6 @@
       "category": "Informática"
     },
     {
-      "id": "1257207443",
-      "title": "Ajedrez de Metal Dorado y Plateado",
-      "price": 69.95,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ks/ib/__/c10420p1257207443/i6462905913.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/ajedrez-de-metal-dorado-y-plateado-1257207443",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
       "id": "1234464572",
       "title": "Mopa de vapor Vileda Steam PRECINTADA",
       "price": 37.5,
@@ -3815,18 +3827,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Electrodomésticos"
-    },
-    {
-      "id": "1224772625",
-      "title": "Inhumano",
-      "price": 9.95,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/k9/74/__/c10420p1224772625/i6253367115.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/inhumano-1224772625",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
     },
     {
       "id": "1247223929",
@@ -8306,5 +8306,5 @@
     }
   ],
   "total": 692,
-  "actualizado": "2026-07-03T02:03:00"
+  "actualizado": "2026-07-03T10:32:42"
 }
