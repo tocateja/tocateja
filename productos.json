@@ -1,6 +1,198 @@
 {
   "productos": [
     {
+      "id": "1278608462",
+      "title": "Apple TV 3ª Generación",
+      "price": 24.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l5/90/__/c10420p1278608462/i6598455060.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/apple-tv-3-generacion-1278608462",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1278587940",
+      "title": "Lote comics manga Children of The Whales 1-7",
+      "price": 23.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l5/8k/__/c10420p1278587940/i6598358656.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/lote-comics-manga-children-of-the-whales-1-7-1278587940",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1278600208",
+      "title": "Cómic Manga Heaven Official's Blessing N° 1",
+      "price": 9.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l5/8u/__/c10420p1278600208/i6598417645.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/comic-manga-heaven-official-s-blessing-n-1-1278600208",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1278599475",
+      "title": "Cómic Manga Hikarunogo Volumen 1",
+      "price": 9.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l5/8t/__/c10420p1278599475/i6598414323.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/comic-manga-hikarunogo-volumen-1-1278599475",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1278598388",
+      "title": "Cómic Manga Blue Phobia Volúmen 1",
+      "price": 6.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l5/8s/__/c10420p1278598388/i6598409521.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/comic-manga-blue-phobia-volumen-1-1278598388",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1278597873",
+      "title": "Lote comics manga One Punch",
+      "price": 7.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l5/8s/__/c10420p1278597873/i6598406543.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/lote-comics-manga-one-punch-1278597873",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1278597234",
+      "title": "Cómic Manga Colorless Volumen 01",
+      "price": 6.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l5/8r/__/c10420p1278597234/i6598403784.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/comic-manga-colorless-volumen-01-1278597234",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1278593876",
+      "title": "Lote comics manga Kaiju N°8",
+      "price": 7.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l5/8p/__/c10420p1278593876/i6598386997.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/lote-comics-manga-kaiju-n8-1278593876",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1278592672",
+      "title": "Lote Comics Manga The killer Inside",
+      "price": 9.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l5/8o/__/c10420p1278592672/i6598381757.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/lote-comics-manga-the-killer-inside-1278592672",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1278590660",
+      "title": "Lote comics manga Rent a Girlfriend",
+      "price": 7.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l5/8m/__/c10420p1278590660/i6598370870.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/lote-comics-manga-rent-a-girlfriend-1278590660",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1278589494",
+      "title": "Lote comics manga Crimson Grimoire",
+      "price": 9.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l5/8l/__/c10420p1278589494/i6598365757.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/lote-comics-manga-crimson-grimoire-1278589494",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1258220512",
+      "title": "Destacado",
+      "price": 575.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kt/41/__/c10420p1258220512/i6469038989.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/camara-panasonic-lumix-dc-g100dv-negra-1258220512",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1271436046",
+      "title": "Destacado",
+      "price": 1100.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l0/za/__/c10420p1271436046/i6554735774.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/samsung-galaxy-z-fold-7-1271436046",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1275469055",
+      "title": "Destacado",
+      "price": 575.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/dq/__/c10420p1275469055/i6577746807.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/teclado-electronico-yamaha-61-teclas-1275469055",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1278552795",
+      "title": "Portátil HP 15\"",
+      "price": 369.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l5/7t/__/c10420p1278552795/i6597986409.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/portatil-hp-15-1278552795",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Informática"
+    },
+    {
+      "id": "1278547443",
+      "title": "Barra de Sonido Bose Solo 5",
+      "price": 135.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l5/7p/__/c10420p1278547443/i6597907295.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/barra-de-sonido-bose-solo-5-1278547443",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "TV y Audio"
+    },
+    {
       "id": "1278393721",
       "title": "Nintendo 3DS XL Blanca",
       "price": 185.0,
@@ -301,18 +493,6 @@
       "category": "Móviles y Smartwatches"
     },
     {
-      "id": "1277842662",
-      "title": "Freidora de aire Hoofcoaker Precintada",
-      "price": 59.95,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l4/sl/__/c10420p1277842662/i6591831810.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/freidora-de-aire-hoofcoaker-kdf-5512dt-precintada-1277842662",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Electrodomésticos"
-    },
-    {
       "id": "1277522024",
       "title": "Reloj solar antiguo",
       "price": 30.5,
@@ -541,18 +721,6 @@
       "category": "Otros"
     },
     {
-      "id": "1271120442",
-      "title": "Embrujadas Colección Definitiva DVD",
-      "price": 99.99,
-      "currency": "EUR",
-      "status": "reserved",
-      "image": "https://cdn.wallapop.com/images/10420/l0/si/__/c10420p1271120442/i6552795260.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/embrujadas-coleccion-definitiva-dvd-1271120442",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
       "id": "1277272471",
       "title": "Calibre Pie de Rey Mitutoyo Absolute Aos",
       "price": 51.5,
@@ -635,18 +803,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Motor"
-    },
-    {
-      "id": "1230147534",
-      "title": "FCS Flight Pack Thrustmaster T16000M",
-      "price": 125.0,
-      "currency": "EUR",
-      "status": "reserved",
-      "image": "https://cdn.wallapop.com/images/10420/kc/eb/__/c10420p1230147534/i6295059980.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/thrustmaster-simulador-de-vuelo-1230147534",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
     },
     {
       "id": "1234481991",
@@ -899,18 +1055,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1275469055",
-      "title": "Teclado Electrónico Yamaha 61 Teclas",
-      "price": 575.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l3/dq/__/c10420p1275469055/i6577746807.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/teclado-electronico-yamaha-61-teclas-1275469055",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Informática"
     },
     {
       "id": "1275952429",
@@ -1268,18 +1412,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/l3/av/__/c10420p1275335738/i6577075174.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/cepillo-electrico-de-volumen-ghd-1275335738",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
-      "id": "1275332432",
-      "title": "Linterna EDM 18.000 Lúmenes",
-      "price": 89.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l3/as/__/c10420p1275332432/i6577058267.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/linterna-edm-18-000-lumenes-1275332432",
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
@@ -2005,18 +2137,6 @@
       "category": "Otros"
     },
     {
-      "id": "1273219431",
-      "title": "Apple TV 3ª Generación",
-      "price": 26.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l2/1i/__/c10420p1273219431/i6565183865.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/apple-tv-3-generacion-1273219431",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
       "id": "1255331066",
       "title": "Teléfono Inalámbrico duo Panasonic KX-TGK210SP",
       "price": 31.5,
@@ -2497,18 +2617,6 @@
       "category": "Libros, Cómics y Revistas"
     },
     {
-      "id": "1265367560",
-      "title": "Grandes autores de Batman: Jeph Loeb y Jim Lee ...",
-      "price": 16.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kx/d7/__/c10420p1265367560/i6516253961.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/grandes-autores-de-batman-jeph-loeb-y-jim-lee-1265367560",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
       "id": "1265339544",
       "title": "Robot Cocina Cecotec Ironmix 1500W",
       "price": 139.0,
@@ -2759,18 +2867,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1258220512",
-      "title": "Cámara Panasonic Lumix DC-G100DV Negra",
-      "price": 575.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kt/41/__/c10420p1258220512/i6469038989.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/camara-panasonic-lumix-dc-g100dv-negra-1258220512",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Foto y Vídeo"
     },
     {
       "id": "1259789459",
@@ -5281,18 +5377,6 @@
       "category": "Música e Instrumentos"
     },
     {
-      "id": "1271436046",
-      "title": "Samsung Galaxy Z Fold 7",
-      "price": 1100.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l0/za/__/c10420p1271436046/i6554735774.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/samsung-galaxy-z-fold-7-1271436046",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
-    },
-    {
       "id": "1202681565",
       "title": "Singstar 90's PS2",
       "price": 6.5,
@@ -6721,18 +6805,6 @@
       "category": "Gaming"
     },
     {
-      "id": "1268872352",
-      "title": "Fifa 21 PS4 (PlayStation 4)",
-      "price": 4.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kz/gc/__/c10420p1268872352/i6538605692.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/fifa-21-ps4-playstation-4-1268872352",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
       "id": "1268834114",
       "title": "Empuñadura Canon BG-E21",
       "price": 40.5,
@@ -6803,18 +6875,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Motor"
-    },
-    {
-      "id": "1252535331",
-      "title": "Ebook Wolder mibuk Blanco",
-      "price": 23.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kp/q6/__/c10420p1252535331/i6435735403.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/ebook-wolder-mibuk-blanco-1252535331",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
     },
     {
       "id": "1240130407",
@@ -8413,6 +8473,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 701,
-  "actualizado": "2026-07-03T18:32:45"
+  "total": 706,
+  "actualizado": "2026-07-05T02:03:16"
 }
