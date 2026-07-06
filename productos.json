@@ -721,18 +721,6 @@
       "category": "Antigüedades y Coleccionismo"
     },
     {
-      "id": "1259553843",
-      "title": "Cómic Marvel Must-have Aniquilación",
-      "price": 9.95,
-      "currency": "EUR",
-      "status": "reserved",
-      "image": "https://cdn.wallapop.com/images/10420/kt/wl/__/c10420p1259553843/i6479719285.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/comic-marvel-must-have-aniquilacion-1259553843",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
       "id": "1259384931",
       "title": "Detector Bosch Profesional",
       "price": 75.0,
@@ -8473,6 +8461,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 706,
-  "actualizado": "2026-07-06T12:02:50"
+  "total": 705,
+  "actualizado": "2026-07-06T18:32:56"
 }
