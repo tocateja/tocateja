@@ -194,7 +194,7 @@
     },
     {
       "id": "1258220512",
-      "title": "Destacado",
+      "title": "Cámara Panasonic Lumix DC-G100DV Negra",
       "price": 575.0,
       "currency": "EUR",
       "status": "available",
@@ -202,11 +202,11 @@
       "url": "https://es.wallapop.com/item/camara-panasonic-lumix-dc-g100dv-negra-1258220512",
       "location": "Pamplona",
       "condition": "",
-      "category": "Otros"
+      "category": "Foto y Vídeo"
     },
     {
       "id": "1271436046",
-      "title": "Destacado",
+      "title": "Samsung Galaxy Z Fold 7",
       "price": 1100.0,
       "currency": "EUR",
       "status": "available",
@@ -214,11 +214,11 @@
       "url": "https://es.wallapop.com/item/samsung-galaxy-z-fold-7-1271436046",
       "location": "Pamplona",
       "condition": "",
-      "category": "Otros"
+      "category": "Móviles y Smartwatches"
     },
     {
       "id": "1275469055",
-      "title": "Destacado",
+      "title": "Teclado Electrónico Yamaha 61 Teclas",
       "price": 575.0,
       "currency": "EUR",
       "status": "available",
@@ -226,7 +226,7 @@
       "url": "https://es.wallapop.com/item/teclado-electronico-yamaha-61-teclas-1275469055",
       "location": "Pamplona",
       "condition": "",
-      "category": "Otros"
+      "category": "Informática"
     },
     {
       "id": "1278552795",
@@ -8474,5 +8474,5 @@
     }
   ],
   "total": 706,
-  "actualizado": "2026-07-06T11:32:34"
+  "actualizado": "2026-07-06T12:02:50"
 }
