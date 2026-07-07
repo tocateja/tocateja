@@ -721,18 +721,6 @@
       "category": "Antigüedades y Coleccionismo"
     },
     {
-      "id": "1259384931",
-      "title": "Detector Bosch Profesional",
-      "price": 75.0,
-      "currency": "EUR",
-      "status": "reserved",
-      "image": "https://cdn.wallapop.com/images/10420/kt/sz/__/c10420p1259384931/i6478317962.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/detector-bosch-profesional-1259384931",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Herramientas"
-    },
-    {
       "id": "1277283557",
       "title": "Calibre Pie de Rey Mitutoyo Para interior Piezas",
       "price": 69.95,
@@ -8461,6 +8449,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 705,
-  "actualizado": "2026-07-06T18:32:56"
+  "total": 704,
+  "actualizado": "2026-07-07T02:03:40"
 }
