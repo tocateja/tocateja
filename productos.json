@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1254223388",
+      "title": "Narcos Rise of the Cartels PS4 (PlayStation 4)",
+      "price": 17.5,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/kq/qc/__/c10420p1254223388/i6445352887.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/narcos-rise-of-the-cartels-ps4-playstation-4-1254223388",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
       "id": "1278228480",
       "title": "Juego Carmageddon 64 Nintendo 64",
       "price": 21.5,
@@ -3452,18 +3464,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/kq/pz/__/c10420p1254206380/i6445268648.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/juego-ps4-pro-evolution-soccer-2015-1254206380",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
-      "id": "1254223388",
-      "title": "Narcos Rise of the Cartels PS4 (PlayStation 4)",
-      "price": 17.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kq/qc/__/c10420p1254223388/i6445352887.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/narcos-rise-of-the-cartels-ps4-playstation-4-1254223388",
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
@@ -8426,5 +8426,5 @@
     }
   ],
   "total": 702,
-  "actualizado": "2026-07-08T13:02:52"
+  "actualizado": "2026-07-08T17:03:34"
 }
