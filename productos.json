@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1278228480",
+      "title": "Juego Carmageddon 64 Nintendo 64",
+      "price": 21.5,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/l5/0v/__/c10420p1278228480/i6595439617.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/juego-carmageddon-64-nintendo-64-1278228480",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
       "id": "1268492000",
       "title": "Pokémon Edición Esmeralda GBA",
       "price": 45.0,
@@ -383,18 +395,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1278228480",
-      "title": "Juego Carmageddon 64 Nintendo 64",
-      "price": 21.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l5/0v/__/c10420p1278228480/i6595439617.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/juego-carmageddon-64-nintendo-64-1278228480",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
     },
     {
       "id": "1278226884",
@@ -8438,5 +8438,5 @@
     }
   ],
   "total": 703,
-  "actualizado": "2026-07-07T18:02:43"
+  "actualizado": "2026-07-08T08:03:49"
 }
