@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1278225453",
+      "title": "The Legend of Zelda Ocarina of Time Nintendo 64",
+      "price": 31.5,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/l5/0t/__/c10420p1278225453/i6595399132.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/the-legend-of-zelda-ocarina-of-time-nintendo-64-1278225453",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
       "id": "1254223388",
       "title": "Narcos Rise of the Cartels PS4 (PlayStation 4)",
       "price": 17.5,
@@ -32,18 +44,6 @@
       "status": "reserved",
       "image": "https://cdn.wallapop.com/images/10420/kz/86/__/c10420p1268492000/i6534867340.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/pokemon-edicion-esmeralda-gba-1268492000",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
-      "id": "1278225453",
-      "title": "The Legend of Zelda Ocarina of Time Nintendo 64",
-      "price": 31.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l5/0t/__/c10420p1278225453/i6595399132.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/the-legend-of-zelda-ocarina-of-time-nintendo-64-1278225453",
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
@@ -8426,5 +8426,5 @@
     }
   ],
   "total": 702,
-  "actualizado": "2026-07-08T19:32:52"
+  "actualizado": "2026-07-09T18:02:49"
 }
