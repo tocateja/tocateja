@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1265374494",
+      "title": "Prismáticos Decathlon 6x25",
+      "price": 11.5,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/kx/dd/__/c10420p1265374494/i6516286761.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/prismaticos-decathlon-6x25-1265374494",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Deporte"
+    },
+    {
       "id": "1219654103",
       "title": "Espectrobes Nintendo ds",
       "price": 8.5,
@@ -2555,18 +2567,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Joyería y Complementos"
-    },
-    {
-      "id": "1265374494",
-      "title": "Prismáticos Decathlon 6x25",
-      "price": 11.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kx/dd/__/c10420p1265374494/i6516286761.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/prismaticos-decathlon-6x25-1265374494",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Deporte"
     },
     {
       "id": "1265370281",
@@ -8426,5 +8426,5 @@
     }
   ],
   "total": 702,
-  "actualizado": "2026-07-10T15:32:39"
+  "actualizado": "2026-07-12T14:03:08"
 }
