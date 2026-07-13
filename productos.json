@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1276253496",
+      "title": "Cómic Daredevil de Mark Waid Pecado original",
+      "price": 10.5,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/l3/uj/__/c10420p1276253496/i6582361171.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/comic-daredevil-de-mark-waid-pecado-original-1276253496",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1278225453",
+      "title": "The Legend of Zelda Ocarina of Time Nintendo 64",
+      "price": 31.5,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/l5/0t/__/c10420p1278225453/i6595399132.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/the-legend-of-zelda-ocarina-of-time-nintendo-64-1278225453",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
       "id": "1265374494",
       "title": "Prismáticos Decathlon 6x25",
       "price": 11.5,
@@ -20,18 +44,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/k6/5f/__/c10420p1219654103/i6222266840.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/espectrobes-nintendo-ds-1219654103",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
-      "id": "1278225453",
-      "title": "The Legend of Zelda Ocarina of Time Nintendo 64",
-      "price": 31.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l5/0t/__/c10420p1278225453/i6595399132.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/the-legend-of-zelda-ocarina-of-time-nintendo-64-1278225453",
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
@@ -884,18 +896,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/l3/uk/__/c10420p1276254274/i6582364858.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/comic-daredevil-de-mark-waid-la-sonrisa-del-diablo-1276254274",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1276253496",
-      "title": "Cómic Daredevil de Mark Waid Pecado original",
-      "price": 10.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l3/uj/__/c10420p1276253496/i6582361171.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/comic-daredevil-de-mark-waid-pecado-original-1276253496",
       "location": "Pamplona",
       "condition": "",
       "category": "Libros, Cómics y Revistas"
@@ -8426,5 +8426,5 @@
     }
   ],
   "total": 702,
-  "actualizado": "2026-07-12T14:03:08"
+  "actualizado": "2026-07-13T02:04:01"
 }
