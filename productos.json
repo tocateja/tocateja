@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1256622099",
+      "title": "Cómic Marvel La Muerte de Lobezno",
+      "price": 7.5,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/ks/5r/__/c10420p1256622099/i6459435285.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/comic-marvel-la-muerte-de-lobezno-1256622099",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1268602740",
+      "title": "Cómic Marvel Vengadores Los Cazadores de Muerte",
+      "price": 10.5,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/kz/ak/__/c10420p1268602740/i6536252464.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/comic-marvel-vengadores-los-cazadores-de-muerte-1268602740",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
       "id": "1276253496",
       "title": "Cómic Daredevil de Mark Waid Pecado original",
       "price": 10.5,
@@ -3203,18 +3227,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Herramientas"
-    },
-    {
-      "id": "1256622099",
-      "title": "Cómic Marvel La Muerte de Lobezno",
-      "price": 7.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ks/5r/__/c10420p1256622099/i6459435285.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/comic-marvel-la-muerte-de-lobezno-1256622099",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
     },
     {
       "id": "1257543641",
@@ -6865,18 +6877,6 @@
       "category": "Libros, Cómics y Revistas"
     },
     {
-      "id": "1268602740",
-      "title": "Cómic Marvel Vengadores Los Cazadores de Muerte",
-      "price": 10.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kz/ak/__/c10420p1268602740/i6536252464.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/comic-marvel-vengadores-los-cazadores-de-muerte-1268602740",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
       "id": "1268600455",
       "title": "Cómic Edición Integral Ultimate X-Men Gira Mundial",
       "price": 13.5,
@@ -8426,5 +8426,5 @@
     }
   ],
   "total": 702,
-  "actualizado": "2026-07-13T02:04:01"
+  "actualizado": "2026-07-13T19:33:18"
 }
