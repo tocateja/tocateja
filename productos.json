@@ -1,23 +1,11 @@
 {
   "productos": [
     {
-      "id": "1247454026",
-      "title": "Caladora de Juguete Bosch Mini",
-      "price": 8.0,
-      "currency": "EUR",
-      "status": "reserved",
-      "image": "https://cdn.wallapop.com/images/10420/km/p9/__/c10420p1247454026/i6401415961.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/caladora-bosch-mini-juguete-1247454026",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Juguetes"
-    },
-    {
       "id": "1256622099",
       "title": "Cómic Marvel La Muerte de Lobezno",
       "price": 7.5,
       "currency": "EUR",
-      "status": "reserved",
+      "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/ks/5r/__/c10420p1256622099/i6459435285.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/comic-marvel-la-muerte-de-lobezno-1256622099",
       "location": "Pamplona",
@@ -29,12 +17,24 @@
       "title": "Cómic Marvel Vengadores Los Cazadores de Muerte",
       "price": 10.5,
       "currency": "EUR",
-      "status": "reserved",
+      "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/kz/ak/__/c10420p1268602740/i6536252464.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/comic-marvel-vengadores-los-cazadores-de-muerte-1268602740",
       "location": "Pamplona",
       "condition": "",
       "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1247454026",
+      "title": "Caladora de Juguete Bosch Mini",
+      "price": 8.0,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/km/p9/__/c10420p1247454026/i6401415961.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/caladora-bosch-mini-juguete-1247454026",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Juguetes"
     },
     {
       "id": "1276253496",
@@ -2605,18 +2605,6 @@
       "category": "Joyería y Complementos"
     },
     {
-      "id": "1265370281",
-      "title": "Cómic DC Batman Año cero Parte 1",
-      "price": 5.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kx/d9/__/c10420p1265370281/i6516266774.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/comic-dc-batman-ano-cero-parte-1-1265370281",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
       "id": "1266390769",
       "title": "Samsung Galaxy S23 FE 128GB Negro",
       "price": 385.0,
@@ -2927,18 +2915,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1227117951",
-      "title": "Tensiómetro de Muñeca Vitalcontrol  Precintado",
-      "price": 9.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ka/le/__/c10420p1227117951/i6270332538.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/tensiometro-de-muneca-vitalcontrol-precintado-1227117951",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Juguetes"
     },
     {
       "id": "1257550001",
@@ -6625,18 +6601,6 @@
       "category": "Herramientas"
     },
     {
-      "id": "1269295950",
-      "title": "Hamaca Bebé Babybjörn Bouncer Bliss",
-      "price": 79.95,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kz/pf/__/c10420p1269295950/i6541353560.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/hamaca-bebe-babybjorn-bouncer-bliss-1269295950",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
       "id": "1269289575",
       "title": "Silla de ruedas Multifuncional Vermeiren",
       "price": 165.0,
@@ -8425,6 +8389,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 702,
-  "actualizado": "2026-07-14T02:03:50"
+  "total": 699,
+  "actualizado": "2026-07-15T11:02:49"
 }
