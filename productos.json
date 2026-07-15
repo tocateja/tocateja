@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1240690565",
+      "title": "VHS Los Aristogatos Precintado",
+      "price": 18.5,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/ki/oa/__/c10420p1240690565/i6360644191.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vhs-los-aristogatos-precintado-1240690565",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1240692633",
+      "title": "VHS 101 Dálmatas Clásicos Disney Español",
+      "price": 18.5,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/ki/oc/__/c10420p1240692633/i6360661907.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vhs-101-dalmatas-clasicos-disney-espanol-1240692633",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
       "id": "1256622099",
       "title": "Cómic Marvel La Muerte de Lobezno",
       "price": 7.5,
@@ -131,30 +155,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1240690565",
-      "title": "VHS Los Aristogatos Precintado",
-      "price": 18.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ki/oa/__/c10420p1240690565/i6360644191.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/vhs-los-aristogatos-precintado-1240690565",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1240692633",
-      "title": "VHS 101 Dálmatas Clásicos Disney Español",
-      "price": 18.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ki/oc/__/c10420p1240692633/i6360661907.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/vhs-101-dalmatas-clasicos-disney-espanol-1240692633",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
     },
     {
       "id": "1247444770",
@@ -8366,5 +8366,5 @@
     }
   ],
   "total": 697,
-  "actualizado": "2026-07-15T14:07:15"
+  "actualizado": "2026-07-15T16:33:10"
 }
