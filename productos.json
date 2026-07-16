@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1282211745",
+      "title": "Cámara fotos Vintage Konica C35",
+      "price": 36.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l7/e8/__/c10420p1282211745/i6619849043.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/camara-fotos-vintage-konica-c35-1282211745",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Foto y Vídeo"
+    },
+    {
       "id": "1275683285",
       "title": "Destacado",
       "price": 69.95,
@@ -539,18 +551,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1278216055",
-      "title": "Xiaomi Redmi 15C",
-      "price": 110.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l5/0l/__/c10420p1278216055/i6595270173.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/xiaomi-redmi-15c-1278216055",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
     },
     {
       "id": "1277490851",
@@ -1813,18 +1813,6 @@
       "category": "Deporte"
     },
     {
-      "id": "1274743594",
-      "title": "Armónica M. Hohner Echo Doble Cara",
-      "price": 50.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l2/y6/__/c10420p1274743594/i6573476625.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/armonica-m-hohner-echo-doble-cara-1274743594",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
-    },
-    {
       "id": "1180825396",
       "title": "Armónica Hohner Chromonica",
       "price": 62.0,
@@ -2771,18 +2759,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1260145334",
-      "title": "Juego PS4 Grand Theft Auto V",
-      "price": 17.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ku/9a/__/c10420p1260145334/i6483956717.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/juego-ps4-grand-theft-auto-v-1260145334",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
     },
     {
       "id": "1260142795",
@@ -4196,18 +4172,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/kc/fn/__/c10420p1230209164/i6290863104.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/norman-y-mix-spanish-edition-1230209164",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1230207883",
-      "title": "WELCOME TO THE BALLROOM N 01",
-      "price": 4.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kc/fm/__/c10420p1230207883/i6290853762.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/welcome-to-the-ballroom-n-01-1230207883",
       "location": "Pamplona",
       "condition": "",
       "category": "Libros, Cómics y Revistas"
@@ -8329,6 +8293,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 694,
-  "actualizado": "2026-07-16T11:02:32"
+  "total": 691,
+  "actualizado": "2026-07-16T11:32:30"
 }
