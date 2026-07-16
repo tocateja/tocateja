@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1275683285",
+      "title": "Destacado",
+      "price": 69.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/ib/__/c10420p1275683285/i6578980353.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/mando-nintendo-switch-2-pro-edicion-resident-evil-1275683285",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1282207431",
+      "title": "Guitarra eléctrica Sterling Cutlass 50 Firemist",
+      "price": 475.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l7/e5/__/c10420p1282207431/i6619826953.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/guitarra-electrica-sterling-cutlass-50-firemist-1282207431",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
       "id": "1240690565",
       "title": "VHS Los Aristogatos Precintado",
       "price": 18.5,
@@ -1223,18 +1247,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Hogar"
-    },
-    {
-      "id": "1275683285",
-      "title": "Mando Nintendo Switch 2 Pro Edición Resident Evil",
-      "price": 69.95,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l3/ib/__/c10420p1275683285/i6578980353.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/mando-nintendo-switch-2-pro-edicion-resident-evil-1275683285",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
     },
     {
       "id": "1253411060",
@@ -8317,6 +8329,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 693,
-  "actualizado": "2026-07-16T10:32:38"
+  "total": 694,
+  "actualizado": "2026-07-16T11:02:32"
 }
