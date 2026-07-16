@@ -13,18 +13,6 @@
       "category": "Foto y Vídeo"
     },
     {
-      "id": "1275683285",
-      "title": "Destacado",
-      "price": 69.95,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l3/ib/__/c10420p1275683285/i6578980353.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/mando-nintendo-switch-2-pro-edicion-resident-evil-1275683285",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
       "id": "1282207431",
       "title": "Guitarra eléctrica Sterling Cutlass 50 Firemist",
       "price": 475.0,
@@ -1079,18 +1067,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Joyería y Complementos"
-    },
-    {
-      "id": "1275979237",
-      "title": "Far Cry Primal PS4",
-      "price": 10.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l3/on/__/c10420p1275979237/i6580763678.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/far-cry-primal-ps4-1275979237",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
     },
     {
       "id": "1275960657",
@@ -2519,18 +2495,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
-    },
-    {
-      "id": "1262715438",
-      "title": "Móvil Nokia 2720 Flip Teclas Blanco/Negro",
-      "price": 51.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kv/sd/__/c10420p1262715438/i6500147285.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/movil-nokia-2720-flip-teclas-blanco-negro-1262715438",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
     },
     {
       "id": "1266664915",
@@ -8293,6 +8257,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 691,
-  "actualizado": "2026-07-16T11:32:30"
+  "total": 688,
+  "actualizado": "2026-07-16T12:02:58"
 }
