@@ -1,6 +1,54 @@
 {
   "productos": [
     {
+      "id": "1247131627",
+      "title": "Pareja Walkie Talkies Motorola T62",
+      "price": 40.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/km/ic/__/c10420p1247131627/i6399446526.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/pareja-walkie-talkies-motorola-t62-1247131627",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
+      "id": "1278608462",
+      "title": "Apple TV 3ª Generación",
+      "price": 26.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l5/90/__/c10420p1278608462/i6598455060.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/apple-tv-3-generacion-1278608462",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1282244165",
+      "title": "Caja iPhone 13 Pro Max",
+      "price": 10.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l7/ex/__/c10420p1282244165/i6620038298.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/caja-iphone-13-pro-max-1282244165",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
+      "id": "1282243398",
+      "title": "Auriculares Bluetooth Honor Precintados",
+      "price": 31.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l7/ex/__/c10420p1282243398/i6620034322.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/auriculares-bluetooth-honor-precintados-1282243398",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "TV y Audio"
+    },
+    {
       "id": "1282239472",
       "title": "Licuadora Portátil Ninja Blast",
       "price": 31.5,
@@ -203,18 +251,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Música e Instrumentos"
-    },
-    {
-      "id": "1278608462",
-      "title": "Apple TV 3ª Generación",
-      "price": 24.95,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l5/90/__/c10420p1278608462/i6598455060.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/apple-tv-3-generacion-1278608462",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
     },
     {
       "id": "1278587940",
@@ -3851,18 +3887,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
-    },
-    {
-      "id": "1247131627",
-      "title": "Pareja Walkie Talkies Motorola T62",
-      "price": 40.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/km/ic/__/c10420p1247131627/i6399446526.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/pareja-walkie-talkies-motorola-t62-1247131627",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
     },
     {
       "id": "1251117427",
@@ -8257,6 +8281,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 688,
-  "actualizado": "2026-07-16T12:32:35"
+  "total": 690,
+  "actualizado": "2026-07-16T13:02:43"
 }
