@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1282262696",
+      "title": "Cómic Manga Akame Ga kill Volúmen 1",
+      "price": 5.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l7/fc/__/c10420p1282262696/i6620142330.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/comic-manga-akame-ga-kill-volumen-1-1282262696",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1282253876",
+      "title": "Lote 2 Comics Marvel Fornite X ( 3 y 4 de 5)",
+      "price": 5.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l7/f5/__/c10420p1282253876/i6620091669.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/lote-2-comics-marvel-fornite-x-3-y-4-de-5-1282253876",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
       "id": "1247131627",
       "title": "Pareja Walkie Talkies Motorola T62",
       "price": 40.5,
@@ -8281,6 +8305,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 690,
-  "actualizado": "2026-07-16T13:02:43"
+  "total": 692,
+  "actualizado": "2026-07-16T13:32:38"
 }
