@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1282318029",
+      "title": "Lote 2 Comics DC Punto Cero (3 y 5 de 6)",
+      "price": 5.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l7/gi/__/c10420p1282318029/i6620494323.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/lote-2-comics-dc-punto-cero-3-y-5-de-6-1282318029",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
       "id": "1282262696",
       "title": "Cómic Manga Akame Ga kill Volúmen 1",
       "price": 5.5,
@@ -8305,6 +8317,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 692,
-  "actualizado": "2026-07-16T13:32:38"
+  "total": 693,
+  "actualizado": "2026-07-16T17:02:47"
 }
