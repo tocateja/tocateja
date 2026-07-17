@@ -1,6 +1,42 @@
 {
   "productos": [
     {
+      "id": "1282567624",
+      "title": "Soporte Bici Canyon Bikestand",
+      "price": 31.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l7/lv/__/c10420p1282567624/i6622108801.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/soporte-bici-canyon-bikestand-1282567624",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1282562891",
+      "title": "Teclado Mac Apple",
+      "price": 36.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l7/lr/__/c10420p1282562891/i6622080043.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/teclado-mac-apple-1282562891",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Informática"
+    },
+    {
+      "id": "1282562064",
+      "title": "Ratón Mac Apple",
+      "price": 36.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l7/lr/__/c10420p1282562064/i6622075753.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/raton-mac-apple-1282562064",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Informática"
+    },
+    {
       "id": "1275469055",
       "title": "Teclado Electrónico Yamaha 61 Teclas",
       "price": 499.0,
@@ -8281,6 +8317,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 690,
-  "actualizado": "2026-07-17T12:03:15"
+  "total": 693,
+  "actualizado": "2026-07-17T13:33:19"
 }
