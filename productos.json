@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1275469055",
+      "title": "Teclado Electrónico Yamaha 61 Teclas",
+      "price": 499.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/dq/__/c10420p1275469055/i6577746807.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/teclado-electronico-yamaha-61-teclas-1275469055",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Informática"
+    },
+    {
       "id": "1273625228",
       "title": "Karcher FJ 6 Foam Jet Accesorio Hidrolimpiadora",
       "price": 11.5,
@@ -443,18 +455,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Móviles y Smartwatches"
-    },
-    {
-      "id": "1275469055",
-      "title": "Teclado Electrónico Yamaha 61 Teclas",
-      "price": 575.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l3/dq/__/c10420p1275469055/i6577746807.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/teclado-electronico-yamaha-61-teclas-1275469055",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Informática"
     },
     {
       "id": "1278552795",
@@ -8282,5 +8282,5 @@
     }
   ],
   "total": 690,
-  "actualizado": "2026-07-17T10:33:01"
+  "actualizado": "2026-07-17T12:03:15"
 }
