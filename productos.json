@@ -1021,18 +1021,6 @@
       "category": "Electrodomésticos"
     },
     {
-      "id": "1276259926",
-      "title": "iPhone 14 Plus 128GB",
-      "price": 399.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l3/uo/__/c10420p1276259926/i6582393116.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/iphone-14-plus-128gb-1276259926",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
-    },
-    {
       "id": "1276255524",
       "title": "Cómic Street Fighter Volúmen Uno Hadoken",
       "price": 10.5,
@@ -8305,6 +8293,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 692,
-  "actualizado": "2026-07-17T18:04:12"
+  "total": 691,
+  "actualizado": "2026-07-17T19:02:45"
 }
