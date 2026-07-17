@@ -445,18 +445,6 @@
       "category": "Libros, Cómics y Revistas"
     },
     {
-      "id": "1278590660",
-      "title": "Lote comics manga Rent a Girlfriend",
-      "price": 7.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l5/8m/__/c10420p1278590660/i6598370870.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/lote-comics-manga-rent-a-girlfriend-1278590660",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
       "id": "1278589494",
       "title": "Lote comics manga Crimson Grimoire",
       "price": 9.5,
@@ -3529,18 +3517,6 @@
       "category": "Otros"
     },
     {
-      "id": "1255261572",
-      "title": "Móvil Realme GT 5G 256GB Amarillo",
-      "price": 125.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kr/cm/__/c10420p1255261572/i6451932128.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/movil-realme-gt-5g-256gb-amarillo-1255261572",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
-    },
-    {
       "id": "1253541910",
       "title": "Amoladora Dewalt DWE4036",
       "price": 75.0,
@@ -3680,18 +3656,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/kq/pm/__/c10420p1254189325/i6445183893.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/100-marvel-hc-matanza-disputa-familiar-1254189325",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1254184324",
-      "title": "Comic edición integral Fairy Tail Vol 1",
-      "price": 9.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kq/pi/__/c10420p1254184324/i6445161441.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/comic-edicion-integral-fairy-tail-vol-1-1254184324",
       "location": "Pamplona",
       "condition": "",
       "category": "Libros, Cómics y Revistas"
@@ -8293,6 +8257,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 691,
-  "actualizado": "2026-07-17T19:02:45"
+  "total": 688,
+  "actualizado": "2026-07-17T19:34:04"
 }
