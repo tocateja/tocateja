@@ -2773,18 +2773,6 @@
       "category": "Gaming"
     },
     {
-      "id": "1237947391",
-      "title": "Juego de habilidad de madera",
-      "price": 5.95,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kh/1i/__/c10420p1237947391/i6343032632.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/juego-de-habilidad-de-madera-1237947391",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Juguetes"
-    },
-    {
       "id": "1260228733",
       "title": "DVD Ernst Lubitsch en Berlín Coleccionista",
       "price": 30.5,
@@ -5521,18 +5509,6 @@
       "category": "Libros, Cómics y Revistas"
     },
     {
-      "id": "1265351336",
-      "title": "Amazon Echo Show 8 (2ª Gen) Blanco",
-      "price": 95.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kx/cv/__/c10420p1265351336/i6516178065.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/amazon-echo-show-8-3-gen-blanco-1265351336",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
       "id": "1271098011",
       "title": "Lo mejor de Zipi y Zape Volumen II",
       "price": 19.95,
@@ -6743,18 +6719,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Juguetes"
-    },
-    {
-      "id": "1268610277",
-      "title": "Final Fantasy XII PS2 (PlayStation 2) RPG",
-      "price": 11.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kz/ap/__/c10420p1268610277/i6536308058.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/final-fantasy-xii-ps2-playstation-2-rpg-1268610277",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
     },
     {
       "id": "1268603391",
@@ -8317,6 +8281,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 693,
-  "actualizado": "2026-07-16T19:32:49"
+  "total": 690,
+  "actualizado": "2026-07-17T10:33:01"
 }
