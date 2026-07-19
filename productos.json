@@ -205,30 +205,6 @@
       "category": "Libros, Cómics y Revistas"
     },
     {
-      "id": "1276253496",
-      "title": "Cómic Daredevil de Mark Waid Pecado original",
-      "price": 10.5,
-      "currency": "EUR",
-      "status": "reserved",
-      "image": "https://cdn.wallapop.com/images/10420/l3/uj/__/c10420p1276253496/i6582361171.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/comic-daredevil-de-mark-waid-pecado-original-1276253496",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1278225453",
-      "title": "The Legend of Zelda Ocarina of Time Nintendo 64",
-      "price": 31.5,
-      "currency": "EUR",
-      "status": "reserved",
-      "image": "https://cdn.wallapop.com/images/10420/l5/0t/__/c10420p1278225453/i6595399132.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/the-legend-of-zelda-ocarina-of-time-nintendo-64-1278225453",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
       "id": "1219654103",
       "title": "Espectrobes Nintendo ds",
       "price": 8.5,
@@ -8173,6 +8149,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 681,
-  "actualizado": "2026-07-19T02:04:09"
+  "total": 679,
+  "actualizado": "2026-07-19T14:04:02"
 }
