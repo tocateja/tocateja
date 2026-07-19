@@ -1,8 +1,20 @@
 {
   "productos": [
     {
+      "id": "1260226920",
+      "title": "Pack 2 Temporadas The Crown DVD",
+      "price": 10.5,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/ku/b1/__/c10420p1260226920/i6484449586.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/pack-2-temporadas-the-crown-dvd-1260226920",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
       "id": "1275469055",
-      "title": "Destacado",
+      "title": "Teclado Electrónico Yamaha 61 Teclas",
       "price": 499.0,
       "currency": "EUR",
       "status": "available",
@@ -10,7 +22,7 @@
       "url": "https://es.wallapop.com/item/teclado-electronico-yamaha-61-teclas-1275469055",
       "location": "Pamplona",
       "condition": "",
-      "category": "Otros"
+      "category": "Informática"
     },
     {
       "id": "1282567624",
@@ -6781,18 +6793,6 @@
       "category": "Informática"
     },
     {
-      "id": "1260226920",
-      "title": "Pack 2 Temporadas The Crown DVD",
-      "price": 10.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ku/b1/__/c10420p1260226920/i6484449586.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/pack-2-temporadas-the-crown-dvd-1260226920",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
       "id": "1259764152",
       "title": "Piedra del Sol Azteca D'Argenta Plata",
       "price": 195.0,
@@ -8150,5 +8150,5 @@
     }
   ],
   "total": 679,
-  "actualizado": "2026-07-19T14:04:02"
+  "actualizado": "2026-07-19T20:31:20"
 }
