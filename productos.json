@@ -61,18 +61,6 @@
       "category": "Otros"
     },
     {
-      "id": "1282318029",
-      "title": "Lote 2 Comics DC Punto Cero (3 y 5 de 6)",
-      "price": 5.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l7/gi/__/c10420p1282318029/i6620494323.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/lote-2-comics-dc-punto-cero-3-y-5-de-6-1282318029",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
       "id": "1282262696",
       "title": "Cómic Manga Akame Ga kill Volúmen 1",
       "price": 5.5,
@@ -80,18 +68,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/l7/fc/__/c10420p1282262696/i6620142330.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/comic-manga-akame-ga-kill-volumen-1-1282262696",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1282253876",
-      "title": "Lote 2 Comics Marvel Fornite X ( 3 y 4 de 5)",
-      "price": 5.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l7/f5/__/c10420p1282253876/i6620091669.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/lote-2-comics-marvel-fornite-x-3-y-4-de-5-1282253876",
       "location": "Pamplona",
       "condition": "",
       "category": "Libros, Cómics y Revistas"
@@ -229,18 +205,6 @@
       "category": "Libros, Cómics y Revistas"
     },
     {
-      "id": "1247454026",
-      "title": "Caladora de Juguete Bosch Mini",
-      "price": 8.0,
-      "currency": "EUR",
-      "status": "reserved",
-      "image": "https://cdn.wallapop.com/images/10420/km/p9/__/c10420p1247454026/i6401415961.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/caladora-bosch-mini-juguete-1247454026",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Juguetes"
-    },
-    {
       "id": "1276253496",
       "title": "Cómic Daredevil de Mark Waid Pecado original",
       "price": 10.5,
@@ -263,18 +227,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
-    },
-    {
-      "id": "1265374494",
-      "title": "Prismáticos Decathlon 6x25",
-      "price": 11.5,
-      "currency": "EUR",
-      "status": "reserved",
-      "image": "https://cdn.wallapop.com/images/10420/kx/dd/__/c10420p1265374494/i6516286761.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/prismaticos-decathlon-6x25-1265374494",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Deporte"
     },
     {
       "id": "1219654103",
@@ -851,18 +803,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1277488409",
-      "title": "Móvil Honor 200",
-      "price": 199.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l4/l0/__/c10420p1277488409/i6589160197.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/movil-honor-200-1277488409",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
     },
     {
       "id": "1277488212",
@@ -2603,18 +2543,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Joyería y Complementos"
-    },
-    {
-      "id": "1266451648",
-      "title": "Móvil Poco X6 Pro 5G 512GB Gris",
-      "price": 175.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ky/0g/__/c10420p1266451648/i6522300578.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/movil-poco-x6-pro-5g-512gb-gris-1266451648",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
     },
     {
       "id": "1265366402",
@@ -8245,6 +8173,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 687,
-  "actualizado": "2026-07-18T02:05:36"
+  "total": 681,
+  "actualizado": "2026-07-19T02:04:09"
 }
