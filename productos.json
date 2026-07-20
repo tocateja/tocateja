@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1251090824",
+      "title": "Destacado",
+      "price": 1365.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ko/v7/__/c10420p1251090824/i6427316016.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/portatil-hp-elitebook-8-g1i-16-1251090824",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1255841707",
+      "title": "Destacado",
+      "price": 695.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kr/p1/__/c10420p1255841707/i6455447642.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/portatil-samsung-gris-plata-1255841707",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1260226920",
       "title": "Pack 2 Temporadas The Crown DVD",
       "price": 10.5,
@@ -1319,18 +1343,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Motor"
-    },
-    {
-      "id": "1251090824",
-      "title": "Portátil HP Elitebook 8 G1i 16 PRECINTADO",
-      "price": 1365.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ko/v7/__/c10420p1251090824/i6427316016.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/portatil-hp-elitebook-8-g1i-16-1251090824",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
     },
     {
       "id": "1275378239",
@@ -3119,18 +3131,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1255841707",
-      "title": "Portátil Samsung Gris Plata",
-      "price": 695.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kr/p1/__/c10420p1255841707/i6455447642.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/portatil-samsung-gris-plata-1255841707",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Informática"
     },
     {
       "id": "1257301747",
@@ -8090,5 +8090,5 @@
     }
   ],
   "total": 674,
-  "actualizado": "2026-07-20T11:33:29"
+  "actualizado": "2026-07-20T13:34:49"
 }
