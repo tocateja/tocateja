@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1199373710",
+      "title": "Destacado",
+      "price": 210.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ju/2q/__/c10420p1199373710/i6080508321.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/tostador-industrial-horizontal-sammic-tp-200-1199373710",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1247258437",
+      "title": "Destacado",
+      "price": 225.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/km/l2/__/c10420p1247258437/i6400101477.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/gourmax-pro-airfryer-horno-plancha-1247258437",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1251090824",
       "title": "Destacado",
       "price": 1365.0,
@@ -577,18 +601,6 @@
       "category": "Gaming"
     },
     {
-      "id": "1278217994",
-      "title": "Brújula",
-      "price": 21.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l5/0n/__/c10420p1278217994/i6595296565.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/brujula-nautica-en-caja-de-madera-1278217994",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
       "id": "1277490851",
       "title": "LIBRO DE INGLÉS FUTURE PROSPECTS 1",
       "price": 11.5,
@@ -1079,18 +1091,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Informática"
-    },
-    {
-      "id": "1247258437",
-      "title": "Gourmax Pro Airfryer Horno Plancha",
-      "price": 225.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/km/l2/__/c10420p1247258437/i6400101477.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/gourmax-pro-airfryer-horno-plancha-1247258437",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Electrodomésticos"
     },
     {
       "id": "1244299174",
@@ -1895,18 +1895,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1273939114",
-      "title": "Torre PC HP",
-      "price": 99.95,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l2/gx/__/c10420p1273939114/i6569351662.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/torre-pc-hp-1273939114",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Informática"
     },
     {
       "id": "1273944222",
@@ -2761,18 +2749,6 @@
       "category": "Libros, Cómics y Revistas"
     },
     {
-      "id": "1238140682",
-      "title": "Juego de habilidad de madera",
-      "price": 3.95,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kh/5n/__/c10420p1238140682/i6344419027.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/juego-de-habilidad-de-madera-1238140682",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Juguetes"
-    },
-    {
       "id": "1259394821",
       "title": "Cortadora de tela Allstar AS-100",
       "price": 95.0,
@@ -3152,18 +3128,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/js/rn/__/c10420p1197176894/i6061739719.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/termometro-beurer-ft09-1197176894",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Electrodomésticos"
-    },
-    {
-      "id": "1199373710",
-      "title": "Tostador Industrial Horizontal Sammic TP-200",
-      "price": 210.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ju/2q/__/c10420p1199373710/i6080508321.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/tostador-industrial-horizontal-sammic-tp-200-1199373710",
       "location": "Pamplona",
       "condition": "",
       "category": "Electrodomésticos"
@@ -6685,18 +6649,6 @@
       "category": "Móviles y Smartwatches"
     },
     {
-      "id": "1268229390",
-      "title": "Xiaomi Redmi Note 15 Pro 5G 256GB.",
-      "price": 245.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kz/2k/__/c10420p1268229390/i6532674055.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/xiaomi-redmi-note-15-pro-5g-256gb-1268229390",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
-    },
-    {
       "id": "1134994377",
       "title": "TECLADO LENOVO USB",
       "price": 9.5,
@@ -8053,6 +8005,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 671,
-  "actualizado": "2026-07-20T17:04:42"
+  "total": 667,
+  "actualizado": "2026-07-21T11:04:57"
 }
