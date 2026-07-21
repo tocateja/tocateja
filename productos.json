@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1226678637",
+      "title": "Marco De Hipertensión Prim",
+      "price": 46.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ka/bz/__/c10420p1226678637/i6266457358.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/marco-hipertension-primario-1226678637",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Electrodomésticos"
+    },
+    {
       "id": "1255331066",
       "title": "Teléfono Inalámbrico duo Panasonic KX-TGK210SP",
       "price": 24.5,
@@ -4477,18 +4489,6 @@
       "category": "Gaming"
     },
     {
-      "id": "1226678637",
-      "title": "Marco De Hipertensión Prim",
-      "price": 69.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ka/bz/__/c10420p1226678637/i6266457358.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/marco-hipertension-primario-1226678637",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Electrodomésticos"
-    },
-    {
       "id": "1226698382",
       "title": "Buscando a Nemo Game Boy Advance",
       "price": 16.5,
@@ -7982,5 +7982,5 @@
     }
   ],
   "total": 665,
-  "actualizado": "2026-07-21T18:05:19"
+  "actualizado": "2026-07-21T18:33:40"
 }
