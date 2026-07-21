@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1283648541",
+      "title": "Consola Nintendo Switch Oled",
+      "price": 225.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l8/91/__/c10420p1283648541/i6628265544.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/consola-nintendo-switch-oled-1283648541",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
       "id": "1283644537",
       "title": "Consola Sony PlayStation 5 Slim 1TB",
       "price": 379.0,
@@ -128,18 +140,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/l7/lr/__/c10420p1282562891/i6622080043.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/teclado-mac-apple-1282562891",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Informática"
-    },
-    {
-      "id": "1282562064",
-      "title": "Ratón Mac Apple",
-      "price": 36.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l7/lr/__/c10420p1282562064/i6622075753.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/raton-mac-apple-1282562064",
       "location": "Pamplona",
       "condition": "",
       "category": "Informática"
@@ -8018,5 +8018,5 @@
     }
   ],
   "total": 668,
-  "actualizado": "2026-07-21T12:34:50"
+  "actualizado": "2026-07-21T13:34:14"
 }
