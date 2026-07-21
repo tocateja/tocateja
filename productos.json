@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1283644537",
+      "title": "Consola Sony PlayStation 5 Slim 1TB",
+      "price": 379.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l8/8y/__/c10420p1283644537/i6628247099.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/consola-sony-playstation-5-slim-1tb-1283644537",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
       "id": "1283633768",
       "title": "Samsung Galaxy S24",
       "price": 345.0,
@@ -8005,6 +8017,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 667,
-  "actualizado": "2026-07-21T12:04:28"
+  "total": 668,
+  "actualizado": "2026-07-21T12:34:50"
 }
