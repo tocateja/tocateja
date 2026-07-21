@@ -1,6 +1,174 @@
 {
   "productos": [
     {
+      "id": "1158703063",
+      "title": "Cocoto Festival - Wii",
+      "price": 4.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/j5/v1/__/c10420p1158703063/i5835981965.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/cocoto-festival-wii-1158703063",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1167499193",
+      "title": "Happy Feet GBA - Nintendo",
+      "price": 5.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/jb/3k/__/c10420p1167499193/i5888833920.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/happy-feet-gba-nintendo-1167499193",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1167500182",
+      "title": "The Incredibles Rise Of The Underminer GBA",
+      "price": 5.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/jb/3k/__/c10420p1167500182/i5888839676.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/the-incredibles-rise-of-the-underminer-gba-1167500182",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1167501503",
+      "title": "Madagascar Operación Pingüino GBA",
+      "price": 5.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/jb/3l/__/c10420p1167501503/i5888848375.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/madagascar-operacion-pinguino-gba-1167501503",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1167501941",
+      "title": "Hardcore Pool GBA - Nintendo",
+      "price": 5.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/jb/3m/__/c10420p1167501941/i5888850825.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/hardcore-pool-gba-nintendo-1167501941",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1198618402",
+      "title": "Vinilo Shaky - Pop Rock Internacional",
+      "price": 5.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/jt/mj/__/c10420p1198618402/i6073450496.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vinilo-shaky-pop-rock-internacional-1198618402",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1196822982",
+      "title": "Juego PSP Invizimals: La otra dimensión",
+      "price": 4.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/js/k2/__/c10420p1196822982/i6058029601.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/juego-psp-invizimals-la-otra-dimension-1196822982",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1196822528",
+      "title": "Juego PSP Invizimals: La Caza Comienza Aquí",
+      "price": 4.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/js/k2/__/c10420p1196822528/i6058025240.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/juego-psp-invizimals-la-caza-comienza-aqui-1196822528",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1119069982",
+      "title": "FUNDA BOOK COVER SAMSUNG GALAXY TAB A7 LITE",
+      "price": 5.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ii/9j/__/c10420p1119069982/i5536167256.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/funda-book-cover-samsung-galaxy-tab-a7-lite-1119069982",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
+      "id": "1134976784",
+      "title": "MANTA DE SILLA DE MONTAR",
+      "price": 41.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ir/qh/__/c10420p1134976784/i5664263568.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/manta-de-silla-de-montar-1134976784",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Hogar"
+    },
+    {
+      "id": "1138918535",
+      "title": "Grapadora Rexel Delphi roja",
+      "price": 6.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/iu/2z/__/c10420p1138918535/i5697848480.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/grapadora-rexel-delphi-roja-1138918535",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Herramientas"
+    },
+    {
+      "id": "1138917057",
+      "title": "Grapadora Rexel Océan",
+      "price": 6.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/iu/2y/__/c10420p1138917057/i5697838064.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/grapadora-rexel-ocean-1138917057",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Herramientas"
+    },
+    {
+      "id": "1183762427",
+      "title": "Eragon PS2",
+      "price": 4.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/jk/s4/__/c10420p1183762427/i5978356865.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/eragon-ps2-1183762427",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1118259975",
+      "title": "RELOJ DE PENDULO KERN",
+      "price": 11.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ih/s6/__/c10420p1118259975/i5528732350.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/reloj-de-pendulo-kern-1118259975",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Joyería y Complementos"
+    },
+    {
       "id": "1283648541",
       "title": "Consola Nintendo Switch Oled",
       "price": 225.0,
@@ -143,18 +311,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Informática"
-    },
-    {
-      "id": "1273625228",
-      "title": "Karcher FJ 6 Foam Jet Accesorio Hidrolimpiadora",
-      "price": 11.5,
-      "currency": "EUR",
-      "status": "reserved",
-      "image": "https://cdn.wallapop.com/images/10420/l2/a7/__/c10420p1273625228/i6567457583.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/karcher-fj-6-foam-jet-accesorio-hidrolimpiadora-1273625228",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
     },
     {
       "id": "1282262696",
@@ -1871,18 +2027,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Antigüedades y Coleccionismo"
-    },
-    {
-      "id": "1274714699",
-      "title": "Smartwatch Amazfit Active 2",
-      "price": 55.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l2/xk/__/c10420p1274714699/i6573306484.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/smartwatch-amazfit-active-2-1274714699",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
     },
     {
       "id": "1274709252",
@@ -5125,18 +5269,6 @@
       "category": "Libros, Cómics y Revistas"
     },
     {
-      "id": "1198618402",
-      "title": "Vinilo Shaky - Pop Rock Internacional",
-      "price": 11.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/jt/mj/__/c10420p1198618402/i6073450496.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/vinilo-shaky-pop-rock-internacional-1198618402",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
-    },
-    {
       "id": "1196942483",
       "title": "SingStar La edad de oro del pop PS2",
       "price": 4.5,
@@ -5156,30 +5288,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/js/mi/__/c10420p1196937027/i6059487244.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/juego-ps2-formula-1-04-1196937027",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
-      "id": "1196822982",
-      "title": "Juego PSP Invizimals: La otra dimensión",
-      "price": 6.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/js/k2/__/c10420p1196822982/i6058029601.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/juego-psp-invizimals-la-otra-dimension-1196822982",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
-      "id": "1196822528",
-      "title": "Juego PSP Invizimals: La Caza Comienza Aquí",
-      "price": 8.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/js/k2/__/c10420p1196822528/i6058025240.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/juego-psp-invizimals-la-caza-comienza-aqui-1196822528",
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
@@ -6047,18 +6155,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
-    },
-    {
-      "id": "1119069982",
-      "title": "FUNDA BOOK COVER SAMSUNG GALAXY TAB A7 LITE",
-      "price": 10.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ii/9j/__/c10420p1119069982/i5536167256.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/funda-book-cover-samsung-galaxy-tab-a7-lite-1119069982",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
     },
     {
       "id": "1117684397",
@@ -7297,18 +7393,6 @@
       "category": "Música e Instrumentos"
     },
     {
-      "id": "1134976784",
-      "title": "MANTA DE SILLA DE MONTAR",
-      "price": 59.95,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ir/qh/__/c10420p1134976784/i5664263568.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/manta-de-silla-de-montar-1134976784",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Hogar"
-    },
-    {
       "id": "1138915191",
       "title": "Grapadora Rexel Surf",
       "price": 11.5,
@@ -7345,30 +7429,6 @@
       "category": "Antigüedades y Coleccionismo"
     },
     {
-      "id": "1138918535",
-      "title": "Grapadora Rexel Delphi roja",
-      "price": 13.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/iu/2z/__/c10420p1138918535/i5697848480.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/grapadora-rexel-delphi-roja-1138918535",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Herramientas"
-    },
-    {
-      "id": "1138917057",
-      "title": "Grapadora Rexel Océan",
-      "price": 13.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/iu/2y/__/c10420p1138917057/i5697838064.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/grapadora-rexel-ocean-1138917057",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Herramientas"
-    },
-    {
       "id": "1122733311",
       "title": "Haruhi Suzumiya 7 (Spanish Edition)",
       "price": 4.0,
@@ -7391,18 +7451,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Música e Instrumentos"
-    },
-    {
-      "id": "1183762427",
-      "title": "Eragon PS2",
-      "price": 8.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/jk/s4/__/c10420p1183762427/i5978356865.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/eragon-ps2-1183762427",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
     },
     {
       "id": "1181060715",
@@ -7681,18 +7729,6 @@
       "category": "Juguetes"
     },
     {
-      "id": "1109752711",
-      "title": "MONSTER HUNTER RISE SUNBREAK NINTENDO SWITCH",
-      "price": 21.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ic/pu/__/c10420p1109752711/i5461498427.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/monster-hunter-rise-sunbreak-nintendo-switch-1109752711",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
       "id": "1110879738",
       "title": "SKYLANDERS SPYROS ADVENTURE NINTENDO 3DS",
       "price": 6.0,
@@ -7739,18 +7775,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
-    },
-    {
-      "id": "1138770287",
-      "title": "SET BOLI Y ROTULADOR FOR EVER",
-      "price": 8.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/it/zs/__/c10420p1138770287/i5696197164.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/set-boli-y-rotulador-estilografico-forever-1138770287",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Hogar"
     },
     {
       "id": "1173218079",
@@ -7861,90 +7885,6 @@
       "category": "Electrodomésticos"
     },
     {
-      "id": "1168633352",
-      "title": "Nintendo DS English Training",
-      "price": 4.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/jb/rv/__/c10420p1168633352/i5895259224.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/nintendo-ds-english-training-1168633352",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
-      "id": "1167535388",
-      "title": "LEGO City Undercover Nintendo 3DS",
-      "price": 8.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/jb/4c/__/c10420p1167535388/i5889031827.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/lego-city-undercover-nintendo-3ds-1167535388",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
-      "id": "1167530139",
-      "title": "FIFA Soccer 2006 - Game Boy Color USA",
-      "price": 11.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/jb/48/__/c10420p1167530139/i5889006020.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/fifa-soccer-2006-game-boy-color-1167530139",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
-      "id": "1167501941",
-      "title": "Hardcore Pool GBA - Nintendo",
-      "price": 8.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/jb/3m/__/c10420p1167501941/i5888850825.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/hardcore-pool-gba-nintendo-1167501941",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
-      "id": "1167501503",
-      "title": "Madagascar Operación Pingüino GBA",
-      "price": 8.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/jb/3l/__/c10420p1167501503/i5888848375.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/madagascar-operacion-pinguino-gba-1167501503",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
-      "id": "1167500182",
-      "title": "The Incredibles Rise Of The Underminer GBA",
-      "price": 8.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/jb/3k/__/c10420p1167500182/i5888839676.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/the-incredibles-rise-of-the-underminer-gba-1167500182",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
-      "id": "1167499193",
-      "title": "Happy Feet GBA - Nintendo",
-      "price": 6.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/jb/3k/__/c10420p1167499193/i5888833920.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/happy-feet-gba-nintendo-1167499193",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
       "id": "1139530486",
       "title": "iPhone 14 Pro Max 512GB",
       "price": 765.0,
@@ -7967,30 +7907,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Joyería y Complementos"
-    },
-    {
-      "id": "1118259975",
-      "title": "RELOJ DE PENDULO KERN",
-      "price": 31.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ih/s6/__/c10420p1118259975/i5528732350.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/reloj-de-pendulo-kern-1118259975",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Joyería y Complementos"
-    },
-    {
-      "id": "1158703063",
-      "title": "Cocoto Festival - Wii",
-      "price": 10.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/j5/v1/__/c10420p1158703063/i5835981965.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/cocoto-festival-wii-1158703063",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
     },
     {
       "id": "1158668472",
@@ -8017,6 +7933,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 668,
-  "actualizado": "2026-07-21T13:34:14"
+  "total": 661,
+  "actualizado": "2026-07-21T16:37:44"
 }
