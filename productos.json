@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1283633768",
+      "title": "Samsung Galaxy S24",
+      "price": 345.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l8/8q/__/c10420p1283633768/i6628193593.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/samsung-galaxy-s24-1283633768",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
+      "id": "1283630430",
+      "title": "IPhone 17 Pro 256GB Precintado",
+      "price": 1099.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l8/8n/__/c10420p1283630430/i6628177520.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/iphone-17-pro-256gb-precintado-1283630430",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
       "id": "1199373710",
       "title": "Destacado",
       "price": 210.0,
@@ -433,18 +457,6 @@
       "category": "Móviles y Smartwatches"
     },
     {
-      "id": "1278552795",
-      "title": "Portátil HP 15\"",
-      "price": 369.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l5/7t/__/c10420p1278552795/i6597986409.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/portatil-hp-15-1278552795",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Informática"
-    },
-    {
       "id": "1278547443",
       "title": "Barra de Sonido Bose Solo 5",
       "price": 135.0,
@@ -731,18 +743,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1277503231",
-      "title": "Puzzle Gigante Espacio 60x40cm Precintado",
-      "price": 7.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l4/lb/__/c10420p1277503231/i6589246442.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/puzzle-gigante-espacio-60x40cm-precintado-1277503231",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Juguetes"
     },
     {
       "id": "1277500828",
@@ -8006,5 +8006,5 @@
     }
   ],
   "total": 667,
-  "actualizado": "2026-07-21T11:04:57"
+  "actualizado": "2026-07-21T12:04:28"
 }
