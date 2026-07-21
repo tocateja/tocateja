@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1255331066",
+      "title": "Teléfono Inalámbrico duo Panasonic KX-TGK210SP",
+      "price": 24.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kr/e3/__/c10420p1255331066/i6452328578.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/telefono-inalambrico-duo-panasonic-kx-tgk210sp-1255331066",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
       "id": "1240722962",
       "title": "Casco Motocross Airoh Aviator Amarillo",
       "price": 185.0,
@@ -2459,18 +2471,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1255331066",
-      "title": "Teléfono Inalámbrico duo Panasonic KX-TGK210SP",
-      "price": 31.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kr/e3/__/c10420p1255331066/i6452328578.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/telefono-inalambrico-duo-panasonic-kx-tgk210sp-1255331066",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
     },
     {
       "id": "1272999308",
@@ -7982,5 +7982,5 @@
     }
   ],
   "total": 665,
-  "actualizado": "2026-07-21T17:34:41"
+  "actualizado": "2026-07-21T18:05:19"
 }
