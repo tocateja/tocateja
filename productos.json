@@ -1,16 +1,16 @@
 {
   "productos": [
     {
-      "id": "1251119974",
-      "title": "DCsos: Inmortales Entre despojos",
-      "price": 9.95,
+      "id": "1234481991",
+      "title": "Exprimidor Nexia Premium 40W 700ml",
+      "price": 13.5,
       "currency": "EUR",
       "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ko/vu/__/c10420p1251119974/i6427459803.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/dcsos-inmortales-entre-despojos-1251119974",
+      "image": "https://cdn.wallapop.com/images/10420/ke/z8/__/c10420p1234481991/i6318336861.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/exprimidor-nexia-premium-40w-700ml-1234481991",
       "location": "Pamplona",
       "condition": "",
-      "category": "Libros, Cómics y Revistas"
+      "category": "Electrodomésticos"
     },
     {
       "id": "1251090824",
@@ -482,7 +482,7 @@
     },
     {
       "id": "1199373710",
-      "title": "Destacado",
+      "title": "Tostador Industrial Horizontal Sammic TP-200",
       "price": 210.0,
       "currency": "EUR",
       "status": "available",
@@ -490,11 +490,11 @@
       "url": "https://es.wallapop.com/item/tostador-industrial-horizontal-sammic-tp-200-1199373710",
       "location": "Pamplona",
       "condition": "",
-      "category": "Otros"
+      "category": "Electrodomésticos"
     },
     {
       "id": "1247258437",
-      "title": "Destacado",
+      "title": "Gourmax Pro Airfryer Horno Plancha",
       "price": 225.0,
       "currency": "EUR",
       "status": "available",
@@ -502,7 +502,7 @@
       "url": "https://es.wallapop.com/item/gourmax-pro-airfryer-horno-plancha-1247258437",
       "location": "Pamplona",
       "condition": "",
-      "category": "Otros"
+      "category": "Electrodomésticos"
     },
     {
       "id": "1255841707",
@@ -1261,18 +1261,6 @@
       "category": "Foto y Vídeo"
     },
     {
-      "id": "1276846440",
-      "title": "Cámara Vigilancia iSmartAlarm Spot+ 1080P",
-      "price": 10.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l4/79/__/c10420p1276846440/i6585362591.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/camara-vigilancia-spot--wifi-full-hd-1080p-1276846440",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Foto y Vídeo"
-    },
-    {
       "id": "1235171042",
       "title": "Baliza Geolocalizada V16 Certificada DGT",
       "price": 20.5,
@@ -1283,18 +1271,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Motor"
-    },
-    {
-      "id": "1234481991",
-      "title": "Exprimidor Nexia Premium 40W 700ml",
-      "price": 13.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ke/z8/__/c10420p1234481991/i6318336861.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/exprimidor-nexia-premium-40w-700ml-1234481991",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Electrodomésticos"
     },
     {
       "id": "1276255524",
@@ -3421,18 +3397,6 @@
       "category": "Electrodomésticos"
     },
     {
-      "id": "1256627798",
-      "title": "Deadman: Amor después de la muerte (Universo Os...",
-      "price": 16.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ks/5w/__/c10420p1256627798/i6459466925.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/deadman-amor-despues-de-la-muerte-universo-os-1256627798",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
       "id": "1219975959",
       "title": "Fresa para metal Lukas",
       "price": 21.5,
@@ -3527,18 +3491,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
-    },
-    {
-      "id": "1254191434",
-      "title": "Batman: Tres Jokers (Segunda edición)",
-      "price": 13.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kq/po/__/c10420p1254191434/i6445194673.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/batman-tres-jokers-segunda-edicion-1254191434",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
     },
     {
       "id": "1255597502",
@@ -3707,18 +3659,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Móviles y Smartwatches"
-    },
-    {
-      "id": "1254186594",
-      "title": "La Vieja Harley - Frank Tieri, De Frank Tieri. ...",
-      "price": 11.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kq/pk/__/c10420p1254186594/i6445171444.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/la-vieja-harley-frank-tieri-de-frank-tieri-1254186594",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
     },
     {
       "id": "1227276670",
@@ -3971,18 +3911,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
-    },
-    {
-      "id": "1251117427",
-      "title": "Cómic DCSOS Adiós mundo cruel",
-      "price": 11.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ko/vs/__/c10420p1251117427/i6427446172.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/comic-dcsos-adios-mundo-cruel-1251117427",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
     },
     {
       "id": "1246076210",
@@ -6301,18 +6229,6 @@
       "category": "Música e Instrumentos"
     },
     {
-      "id": "1114130791",
-      "title": "LECTOR CODIGO BARRAS HONEYWELL",
-      "price": 9.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/if/bo/__/c10420p1114130791/i5495484431.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/lector-codigo-barras-honeywell-1114130791",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Informática"
-    },
-    {
       "id": "1111569077",
       "title": "LÁMPARA DE MESA CRISTALES COLGANTES",
       "price": 35.5,
@@ -7849,6 +7765,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 654,
-  "actualizado": "2026-07-23T08:02:20"
+  "total": 647,
+  "actualizado": "2026-07-23T10:31:52"
 }
