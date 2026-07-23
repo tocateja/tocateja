@@ -13,6 +13,18 @@
       "category": "Electrodomésticos"
     },
     {
+      "id": "1284275709",
+      "title": "MacBook Pro 13\"",
+      "price": 235.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l8/mh/__/c10420p1284275709/i6632079514.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/macbook-pro-13-1284275709",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Informática"
+    },
+    {
       "id": "1251090824",
       "title": "Portátil HP Elitebook 8 G1i 16 PRECINTADO",
       "price": 1195.0,
@@ -7765,6 +7777,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 647,
-  "actualizado": "2026-07-23T10:31:52"
+  "total": 648,
+  "actualizado": "2026-07-23T12:31:51"
 }
