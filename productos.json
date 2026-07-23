@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1045236388",
+      "title": "LIBRO FORMACION Y ORIENTACION LABORAL",
+      "price": 6.5,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/ha/b1/__/c10420p1045236388/i5110192777.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/libro-formacion-y-orientacion-laboral-1045236388",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
       "id": "1284275709",
       "title": "MacBook Pro 13\"",
       "price": 235.0,
@@ -7237,18 +7249,6 @@
       "category": "Móviles y Smartwatches"
     },
     {
-      "id": "1045236388",
-      "title": "LIBRO FORMACION Y ORIENTACION LABORAL",
-      "price": 6.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ha/b1/__/c10420p1045236388/i5110192777.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/libro-formacion-y-orientacion-laboral-1045236388",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
       "id": "1191818284",
       "title": "SingStar La edad de oro del Pop PlayStation 2",
       "price": 4.5,
@@ -7718,5 +7718,5 @@
     }
   ],
   "total": 643,
-  "actualizado": "2026-07-23T17:01:50"
+  "actualizado": "2026-07-23T19:01:51"
 }
