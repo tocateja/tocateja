@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1251119974",
+      "title": "DCsos: Inmortales Entre despojos",
+      "price": 9.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ko/vu/__/c10420p1251119974/i6427459803.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/dcsos-inmortales-entre-despojos-1251119974",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1251090824",
+      "title": "Portátil HP Elitebook 8 G1i 16 PRECINTADO",
+      "price": 1195.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ko/v7/__/c10420p1251090824/i6427316016.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/portatil-hp-elitebook-8-g1i-16-1251090824",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
       "id": "1226678637",
       "title": "Marco De Hipertensión Prim",
       "price": 46.5,
@@ -71,18 +95,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Deporte"
-    },
-    {
-      "id": "1170085907",
-      "title": "Muñeco Funko Pop Dungeons & dragons Xenk Nº1329",
-      "price": 6.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/jc/n0/__/c10420p1170085907/i5902710792.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/funko-pop-rey-de-wakanda-1170085907",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Juguetes"
     },
     {
       "id": "1222015275",
@@ -493,20 +505,8 @@
       "category": "Otros"
     },
     {
-      "id": "1251090824",
-      "title": "Destacado",
-      "price": 1365.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ko/v7/__/c10420p1251090824/i6427316016.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/portatil-hp-elitebook-8-g1i-16-1251090824",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
       "id": "1255841707",
-      "title": "Destacado",
+      "title": "Portátil Samsung Gris Plata",
       "price": 695.0,
       "currency": "EUR",
       "status": "available",
@@ -514,7 +514,7 @@
       "url": "https://es.wallapop.com/item/portatil-samsung-gris-plata-1255841707",
       "location": "Pamplona",
       "condition": "",
-      "category": "Otros"
+      "category": "Informática"
     },
     {
       "id": "1260226920",
@@ -551,18 +551,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1282562891",
-      "title": "Teclado Mac Apple",
-      "price": 36.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l7/lr/__/c10420p1282562891/i6622080043.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/teclado-mac-apple-1282562891",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Informática"
     },
     {
       "id": "1282262696",
@@ -733,18 +721,6 @@
       "category": "Gaming"
     },
     {
-      "id": "1247444770",
-      "title": "Altavoz Bluetooth LG XBOOM Negro",
-      "price": 125.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/km/p2/__/c10420p1247444770/i6401356933.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/altavoz-bluetooth-lg-xboom-negro-1247444770",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
-    },
-    {
       "id": "1278587940",
       "title": "Lote comics manga Children of The Whales 1-7",
       "price": 23.5,
@@ -899,18 +875,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
-    },
-    {
-      "id": "1278290926",
-      "title": "Máscara decorativa Indio",
-      "price": 13.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l5/27/__/c10420p1278290926/i6596243582.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/mascara-decorativa-indio-1278290926",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
     },
     {
       "id": "1278283999",
@@ -1813,30 +1777,6 @@
       "category": "Hogar"
     },
     {
-      "id": "1275349899",
-      "title": "Muñeco Funko The Umbrella Academy Pogo N°935",
-      "price": 8.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l3/b6/__/c10420p1275349899/i6577145783.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/muneco-funko-the-umbrella-academy-pogo-n935-1275349899",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Juguetes"
-    },
-    {
-      "id": "1275347988",
-      "title": "Muñeco Funko  Riverdale Jughead Jones N° 591",
-      "price": 8.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l3/b4/__/c10420p1275347988/i6577135547.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/muneco-funko-riverdale-jughead-jones-n-591-1275347988",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Juguetes"
-    },
-    {
       "id": "1275344085",
       "title": "Reloj Pulsera Casio",
       "price": 69.95,
@@ -2581,18 +2521,6 @@
       "category": "Música e Instrumentos"
     },
     {
-      "id": "1197844070",
-      "title": "Vinilo Matt Monro - Un toque de distinción",
-      "price": 5.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/jt/5y/__/c10420p1197844070/i6067503632.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/vinilo-matt-monro-un-toque-de-distincion-1197844070",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
-    },
-    {
       "id": "1234457014",
       "title": "Cargador Rápido Parkside 20V 4.5A",
       "price": 13.5,
@@ -2867,18 +2795,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1265371414",
-      "title": "Batman: Caballero Blanco (Biblioteca DC Black L...",
-      "price": 16.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kx/da/__/c10420p1265371414/i6516272142.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/batman-caballero-blanco-biblioteca-dc-black-l-1265371414",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
     },
     {
       "id": "1265357555",
@@ -3925,18 +3841,6 @@
       "category": "Libros, Cómics y Revistas"
     },
     {
-      "id": "1251119974",
-      "title": "DCsos: Inmortales Entre despojos",
-      "price": 11.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ko/vu/__/c10420p1251119974/i6427459803.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/dcsos-inmortales-entre-despojos-1251119974",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
       "id": "1250403423",
       "title": "Teclado Inalámbrico Apple Plata",
       "price": 49.95,
@@ -4292,18 +4196,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/l1/21/__/c10420p1271564673/i6555469756.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/comic-el-pacificador-se-esfuerza-mucho-1271564673",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1271562351",
-      "title": "El Batman que ríe: Se alza el infierno",
-      "price": 10.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l1/1z/__/c10420p1271562351/i6555457526.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/el-batman-que-rie-se-alza-el-infierno-1271562351",
       "location": "Pamplona",
       "condition": "",
       "category": "Libros, Cómics y Revistas"
@@ -6133,18 +6025,6 @@
       "category": "Libros, Cómics y Revistas"
     },
     {
-      "id": "1179751245",
-      "title": "Dispensador de jabón Rivas distribuciones",
-      "price": 10.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ji/e5/__/c10420p1179751245/i5956246945.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/dispensador-de-jabon-rivas-blanco-y-gris-1179751245",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Hogar"
-    },
-    {
       "id": "1240517330",
       "title": "Caja Armario Portátil  250L",
       "price": 8.5,
@@ -6155,18 +6035,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Informática"
-    },
-    {
-      "id": "1231919823",
-      "title": "Espejo Coche Bebé Royal Rascals",
-      "price": 8.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kd/gb/__/c10420p1231919823/i6301104113.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/espejo-coche-bebe-royal-rascals-1231919823",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Hogar"
     },
     {
       "id": "1239759584",
@@ -7981,6 +7849,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 665,
-  "actualizado": "2026-07-21T18:33:40"
+  "total": 654,
+  "actualizado": "2026-07-23T08:02:20"
 }
