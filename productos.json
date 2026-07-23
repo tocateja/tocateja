@@ -1,18 +1,6 @@
 {
   "productos": [
     {
-      "id": "1234481991",
-      "title": "Exprimidor Nexia Premium 40W 700ml",
-      "price": 13.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ke/z8/__/c10420p1234481991/i6318336861.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/exprimidor-nexia-premium-40w-700ml-1234481991",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Electrodomésticos"
-    },
-    {
       "id": "1284275709",
       "title": "MacBook Pro 13\"",
       "price": 235.0,
@@ -23,6 +11,18 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Informática"
+    },
+    {
+      "id": "1234481991",
+      "title": "Exprimidor Nexia Premium 40W 700ml",
+      "price": 13.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ke/z8/__/c10420p1234481991/i6318336861.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/exprimidor-nexia-premium-40w-700ml-1234481991",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Electrodomésticos"
     },
     {
       "id": "1251090824",
@@ -587,18 +587,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Móviles y Smartwatches"
-    },
-    {
-      "id": "1278608462",
-      "title": "Apple TV 3ª Generación",
-      "price": 26.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l5/90/__/c10420p1278608462/i6598455060.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/apple-tv-3-generacion-1278608462",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
     },
     {
       "id": "1282244165",
@@ -2581,18 +2569,6 @@
       "category": "Otros"
     },
     {
-      "id": "1272581779",
-      "title": "Consola PlayStation 1",
-      "price": 40.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l1/nu/__/c10420p1272581779/i6561337611.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/consola-playstation-1-1272581779",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
       "id": "1264724335",
       "title": "Móvil Xiaomi Redmi Note 15 Pro 5G 256GB",
       "price": 245.0,
@@ -3116,18 +3092,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/ks/os/__/c10420p1257509551/i6464669074.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/cd-robbie-robertson-storyville-1257509551",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
-      "id": "1257514718",
-      "title": "CD Loquillo y Trogloditas Hermanos de Sangre",
-      "price": 20.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ks/ow/__/c10420p1257514718/i6464703360.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/cd-loquillo-y-trogloditas-hermanos-de-sangre-1257514718",
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
@@ -5425,18 +5389,6 @@
       "category": "Libros, Cómics y Revistas"
     },
     {
-      "id": "1271110506",
-      "title": "Mortadelo y Filemón",
-      "price": 16.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l0/sb/__/c10420p1271110506/i6552735900.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/mortadelo-y-filemon-1271110506",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
       "id": "1271102361",
       "title": "Edición Integral Rompetechos Parte 1",
       "price": 24.95,
@@ -7585,18 +7537,6 @@
       "category": "Gaming"
     },
     {
-      "id": "1119177190",
-      "title": "JUEGO NINTENDO DS IMAGINE PET VET",
-      "price": 3.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ii/bu/__/c10420p1119177190/i5536850892.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/juego-nintendo-ds-imagine-pet-vet-1119177190",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
       "id": "1132449389",
       "title": "JUEGO NINTENDO DS GUINESS WORLD RECORDS",
       "price": 4.0,
@@ -7777,6 +7717,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 648,
-  "actualizado": "2026-07-23T12:31:51"
+  "total": 643,
+  "actualizado": "2026-07-23T17:01:50"
 }
