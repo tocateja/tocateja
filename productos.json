@@ -1,6 +1,42 @@
 {
   "productos": [
     {
+      "id": "1283648541",
+      "title": "Consola Nintendo Switch Oled",
+      "price": 225.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l8/91/__/c10420p1283648541/i6628265544.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/consola-nintendo-switch-oled-1283648541",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1284561566",
+      "title": "Splitter HDMI 2.0 FeinTech VSP01201 1x2",
+      "price": 30.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l8/sm/__/c10420p1284561566/i6633872502.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/splitter-hdmi-2-0-feintech-vsp01201-1x2-1284561566",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1284560131",
+      "title": "Monitor Portátil Arzopa 16.1\"",
+      "price": 89.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l8/sk/__/c10420p1284560131/i6633860498.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/monitor-portatil-arzopa-16-1-1284560131",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Informática"
+    },
+    {
       "id": "1284558202",
       "title": "Ipad Pro Magic Keyboard",
       "price": 36.5,
@@ -503,18 +539,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Joyería y Complementos"
-    },
-    {
-      "id": "1283648541",
-      "title": "Consola Nintendo Switch Oled",
-      "price": 225.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l8/91/__/c10420p1283648541/i6628265544.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/consola-nintendo-switch-oled-1283648541",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
     },
     {
       "id": "1283633768",
@@ -7741,6 +7765,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 645,
-  "actualizado": "2026-07-24T10:31:57"
+  "total": 647,
+  "actualizado": "2026-07-24T11:01:51"
 }
