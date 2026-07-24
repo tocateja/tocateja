@@ -73,18 +73,6 @@
       "category": "Otros"
     },
     {
-      "id": "1283630430",
-      "title": "Destacado",
-      "price": 1099.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l8/8n/__/c10420p1283630430/i6628177520.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/iphone-17-pro-256gb-precintado-1283630430",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
       "id": "1045236388",
       "title": "LIBRO FORMACION Y ORIENTACION LABORAL",
       "price": 6.5,
@@ -7777,6 +7765,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 648,
-  "actualizado": "2026-07-24T12:01:52"
+  "total": 647,
+  "actualizado": "2026-07-24T14:01:57"
 }
