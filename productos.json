@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1284578057",
+      "title": "Cámara Digital Sony DSC-WX350 A estrenar",
+      "price": 199.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l8/sy/__/c10420p1284578057/i6633981515.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/camara-digital-sony-dsc-wx350-1284578057",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Foto y Vídeo"
+    },
+    {
       "id": "1283648541",
       "title": "Consola Nintendo Switch Oled",
       "price": 225.0,
@@ -7765,6 +7777,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 647,
-  "actualizado": "2026-07-24T11:01:51"
+  "total": 648,
+  "actualizado": "2026-07-24T12:01:52"
 }
