@@ -1,0 +1,52 @@
+# Vigilante externo de frescura — corre en GitHub, independiente de la VM.
+# Comprueba 2 veces al dia si productos.json esta viejo (>12 h) y, si lo esta,
+# abre un Issue en el repo (GitHub te avisa por email automaticamente).
+# INSTALACION: en GitHub -> repo tocateja/tocateja -> Add file -> Create new file
+#   nombre:  .github/workflows/monitor_frescura.yml
+#   pegar este contenido y Commit.
+name: Monitor frescura web
+
+on:
+  schedule:
+    - cron: "0 7,19 * * *"   # 07:00 y 19:00 UTC (~09:00 y 21:00 en Espana)
+  workflow_dispatch:
+
+permissions:
+  issues: write
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Comprobar frescura y avisar si esta viejo
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const res = await fetch('https://raw.githubusercontent.com/tocateja/tocateja/main/productos.json?t=' + Date.now());
+            const data = await res.json();
+            const actualizado = new Date(data.actualizado);
+            const horas = (Date.now() - actualizado.getTime()) / 3600000;
+            core.info(`Ultima actualizacion: ${data.actualizado} (hace ${horas.toFixed(1)} h, ${data.total} productos)`);
+            if (isNaN(horas) || horas > 12) {
+              const titulo = 'AVISO: la web lleva mas de 12 h sin actualizarse';
+              const abiertos = await github.rest.issues.listForRepo({
+                owner: context.repo.owner, repo: context.repo.repo, state: 'open', labels: 'frescura'
+              });
+              if (abiertos.data.length === 0) {
+                await github.rest.issues.create({
+                  owner: context.repo.owner, repo: context.repo.repo,
+                  title: titulo, labels: ['frescura'],
+                  body: `Ultima actualizacion de productos.json: **${data.actualizado}** (hace ${horas.toFixed(1)} horas).\n\n` +
+                        'Probable causa: el scraper de la VM no esta corriendo. Revisar:\n' +
+                        '1. Que la VM este encendida.\n' +
+                        '2. Tareas programadas "Tocateja Update" / "Tocateja Update Base".\n' +
+                        '3. C:\\tocateja\\check_frescura.log en el servidor.'
+                });
+                core.notice('Issue de aviso creado.');
+              } else {
+                core.notice('Ya hay un issue de frescura abierto; no se duplica.');
+              }
+            } else {
+              core.notice('Todo OK.');
+            }
