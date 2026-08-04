@@ -1,28 +1,784 @@
 {
   "productos": [
     {
-      "id": "1284578057",
-      "title": "Cámara Digital Sony DSC-WX350 A estrenar",
+      "id": "1285387029",
+      "title": "Consola PS5 Fat+Mando",
+      "price": 445.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l9/aa/__/c10420p1285387029/i6638340908.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/consola-ps5-fat--mando-1285387029",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1259764152",
+      "title": "Piedra del Sol Azteca D'Argenta Plata",
+      "price": 145.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ku/14/__/c10420p1259764152/i6481413787.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/piedra-del-sol-azteca-d-argenta-plata-1259764152",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Joyería y Complementos"
+    },
+    {
+      "id": "1164112922",
+      "title": "Mondaine Helvetica Smart - Smartwatch",
+      "price": 249.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/j9/2z/__/c10420p1164112922/i5870081121.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/mondaine-helvetica-smart-smartwatch-1164112922",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
+      "id": "1286486660",
+      "title": "Vinilo Depeche Mode Some Great Reward",
+      "price": 11.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l9/xv/__/c10420p1286486660/i6644804548.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vinilo-depeche-mode-some-great-reward-1286486660",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1286488404",
+      "title": "Vinilo Depeche mode Black celebration",
+      "price": 13.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l9/xw/__/c10420p1286488404/i6644813828.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vinilo-depeche-mode-black-celebration-1286488404",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1274709252",
+      "title": "Grifo Bañera Roca Mitos Plata",
+      "price": 46.5,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/l2/xf/__/c10420p1274709252/i6573279338.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/grifo-banera-roca-mitos-plata-1274709252",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Joyería y Complementos"
+    },
+    {
+      "id": "1286649206",
+      "title": "Interfaz de Audio Focusrite Scarlett Solo",
+      "price": 52.95,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/la/1c/__/c10420p1286649206/i6645819187.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/interfaz-de-audio-focusrite-scarlett-solo-1286649206",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1287614529",
+      "title": "Figura Transformers Optimus Prime Kingdom",
+      "price": 36.5,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/la/m1/__/c10420p1287614529/i6653489226.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/figura-transformers-optimus-prime-kingdom-1287614529",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Hogar"
+    },
+    {
+      "id": "1237220292",
+      "title": "Sonic Shadow Generations Nintendo Switch",
+      "price": 26.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kg/lx/__/c10420p1237220292/i6338237882.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/sonic-shadow-generations-nintendo-switch-1237220292",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1287623810",
+      "title": "Airpods 4 Precintados",
+      "price": 99.99,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/la/m8/__/c10420p1287623810/i6653590909.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/airpods-4-precintados-1287623810",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
+      "id": "1287602663",
+      "title": "Figura Transformers Optimus Prime",
+      "price": 36.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/la/ls/__/c10420p1287602663/i6653377880.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/figura-transformers-optimus-prime-1287602663",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Hogar"
+    },
+    {
+      "id": "1287589215",
+      "title": "Portátil Lenovo Thinkbook 16 G7",
+      "price": 475.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/la/li/__/c10420p1287589215/i6653232831.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/portatil-lenovo-thinkbook-16-g7-1287589215",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Informática"
+    },
+    {
+      "id": "1273239632",
+      "title": "Secador de manos LOSDI A estrenar",
+      "price": 20.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l2/1x/__/c10420p1273239632/i6567613795.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/secador-de-manos-losdi-1273239632",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1275447155",
+      "title": "Luces Bicicleta Tiger A estrenar",
+      "price": 6.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/d9/__/c10420p1275447155/i6577636721.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/luces-bicicleta-tiger-a-estrenar-1275447155",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Deporte"
+    },
+    {
+      "id": "1286678515",
+      "title": "Guitarra Eléctrica Peavey AT-200",
       "price": 199.0,
       "currency": "EUR",
       "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l8/sy/__/c10420p1284578057/i6633981515.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/camara-digital-sony-dsc-wx350-1284578057",
+      "image": "https://cdn.wallapop.com/images/10420/la/1z/__/c10420p1286678515/i6646002001.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/guitarra-electrica-peavey-at-200-1286678515",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1286674383",
+      "title": "Libro cocina Karlos Arguiñano 1000 recetas de oro",
+      "price": 13.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/la/1w/__/c10420p1286674383/i6645975084.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/libro-cocina-karlos-arguinano-1000-recetas-de-oro-1286674383",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1286670725",
+      "title": "Libro cocina Karlos Arguiñano Gran recetario",
+      "price": 13.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/la/1t/__/c10420p1286670725/i6645952572.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/libro-cocina-karlos-arguinano-gran-recetario-1286670725",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1286669590",
+      "title": "Libro cocina Karlos Arguiñano Cocina para todos",
+      "price": 13.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/la/1s/__/c10420p1286669590/i6645945675.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/libro-cocina-karlos-arguinano-cocina-para-todos-1286669590",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1286667861",
+      "title": "Libro Karlos Arguiñano 545 recetas para triunfar",
+      "price": 13.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/la/1r/__/c10420p1286667861/i6645933327.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/libro-karlos-arguinano-545-recetas-para-triunfar-1286667861",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1286666180",
+      "title": "Libro cocina Jamie Oliver 7 Ideas",
+      "price": 13.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/la/1p/__/c10420p1286666180/i6645923101.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/libro-cocina-jamie-oliver-7-ideas-1286666180",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1286664367",
+      "title": "Libro cocina Karlos Arguiñano 1060 recetas",
+      "price": 13.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/la/1o/__/c10420p1286664367/i6645912798.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/libro-cocina-karlos-arguinano-1060-recetas-1286664367",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1286662312",
+      "title": "Libro cocina Karlos Arguiñano Cocina día a día",
+      "price": 13.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/la/1m/__/c10420p1286662312/i6645896734.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/libro-cocina-karlos-arguinano-cocina-dia-a-dia-1286662312",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1286660160",
+      "title": "Libro cocina Karlos Arguiñano La buena cocina",
+      "price": 13.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/la/1l/__/c10420p1286660160/i6645884800.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/libro-cocina-karlos-arguinano-la-buena-cocina-1286660160",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1286657905",
+      "title": "Libro Cocina Karlos Arguiñano La cocina de tu vida",
+      "price": 13.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/la/1j/__/c10420p1286657905/i6645871325.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/libro-cocina-karlos-arguinano-la-cocina-de-tu-vida-1286657905",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1286655281",
+      "title": "Libro Cocina Karlos Arguiñano Cocina fácil y rico",
+      "price": 13.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/la/1h/__/c10420p1286655281/i6645855061.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/libro-cocina-karlos-arguinano-cocina-facil-y-rico-1286655281",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1286653474",
+      "title": "Enciclopedia de Navarra Gastronomía",
+      "price": 10.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/la/1g/__/c10420p1286653474/i6645843854.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/enciclopedia-de-navarra-gastronomia-1286653474",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1286646711",
+      "title": "Plancha Vitrocerámica Fulgor 1990W",
+      "price": 59.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/la/1a/__/c10420p1286646711/i6645797135.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/plancha-vitroceramica-fulgor-1990w-1286646711",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1286485257",
+      "title": "Vinilo Depeche Mode - Personal Jesus",
+      "price": 21.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l9/xu/__/c10420p1286485257/i6644796200.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vinilo-depeche-mode-personal-jesus-1286485257",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1286482674",
+      "title": "Vinilo Immaculate Fools Hearts of Fortune",
+      "price": 9.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l9/xs/__/c10420p1286482674/i6644782072.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vinilo-immaculate-fools-hearts-of-fortune-1286482674",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1277490851",
+      "title": "LIBRO DE INGLÉS FUTURE PROSPECTS 1",
+      "price": 11.5,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/l4/l2/__/c10420p1277490851/i6589174651.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/libro-de-ingles-future-prospects-1-1277490851",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1286064360",
+      "title": "Xiaomi 14T Pro",
+      "price": 285.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l9/ot/__/c10420p1286064360/i6642306013.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/xiaomi-14t-pro-1286064360",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
+      "id": "1285692133",
+      "title": "Reloj Casio G-shock Mudmaster GWG-B1000",
+      "price": 495.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l9/gu/__/c10420p1285692133/i6640099895.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/reloj-casio-g-shock-mudmaster-gwg-b1000-1285692133",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Joyería y Complementos"
+    },
+    {
+      "id": "1196578886",
+      "title": "Vinilo Michel Haydn Trois Concertos",
+      "price": 6.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/js/eu/__/c10420p1196578886/i6054201504.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vinilo-michel-haydn-trois-concertos-1196578886",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1286058546",
+      "title": "Martillo Perforador Bosch",
+      "price": 695.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l9/op/__/c10420p1286058546/i6642272722.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/martillo-perforador-bosch-1286058546",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Herramientas"
+    },
+    {
+      "id": "1285535543",
+      "title": "Reloj Automático Tissot Seastar 2000 Powermatic 80",
+      "price": 795.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l9/dh/__/c10420p1285535543/i6639193664.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/reloj-automatico-tissot-seastar-2000-1285535543",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Joyería y Complementos"
+    },
+    {
+      "id": "1251090824",
+      "title": "Portátil HP Elitebook 8 G1i 16 PRECINTADO",
+      "price": 1195.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ko/v7/__/c10420p1251090824/i6427316016.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/portatil-hp-elitebook-8-g1i-16-1251090824",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1286049428",
+      "title": "Taladro Atornillador Bosch",
+      "price": 85.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l9/oi/__/c10420p1286049428/i6642222134.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/taladro-atornillador-bosch-1286049428",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Herramientas"
+    },
+    {
+      "id": "1014712315",
+      "title": "PULSERA VINCITORI ANCLA",
+      "price": 6.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/gs/4t/__/c10420p1014712315/i4940174666.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/pulsera-vincitori-ancla-1014712315",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Joyería y Complementos"
+    },
+    {
+      "id": "1168073783",
+      "title": "Caja 3 Machos Roscar Metal M8*125 6H",
+      "price": 7.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/jb/fv/__/c10420p1168073783/i5892018460.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/caja-3-machos-roscar-metal-m8-125-6h-1168073783",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Herramientas"
+    },
+    {
+      "id": "1159915843",
+      "title": "Maniquí exposición hombre",
+      "price": 85.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/j6/l0/__/c10420p1159915843/i5842969243.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/maniqui-exposicion-hombre-1159915843",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Hogar"
+    },
+    {
+      "id": "1285849531",
+      "title": "Molde Silicona Egg Poacher Thermomix",
+      "price": 25.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l9/k7/__/c10420p1285849531/i6640971108.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/accesorio-thermomix-egg-poacher-1285849531",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Electrodomésticos"
+    },
+    {
+      "id": "1285870481",
+      "title": "Cómic Rocketeer Aventuras",
+      "price": 16.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l9/ko/__/c10420p1285870481/i6641100150.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/comic-rocketeer-aventuras-1285870481",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1285869344",
+      "title": "Cómic Joker pequeñas locuras",
+      "price": 11.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l9/kn/__/c10420p1285869344/i6641094795.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/comic-joker-pequenas-locuras-1285869344",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1285868091",
+      "title": "Cómic Edición Integral Ultimate The Ultimates",
+      "price": 16.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l9/km/__/c10420p1285868091/i6641087744.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/comic-edicion-integral-ultimate-the-ultimates-1285868091",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1285866835",
+      "title": "Operación Amanecer. Tomo 1. Que corra la sangre",
+      "price": 11.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l9/kl/__/c10420p1285866835/i6641080565.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/operacion-amanecer-tomo-1-que-corra-la-sangre-1285866835",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1285866063",
+      "title": "Cómic Novela Gráfica Fagin El Judío de Will Eisner",
+      "price": 9.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l9/kk/__/c10420p1285866063/i6641076569.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/comic-novela-grafica-fagin-el-judio-de-will-eisner-1285866063",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1285865236",
+      "title": "Cómic DC Estado futuro El próximo batman",
+      "price": 16.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l9/kj/__/c10420p1285865236/i6641071982.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/comic-dc-estado-futuro-el-proximo-batman-1285865236",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1285863268",
+      "title": "Cómic Cthulhu Death May Die",
+      "price": 11.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l9/ki/__/c10420p1285863268/i6641059094.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/comic-cthulhu-death-may-die-1285863268",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1285846070",
+      "title": "Portátil Asus Vivobook",
+      "price": 399.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l9/k5/__/c10420p1285846070/i6640952394.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/portatil-asus-vivobook-1285846070",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Informática"
+    },
+    {
+      "id": "1168688760",
+      "title": "Calzado Seguridad Kingsmann A estrenar",
+      "price": 19.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/jb/t2/__/c10420p1168688760/i5895564029.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/calzado-seguridad-kingsmann-a-estrenar-1168688760",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Deporte"
+    },
+    {
+      "id": "1180859808",
+      "title": "Alambre Fino Remanit  0.6mm AB HART",
+      "price": 4.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/jj/1x/__/c10420p1180859808/i5961474610.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/alambre-fino-remanit-0-6mm-ab-hart-1180859808",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Herramientas"
+    },
+    {
+      "id": "1229581041",
+      "title": "Vinilo Sarita Montiel Mi Último Tango",
+      "price": 5.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kc/26/__/c10420p1229581041/i6286157435.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vinilo-sarita-montiel-mi-ultimo-tango-1229581041",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1285742499",
+      "title": "Vaso Completo Thermomix",
+      "price": 75.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l9/hx/__/c10420p1285742499/i6640385019.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vaso-completo-thermomix-1285742499",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Electrodomésticos"
+    },
+    {
+      "id": "1227660376",
+      "title": "Los muertos revivientes nº 1: Empiezan el Lío",
+      "price": 3.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ka/x0/__/c10420p1227660376/i6273797847.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/los-muertos-revivientes-n-1-empieza-el-lio-c-1227660376",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1256544147",
+      "title": "Lijadora Einhell TE-OS 2520 E A Estrenar",
+      "price": 59.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ks/43/__/c10420p1256544147/i6458978603.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/lijadora-einhell-te-os-2520-e-1256544147",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Herramientas"
+    },
+    {
+      "id": "1266664915",
+      "title": "Ajedrez Azteca Resina Años 80",
+      "price": 119.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ky/50/__/c10420p1266664915/i6523639747.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/ajedrez-azteca-resina-anos-80-1266664915",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1258220512",
+      "title": "Cámara Panasonic Lumix DC-G100DV Negra",
+      "price": 575.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kt/41/__/c10420p1258220512/i6469038989.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/camara-panasonic-lumix-dc-g100dv-negra-1258220512",
       "location": "Pamplona",
       "condition": "",
       "category": "Foto y Vídeo"
     },
     {
-      "id": "1283648541",
-      "title": "Consola Nintendo Switch Oled",
-      "price": 225.0,
+      "id": "1285733736",
+      "title": "Taladro Atornillador Hilti 22V + 2 Baterías",
+      "price": 390.0,
       "currency": "EUR",
       "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l8/91/__/c10420p1283648541/i6628265544.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/consola-nintendo-switch-oled-1283648541",
+      "image": "https://cdn.wallapop.com/images/10420/l9/hq/__/c10420p1285733736/i6640334067.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/taladro-atornillador-hilti-22v---2-baterias-1285733736",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Herramientas"
+    },
+    {
+      "id": "1285506471",
+      "title": "Martillo Combinado 800W Makita A estrenar",
+      "price": 129.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l9/cv/__/c10420p1285506471/i6639033898.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/martillo-combinado-800w-makita-a-estrenar-1285506471",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Herramientas"
+    },
+    {
+      "id": "1285433962",
+      "title": "Monitor Gaming Asus 43\" Antireflejos 120Hz",
+      "price": 599.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l9/bb/__/c10420p1285433962/i6638640738.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/monitor-gaming-asus-43-antireflejos-120hz-1285433962",
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
+    },
+    {
+      "id": "1285403374",
+      "title": "Google Pixel 10A A Estrenar",
+      "price": 365.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l9/an/__/c10420p1285403374/i6638459792.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/google-pixel-10a-a-estrenar-1285403374",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
+      "id": "1285412556",
+      "title": "Accesorio Thermomix Cubrecuchillas y Pelador",
+      "price": 24.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l9/au/__/c10420p1285412556/i6638510199.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/accesorio-thermomix-cubrecuchillas-y-pelador-1285412556",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Electrodomésticos"
+    },
+    {
+      "id": "1285406351",
+      "title": "Accesorio Thermomix  Cubrecuchillas y Pelador",
+      "price": 24.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l9/ap/__/c10420p1285406351/i6638475164.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/accesorio-thermomix-cubrecuchillas-y-pelador-1285406351",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Electrodomésticos"
+    },
+    {
+      "id": "1285398714",
+      "title": "Consola Nintendo Switch",
+      "price": 185.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l9/aj/__/c10420p1285398714/i6638429599.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/consola-nintendo-switch-1285398714",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1274720938",
+      "title": "Linterna Recargable EDM",
+      "price": 16.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l2/xo/__/c10420p1274720938/i6573344675.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/linterna-recargable-edm-1274720938",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
     },
     {
       "id": "1284561566",
@@ -61,18 +817,6 @@
       "category": "Móviles y Smartwatches"
     },
     {
-      "id": "1284408203",
-      "title": "Destacado",
-      "price": 999.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l8/pb/__/c10420p1284408203/i6632819569.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/samsung-galaxy-s26-ultra-precintado-1284408203",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
       "id": "1045236388",
       "title": "LIBRO FORMACION Y ORIENTACION LABORAL",
       "price": 6.5,
@@ -107,18 +851,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Electrodomésticos"
-    },
-    {
-      "id": "1251090824",
-      "title": "Portátil HP Elitebook 8 G1i 16 PRECINTADO",
-      "price": 1195.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ko/v7/__/c10420p1251090824/i6427316016.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/portatil-hp-elitebook-8-g1i-16-1251090824",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
     },
     {
       "id": "1226678637",
@@ -301,18 +1033,6 @@
       "category": "Gaming"
     },
     {
-      "id": "1109752711",
-      "title": "MONSTER HUNTER RISE SUNBREAK NINTENDO SWITCH",
-      "price": 13.5,
-      "currency": "EUR",
-      "status": "reserved",
-      "image": "https://cdn.wallapop.com/images/10420/ic/pu/__/c10420p1109752711/i5461498427.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/monster-hunter-rise-sunbreak-nintendo-switch-1109752711",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
       "id": "1118848755",
       "title": "LEGO STAR WARS II THE ORIGINAL TRILOGY GB ADVANCE",
       "price": 6.0,
@@ -373,18 +1093,6 @@
       "category": "Gaming"
     },
     {
-      "id": "1158703063",
-      "title": "Cocoto Festival - Wii",
-      "price": 4.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/j5/v1/__/c10420p1158703063/i5835981965.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/cocoto-festival-wii-1158703063",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
       "id": "1167499193",
       "title": "Happy Feet GBA - Nintendo",
       "price": 5.0,
@@ -431,18 +1139,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
-    },
-    {
-      "id": "1198618402",
-      "title": "Vinilo Shaky - Pop Rock Internacional",
-      "price": 5.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/jt/mj/__/c10420p1198618402/i6073450496.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/vinilo-shaky-pop-rock-internacional-1198618402",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
     },
     {
       "id": "1196822982",
@@ -589,18 +1285,6 @@
       "category": "Informática"
     },
     {
-      "id": "1260226920",
-      "title": "Pack 2 Temporadas The Crown DVD",
-      "price": 10.5,
-      "currency": "EUR",
-      "status": "reserved",
-      "image": "https://cdn.wallapop.com/images/10420/ku/b1/__/c10420p1260226920/i6484449586.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/pack-2-temporadas-the-crown-dvd-1260226920",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
       "id": "1275469055",
       "title": "Teclado Electrónico Yamaha 61 Teclas",
       "price": 499.0,
@@ -637,18 +1321,6 @@
       "category": "Libros, Cómics y Revistas"
     },
     {
-      "id": "1247131627",
-      "title": "Pareja Walkie Talkies Motorola T62",
-      "price": 40.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/km/ic/__/c10420p1247131627/i6399446526.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/pareja-walkie-talkies-motorola-t62-1247131627",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
-    },
-    {
       "id": "1282244165",
       "title": "Caja iPhone 13 Pro Max",
       "price": 10.5,
@@ -671,18 +1343,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "TV y Audio"
-    },
-    {
-      "id": "1282239472",
-      "title": "Licuadora Portátil Ninja Blast",
-      "price": 31.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l7/eu/__/c10420p1282239472/i6620012515.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/licuadora-portatil-ninja-blast-1282239472",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Informática"
     },
     {
       "id": "1282211745",
@@ -740,18 +1400,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/k6/5f/__/c10420p1219654103/i6222266840.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/espectrobes-nintendo-ds-1219654103",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
-      "id": "1254223388",
-      "title": "Narcos Rise of the Cartels PS4 (PlayStation 4)",
-      "price": 17.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kq/qc/__/c10420p1254223388/i6445352887.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/narcos-rise-of-the-cartels-ps4-playstation-4-1254223388",
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
@@ -889,18 +1537,6 @@
       "category": "Libros, Cómics y Revistas"
     },
     {
-      "id": "1258220512",
-      "title": "Cámara Panasonic Lumix DC-G100DV Negra",
-      "price": 575.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kt/41/__/c10420p1258220512/i6469038989.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/camara-panasonic-lumix-dc-g100dv-negra-1258220512",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Foto y Vídeo"
-    },
-    {
       "id": "1271436046",
       "title": "Samsung Galaxy Z Fold 7",
       "price": 1100.0,
@@ -947,18 +1583,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Móviles y Smartwatches"
-    },
-    {
-      "id": "1278277993",
-      "title": "TV Box GT Combo",
-      "price": 31.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l5/1x/__/c10420p1278277993/i6596088795.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/tv-box-gt-combo-1278277993",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
     },
     {
       "id": "1278266173",
@@ -1057,18 +1681,6 @@
       "category": "Gaming"
     },
     {
-      "id": "1277490851",
-      "title": "LIBRO DE INGLÉS FUTURE PROSPECTS 1",
-      "price": 11.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l4/l2/__/c10420p1277490851/i6589174651.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/libro-de-ingles-future-prospects-1-1277490851",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
       "id": "1277863559",
       "title": "Cortadora Tubos Virax 63MM",
       "price": 79.95,
@@ -1136,18 +1748,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/l4/lk/__/c10420p1277514857/i6589315948.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/tales-of-vesperia-definitive-edition-xbox-one-1277514857",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
-      "id": "1277512116",
-      "title": "Two Point Campus Nintendo Switch Precintado",
-      "price": 6.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l4/li/__/c10420p1277512116/i6589301967.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/two-point-campus-nintendo-switch-precintado-1277512116",
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
@@ -1307,18 +1907,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Móviles y Smartwatches"
-    },
-    {
-      "id": "1276848257",
-      "title": "Cámara iSmartAlarm Spot+ 1080P",
-      "price": 10.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l4/7a/__/c10420p1276848257/i6585373522.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/camara-ismartalarm-spot--1080p-1276848257",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Foto y Vídeo"
     },
     {
       "id": "1235171042",
@@ -1487,18 +2075,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Hogar"
-    },
-    {
-      "id": "1275984939",
-      "title": "Reloj Pulsera Lanscotte Swarovski",
-      "price": 149.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l3/os/__/c10420p1275984939/i6580795394.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/reloj-pulsera-lanscotte-swarovski-1275984939",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Joyería y Complementos"
     },
     {
       "id": "1275960657",
@@ -1681,30 +2257,6 @@
       "category": "Otros"
     },
     {
-      "id": "1275447155",
-      "title": "Luces Bicicleta Tiger A estrenar",
-      "price": 6.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l3/d9/__/c10420p1275447155/i6577636721.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/luces-bicicleta-tiger-a-estrenar-1275447155",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Deporte"
-    },
-    {
-      "id": "1275444391",
-      "title": "Calefactor Cecotec Ready Warm 6650",
-      "price": 50.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l3/d7/__/c10420p1275444391/i6577624289.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/calefactor-cecotec-ready-warm-6650-1275444391",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Electrodomésticos"
-    },
-    {
       "id": "1275437981",
       "title": "Book Cover Keyboard Slim AI Key Samsung Precintado",
       "price": 99.0,
@@ -1885,18 +2437,6 @@
       "category": "Otros"
     },
     {
-      "id": "1275150500",
-      "title": "Libro ¿Qué Pacha, Mamá? Lola Vendetta",
-      "price": 10.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l3/6w/__/c10420p1275150500/i6575895713.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/libro-que-pacha-mama-lola-vendetta-1275150500",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
       "id": "1275144014",
       "title": "Reloj Pulsera Sandoz Geneve",
       "price": 85.0,
@@ -2017,18 +2557,6 @@
       "category": "Otros"
     },
     {
-      "id": "1274841091",
-      "title": "Proyector LED WiFi Ultimea Apollo P10 1280x720",
-      "price": 75.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l3/09/__/c10420p1274841091/i6574026704.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/proyector-led-wifi-ultimea-apollo-p10-1274841091",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "TV y Audio"
-    },
-    {
       "id": "1269620792",
       "title": "Portátil Lenovo Thinkbook 14 Gris",
       "price": 315.0,
@@ -2039,18 +2567,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Informática"
-    },
-    {
-      "id": "1274827256",
-      "title": "Mario Sports Superstars Nintendo 3DS",
-      "price": 9.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l2/zz/__/c10420p1274827256/i6573937311.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/mario-sports-superstars-nintendo-3ds-1274827256",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
     },
     {
       "id": "1274822122",
@@ -2221,30 +2737,6 @@
       "category": "Foto y Vídeo"
     },
     {
-      "id": "1274730561",
-      "title": "Estación Meteorológica Auriol",
-      "price": 11.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l2/xw/__/c10420p1274730561/i6573403295.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/estacion-meteorologica-auriol-1274730561",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Joyería y Complementos"
-    },
-    {
-      "id": "1274720938",
-      "title": "Linterna Recargable EDM",
-      "price": 21.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l2/xo/__/c10420p1274720938/i6573344675.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/linterna-recargable-edm-1274720938",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
       "id": "1274718091",
       "title": "Juego Cubiertos Vintage",
       "price": 30.5,
@@ -2255,18 +2747,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Antigüedades y Coleccionismo"
-    },
-    {
-      "id": "1274709252",
-      "title": "Grifo Bañera Roca Mitos Plata",
-      "price": 46.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l2/xf/__/c10420p1274709252/i6573279338.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/grifo-banera-roca-mitos-plata-1274709252",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Joyería y Complementos"
     },
     {
       "id": "1273952385",
@@ -2363,18 +2843,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Herramientas"
-    },
-    {
-      "id": "1273239632",
-      "title": "Secador de manos LOSDI A estrenar",
-      "price": 20.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l2/1x/__/c10420p1273239632/i6567613795.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/secador-de-manos-losdi-1273239632",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
     },
     {
       "id": "1273634050",
@@ -2581,18 +3049,6 @@
       "category": "Motor"
     },
     {
-      "id": "1272601877",
-      "title": "Consola Sony PS3 320GB",
-      "price": 79.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l1/o9/__/c10420p1272601877/i6561449245.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/consola-sony-ps3-320gb-1272601877",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
       "id": "1272587988",
       "title": "Teclado Logitech K400 Plus",
       "price": 31.5,
@@ -2749,18 +3205,6 @@
       "category": "Gaming"
     },
     {
-      "id": "1266664915",
-      "title": "Ajedrez Azteca Resina Años 80",
-      "price": 119.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ky/50/__/c10420p1266664915/i6523639747.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/ajedrez-azteca-resina-anos-80-1266664915",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
       "id": "1266691843",
       "title": "Reloj Jaguar J929/1 Connected Edición Especial",
       "price": 399.0,
@@ -2771,18 +3215,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Joyería y Complementos"
-    },
-    {
-      "id": "1266390769",
-      "title": "Samsung Galaxy S23 FE 128GB Negro",
-      "price": 385.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kx/z5/__/c10420p1266390769/i6521941461.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/samsung-galaxy-s23-fe-128gb-negro-1266390769",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
     },
     {
       "id": "1259366122",
@@ -2984,18 +3416,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/kt/kh/__/c10420p1258988225/i6475277293.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/cd-georges-moustaki-1258988225",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
-      "id": "1258993270",
-      "title": "CD B.B. King & Friends 80th Birthday",
-      "price": 6.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kt/kl/__/c10420p1258993270/i6475309594.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/cd-b-b-king-friends-80th-birthday-1258993270",
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
@@ -3241,18 +3661,6 @@
       "category": "Otros"
     },
     {
-      "id": "1257302517",
-      "title": "CD Led Zeppelin II Hard Rock",
-      "price": 11.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ks/kc/__/c10420p1257302517/i6463438425.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/led-zeppelin-ii-cd-hard-rock-1257302517",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
       "id": "1257306281",
       "title": "CD Prince 3121",
       "price": 6.5,
@@ -3299,30 +3707,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Juguetes"
-    },
-    {
-      "id": "1256544147",
-      "title": "Lijadora Einhell TE-OS 2520 E",
-      "price": 59.95,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ks/43/__/c10420p1256544147/i6458978603.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/lijadora-einhell-te-os-2520-e-1256544147",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Herramientas"
-    },
-    {
-      "id": "1257543641",
-      "title": "CD Animal Tracks Folk",
-      "price": 11.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ks/pi/__/c10420p1257543641/i6464880125.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/cd-animal-tracks-folk-1257543641",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
     },
     {
       "id": "1257549248",
@@ -3392,18 +3776,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/kr/bo/__/c10420p1255217610/i6451655216.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/impresora-termica-tickets-epson-tm-t20-1255217610",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Informática"
-    },
-    {
-      "id": "1255560887",
-      "title": "Portátil Acer Aspire GO 15",
-      "price": 499.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kr/j0/__/c10420p1255560887/i6453775409.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/portatil-acer-aspire-go-15-1255560887",
       "location": "Pamplona",
       "condition": "",
       "category": "Informática"
@@ -3493,18 +3865,6 @@
       "category": "Móviles y Smartwatches"
     },
     {
-      "id": "1254224786",
-      "title": "Resident Evil Revelations 2 PS4 (Box Set)",
-      "price": 21.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kq/qe/__/c10420p1254224786/i6445359754.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/resident-evil-revelations-2-ps4-box-set-1254224786",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
       "id": "1254204329",
       "title": "Juego PS5 EA Sports FC 26",
       "price": 40.5,
@@ -3512,18 +3872,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/kq/py/__/c10420p1254204329/i6445259838.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/juego-ps5-ea-sports-fc-26-1254204329",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
-      "id": "1254206380",
-      "title": "Juego PS4 Pro Evolution Soccer 2015",
-      "price": 8.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kq/pz/__/c10420p1254206380/i6445268648.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/juego-ps4-pro-evolution-soccer-2015-1254206380",
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
@@ -3587,18 +3935,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Electrodomésticos"
-    },
-    {
-      "id": "1253552592",
-      "title": "1 / 5",
-      "price": 9.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kq/bz/__/c10420p1253552592/i6442045037.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/cd-1253552592",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
     },
     {
       "id": "1253541910",
@@ -3673,18 +4009,6 @@
       "category": "Joyería y Complementos"
     },
     {
-      "id": "1254215455",
-      "title": "Juego PS4 Astérix & Obélix Slap them all",
-      "price": 26.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kq/q6/__/c10420p1254215455/i6445317290.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/juego-ps4-asterix-obelix-slap-them-all-1254215455",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
       "id": "1252562714",
       "title": "Apple Watch SE 3 40mm Blanco",
       "price": 185.0,
@@ -3745,18 +4069,6 @@
       "category": "Joyería y Complementos"
     },
     {
-      "id": "1222004738",
-      "title": "Tabla de equilibrio Crivit",
-      "price": 7.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/k7/js/__/c10420p1222004738/i6235701821.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/tabla-de-equilibrio-crivit-1222004738",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Hogar"
-    },
-    {
       "id": "1194603576",
       "title": "Cegadora De Iluminación Blinder 2L",
       "price": 40.5,
@@ -3767,18 +4079,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Informática"
-    },
-    {
-      "id": "1194608809",
-      "title": "Pareja de Altavoces",
-      "price": 11.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/jr/8m/__/c10420p1194608809/i6038918937.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/pareja-de-altavoces-1194608809",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
     },
     {
       "id": "1251121022",
@@ -4021,18 +4321,6 @@
       "category": "Electrodomésticos"
     },
     {
-      "id": "1245751980",
-      "title": "Secador Pelo Dreame Hair Glory Mix Dorado",
-      "price": 69.95,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kl/os/__/c10420p1245751980/i6391447125.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/secador-pelo-dreame-hair-glory-mix-dorado-1245751980",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Electrodomésticos"
-    },
-    {
       "id": "1247223929",
       "title": "Suzuki Melodion M-37",
       "price": 50.5,
@@ -4100,30 +4388,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/kh/5q/__/c10420p1238145061/i6344443989.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/juego-de-habilidad-de-madera-1238145061",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Juguetes"
-    },
-    {
-      "id": "1238118722",
-      "title": "Juego de habilidad de madera",
-      "price": 5.95,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kh/56/__/c10420p1238118722/i6344222246.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/juego-de-habilidad-de-madera-1238118722",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Juguetes"
-    },
-    {
-      "id": "1237951687",
-      "title": "Juego de habilidad de madera",
-      "price": 5.95,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kh/1l/__/c10420p1237951687/i6343058438.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/juego-de-habilidad-de-madera-1237951687",
       "location": "Pamplona",
       "condition": "",
       "category": "Juguetes"
@@ -4489,30 +4753,6 @@
       "category": "Gaming"
     },
     {
-      "id": "1223954774",
-      "title": "FIFA 20 Legacy Edition Nintendo Switch",
-      "price": 10.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/k8/pl/__/c10420p1223954774/i6247298409.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/fifa-20-legacy-edition-nintendo-switch-1223954774",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
-      "id": "1227660376",
-      "title": "Los muertos revivientes nº 1: Empiezan el Lío",
-      "price": 4.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ka/x0/__/c10420p1227660376/i6273797847.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/los-muertos-revivientes-n-1-empieza-el-lio-c-1227660376",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
       "id": "1223373953",
       "title": "Vinilo Johannes Brahms Variaciones Piano",
       "price": 6.5,
@@ -4837,18 +5077,6 @@
       "category": "Música e Instrumentos"
     },
     {
-      "id": "1219616160",
-      "title": "Apple Watch Series 8 41mm Plata/Blanco",
-      "price": 169.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/k6/4l/__/c10420p1219616160/i6222014804.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/apple-watch-series-8-41mm-plata-blanco-1219616160",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
-    },
-    {
       "id": "1219415405",
       "title": "Monopoly Party PS2",
       "price": 6.5,
@@ -5077,18 +5305,6 @@
       "category": "Música e Instrumentos"
     },
     {
-      "id": "1209981380",
-      "title": "Assassins Creed I PS3 Essentials",
-      "price": 6.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/k0/e3/__/c10420p1209981380/i6161352207.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/assassins-creed-i-ps3-essentials-1209981380",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
       "id": "1211903688",
       "title": "Vinilo Mozart Concierto para Flauta y Oboe",
       "price": 6.5,
@@ -5099,18 +5315,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Música e Instrumentos"
-    },
-    {
-      "id": "1209983822",
-      "title": "Assassins Creed III PS3 Edición Exclusiva",
-      "price": 9.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/k0/e5/__/c10420p1209983822/i6161365207.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/assassins-creed-iii-ps3-edicion-exclusiva-1209983822",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
     },
     {
       "id": "1211861428",
@@ -5183,18 +5387,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Música e Instrumentos"
-    },
-    {
-      "id": "1209982880",
-      "title": "Assassins Creed II PS3 Essentials GOTY",
-      "price": 7.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/k0/e4/__/c10420p1209982880/i6161359888.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/assassins-creed-ii-ps3-essentials-goty-1209982880",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
     },
     {
       "id": "1211595199",
@@ -5353,18 +5545,6 @@
       "category": "Gaming"
     },
     {
-      "id": "1196578886",
-      "title": "Vinilo Michel Haydn Trois Concertos",
-      "price": 9.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/js/eu/__/c10420p1196578886/i6054201504.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/vinilo-michel-haydn-trois-concertos-1196578886",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
-    },
-    {
       "id": "1196935456",
       "title": "Ps2 Smash Court Tennis Pro Tournament 2",
       "price": 5.5,
@@ -5473,30 +5653,6 @@
       "category": "Libros, Cómics y Revistas"
     },
     {
-      "id": "1271090084",
-      "title": "Super Humor Zipi y Zape Tomo 2",
-      "price": 10.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l0/rv/__/c10420p1271090084/i6552588298.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/super-humor-zipi-y-zape-tomo-2-1271090084",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1271087914",
-      "title": "Super Humor Zipi y Zape Tomo 14",
-      "price": 10.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l0/rt/__/c10420p1271087914/i6552566037.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/super-humor-zipi-y-zape-tomo-14-1271087914",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
       "id": "1235617982",
       "title": "Multímetro Fluke 179 True RMS",
       "price": 195.0,
@@ -5581,30 +5737,6 @@
       "category": "Libros, Cómics y Revistas"
     },
     {
-      "id": "1229581041",
-      "title": "Vinilo Sarita Montiel Mi Último Tango",
-      "price": 4.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kc/26/__/c10420p1229581041/i6286157435.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/vinilo-sarita-montiel-mi-ultimo-tango-1229581041",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
-    },
-    {
-      "id": "1244846102",
-      "title": "Samsung Tab S7 FE 5G 12.4 Gris",
-      "price": 265.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kl/5d/__/c10420p1244846102/i6385674397.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/samsung-tab-s7-fe-5g-12-4-gris-1244846102",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
-    },
-    {
       "id": "1242425520",
       "title": "Mini Bar Bola del Mundo Madera y Metal",
       "price": 69.95,
@@ -5627,18 +5759,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1240991061",
-      "title": "Cepillo carpintero madera decorativo",
-      "price": 18.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ki/uq/__/c10420p1240991061/i6362609156.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/cepillo-carpintero-madera-decorativo-1240991061",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Hogar"
     },
     {
       "id": "1240716037",
@@ -5677,18 +5797,6 @@
       "category": "Libros, Cómics y Revistas"
     },
     {
-      "id": "1180859808",
-      "title": "Alambre Fino Remanit  0.6mm AB HART",
-      "price": 4.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/jj/1x/__/c10420p1180859808/i5961474610.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/alambre-fino-remanit-0-6mm-ab-hart-1180859808",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Herramientas"
-    },
-    {
       "id": "1240688782",
       "title": "VHS Pinocho Los Clásicos Disney (Precintado)",
       "price": 18.5,
@@ -5699,18 +5807,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1180831830",
-      "title": "Cortapelos Manual Nº O",
-      "price": 11.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/jj/1b/__/c10420p1180831830/i5961341794.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/cortapelos-manual-n-o-1180831830",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Moda"
     },
     {
       "id": "1179760480",
@@ -5797,18 +5893,6 @@
       "category": "Música e Instrumentos"
     },
     {
-      "id": "1237220292",
-      "title": "Sonic Shadow Generations Nintendo Switch",
-      "price": 26.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kg/lx/__/c10420p1237220292/i6338237882.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/sonic-shadow-generations-nintendo-switch-1237220292",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
       "id": "1235622856",
       "title": "Multímetro APPA 96",
       "price": 51.5,
@@ -5869,30 +5953,6 @@
       "category": "Informática"
     },
     {
-      "id": "1168688760",
-      "title": "Calzado Seguridad Kingsmann A estrenar",
-      "price": 19.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/jb/t2/__/c10420p1168688760/i5895564029.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/calzado-seguridad-kingsmann-a-estrenar-1168688760",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Deporte"
-    },
-    {
-      "id": "1159915843",
-      "title": "Maniquí exposición hombre",
-      "price": 85.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/j6/l0/__/c10420p1159915843/i5842969243.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/maniqui-exposicion-hombre-1159915843",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Hogar"
-    },
-    {
       "id": "1166665204",
       "title": "Zipi y Zape. Detectives en acción Comic",
       "price": 8.5,
@@ -5951,18 +6011,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Hogar"
-    },
-    {
-      "id": "1168073783",
-      "title": "Caja 3 Machos Roscar Metal M8*125 6H",
-      "price": 7.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/jb/fv/__/c10420p1168073783/i5892018460.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/caja-3-machos-roscar-metal-m8-125-6h-1168073783",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Herramientas"
     },
     {
       "id": "1166584224",
@@ -6083,18 +6131,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1164112922",
-      "title": "Mondaine Helvetica Smart - Smartwatch",
-      "price": 295.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/j9/2z/__/c10420p1164112922/i5870081121.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/mondaine-helvetica-smart-smartwatch-1164112922",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
     },
     {
       "id": "1161461901",
@@ -6301,18 +6337,6 @@
       "category": "Hogar"
     },
     {
-      "id": "1240472286",
-      "title": "Ghost Lector 6 LC Bicicleta Montaña",
-      "price": 699.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ki/jm/__/c10420p1240472286/i6359237287.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/ghost-lector-6-lc-bicicleta-montana-1240472286",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Deporte"
-    },
-    {
       "id": "1270421063",
       "title": "Figura Bronce El Pensador Auguste Rodin",
       "price": 290.0,
@@ -6373,18 +6397,6 @@
       "category": "Antigüedades y Coleccionismo"
     },
     {
-      "id": "1269612168",
-      "title": "Honor 90",
-      "price": 119.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kz/w7/__/c10420p1269612168/i6543479177.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/honor-90-1269612168",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
       "id": "1168706687",
       "title": "3 ovillos lana - Colores pastel",
       "price": 4.5,
@@ -6397,18 +6409,6 @@
       "category": "Moda"
     },
     {
-      "id": "1238467865",
-      "title": "Radio Vintage Sunstech RPR4000 Marrón/Dorado",
-      "price": 24.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kh/cn/__/c10420p1238467865/i6346361348.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/radio-vintage-sunstech-rpr4000-marron-dorado-1238467865",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "TV y Audio"
-    },
-    {
       "id": "1101510810",
       "title": "CALIBRE DIGITAL INSIZE 1108-150",
       "price": 23.5,
@@ -6419,18 +6419,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Herramientas"
-    },
-    {
-      "id": "1269289575",
-      "title": "Silla de ruedas Multifuncional Vermeiren",
-      "price": 165.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kz/pa/__/c10420p1269289575/i6541314836.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/silla-de-ruedas-multifuncional-vermeiren-1269289575",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Hogar"
     },
     {
       "id": "1269283771",
@@ -6529,18 +6517,6 @@
       "category": "Música e Instrumentos"
     },
     {
-      "id": "1268876453",
-      "title": "Horizon Zero Dawn PS4",
-      "price": 10.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kz/gf/__/c10420p1268876453/i6538632910.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/horizon-zero-dawn-ps4-1268876453",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
       "id": "1268834114",
       "title": "Empuñadura Canon BG-E21",
       "price": 40.5,
@@ -6625,18 +6601,6 @@
       "category": "Libros, Cómics y Revistas"
     },
     {
-      "id": "1268597847",
-      "title": "Juego PS4 Assassin's Creed Valhalla",
-      "price": 15.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kz/ag/__/c10420p1268597847/i6536221774.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/juego-ps4-assassin-s-creed-valhalla-1268597847",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
       "id": "1268503290",
       "title": "Dragon Ball Xenoverse PS3",
       "price": 6.5,
@@ -6671,18 +6635,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
-    },
-    {
-      "id": "1196464353",
-      "title": "Bicicleta Estática Horizontal FM",
-      "price": 135.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/js/cd/__/c10420p1196464353/i6359413307.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/bicicleta-estatica-horizontal-fm-1196464353",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Deporte"
     },
     {
       "id": "1240515126",
@@ -6769,18 +6721,6 @@
       "category": "Informática"
     },
     {
-      "id": "1259764152",
-      "title": "Piedra del Sol Azteca D'Argenta Plata",
-      "price": 195.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ku/14/__/c10420p1259764152/i6481413787.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/piedra-del-sol-azteca-d-argenta-plata-1259764152",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Joyería y Complementos"
-    },
-    {
       "id": "1196806558",
       "title": "Adaptador VHS-C a VHS Philips Precintado",
       "price": 39.95,
@@ -6827,18 +6767,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Moda"
-    },
-    {
-      "id": "1203709461",
-      "title": "Bola Nieve Tous Oso Dorado",
-      "price": 15.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/jw/no/__/c10420p1203709461/i6118432554.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/bola-nieve-tous-oso-dorado-1203709461",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Joyería y Complementos"
     },
     {
       "id": "1255376795",
@@ -7271,18 +7199,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
-    },
-    {
-      "id": "1131589434",
-      "title": "VHS LUCKY LUKE",
-      "price": 3.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ip/pv/__/c10420p1131589434/i5641472527.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/vhs-lucky-luke-1131589434",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
     },
     {
       "id": "1191340492",
@@ -7729,18 +7645,6 @@
       "category": "Móviles y Smartwatches"
     },
     {
-      "id": "1014712315",
-      "title": "PULSERA VINCITORI ANCLA",
-      "price": 6.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/gs/4t/__/c10420p1014712315/i4940174666.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/pulsera-vincitori-ancla-1014712315",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Joyería y Complementos"
-    },
-    {
       "id": "1158668472",
       "title": "Just Dance 4 - Wii U",
       "price": 10.5,
@@ -7765,6 +7669,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 647,
-  "actualizado": "2026-07-24T14:01:57"
+  "total": 639,
+  "actualizado": "2026-08-04T14:02:11"
 }
