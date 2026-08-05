@@ -1117,18 +1117,6 @@
       "category": "Gaming"
     },
     {
-      "id": "1144193742",
-      "title": "Titan Quest Xbox One - RPG de acción",
-      "price": 4.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ix/81/__/c10420p1144193742/i5737895473.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/titan-quest-xbox-one-rpg-de-accion-1144193742",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
       "id": "1156144472",
       "title": "The Division-  Xbox One",
       "price": 4.0,
@@ -7765,6 +7753,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 647,
-  "actualizado": "2026-08-05T19:01:52"
+  "total": 646,
+  "actualizado": "2026-08-05T19:31:53"
 }
