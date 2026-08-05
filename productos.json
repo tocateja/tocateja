@@ -3,7 +3,7 @@
     {
       "id": "1237220292",
       "title": "Sonic Shadow Generations Nintendo Switch",
-      "price": 25.0,
+      "price": 26.5,
       "currency": "EUR",
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/kg/lx/__/c10420p1237220292/i6338237882.jpg?pictureSize=W640",
@@ -11,6 +11,30 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
+    },
+    {
+      "id": "1282211745",
+      "title": "Cámara fotos Vintage Konica C35",
+      "price": 36.5,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/l7/e8/__/c10420p1282211745/i6619849043.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/camara-fotos-vintage-konica-c35-1282211745",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Foto y Vídeo"
+    },
+    {
+      "id": "1288381998",
+      "title": "Pokémon Perla Versión Japonesa NDS",
+      "price": 26.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lb/2h/__/c10420p1288381998/i6659942894.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/pokemon-perla-version-japonesa-nds-1288381998",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
     },
     {
       "id": "1269289575",
@@ -1379,18 +1403,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "TV y Audio"
-    },
-    {
-      "id": "1282211745",
-      "title": "Cámara fotos Vintage Konica C35",
-      "price": 36.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l7/e8/__/c10420p1282211745/i6619849043.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/camara-fotos-vintage-konica-c35-1282211745",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Foto y Vídeo"
     },
     {
       "id": "1282232803",
@@ -7705,6 +7717,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 642,
-  "actualizado": "2026-08-05T11:31:53"
+  "total": 643,
+  "actualizado": "2026-08-05T12:01:54"
 }
