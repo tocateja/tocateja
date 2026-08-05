@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1286678515",
+      "title": "Guitarra Eléctrica Peavey AT-200",
+      "price": 199.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/la/1z/__/c10420p1286678515/i6646002001.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/guitarra-electrica-peavey-at-200-1286678515",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
       "id": "1288412092",
       "title": "Envasadora al vacío Makro",
       "price": 149.0,
@@ -104,18 +116,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/lb/2u/__/c10420p1288398922/i6660062953.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/fc-24-nintendo-switch-1288398922",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
-      "id": "1288395199",
-      "title": "Duke Nukem Forever PS3",
-      "price": 5.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lb/2s/__/c10420p1288395199/i6660042929.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/duke-nukem-forever-ps3-1288395199",
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
@@ -371,18 +371,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Deporte"
-    },
-    {
-      "id": "1286678515",
-      "title": "Guitarra Eléctrica Peavey AT-200",
-      "price": 199.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/la/1z/__/c10420p1286678515/i6646002001.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/guitarra-electrica-peavey-at-200-1286678515",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
     },
     {
       "id": "1286674383",
@@ -3863,18 +3851,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1257233265",
-      "title": "Juego Cartas Disney Princess Funko",
-      "price": 6.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ks/iv/__/c10420p1257233265/i6463049020.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/juego-cartas-disney-princess-funko-1257233265",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Juguetes"
     },
     {
       "id": "1209966482",
@@ -7813,6 +7789,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 651,
-  "actualizado": "2026-08-05T17:31:53"
+  "total": 649,
+  "actualizado": "2026-08-05T18:31:52"
 }
