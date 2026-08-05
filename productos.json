@@ -145,18 +145,6 @@
       "category": "Gaming"
     },
     {
-      "id": "1288391366",
-      "title": "Pokémon Edición Blanca Nintendo DS",
-      "price": 39.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lb/2p/__/c10420p1288391366/i6660021673.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/pokemon-edicion-blanca-nintendo-ds-1288391366",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
       "id": "1237220292",
       "title": "Sonic Shadow Generations Nintendo Switch",
       "price": 26.5,
@@ -5305,18 +5293,6 @@
       "category": "Gaming"
     },
     {
-      "id": "1219952864",
-      "title": "Juego Dogz Nintendo DS",
-      "price": 6.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/k6/bt/__/c10420p1219952864/i6224087128.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/juego-dogz-nintendo-ds-1219952864",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
       "id": "1219721316",
       "title": "Juego Nintendo DS TigerZ",
       "price": 5.5,
@@ -7789,6 +7765,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 649,
-  "actualizado": "2026-08-05T18:31:52"
+  "total": 647,
+  "actualizado": "2026-08-05T19:01:52"
 }
