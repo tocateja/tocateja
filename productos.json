@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1237220292",
+      "title": "Sonic Shadow Generations Nintendo Switch",
+      "price": 25.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kg/lx/__/c10420p1237220292/i6338237882.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/sonic-shadow-generations-nintendo-switch-1237220292",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1269289575",
+      "title": "Silla de ruedas Multifuncional Vermeiren",
+      "price": 165.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kz/pa/__/c10420p1269289575/i6541314836.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/silla-de-ruedas-multifuncional-vermeiren-1269289575",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Hogar"
+    },
+    {
       "id": "1286486660",
       "title": "Vinilo Depeche Mode Some Great Reward",
       "price": 11.5,
@@ -131,18 +155,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Hogar"
-    },
-    {
-      "id": "1237220292",
-      "title": "Sonic Shadow Generations Nintendo Switch",
-      "price": 26.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kg/lx/__/c10420p1237220292/i6338237882.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/sonic-shadow-generations-nintendo-switch-1237220292",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
     },
     {
       "id": "1287623810",
@@ -7693,6 +7705,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 641,
-  "actualizado": "2026-08-05T10:32:16"
+  "total": 642,
+  "actualizado": "2026-08-05T11:31:53"
 }
