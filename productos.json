@@ -1,6 +1,42 @@
 {
   "productos": [
     {
+      "id": "1288707013",
+      "title": "Garmin Vivoactive 4 Smartwatch",
+      "price": 69.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lb/9g/__/c10420p1288707013/i6662061063.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/garmin-vivoactive-4-smartwatch-1288707013",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
+      "id": "1288705280",
+      "title": "Motorola Edge 70 Precintado",
+      "price": 310.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lb/9f/__/c10420p1288705280/i6662050439.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/motorola-edge-70-precintado-1288705280",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
+      "id": "1288703137",
+      "title": "Pedalera multiefectos Line 6 HX Effects",
+      "price": 395.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lb/9d/__/c10420p1288703137/i6662038144.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/pedalera-multiefectos-line-6-hx-effects-1288703137",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1288401552",
       "title": "FIFA 19 PS3",
       "price": 4.5,
@@ -7753,6 +7789,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 646,
-  "actualizado": "2026-08-06T11:31:52"
+  "total": 649,
+  "actualizado": "2026-08-06T12:01:52"
 }
