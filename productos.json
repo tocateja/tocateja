@@ -1,6 +1,78 @@
 {
   "productos": [
     {
+      "id": "1288703137",
+      "title": "Pedalera multiefectos Line 6 HX Effects",
+      "price": 395.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lb/9d/__/c10420p1288703137/i6662038144.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/pedalera-multiefectos-line-6-hx-effects-1288703137",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1266664915",
+      "title": "Destacado",
+      "price": 119.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ky/50/__/c10420p1266664915/i6523639747.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/ajedrez-azteca-resina-anos-80-1266664915",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1242425520",
+      "title": "Destacado",
+      "price": 69.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kj/ph/__/c10420p1242425520/i6371157682.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/mini-bar-bola-del-mundo-madera-y-metal-1242425520",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1249716533",
+      "title": "Destacado",
+      "price": 145.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ko/1r/__/c10420p1249716533/i6417008949.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/maquina-recreativa-retro-frogger-gakken-1249716533",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1276072883",
+      "title": "Destacado",
+      "price": 50.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/qo/__/c10420p1276072883/i6581288676.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/cuadro-religioso-ultima-cena-de-jesus-1276072883",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1288716056",
+      "title": "Destacado",
+      "price": 69.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lb/9n/__/c10420p1288716056/i6662117831.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/busto-decorativo-de-mujer-con-pedestal-1288716056",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1253411060",
       "title": "Juego Super Nintendo Mystical Ninja USA",
       "price": 100.0,
@@ -35,18 +107,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1288716056",
-      "title": "Busto decorativo de mujer con pedestal",
-      "price": 69.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lb/9n/__/c10420p1288716056/i6662117831.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/busto-decorativo-de-mujer-con-pedestal-1288716056",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
     },
     {
       "id": "1273935309",
@@ -131,18 +191,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Móviles y Smartwatches"
-    },
-    {
-      "id": "1288703137",
-      "title": "Pedalera multiefectos Line 6 HX Effects",
-      "price": 395.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lb/9d/__/c10420p1288703137/i6662038144.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/pedalera-multiefectos-line-6-hx-effects-1288703137",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
     },
     {
       "id": "1288401552",
@@ -985,18 +1033,6 @@
       "category": "Herramientas"
     },
     {
-      "id": "1266664915",
-      "title": "Ajedrez Azteca Resina Años 80",
-      "price": 119.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ky/50/__/c10420p1266664915/i6523639747.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/ajedrez-azteca-resina-anos-80-1266664915",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
       "id": "1258220512",
       "title": "Cámara Panasonic Lumix DC-G100DV Negra",
       "price": 575.0,
@@ -1151,18 +1187,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1284275709",
-      "title": "MacBook Pro 13\"",
-      "price": 235.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l8/mh/__/c10420p1284275709/i6632079514.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/macbook-pro-13-1284275709",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Informática"
     },
     {
       "id": "1234481991",
@@ -2291,18 +2315,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1276072883",
-      "title": "Cuadro Religioso Última Cena de Jesús",
-      "price": 50.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l3/qo/__/c10420p1276072883/i6581288676.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/cuadro-religioso-ultima-cena-de-jesus-1276072883",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Hogar"
     },
     {
       "id": "1275998922",
@@ -4345,18 +4357,6 @@
       "category": "Juguetes"
     },
     {
-      "id": "1249716533",
-      "title": "Máquina Recreativa Retro Frogger Gakken",
-      "price": 145.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ko/1r/__/c10420p1249716533/i6417008949.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/maquina-recreativa-retro-frogger-gakken-1249716533",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
       "id": "1271772553",
       "title": "Cargador Samsung Inducción",
       "price": 50.5,
@@ -4367,18 +4367,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1252347977",
-      "title": "Guitarra Clásica Cibeles 201F",
-      "price": 89.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kp/m5/__/c10420p1252347977/i6434509919.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/guitarra-clasica-cibeles-201f-1252347977",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
     },
     {
       "id": "1247576791",
@@ -5903,18 +5891,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1242425520",
-      "title": "Mini Bar Bola del Mundo Madera y Metal",
-      "price": 69.95,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kj/ph/__/c10420p1242425520/i6371157682.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/mini-bar-bola-del-mundo-madera-y-metal-1242425520",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Hogar"
     },
     {
       "id": "1240845956",
@@ -7813,6 +7789,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 651,
-  "actualizado": "2026-08-06T12:31:52"
+  "total": 649,
+  "actualizado": "2026-08-06T14:02:10"
 }
