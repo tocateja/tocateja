@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1288685085",
+      "title": "Tablet Lenovo Tab M10 Plus 3ª Generación",
+      "price": 125.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lb/8z/__/c10420p1288685085/i6661893622.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/tablet-lenovo-tab-m10-plus-3-generacion-1288685085",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
       "id": "1286678515",
       "title": "Guitarra Eléctrica Peavey AT-200",
       "price": 199.0,
@@ -7741,6 +7753,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 645,
-  "actualizado": "2026-08-06T10:31:51"
+  "total": 646,
+  "actualizado": "2026-08-06T11:01:52"
 }
