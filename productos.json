@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1288401552",
+      "title": "FIFA 19 PS3",
+      "price": 4.5,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/lb/2x/__/c10420p1288401552/i6660077865.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/fifa-19-ps3-1288401552",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1288694261",
+      "title": "Batidor Leche Manual Cilio Inducción",
+      "price": 23.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lb/96/__/c10420p1288694261/i6661987092.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/batidor-leche-manual-cilio-induccion-1288694261",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1288685085",
       "title": "Tablet Lenovo Tab M10 Plus 3ª Generación",
       "price": 125.0,
@@ -68,18 +92,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/lb/2x/__/c10420p1288401947/i6660079812.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/minecraft-nintendo-switch-1288401947",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
-      "id": "1288401552",
-      "title": "FIFA 19 PS3",
-      "price": 4.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lb/2x/__/c10420p1288401552/i6660077865.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/fifa-19-ps3-1288401552",
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
@@ -2711,18 +2723,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1269620792",
-      "title": "Portátil Lenovo Thinkbook 14 Gris",
-      "price": 315.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kz/wd/__/c10420p1269620792/i6543531987.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/portatil-lenovo-thinkbook-14-gris-1269620792",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Informática"
     },
     {
       "id": "1274822122",
@@ -7754,5 +7754,5 @@
     }
   ],
   "total": 646,
-  "actualizado": "2026-08-06T11:01:52"
+  "actualizado": "2026-08-06T11:31:52"
 }
