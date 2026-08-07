@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1289000075",
+      "title": "Micrófono de condensador Tonor Tc20",
+      "price": 52.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lb/fq/__/c10420p1289000075/i6663911890.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/microfono-de-condensador-tonor-tc20-1289000075",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1252562714",
       "title": "Apple Watch SE 3 40mm Blanco",
       "price": 185.0,
@@ -7729,6 +7741,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 644,
-  "actualizado": "2026-08-06T19:31:51"
+  "total": 645,
+  "actualizado": "2026-08-07T12:01:53"
 }
