@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1252562714",
+      "title": "Apple Watch SE 3 40mm Blanco",
+      "price": 185.0,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/kp/qr/__/c10420p1252562714/i6435904391.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/apple-watch-se-3-40mm-blanco-1252562714",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
       "id": "1289000075",
       "title": "Micrófono de condensador Tonor Tc20",
       "price": 52.0,
@@ -11,18 +23,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1252562714",
-      "title": "Apple Watch SE 3 40mm Blanco",
-      "price": 185.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kp/qr/__/c10420p1252562714/i6435904391.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/apple-watch-se-3-40mm-blanco-1252562714",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
     },
     {
       "id": "1288381998",
@@ -707,18 +707,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Música e Instrumentos"
-    },
-    {
-      "id": "1277490851",
-      "title": "LIBRO DE INGLÉS FUTURE PROSPECTS 1",
-      "price": 11.5,
-      "currency": "EUR",
-      "status": "reserved",
-      "image": "https://cdn.wallapop.com/images/10420/l4/l2/__/c10420p1277490851/i6589174651.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/libro-de-ingles-future-prospects-1-1277490851",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
     },
     {
       "id": "1286064360",
@@ -7645,6 +7633,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 637,
-  "actualizado": "2026-08-08T14:01:56"
+  "total": 636,
+  "actualizado": "2026-08-08T20:02:24"
 }
