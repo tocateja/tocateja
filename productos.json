@@ -50,7 +50,7 @@
     },
     {
       "id": "1266664915",
-      "title": "Destacado",
+      "title": "Ajedrez Azteca Resina Años 80",
       "price": 119.0,
       "currency": "EUR",
       "status": "available",
@@ -62,7 +62,7 @@
     },
     {
       "id": "1242425520",
-      "title": "Destacado",
+      "title": "Mini Bar Bola del Mundo Madera y Metal",
       "price": 69.95,
       "currency": "EUR",
       "status": "available",
@@ -70,11 +70,11 @@
       "url": "https://es.wallapop.com/item/mini-bar-bola-del-mundo-madera-y-metal-1242425520",
       "location": "Pamplona",
       "condition": "",
-      "category": "Otros"
+      "category": "Hogar"
     },
     {
       "id": "1249716533",
-      "title": "Destacado",
+      "title": "Máquina Recreativa Retro Frogger Gakken",
       "price": 145.0,
       "currency": "EUR",
       "status": "available",
@@ -82,11 +82,11 @@
       "url": "https://es.wallapop.com/item/maquina-recreativa-retro-frogger-gakken-1249716533",
       "location": "Pamplona",
       "condition": "",
-      "category": "Otros"
+      "category": "Gaming"
     },
     {
       "id": "1276072883",
-      "title": "Destacado",
+      "title": "Cuadro Religioso Última Cena de Jesús",
       "price": 50.5,
       "currency": "EUR",
       "status": "available",
@@ -94,11 +94,11 @@
       "url": "https://es.wallapop.com/item/cuadro-religioso-ultima-cena-de-jesus-1276072883",
       "location": "Pamplona",
       "condition": "",
-      "category": "Otros"
+      "category": "Hogar"
     },
     {
       "id": "1288716056",
-      "title": "Destacado",
+      "title": "Estatua decorativa",
       "price": 69.0,
       "currency": "EUR",
       "status": "available",
@@ -289,18 +289,6 @@
       "category": "Herramientas"
     },
     {
-      "id": "1288405307",
-      "title": "Tablet Honor Pad X9a Precintada",
-      "price": 129.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lb/2z/__/c10420p1288405307/i6660097257.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/tablet-honor-pad-x9a-precintada-1288405307",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
-    },
-    {
       "id": "1288401947",
       "title": "Minecraft Nintendo Switch",
       "price": 26.5,
@@ -488,18 +476,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/ku/14/__/c10420p1259764152/i6481413787.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/piedra-del-sol-azteca-d-argenta-plata-1259764152",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Joyería y Complementos"
-    },
-    {
-      "id": "1274709252",
-      "title": "Grifo Bañera Roca Mitos Plata",
-      "price": 46.5,
-      "currency": "EUR",
-      "status": "reserved",
-      "image": "https://cdn.wallapop.com/images/10420/l2/xf/__/c10420p1274709252/i6573279338.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/grifo-banera-roca-mitos-plata-1274709252",
       "location": "Pamplona",
       "condition": "",
       "category": "Joyería y Complementos"
@@ -4273,18 +4249,6 @@
       "category": "Gaming"
     },
     {
-      "id": "1251122107",
-      "title": "Marvel must have vengadores oscuros 1. reunión",
-      "price": 11.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ko/vv/__/c10420p1251122107/i6427472281.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/marvel-must-have-vengadores-oscuros-1-reunion-1251122107",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
       "id": "1250403423",
       "title": "Teclado Inalámbrico Apple Plata",
       "price": 49.95,
@@ -6049,18 +6013,6 @@
       "category": "Libros, Cómics y Revistas"
     },
     {
-      "id": "1166592085",
-      "title": "Comic Saga Marvel Spiderman El rescate del rey",
-      "price": 6.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ja/k4/__/c10420p1166592085/i5884050423.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/comic-saga-marvel-spiderman-el-rescate-del-rey-1166592085",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
       "id": "1163214611",
       "title": "Pistola de silicona Simes Precintado",
       "price": 149.0,
@@ -7693,6 +7645,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 641,
-  "actualizado": "2026-08-07T19:31:51"
+  "total": 637,
+  "actualizado": "2026-08-08T14:01:56"
 }
