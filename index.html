@@ -315,7 +315,8 @@ function renderGrid(products) {
 function applyFilter() {
   let filtered = currentCat === 'todas' ? allProducts : allProducts.filter(p => p.category === currentCat);
   const sort = document.getElementById('sort-select') ? document.getElementById('sort-select').value : 'reciente';
-  if (sort === 'reciente') filtered = [...filtered].sort((a, b) => (parseInt(b.id) || 0) - (parseInt(a.id) || 0));
+  // 'reciente': se respeta el orden original del JSON, que es el mismo del escaparate de Wallapop
+  // (los artículos con actividad reciente —reservas, ediciones, re-subidas— aparecen primero).
   if (sort === 'precio-asc') filtered = [...filtered].sort((a, b) => a.price - b.price);
   if (sort === 'precio-desc') filtered = [...filtered].sort((a, b) => b.price - a.price);
   const label = document.getElementById('result-label');
