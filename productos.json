@@ -577,18 +577,6 @@
       "category": "Libros, Cómics y Revistas"
     },
     {
-      "id": "1286667861",
-      "title": "Libro Karlos Arguiñano 545 recetas para triunfar",
-      "price": 13.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/la/1r/__/c10420p1286667861/i6645933327.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/libro-karlos-arguinano-545-recetas-para-triunfar-1286667861",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
       "id": "1286666180",
       "title": "Libro cocina Jamie Oliver 7 Ideas",
       "price": 13.5,
@@ -7597,6 +7585,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 633,
-  "actualizado": "2026-08-10T12:01:46"
+  "total": 632,
+  "actualizado": "2026-08-10T12:31:57"
 }
