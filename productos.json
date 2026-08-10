@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1288703137",
+      "title": "Pedalera multiefectos Line 6 HX Effects",
+      "price": 395.0,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/lb/9d/__/c10420p1288703137/i6662038144.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/pedalera-multiefectos-line-6-hx-effects-1288703137",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1290022612",
       "title": "Poco X8 Pro Precintado",
       "price": 285.0,
@@ -68,18 +80,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/lb/2h/__/c10420p1288381998/i6659942894.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/pokemon-perla-version-japonesa-nds-1288381998",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
-      "id": "1288703137",
-      "title": "Pedalera multiefectos Line 6 HX Effects",
-      "price": 395.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lb/9d/__/c10420p1288703137/i6662038144.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/pedalera-multiefectos-line-6-hx-effects-1288703137",
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
@@ -7550,5 +7550,5 @@
     }
   ],
   "total": 629,
-  "actualizado": "2026-08-10T18:01:47"
+  "actualizado": "2026-08-10T18:31:46"
 }
