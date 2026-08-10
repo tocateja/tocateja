@@ -109,18 +109,6 @@
       "category": "Hogar"
     },
     {
-      "id": "1288716056",
-      "title": "Estatua decorativa",
-      "price": 69.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lb/9n/__/c10420p1288716056/i6662117831.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/busto-decorativo-de-mujer-con-pedestal-1288716056",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
       "id": "1253411060",
       "title": "Juego Super Nintendo Mystical Ninja USA",
       "price": 100.0,
@@ -7585,6 +7573,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 632,
-  "actualizado": "2026-08-10T12:31:57"
+  "total": 631,
+  "actualizado": "2026-08-10T13:02:35"
 }
