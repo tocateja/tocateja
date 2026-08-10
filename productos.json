@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1250411734",
+      "title": "Pedal efectos acústicos Zoom A2.1u",
+      "price": 79.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ko/gn/__/c10420p1250411734/i6422573087.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/pedal-efectos-acusticos-zoom-a2-1u-1250411734",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1249716533",
+      "title": "Máquina Recreativa Retro Frogger Gakken",
+      "price": 129.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ko/1r/__/c10420p1249716533/i6417008949.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/maquina-recreativa-retro-frogger-gakken-1249716533",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
       "id": "1252562714",
       "title": "Apple Watch SE 3 40mm Blanco",
       "price": 185.0,
@@ -71,18 +95,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Hogar"
-    },
-    {
-      "id": "1249716533",
-      "title": "Máquina Recreativa Retro Frogger Gakken",
-      "price": 145.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ko/1r/__/c10420p1249716533/i6417008949.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/maquina-recreativa-retro-frogger-gakken-1249716533",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
     },
     {
       "id": "1276072883",
@@ -1748,18 +1760,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/l5/8s/__/c10420p1278598388/i6598409521.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/comic-manga-blue-phobia-volumen-1-1278598388",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1278597873",
-      "title": "Lote comics manga One Punch",
-      "price": 7.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l5/8s/__/c10420p1278597873/i6598406543.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/lote-comics-manga-one-punch-1278597873",
       "location": "Pamplona",
       "condition": "",
       "category": "Libros, Cómics y Revistas"
@@ -4343,18 +4343,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Deporte"
-    },
-    {
-      "id": "1250411734",
-      "title": "Pedal efectos acústicos Zoom A2.1u",
-      "price": 89.95,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ko/gn/__/c10420p1250411734/i6422573087.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/pedal-efectos-acusticos-zoom-a2-1u-1250411734",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
     },
     {
       "id": "1200153750",
@@ -7609,6 +7597,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 634,
-  "actualizado": "2026-08-10T11:01:46"
+  "total": 633,
+  "actualizado": "2026-08-10T11:31:46"
 }
