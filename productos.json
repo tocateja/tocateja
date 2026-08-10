@@ -5209,18 +5209,6 @@
       "category": "Gaming"
     },
     {
-      "id": "1219641872",
-      "title": "Kim Possible Doble Identidad PS2",
-      "price": 6.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/k6/55/__/c10420p1219641872/i6222182803.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/kim-possible-doble-identidad-ps2-1219641872",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
       "id": "1219620889",
       "title": "Ghost Recon Advanced Warfighter 2 PS3",
       "price": 10.5,
@@ -6541,18 +6529,6 @@
       "category": "Libros, Cómics y Revistas"
     },
     {
-      "id": "1268493064",
-      "title": "Descubriendo a los Robinsons PS2",
-      "price": 6.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kz/87/__/c10420p1268493064/i6534879098.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/descubriendo-a-los-robinsons-ps2-1268493064",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
       "id": "1268488893",
       "title": "God of War Ragnarök PS5 Precintado",
       "price": 36.5,
@@ -7573,6 +7549,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 631,
-  "actualizado": "2026-08-10T17:31:47"
+  "total": 629,
+  "actualizado": "2026-08-10T18:01:47"
 }
