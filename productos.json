@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1290440667",
+      "title": "Ahuyentador de alimañas Weitech Ultrasonic",
+      "price": 36.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lc/am/__/c10420p1290440667/i6672085502.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/ahuyentador-de-alimanas-weitech-ultrasonic-1290440667",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1290437987",
+      "title": "Xiaomi Redmi 15 5G",
+      "price": 145.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lc/ak/__/c10420p1290437987/i6672071187.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/xiaomi-redmi-note-15-5g-1290437987",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
       "id": "1290435446",
       "title": "Audífonos Cearvol Nano S Precintados",
       "price": 124.0,
@@ -3277,18 +3301,6 @@
       "category": "Otros"
     },
     {
-      "id": "1264724335",
-      "title": "Móvil Xiaomi Redmi Note 15 Pro 5G 256GB",
-      "price": 245.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kw/zf/__/c10420p1264724335/i6512389283.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/movil-xiaomi-redmi-note-15-pro-5g-256gb-1264724335",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
-    },
-    {
       "id": "1267508137",
       "title": "Cámara Yashica FX-3 Vintage + Accesorios",
       "price": 95.0,
@@ -4019,18 +4031,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Móviles y Smartwatches"
-    },
-    {
-      "id": "1254204329",
-      "title": "Juego PS5 EA Sports FC 26",
-      "price": 40.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kq/py/__/c10420p1254204329/i6445259838.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/juego-ps5-ea-sports-fc-26-1254204329",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
     },
     {
       "id": "1255597502",
@@ -7586,5 +7586,5 @@
     }
   ],
   "total": 632,
-  "actualizado": "2026-08-11T19:02:05"
+  "actualizado": "2026-08-11T19:31:50"
 }
