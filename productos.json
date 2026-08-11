@@ -4381,18 +4381,6 @@
       "category": "Libros, Cómics y Revistas"
     },
     {
-      "id": "1236475024",
-      "title": "Lote 2 comics serie hellblazer",
-      "price": 19.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kg/5y/__/c10420p1236475024/i6330589026.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/lote-2-comics-serie-hellblazer-1236475024",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
       "id": "1238145061",
       "title": "Juego de habilidad de madera",
       "price": 3.95,
@@ -7537,6 +7525,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 628,
-  "actualizado": "2026-08-11T11:31:49"
+  "total": 627,
+  "actualizado": "2026-08-11T12:01:50"
 }
