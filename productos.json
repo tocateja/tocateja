@@ -1,6 +1,54 @@
 {
   "productos": [
     {
+      "id": "1290435446",
+      "title": "Audífonos Cearvol Nano S Precintados",
+      "price": 124.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lc/ai/__/c10420p1290435446/i6672057884.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/audifonos-cearvol-nano-s-precintados-1290435446",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1290432954",
+      "title": "Amplificador Akai Stereo Vintage",
+      "price": 79.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lc/ag/__/c10420p1290432954/i6672046853.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/amplificador-akai-stereo-vintage-1290432954",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1290429506",
+      "title": "Reproductor CD Philips",
+      "price": 69.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lc/ad/__/c10420p1290429506/i6672029542.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/reproductor-cd-philips-1290429506",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1290427495",
+      "title": "Micrófono Dinámico Supercardioide SE V7",
+      "price": 64.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lc/ac/__/c10420p1290427495/i6672019019.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/microfono-dinamico-supercardioide-se-v7-1290427495",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1290425078",
       "title": "Micrófono Dinámico Supercardioide Telefunken",
       "price": 135.0,
@@ -7537,6 +7585,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 628,
-  "actualizado": "2026-08-11T18:35:14"
+  "total": 632,
+  "actualizado": "2026-08-11T19:02:05"
 }
