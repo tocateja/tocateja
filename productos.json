@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1288694261",
+      "title": "Batidor Leche Manual Cilio Inducción",
+      "price": 23.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lb/96/__/c10420p1288694261/i6661987092.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/batidor-leche-manual-cilio-induccion-1288694261",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1290022612",
       "title": "Poco X8 Pro Precintado",
       "price": 285.0,
@@ -323,18 +335,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Móviles y Smartwatches"
-    },
-    {
-      "id": "1288694261",
-      "title": "Batidor Leche Manual Cilio Inducción",
-      "price": 23.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lb/96/__/c10420p1288694261/i6661987092.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/batidor-leche-manual-cilio-induccion-1288694261",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
     },
     {
       "id": "1288685085",
@@ -7538,5 +7538,5 @@
     }
   ],
   "total": 628,
-  "actualizado": "2026-08-12T16:01:56"
+  "actualizado": "2026-08-12T16:31:55"
 }
