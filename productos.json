@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1290022612",
+      "title": "Poco X8 Pro Precintado",
+      "price": 285.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lc/1n/__/c10420p1290022612/i6669792604.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/poco-x8-pro-negro-precintado-1290022612",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1290435446",
       "title": "Audífonos Cearvol Nano S Precintados",
       "price": 124.0,
@@ -116,18 +128,6 @@
       "status": "reserved",
       "image": "https://cdn.wallapop.com/images/10420/lb/9d/__/c10420p1288703137/i6662038144.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/pedalera-multiefectos-line-6-hx-effects-1288703137",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
-      "id": "1290022612",
-      "title": "Poco X8 Pro Precintado",
-      "price": 285.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lc/1n/__/c10420p1290022612/i6669792604.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/poco-x8-pro-negro-precintado-1290022612",
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
@@ -7538,5 +7538,5 @@
     }
   ],
   "total": 628,
-  "actualizado": "2026-08-12T13:32:00"
+  "actualizado": "2026-08-12T14:02:32"
 }
