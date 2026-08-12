@@ -457,18 +457,6 @@
       "category": "Gaming"
     },
     {
-      "id": "1282211745",
-      "title": "Cámara fotos Vintage Konica C35",
-      "price": 36.5,
-      "currency": "EUR",
-      "status": "reserved",
-      "image": "https://cdn.wallapop.com/images/10420/l7/e8/__/c10420p1282211745/i6619849043.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/camara-fotos-vintage-konica-c35-1282211745",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Foto y Vídeo"
-    },
-    {
       "id": "1269289575",
       "title": "Silla de ruedas Multifuncional Vermeiren",
       "price": 165.0,
@@ -2099,18 +2087,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Joyería y Complementos"
-    },
-    {
-      "id": "1277496416",
-      "title": "Lámpara Flexo Ikea Ranarp",
-      "price": 25.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l4/l6/__/c10420p1277496416/i6589205455.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/lampara-flexo-ikea-ranarp-1277496416",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Hogar"
     },
     {
       "id": "1277489107",
@@ -3968,18 +3944,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/k6/cb/__/c10420p1219975959/i6224203121.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/fresa-para-metal-lukas-1219975959",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Herramientas"
-    },
-    {
-      "id": "1220722867",
-      "title": "Taladro Vintage Black & Decker",
-      "price": 15.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/k6/sb/__/c10420p1220722867/i6228105695.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/taladro-vintage-black-decker-1220722867",
       "location": "Pamplona",
       "condition": "",
       "category": "Herramientas"
@@ -7573,6 +7537,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 631,
-  "actualizado": "2026-08-12T12:32:09"
+  "total": 628,
+  "actualizado": "2026-08-12T13:01:49"
 }
