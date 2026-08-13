@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1290878278",
+      "title": "Figura Gremlins Con Gabardina Bizak",
+      "price": 9.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lc/k0/__/c10420p1290878278/i6674807272.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/figura-gremlins-con-gabardina-1290878278",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Hogar"
+    },
+    {
       "id": "1290873614",
       "title": "Figura Gizmo Gremlins Iconic Fan",
       "price": 36.5,
@@ -7525,6 +7537,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 627,
-  "actualizado": "2026-08-13T11:31:50"
+  "total": 628,
+  "actualizado": "2026-08-13T12:01:50"
 }
