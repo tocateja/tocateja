@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1249716533",
+      "title": "Máquina Recreativa Retro Frogger Gakken",
+      "price": 79.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ko/1r/__/c10420p1249716533/i6417008949.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/maquina-recreativa-retro-frogger-gakken-1249716533",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1274851562",
+      "title": "Mini Botella Antigua para Coleccionistas",
+      "price": 26.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/0h/__/c10420p1274851562/i6574086675.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/mini-botella-antigua-para-coleccionistas-1274851562",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1120849560",
       "title": "ALTAVOCES MEGAFONÍA BOSE DESING MAX DM2S",
       "price": 137.95,
@@ -167,18 +191,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Herramientas"
-    },
-    {
-      "id": "1274851562",
-      "title": "Mini Botella Antigua para Coleccionistas",
-      "price": 41.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l3/0h/__/c10420p1274851562/i6574086675.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/mini-botella-antigua-para-coleccionistas-1274851562",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
     },
     {
       "id": "1193444038",
@@ -695,18 +707,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Música e Instrumentos"
-    },
-    {
-      "id": "1249716533",
-      "title": "Máquina Recreativa Retro Frogger Gakken",
-      "price": 129.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ko/1r/__/c10420p1249716533/i6417008949.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/maquina-recreativa-retro-frogger-gakken-1249716533",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
     },
     {
       "id": "1289000075",
@@ -7490,5 +7490,5 @@
     }
   ],
   "total": 624,
-  "actualizado": "2026-08-13T18:31:52"
+  "actualizado": "2026-08-13T19:01:54"
 }
