@@ -1,6 +1,54 @@
 {
   "productos": [
     {
+      "id": "1120849560",
+      "title": "ALTAVOCES MEGAFONÍA BOSE DESING MAX DM2S",
+      "price": 137.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ij/bp/__/c10420p1120849560/i5553989264.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/altavoces-megadonia-bose-desing-max-dm2s-1120849560",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1138770287",
+      "title": "SET BOLI Y ROTULADOR FOR EVER",
+      "price": 6.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/it/zs/__/c10420p1138770287/i5696197164.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/set-boli-y-rotulador-estilografico-forever-1138770287",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Hogar"
+    },
+    {
+      "id": "1274761640",
+      "title": "Calculadora Vintage Radio Shack",
+      "price": 16.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l2/yk/__/c10420p1274761640/i6573579045.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/calculadora-vintage-radio-shack-1274761640",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "TV y Audio"
+    },
+    {
+      "id": "1266803120",
+      "title": "Micrófono Rally Mic Pod Logitech",
+      "price": 167.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ky/7z/__/c10420p1266803120/i6524469768.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/microfono-rally-mic-pod-logitech-1266803120",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1110418440",
       "title": "INSTRUMENTO DE PERCUSIÓN.",
       "price": 14.5,
@@ -1789,18 +1837,6 @@
       "category": "Juguetes"
     },
     {
-      "id": "1138770287",
-      "title": "SET BOLI Y ROTULADOR FOR EVER",
-      "price": 6.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/it/zs/__/c10420p1138770287/i5696197164.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/set-boli-y-rotulador-estilografico-forever-1138770287",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Hogar"
-    },
-    {
       "id": "1168633352",
       "title": "Nintendo DS English Training",
       "price": 2.5,
@@ -3193,18 +3229,6 @@
       "category": "Herramientas"
     },
     {
-      "id": "1274761640",
-      "title": "Calculadora Vintage Radio Shack",
-      "price": 16.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l2/yk/__/c10420p1274761640/i6573579045.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/calculadora-vintage-radio-shack-1274761640",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "TV y Audio"
-    },
-    {
       "id": "1274751405",
       "title": "Crimpadora Profesional Phoenix Contact",
       "price": 99.0,
@@ -3587,18 +3611,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Móviles y Smartwatches"
-    },
-    {
-      "id": "1266803120",
-      "title": "Micrófono Rally Mic Pod Logitech",
-      "price": 185.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ky/7z/__/c10420p1266803120/i6524469768.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/microfono-rally-mic-pod-logitech-1266803120",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
     },
     {
       "id": "1266674504",
@@ -6229,18 +6241,6 @@
       "category": "Música e Instrumentos"
     },
     {
-      "id": "1120849560",
-      "title": "ALTAVOCES MEGAFONÍA BOSE DESING MAX DM2S",
-      "price": 145.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ij/bp/__/c10420p1120849560/i5553989264.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/altavoces-megadonia-bose-desing-max-dm2s-1120849560",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
-    },
-    {
       "id": "1119401044",
       "title": "PULSADOR DESVIO MAQUETA TREN ANESTE",
       "price": 5.5,
@@ -7490,5 +7490,5 @@
     }
   ],
   "total": 624,
-  "actualizado": "2026-08-13T18:01:53"
+  "actualizado": "2026-08-13T18:31:52"
 }
