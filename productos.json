@@ -1,6 +1,42 @@
 {
   "productos": [
     {
+      "id": "1285733736",
+      "title": "Taladro Atornillador Hilti 22V + 2 Baterías",
+      "price": 390.0,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/l9/hq/__/c10420p1285733736/i6640334067.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/taladro-atornillador-hilti-22v---2-baterias-1285733736",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Herramientas"
+    },
+    {
+      "id": "1178649836",
+      "title": "Maleta Vintage Beaulieu 5008S Cámara",
+      "price": 13.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/jh/qk/__/c10420p1178649836/i5950374763.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/maleta-vintage-beaulieu-5008s-camara-1178649836",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Foto y Vídeo"
+    },
+    {
+      "id": "1189497761",
+      "title": "Detector de Billetes",
+      "price": 13.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/jo/72/__/c10420p1189497761/i6010007700.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/detector-de-billetes-1189497761",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Herramientas"
+    },
+    {
       "id": "1178558745",
       "title": "Batería Para Beaulieu 5008S Bloc Accus 500MA",
       "price": 15.5,
@@ -1151,18 +1187,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Foto y Vídeo"
-    },
-    {
-      "id": "1285733736",
-      "title": "Taladro Atornillador Hilti 22V + 2 Baterías",
-      "price": 390.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l9/hq/__/c10420p1285733736/i6640334067.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/taladro-atornillador-hilti-22v---2-baterias-1285733736",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Herramientas"
     },
     {
       "id": "1285506471",
@@ -6757,30 +6781,6 @@
       "category": "Otros"
     },
     {
-      "id": "1178649836",
-      "title": "Maleta Vintage Beaulieu 5008S Cámara",
-      "price": 13.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/jh/qk/__/c10420p1178649836/i5950374763.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/maleta-vintage-beaulieu-5008s-camara-1178649836",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Foto y Vídeo"
-    },
-    {
-      "id": "1189497761",
-      "title": "Detector de Billetes",
-      "price": 13.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/jo/72/__/c10420p1189497761/i6010007700.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/detector-de-billetes-1189497761",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Herramientas"
-    },
-    {
       "id": "1087904585",
       "title": "SOPORTE LECTOR CÓDIGO DE BARRAS METROLOGIC",
       "price": 4.0,
@@ -7526,5 +7526,5 @@
     }
   ],
   "total": 627,
-  "actualizado": "2026-08-13T13:32:12"
+  "actualizado": "2026-08-13T14:02:28"
 }
