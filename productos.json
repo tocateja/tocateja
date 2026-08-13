@@ -1,6 +1,162 @@
 {
   "productos": [
     {
+      "id": "1275781487",
+      "title": "Juego de té 3 piezas metal",
+      "price": 21.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/kf/__/c10420p1275781487/i6579528123.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/juego-de-te-3-piezas-metal-dorado-1275781487",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1275777440",
+      "title": "Tetera de latón (Sin Asidero tapa)",
+      "price": 10.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/kc/__/c10420p1275777440/i6579505818.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/tetera-de-laton-sin-asidero-tapa-1275777440",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1275769707",
+      "title": "Chocolatera Vintage Plateada",
+      "price": 34.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/k6/__/c10420p1275769707/i6579463946.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/chocolatera-vintage-plateada-1275769707",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Antigüedades y Coleccionismo"
+    },
+    {
+      "id": "1278247534",
+      "title": "Sneakers  Camuflaje Raw Vintage",
+      "price": 9.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l5/1a/__/c10420p1278247534/i6595697963.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/sneakers-camuflaje-raw-vintage-1278247534",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Antigüedades y Coleccionismo"
+    },
+    {
+      "id": "1278251568",
+      "title": "Sneakers Camuflaje Raw Vintage",
+      "price": 9.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l5/1d/__/c10420p1278251568/i6595751008.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/sneakers-camuflaje-raw-vintage-1278251568",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Antigüedades y Coleccionismo"
+    },
+    {
+      "id": "1230635831",
+      "title": "Set 5 Ruedas Silla Oficina WEWILL",
+      "price": 9.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kc/os/__/c10420p1230635831/i6293654206.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/set-5-ruedas-silla-oficina-wewill-1230635831",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Hogar"
+    },
+    {
+      "id": "1161461901",
+      "title": "Medidor láser Metabo LD 60",
+      "price": 33.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/j7/i5/__/c10420p1161461901/i5853578142.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/medidor-laser-metabo-ld-60-1161461901",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Herramientas"
+    },
+    {
+      "id": "1265357555",
+      "title": "Figura Alien Queen 38CM Ultra Deluxe",
+      "price": 99.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kx/d0/__/c10420p1265357555/i6516208343.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/figura-alien-queen-38cm-ultra-deluxe-1265357555",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1270540891",
+      "title": "Onyx Boox Note 3 E-reader",
+      "price": 219.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l0/g3/__/c10420p1270540891/i6548706558.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/onyx-boox-note-3-e-reader-1270540891",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1253303938",
+      "title": "Juego Spectrum 48K Gyroscope ERBE",
+      "price": 15.5,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/kq/6n/__/c10420p1253303938/i6440610668.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/juego-spectrum-48k-gyroscope-erbe-1253303938",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1253308018",
+      "title": "Juego SEGA Master System Barcelona '92",
+      "price": 13.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kq/6q/__/c10420p1253308018/i6440634654.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/juego-sega-master-system-barcelona-92-1253308018",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1262098928",
+      "title": "Sega Game Gear Game Pack 4 en 1",
+      "price": 13.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kv/f5/__/c10420p1262098928/i6496047150.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/sega-game-gear-game-pack-4-en-1-1262098928",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1253411060",
+      "title": "Juego Super Nintendo Mystical Ninja USA",
+      "price": 51.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kq/8y/__/c10420p1253411060/i6441221775.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/juego-super-nintendo-mystical-ninja-usa-1253411060",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
       "id": "1249716533",
       "title": "Máquina Recreativa Retro Frogger Gakken",
       "price": 79.95,
@@ -181,18 +337,6 @@
       "category": "Herramientas"
     },
     {
-      "id": "1161461901",
-      "title": "Medidor láser Metabo LD 60",
-      "price": 41.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/j7/i5/__/c10420p1161461901/i5853578142.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/medidor-laser-metabo-ld-60-1161461901",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Herramientas"
-    },
-    {
       "id": "1193444038",
       "title": "Nivel Láser Settop EK-118G",
       "price": 67.0,
@@ -203,18 +347,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Herramientas"
-    },
-    {
-      "id": "1265357555",
-      "title": "Figura Alien Queen 38CM Ultra Deluxe",
-      "price": 130.95,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kx/d0/__/c10420p1265357555/i6516208343.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/figura-alien-queen-38cm-ultra-deluxe-1265357555",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
     },
     {
       "id": "1255380142",
@@ -493,18 +625,6 @@
       "category": "Joyería y Complementos"
     },
     {
-      "id": "1270540891",
-      "title": "Onyx Boox Note 3 E-reader",
-      "price": 249.95,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l0/g3/__/c10420p1270540891/i6548706558.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/onyx-boox-note-3-e-reader-1270540891",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
       "id": "1290878278",
       "title": "Figura Gremlins Con Gabardina Bizak",
       "price": 9.5,
@@ -767,18 +887,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Hogar"
-    },
-    {
-      "id": "1253411060",
-      "title": "Juego Super Nintendo Mystical Ninja USA",
-      "price": 100.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kq/8y/__/c10420p1253411060/i6441221775.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/juego-super-nintendo-mystical-ninja-usa-1253411060",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
     },
     {
       "id": "1273623338",
@@ -2365,30 +2473,6 @@
       "category": "TV y Audio"
     },
     {
-      "id": "1278251568",
-      "title": "Sneakers Camuflaje Raw Vintage",
-      "price": 16.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l5/1d/__/c10420p1278251568/i6595751008.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/sneakers-camuflaje-raw-vintage-1278251568",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Antigüedades y Coleccionismo"
-    },
-    {
-      "id": "1278247534",
-      "title": "Sneakers  Camuflaje Raw Vintage",
-      "price": 16.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l5/1a/__/c10420p1278247534/i6595697963.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/sneakers-camuflaje-raw-vintage-1278247534",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Antigüedades y Coleccionismo"
-    },
-    {
       "id": "1278237850",
       "title": "El Rey León Trilogía DVD",
       "price": 21.5,
@@ -2843,42 +2927,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1275781487",
-      "title": "Juego de té 3 piezas metal",
-      "price": 31.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l3/kf/__/c10420p1275781487/i6579528123.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/juego-de-te-3-piezas-metal-dorado-1275781487",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
-      "id": "1275777440",
-      "title": "Tetera de latón (Sin Asidero tapa)",
-      "price": 13.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l3/kc/__/c10420p1275777440/i6579505818.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/tetera-de-laton-sin-asidero-tapa-1275777440",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
-      "id": "1275769707",
-      "title": "Chocolatera Vintage Plateada",
-      "price": 46.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l3/k6/__/c10420p1275769707/i6579463946.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/chocolatera-vintage-plateada-1275769707",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Antigüedades y Coleccionismo"
     },
     {
       "id": "1199395290",
@@ -3757,18 +3805,6 @@
       "category": "Gaming"
     },
     {
-      "id": "1262098928",
-      "title": "Sega Game Gear Game Pack 4 en 1",
-      "price": 21.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kv/f5/__/c10420p1262098928/i6496047150.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/sega-game-gear-game-pack-4-en-1-1262098928",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
       "id": "1260228733",
       "title": "DVD Ernst Lubitsch en Berlín Coleccionista",
       "price": 30.5,
@@ -4309,18 +4345,6 @@
       "category": "Gaming"
     },
     {
-      "id": "1253303938",
-      "title": "Juego Spectrum 48K Gyroscope ERBE",
-      "price": 21.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kq/6n/__/c10420p1253303938/i6440610668.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/juego-spectrum-48k-gyroscope-erbe-1253303938",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
       "id": "1218139509",
       "title": "Reloj Jaguar J803",
       "price": 135.0,
@@ -4391,18 +4415,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Informática"
-    },
-    {
-      "id": "1253308018",
-      "title": "Juego SEGA Master System Barcelona '92",
-      "price": 16.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kq/6q/__/c10420p1253308018/i6440634654.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/juego-sega-master-system-barcelona-92-1253308018",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
     },
     {
       "id": "1250403423",
@@ -4763,18 +4775,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1230635831",
-      "title": "Set 5 Ruedas Silla Oficina WEWILL",
-      "price": 11.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kc/os/__/c10420p1230635831/i6293654206.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/set-5-ruedas-silla-oficina-wewill-1230635831",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Hogar"
     },
     {
       "id": "1228237107",
@@ -7490,5 +7490,5 @@
     }
   ],
   "total": 624,
-  "actualizado": "2026-08-13T19:01:54"
+  "actualizado": "2026-08-13T19:31:55"
 }
