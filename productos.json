@@ -1,6 +1,90 @@
 {
   "productos": [
     {
+      "id": "1178558745",
+      "title": "Batería Para Beaulieu 5008S Bloc Accus 500MA",
+      "price": 15.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/jh/ol/__/c10420p1178558745/i5949852799.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/bateria-beaulieu-5008s-bloc-accus-500ma-1178558745",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Foto y Vídeo"
+    },
+    {
+      "id": "1202126395",
+      "title": "2 Teleconvertidores Sigma",
+      "price": 19.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/jv/pq/__/c10420p1202126395/i6105332135.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/2-teleconvertidores-sigma-1202126395",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "TV y Audio"
+    },
+    {
+      "id": "1178254870",
+      "title": "Cargador Rápido Nikon MH-22",
+      "price": 36.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/jh/i3/__/c10420p1178254870/i5948065491.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/cargador-rapido-nikon-mh-22-1178254870",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Foto y Vídeo"
+    },
+    {
+      "id": "1186476432",
+      "title": "Colección Monedas 30 Ligas 30 Monedas Marca",
+      "price": 37.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/jm/eb/__/c10420p1186476432/i5994274040.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/coleccion-monedas-30-ligas-30-monedas-marca-1186476432",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Antigüedades y Coleccionismo"
+    },
+    {
+      "id": "1252587309",
+      "title": "Manipulador Morse Antiguo",
+      "price": 130.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kp/ra/__/c10420p1252587309/i6436058236.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/manipulador-morse-antiguo-1252587309",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1250365599",
+      "title": "Apple USB SuperDrive Plata",
+      "price": 37.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ko/fo/__/c10420p1250365599/i6422091662.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/apple-usb-superdrive-plata-1250365599",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Joyería y Complementos"
+    },
+    {
+      "id": "1270540891",
+      "title": "Onyx Boox Note 3 E-reader",
+      "price": 249.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l0/g3/__/c10420p1270540891/i6548706558.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/onyx-boox-note-3-e-reader-1270540891",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1290878278",
       "title": "Figura Gremlins Con Gabardina Bizak",
       "price": 9.5,
@@ -2015,18 +2099,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1277859837",
-      "title": "Teclado iniciación Casio",
-      "price": 46.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l4/sy/__/c10420p1277859837/i6592049517.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/teclado-iniciacion-casio-1277859837",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Informática"
     },
     {
       "id": "1276882760",
@@ -6049,18 +6121,6 @@
       "category": "Música e Instrumentos"
     },
     {
-      "id": "1270540891",
-      "title": "Onyx Boox Note 3 E-reader",
-      "price": 275.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l0/g3/__/c10420p1270540891/i6548706558.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/onyx-boox-note-3-e-reader-1270540891",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
       "id": "1161461901",
       "title": "Medidor láser Metabo LD 60",
       "price": 41.5,
@@ -6781,30 +6841,6 @@
       "category": "Deporte"
     },
     {
-      "id": "1178558745",
-      "title": "Batería Para Beaulieu 5008S Bloc Accus 500MA",
-      "price": 16.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/jh/ol/__/c10420p1178558745/i5949852799.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/bateria-beaulieu-5008s-bloc-accus-500ma-1178558745",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Foto y Vídeo"
-    },
-    {
-      "id": "1202126395",
-      "title": "2 Teleconvertidores Sigma",
-      "price": 21.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/jv/pq/__/c10420p1202126395/i6105332135.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/2-teleconvertidores-sigma-1202126395",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "TV y Audio"
-    },
-    {
       "id": "1229596032",
       "title": "Cargador Batería Beaulieu Cinema 5008-50 MA",
       "price": 11.5,
@@ -6817,30 +6853,6 @@
       "category": "Foto y Vídeo"
     },
     {
-      "id": "1178254870",
-      "title": "Cargador Rápido Nikon MH-22",
-      "price": 40.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/jh/i3/__/c10420p1178254870/i5948065491.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/cargador-rapido-nikon-mh-22-1178254870",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Foto y Vídeo"
-    },
-    {
-      "id": "1186476432",
-      "title": "Colección Monedas 30 Ligas 30 Monedas Marca",
-      "price": 41.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/jm/eb/__/c10420p1186476432/i5994274040.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/coleccion-monedas-30-ligas-30-monedas-marca-1186476432",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Antigüedades y Coleccionismo"
-    },
-    {
       "id": "1111262061",
       "title": "LÁMPARA PLAFON",
       "price": 6.5,
@@ -6851,18 +6863,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Hogar"
-    },
-    {
-      "id": "1252587309",
-      "title": "Manipulador Morse Antiguo",
-      "price": 145.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kp/ra/__/c10420p1252587309/i6436058236.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/manipulador-morse-antiguo-1252587309",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
     },
     {
       "id": "1169012207",
@@ -6887,18 +6887,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "TV y Audio"
-    },
-    {
-      "id": "1250365599",
-      "title": "Apple USB SuperDrive Plata",
-      "price": 41.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ko/fo/__/c10420p1250365599/i6422091662.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/apple-usb-superdrive-plata-1250365599",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Joyería y Complementos"
     },
     {
       "id": "1236946431",
@@ -7537,6 +7525,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 628,
-  "actualizado": "2026-08-13T13:02:03"
+  "total": 627,
+  "actualizado": "2026-08-13T13:32:12"
 }
