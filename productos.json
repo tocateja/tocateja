@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1290873614",
+      "title": "Figura Gizmo Gremlins Iconic Fan",
+      "price": 36.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lc/jw/__/c10420p1290873614/i6674780578.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/figura-gizmo-gremlins-iconic-fan-1290873614",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Hogar"
+    },
+    {
       "id": "1290733930",
       "title": "Nintendo Switch Lite Rosa",
       "price": 89.95,
@@ -392,18 +404,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/lb/2x/__/c10420p1288401947/i6660079812.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/minecraft-nintendo-switch-1288401947",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
-      "id": "1288401041",
-      "title": "FC 25 Nintendo Switch",
-      "price": 11.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lb/2w/__/c10420p1288401041/i6660075129.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/fc-25-nintendo-switch-1288401041",
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
@@ -2687,18 +2687,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1275144014",
-      "title": "Reloj Pulsera Sandoz Geneve",
-      "price": 85.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l3/6r/__/c10420p1275144014/i6575857072.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/reloj-pulsera-sandoz-geneve-1275144014",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Joyería y Complementos"
     },
     {
       "id": "1275141682",
@@ -7537,6 +7525,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 628,
-  "actualizado": "2026-08-13T11:01:52"
+  "total": 627,
+  "actualizado": "2026-08-13T11:31:50"
 }
