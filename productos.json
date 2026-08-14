@@ -3565,30 +3565,6 @@
       "category": "Música e Instrumentos"
     },
     {
-      "id": "1234457014",
-      "title": "Cargador Rápido Parkside 20V 4.5A",
-      "price": 13.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ke/yp/__/c10420p1234457014/i6318193472.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/cargador-rapido-parkside-20v-4-5a-1234457014",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Herramientas"
-    },
-    {
-      "id": "1221622195",
-      "title": "Hub 9 en 1 para Coche 12V Joyroom",
-      "price": 14.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/k7/bl/__/c10420p1221622195/i6233448690.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/hub-9-en-1-para-coche-12v-joyroom-1221622195",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Motor"
-    },
-    {
       "id": "1272587988",
       "title": "Teclado Logitech K400 Plus",
       "price": 31.5,
@@ -7477,6 +7453,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 623,
-  "actualizado": "2026-08-14T13:01:52"
+  "total": 621,
+  "actualizado": "2026-08-14T13:31:53"
 }
