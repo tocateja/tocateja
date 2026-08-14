@@ -1,6 +1,114 @@
 {
   "productos": [
     {
+      "id": "1270421063",
+      "title": "Figura Bronce El Pensador Auguste Rodin",
+      "price": 265.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l0/dj/__/c10420p1270421063/i6548020452.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/figura-bronce-el-pensador-auguste-rodin-1270421063",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Hogar"
+    },
+    {
+      "id": "1273822182",
+      "title": "Figura Coleccionista Nadal Quijote",
+      "price": 86.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l2/ef/__/c10420p1273822182/i6568681461.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/figura-coleccionista-nadal-quijote-1273822182",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Hogar"
+    },
+    {
+      "id": "1273944222",
+      "title": "Figura Final Fantasy XIII Snow Villiers",
+      "price": 33.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l2/h1/__/c10420p1273944222/i6569380050.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/figura-final-fantasy-xiii-1273944222",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Hogar"
+    },
+    {
+      "id": "1275351735",
+      "title": "Figura Stormtrooper Star Wars Hasbro",
+      "price": 8.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/b7/__/c10420p1275351735/i6577156141.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/figura-stormtrooper-star-wars-hasbro-1275351735",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Hogar"
+    },
+    {
+      "id": "1275358241",
+      "title": "Figura Han Solo Star Wars Hasbro",
+      "price": 16.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/bc/__/c10420p1275358241/i6577207451.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/figura-han-solo-star-wars-hasbro-1275358241",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Hogar"
+    },
+    {
+      "id": "1275361413",
+      "title": "Figura Finn Star Wars Hasbro",
+      "price": 11.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/bf/__/c10420p1275361413/i6577204770.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/figura-finn-star-wars-hasbro-1275361413",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Hogar"
+    },
+    {
+      "id": "1275363774",
+      "title": "Figura Kanan Jarrus Star Wars Hasbro",
+      "price": 8.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/bg/__/c10420p1275363774/i6577214843.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/figura-kanan-jarrus-star-wars-hasbro-1275363774",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Hogar"
+    },
+    {
+      "id": "1275354243",
+      "title": "Figura Thor",
+      "price": 16.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/b9/__/c10420p1275354243/i6577168711.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/figura-thor-1275354243",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Hogar"
+    },
+    {
+      "id": "1275356246",
+      "title": "Figura Thor (sin martillo)",
+      "price": 8.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/bb/__/c10420p1275356246/i6577180483.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/figura-thor-sin-martillo-1275356246",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Hogar"
+    },
+    {
       "id": "1255376795",
       "title": "Mini cuadro creaciones artísticas",
       "price": 13.5,
@@ -671,18 +779,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Joyería y Complementos"
-    },
-    {
-      "id": "1290878278",
-      "title": "Figura Gremlins Con Gabardina Bizak",
-      "price": 9.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lc/k0/__/c10420p1290878278/i6674807272.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/figura-gremlins-con-gabardina-1290878278",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Hogar"
     },
     {
       "id": "1290873614",
@@ -3025,78 +3121,6 @@
       "category": "Gaming"
     },
     {
-      "id": "1275363774",
-      "title": "Figura Kanan Jarrus Star Wars Hasbro",
-      "price": 11.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l3/bg/__/c10420p1275363774/i6577214843.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/figura-kanan-jarrus-star-wars-hasbro-1275363774",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Hogar"
-    },
-    {
-      "id": "1275358241",
-      "title": "Figura Han Solo Star Wars Hasbro",
-      "price": 21.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l3/bc/__/c10420p1275358241/i6577207451.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/figura-han-solo-star-wars-hasbro-1275358241",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Hogar"
-    },
-    {
-      "id": "1275361413",
-      "title": "Figura Finn Star Wars Hasbro",
-      "price": 13.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l3/bf/__/c10420p1275361413/i6577204770.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/figura-finn-star-wars-hasbro-1275361413",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Hogar"
-    },
-    {
-      "id": "1275356246",
-      "title": "Figura Thor (sin martillo)",
-      "price": 11.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l3/bb/__/c10420p1275356246/i6577180483.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/figura-thor-sin-martillo-1275356246",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Hogar"
-    },
-    {
-      "id": "1275354243",
-      "title": "Figura Thor",
-      "price": 21.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l3/b9/__/c10420p1275354243/i6577168711.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/figura-thor-1275354243",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Hogar"
-    },
-    {
-      "id": "1275351735",
-      "title": "Figura Stormtrooper Star Wars Hasbro",
-      "price": 11.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l3/b7/__/c10420p1275351735/i6577156141.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/figura-stormtrooper-star-wars-hasbro-1275351735",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Hogar"
-    },
-    {
       "id": "1275344085",
       "title": "Reloj Pulsera Casio",
       "price": 69.95,
@@ -3349,18 +3373,6 @@
       "category": "Otros"
     },
     {
-      "id": "1273944222",
-      "title": "Figura Final Fantasy XIII Snow Villiers",
-      "price": 41.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l2/h1/__/c10420p1273944222/i6569380050.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/figura-final-fantasy-xiii-1273944222",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Hogar"
-    },
-    {
       "id": "1273932361",
       "title": "Cazadora Cordura Moto Stina",
       "price": 50.5,
@@ -3383,18 +3395,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Motor"
-    },
-    {
-      "id": "1273822182",
-      "title": "Figura Coleccionista Nadal Quijote",
-      "price": 95.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l2/ef/__/c10420p1273822182/i6568681461.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/figura-coleccionista-nadal-quijote-1273822182",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Hogar"
     },
     {
       "id": "1273834269",
@@ -6397,18 +6397,6 @@
       "category": "Hogar"
     },
     {
-      "id": "1270421063",
-      "title": "Figura Bronce El Pensador Auguste Rodin",
-      "price": 290.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l0/dj/__/c10420p1270421063/i6548020452.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/figura-bronce-el-pensador-auguste-rodin-1270421063",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Hogar"
-    },
-    {
       "id": "1116615499",
       "title": "PROGRAMA FIESTAS SAN FERMIN 1996",
       "price": 6.5,
@@ -7489,6 +7477,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 624,
-  "actualizado": "2026-08-14T11:31:55"
+  "total": 623,
+  "actualizado": "2026-08-14T12:01:59"
 }
