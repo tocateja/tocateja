@@ -1,6 +1,102 @@
 {
   "productos": [
     {
+      "id": "1252199985",
+      "title": "Portátil Dell Vostro 3520 Negro",
+      "price": 385.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kp/iz/__/c10420p1252199985/i6433617024.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/portatil-dell-vostro-3520-negro-1252199985",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Informática"
+    },
+    {
+      "id": "1255841707",
+      "title": "Portátil Samsung Gris Plata",
+      "price": 595.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kr/p1/__/c10420p1255841707/i6455447642.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/portatil-samsung-gris-plata-1255841707",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Informática"
+    },
+    {
+      "id": "1273944222",
+      "title": "Figura Final Fantasy XIII Snow Villiers",
+      "price": 31.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l2/h1/__/c10420p1273944222/i6569380050.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/figura-final-fantasy-xiii-1273944222",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Hogar"
+    },
+    {
+      "id": "1252540346",
+      "title": "Funko Pop Pokémon 920 Arcanine",
+      "price": 8.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kp/qa/__/c10420p1252540346/i6435767934.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/funko-pop-pokemon-920-arcanine-1252540346",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Juguetes"
+    },
+    {
+      "id": "1250403423",
+      "title": "Teclado Inalámbrico Apple Plata",
+      "price": 41.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ko/gh/__/c10420p1250403423/i6422508177.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/teclado-inalambrico-apple-plata-1250403423",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Informática"
+    },
+    {
+      "id": "1250365599",
+      "title": "Apple USB SuperDrive Plata",
+      "price": 31.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ko/fo/__/c10420p1250365599/i6422091662.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/apple-usb-superdrive-plata-1250365599",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Joyería y Complementos"
+    },
+    {
+      "id": "1288412092",
+      "title": "Envasadora al vacío Makro",
+      "price": 119.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lb/35/__/c10420p1288412092/i6660131861.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/envasadora-al-vacio-makro-1288412092",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Herramientas"
+    },
+    {
+      "id": "1247258437",
+      "title": "Gourmax Pro Airfryer Horno Plancha",
+      "price": 175.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/km/l2/__/c10420p1247258437/i6400101477.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/gourmax-pro-airfryer-horno-plancha-1247258437",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Electrodomésticos"
+    },
+    {
       "id": "1291261499",
       "title": "Bajo Eléctrico Ibanez",
       "price": 249.0,
@@ -116,18 +212,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/l2/ef/__/c10420p1273822182/i6568681461.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/figura-coleccionista-nadal-quijote-1273822182",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Hogar"
-    },
-    {
-      "id": "1273944222",
-      "title": "Figura Final Fantasy XIII Snow Villiers",
-      "price": 33.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l2/h1/__/c10420p1273944222/i6569380050.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/figura-final-fantasy-xiii-1273944222",
       "location": "Pamplona",
       "condition": "",
       "category": "Hogar"
@@ -865,18 +949,6 @@
       "category": "Otros"
     },
     {
-      "id": "1250365599",
-      "title": "Apple USB SuperDrive Plata",
-      "price": 37.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ko/fo/__/c10420p1250365599/i6422091662.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/apple-usb-superdrive-plata-1250365599",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Joyería y Complementos"
-    },
-    {
       "id": "1290873614",
       "title": "Figura Gizmo Gremlins Iconic Fan",
       "price": 36.5,
@@ -1223,18 +1295,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Música e Instrumentos"
-    },
-    {
-      "id": "1288412092",
-      "title": "Envasadora al vacío Makro",
-      "price": 149.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lb/35/__/c10420p1288412092/i6660131861.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/envasadora-al-vacio-makro-1288412092",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Herramientas"
     },
     {
       "id": "1288401947",
@@ -2387,30 +2447,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Electrodomésticos"
-    },
-    {
-      "id": "1247258437",
-      "title": "Gourmax Pro Airfryer Horno Plancha",
-      "price": 225.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/km/l2/__/c10420p1247258437/i6400101477.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/gourmax-pro-airfryer-horno-plancha-1247258437",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Electrodomésticos"
-    },
-    {
-      "id": "1255841707",
-      "title": "Portátil Samsung Gris Plata",
-      "price": 695.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kr/p1/__/c10420p1255841707/i6455447642.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/portatil-samsung-gris-plata-1255841707",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Informática"
     },
     {
       "id": "1275469055",
@@ -4357,18 +4393,6 @@
       "category": "Móviles y Smartwatches"
     },
     {
-      "id": "1252199985",
-      "title": "Portátil Dell Vostro 3520 Negro",
-      "price": 435.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kp/iz/__/c10420p1252199985/i6433617024.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/portatil-dell-vostro-3520-negro-1252199985",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Informática"
-    },
-    {
       "id": "1255223660",
       "title": "Linterna Frontal Kodak LED 150 Lúmenes 3W",
       "price": 10.5,
@@ -4499,30 +4523,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Informática"
-    },
-    {
-      "id": "1250403423",
-      "title": "Teclado Inalámbrico Apple Plata",
-      "price": 49.95,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ko/gh/__/c10420p1250403423/i6422508177.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/teclado-inalambrico-apple-plata-1250403423",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Informática"
-    },
-    {
-      "id": "1252540346",
-      "title": "Funko Pop Pokémon 920 Arcanine",
-      "price": 11.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kp/qa/__/c10420p1252540346/i6435767934.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/funko-pop-pokemon-920-arcanine-1252540346",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Juguetes"
     },
     {
       "id": "1271772553",
@@ -7478,5 +7478,5 @@
     }
   ],
   "total": 623,
-  "actualizado": "2026-08-14T18:31:55"
+  "actualizado": "2026-08-14T19:01:51"
 }
