@@ -1,6 +1,54 @@
 {
   "productos": [
     {
+      "id": "1255376795",
+      "title": "Mini cuadro creaciones artísticas",
+      "price": 13.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kr/f2/__/c10420p1255376795/i6452595187.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/mini-cuadro-creaciones-artisticas-1255376795",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Hogar"
+    },
+    {
+      "id": "1276078566",
+      "title": "Manoplas Legión o Regulares",
+      "price": 18.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/qs/__/c10420p1276078566/i6581319293.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/manoplas-legion-o-regulares-1276078566",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1227245485",
+      "title": "Figura Decorativa Alabastro",
+      "price": 19.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ka/o4/__/c10420p1227245485/i6271173703.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/figura-decorativa-alabastro-1227245485",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Hogar"
+    },
+    {
+      "id": "1199395290",
+      "title": "Jarrón de Porcelana Capeans Negro y Dorado",
+      "price": 11.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ju/37/__/c10420p1199395290/i6080698350.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/jarron-de-porcelana-capeans-negro-y-dorado-1199395290",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Hogar"
+    },
+    {
       "id": "1275781487",
       "title": "Juego de té 3 piezas metal",
       "price": 21.5,
@@ -2737,18 +2785,6 @@
       "category": "Otros"
     },
     {
-      "id": "1276078566",
-      "title": "Manoplas Legión o Regulares",
-      "price": 25.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l3/qs/__/c10420p1276078566/i6581319293.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/manoplas-legion-o-regulares-1276078566",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
       "id": "1276075100",
       "title": "Objeto religioso",
       "price": 11.5,
@@ -2927,18 +2963,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1199395290",
-      "title": "Jarrón de Porcelana Capeans Negro y Dorado",
-      "price": 21.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ju/37/__/c10420p1199395290/i6080698350.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/jarron-de-porcelana-capeans-negro-y-dorado-1199395290",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Hogar"
     },
     {
       "id": "1275449207",
@@ -4799,18 +4823,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1227245485",
-      "title": "Figura Decorativa Alabastro",
-      "price": 30.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ka/o4/__/c10420p1227245485/i6271173703.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/figura-decorativa-alabastro-1227245485",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Hogar"
     },
     {
       "id": "1271539301",
@@ -6721,18 +6733,6 @@
       "category": "Moda"
     },
     {
-      "id": "1255376795",
-      "title": "Mini cuadro creaciones artísticas",
-      "price": 16.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kr/f2/__/c10420p1255376795/i6452595187.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/mini-cuadro-creaciones-artisticas-1255376795",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Hogar"
-    },
-    {
       "id": "1090243385",
       "title": "ENVASADORA DE VACIO AMC",
       "price": 36.5,
@@ -7490,5 +7490,5 @@
     }
   ],
   "total": 624,
-  "actualizado": "2026-08-14T10:01:49"
+  "actualizado": "2026-08-14T10:31:47"
 }
