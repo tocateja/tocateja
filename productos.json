@@ -1,6 +1,78 @@
 {
   "productos": [
     {
+      "id": "1129788357",
+      "title": "WOK DE 7 CAPAS ICOOK",
+      "price": 121.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/io/na/__/c10420p1129788357/i5626412504.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/wok-de-7-capas-icook-1129788357",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Electrodomésticos"
+    },
+    {
+      "id": "1255572179",
+      "title": "Espumador Leche Nespresso Negro",
+      "price": 34.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kr/j9/__/c10420p1255572179/i6453835391.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/espumador-leche-nespresso-negro-1255572179",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Moda"
+    },
+    {
+      "id": "1190972990",
+      "title": "Abrelatas electrico + Afilador Krups Gve1",
+      "price": 10.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/jp/2o/__/c10420p1190972990/i6016996337.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/abrelatas-y-afilador-krups-gve1-1190972990",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Electrodomésticos"
+    },
+    {
+      "id": "1265339544",
+      "title": "Robot Cocina Cecotec Ironmix 1500W",
+      "price": 121.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kx/cm/__/c10420p1265339544/i6516117950.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/robot-cocina-cecotec-ironmix-1500w-1265339544",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1255227118",
+      "title": "Máquina para hacer sorbetes Silvercrest",
+      "price": 11.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kr/bv/__/c10420p1255227118/i6451720512.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/maquina-para-hacer-sorbetes-silvercrest-1255227118",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1169012207",
+      "title": "Cuerdas TRX - Suspension Training",
+      "price": 11.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/jb/zz/__/c10420p1169012207/i5897571699.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/cuerdas-trx-suspension-training-1169012207",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Deporte"
+    },
+    {
       "id": "1270421063",
       "title": "Figura Bronce El Pensador Auguste Rodin",
       "price": 265.0,
@@ -3709,18 +3781,6 @@
       "category": "Libros, Cómics y Revistas"
     },
     {
-      "id": "1265339544",
-      "title": "Robot Cocina Cecotec Ironmix 1500W",
-      "price": 139.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kx/cm/__/c10420p1265339544/i6516117950.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/robot-cocina-cecotec-ironmix-1500w-1265339544",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
       "id": "1238143924",
       "title": "Juego de habilidad de madera",
       "price": 3.95,
@@ -4559,18 +4619,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Deporte"
-    },
-    {
-      "id": "1129788357",
-      "title": "WOK DE 7 CAPAS ICOOK",
-      "price": 145.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/io/na/__/c10420p1129788357/i5626412504.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/wok-de-7-capas-icook-1129788357",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Electrodomésticos"
     },
     {
       "id": "1247223929",
@@ -6685,18 +6733,6 @@
       "category": "Informática"
     },
     {
-      "id": "1255572179",
-      "title": "Espumador Leche Nespresso Negro",
-      "price": 40.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kr/j9/__/c10420p1255572179/i6453835391.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/espumador-leche-nespresso-negro-1255572179",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Moda"
-    },
-    {
       "id": "1090243385",
       "title": "ENVASADORA DE VACIO AMC",
       "price": 36.5,
@@ -6733,30 +6769,6 @@
       "category": "Herramientas"
     },
     {
-      "id": "1255227118",
-      "title": "Máquina para hacer sorbetes Silvercrest",
-      "price": 17.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kr/bv/__/c10420p1255227118/i6451720512.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/maquina-para-hacer-sorbetes-silvercrest-1255227118",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
-      "id": "1190972990",
-      "title": "Abrelatas electrico + Afilador Krups Gve1",
-      "price": 13.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/jp/2o/__/c10420p1190972990/i6016996337.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/abrelatas-y-afilador-krups-gve1-1190972990",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Electrodomésticos"
-    },
-    {
       "id": "1180818562",
       "title": "Termómetro Digital Sodany KT-902 Nuevo",
       "price": 6.0,
@@ -6791,18 +6803,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Hogar"
-    },
-    {
-      "id": "1169012207",
-      "title": "Cuerdas TRX - Suspension Training",
-      "price": 15.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/jb/zz/__/c10420p1169012207/i5897571699.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/cuerdas-trx-suspension-training-1169012207",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Deporte"
     },
     {
       "id": "1136412307",
@@ -7454,5 +7454,5 @@
     }
   ],
   "total": 621,
-  "actualizado": "2026-08-14T16:32:21"
+  "actualizado": "2026-08-14T17:01:49"
 }
