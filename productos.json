@@ -1117,18 +1117,6 @@
       "category": "Herramientas"
     },
     {
-      "id": "1288703137",
-      "title": "Pedalera multiefectos Line 6 HX Effects",
-      "price": 395.0,
-      "currency": "EUR",
-      "status": "reserved",
-      "image": "https://cdn.wallapop.com/images/10420/lb/9d/__/c10420p1288703137/i6662038144.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/pedalera-multiefectos-line-6-hx-effects-1288703137",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
       "id": "1250411734",
       "title": "Pedal efectos acústicos Zoom A2.1u",
       "price": 79.95,
@@ -3623,18 +3611,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1227519002",
-      "title": "Baliza Emergencia V16 Conectada DGT Precintada",
-      "price": 20.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ka/tz/__/c10420p1227519002/i6273035674.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/baliza-emergencia-v16-conectada-dgt-precintada-1227519002",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Motor"
     },
     {
       "id": "1272694177",
@@ -7477,6 +7453,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 623,
-  "actualizado": "2026-08-15T08:01:59"
+  "total": 621,
+  "actualizado": "2026-08-15T14:03:30"
 }
