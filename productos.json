@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1255362556",
+      "title": "Móvil 5G Redmi Note 15 PRO+ Plata",
+      "price": 257.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kr/er/__/c10420p1255362556/i6452512072.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/movil-5g-redmi-note-15-pro--plata-1255362556",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
       "id": "1252199985",
       "title": "Portátil Dell Vostro 3520 Negro",
       "price": 385.0,
@@ -812,18 +824,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/l4/l0/__/c10420p1277488212/i6589157860.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/samsung-galaxy-buds3-1277488212",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
-    },
-    {
-      "id": "1255362556",
-      "title": "Móvil 5G Redmi Note 15 PRO+ Plata",
-      "price": 257.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kr/er/__/c10420p1255362556/i6452512072.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/movil-5g-redmi-note-15-pro--plata-1255362556",
       "location": "Pamplona",
       "condition": "",
       "category": "Móviles y Smartwatches"
@@ -7454,5 +7454,5 @@
     }
   ],
   "total": 621,
-  "actualizado": "2026-08-15T20:03:46"
+  "actualizado": "2026-08-16T02:02:28"
 }
