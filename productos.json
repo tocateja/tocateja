@@ -1,6 +1,54 @@
 {
   "productos": [
     {
+      "id": "1230171814",
+      "title": "Lote 4 COMICS Satan 666",
+      "price": 25.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kc/eu/__/c10420p1230171814/i6290600149.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/lote-4-comics-satan-666-1230171814",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1246085023",
+      "title": "Cómic ilustraciones Medusa",
+      "price": 24.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kl/vx/__/c10420p1246085023/i6393508725.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/medusa-1246085023",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1240716037",
+      "title": "VHS Peter Pan Clásico Disney Español",
+      "price": 6.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ki/ou/__/c10420p1240716037/i6360804063.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vhs-peter-pan-clasico-disney-espanol-1240716037",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1240845956",
+      "title": "VHS La Dama y el Vagabundo Disney Clásicos",
+      "price": 16.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ki/rm/__/c10420p1240845956/i6361619492.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vhs-la-dama-y-el-vagabundo-disney-clasicos-1240845956",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
       "id": "1240694090",
       "title": "VHS La Sirenita - Walt Disney Clásicos",
       "price": 16.5,
@@ -6097,66 +6145,6 @@
       "category": "Libros, Cómics y Revistas"
     },
     {
-      "id": "1224971240",
-      "title": "Comics Elfos Vol 1, 2 y 3.",
-      "price": 46.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/k9/bd/__/c10420p1224971240/i6254754216.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/comics-elfos-vol-1-2-y-3-1224971240",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1230171814",
-      "title": "Lote 4 COMICS Satan 666",
-      "price": 27.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kc/eu/__/c10420p1230171814/i6290600149.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/lote-4-comics-satan-666-1230171814",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1246085023",
-      "title": "Cómic ilustraciones Medusa",
-      "price": 26.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kl/vx/__/c10420p1246085023/i6393508725.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/medusa-1246085023",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1240845956",
-      "title": "VHS La Dama y el Vagabundo Disney Clásicos",
-      "price": 18.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ki/rm/__/c10420p1240845956/i6361619492.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/vhs-la-dama-y-el-vagabundo-disney-clasicos-1240845956",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1240716037",
-      "title": "VHS Peter Pan Clásico Disney Español",
-      "price": 7.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ki/ou/__/c10420p1240716037/i6360804063.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/vhs-peter-pan-clasico-disney-espanol-1240716037",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
       "id": "1240694973",
       "title": "VHS El Retorno de Jafar Disney Español",
       "price": 18.5,
@@ -7405,6 +7393,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 617,
-  "actualizado": "2026-08-17T12:01:58"
+  "total": 616,
+  "actualizado": "2026-08-17T12:31:54"
 }
