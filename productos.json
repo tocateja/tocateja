@@ -1,6 +1,174 @@
 {
   "productos": [
     {
+      "id": "1245105227",
+      "title": "Impresora de tickets aqprox negra",
+      "price": 37.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kl/ax/__/c10420p1245105227/i6387350555.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/impresora-de-tickets-aqprox-negra-1245105227",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Informática"
+    },
+    {
+      "id": "1163214611",
+      "title": "Pistola de silicona Simes Precintado",
+      "price": 134.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/j8/jq/__/c10420p1163214611/i5865132397.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/encoladora-simhm18-hd-600w-precintado-1163214611",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Herramientas"
+    },
+    {
+      "id": "1270555865",
+      "title": "Colección 25 CDs Karajan 100 Meisterwerke",
+      "price": 122.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l0/gf/__/c10420p1270555865/i6548790961.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/coleccion-25-cds-karajan-100-meisterwerke-1270555865",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1148380051",
+      "title": "Foco Led A estrenar",
+      "price": 3.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/iz/pr/__/c10420p1148380051/i5767651652.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/10-focos-led-a-estrenar-1148380051",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Informática"
+    },
+    {
+      "id": "1119401044",
+      "title": "PULSADOR DESVIO MAQUETA TREN ANESTE",
+      "price": 5.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ii/gn/__/c10420p1119401044/i5539756644.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/pulsador-desvio-maqueta-tren-aneste-1119401044",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1119401643",
+      "title": "PULSADOR DESVIO MAQUETA TREN ANESTE",
+      "price": 5.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ii/gn/__/c10420p1119401643/i5539769380.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/pulsador-desvio-maqueta-tren-aneste-1119401643",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1119400605",
+      "title": "PULSADOR DESVIO MAQUETA TREN ANESTE",
+      "price": 5.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ii/gn/__/c10420p1119400605/i5539746553.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/pulsador-desvio-maqueta-tren-1119400605",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1116970057",
+      "title": "COPA DE CRISTAL AZUL GRANDE",
+      "price": 15.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ih/0j/__/c10420p1116970057/i5521206072.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/copa-de-cristal-azul-grande-1116970057",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Joyería y Complementos"
+    },
+    {
+      "id": "1117684397",
+      "title": "JUEGO WII U ANIMAL CROSSING AMIIBO FESTIVAL",
+      "price": 6.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ih/fu/__/c10420p1117684397/i5525168780.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/juego-wii-u-animal-crossing-amiibo-festival-1117684397",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1116649058",
+      "title": "JUEGO PS4 LET'S SING 2022",
+      "price": 9.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ig/tn/__/c10420p1116649058/i5518704071.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/juego-ps4-let-s-sing-2022-1116649058",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1269222567",
+      "title": "Antena Exterior TDT Activa Axil",
+      "price": 13.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kz/nu/__/c10420p1269222567/i6540938134.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/antena-exterior-tdt-activa-axil-1269222567",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1255369857",
+      "title": "Soporte TV Hama FIX 37-120 Max 100kg",
+      "price": 46.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kr/ex/__/c10420p1255369857/i6452554395.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/soporte-tv-hama-fix-37-120-max-100kg-1255369857",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1261806306",
+      "title": "Reproductor CD Denon DCD-590 con mando",
+      "price": 62.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kv/8v/__/c10420p1261806306/i6494229765.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/reproductor-cd-denon-dcd-590-con-mando-1261806306",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1268488893",
+      "title": "God of War Ragnarök PS5 Precintado",
+      "price": 31.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kz/84/__/c10420p1268488893/i6534828938.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/god-of-war-ragnarok-ps5-precintado-1268488893",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
       "id": "1256620729",
       "title": "Lámpara LED portátil Sompex Pebble dorada",
       "price": 67.95,
@@ -6097,30 +6265,6 @@
       "category": "Música e Instrumentos"
     },
     {
-      "id": "1245711876",
-      "title": "Atornilladora neumática Parkside PDSS 850 A1",
-      "price": 26.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kl/nx/__/c10420p1245711876/i6391176221.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/atornilladora-neumatica-parkside-pdss-850-a1-1245711876",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Herramientas"
-    },
-    {
-      "id": "1245105227",
-      "title": "Impresora de tickets aqprox negra",
-      "price": 40.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kl/ax/__/c10420p1245105227/i6387350555.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/impresora-de-tickets-aqprox-negra-1245105227",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Informática"
-    },
-    {
       "id": "1166665204",
       "title": "Zipi y Zape. Detectives en acción Comic",
       "price": 8.5,
@@ -6143,18 +6287,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1163214611",
-      "title": "Pistola de silicona Simes Precintado",
-      "price": 149.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/j8/jq/__/c10420p1163214611/i5865132397.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/encoladora-simhm18-hd-600w-precintado-1163214611",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Herramientas"
     },
     {
       "id": "1162367767",
@@ -6265,30 +6397,6 @@
       "category": "Libros, Cómics y Revistas"
     },
     {
-      "id": "1270555865",
-      "title": "Colección 25 CDs Karajan 100 Meisterwerke",
-      "price": 135.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l0/gf/__/c10420p1270555865/i6548790961.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/coleccion-25-cds-karajan-100-meisterwerke-1270555865",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
-    },
-    {
-      "id": "1148380051",
-      "title": "FOCO LED A ESTRENAR",
-      "price": 4.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/iz/pr/__/c10420p1148380051/i5767651652.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/10-focos-led-a-estrenar-1148380051",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Informática"
-    },
-    {
       "id": "1122865838",
       "title": "VINILO NICOLE MCCLOUD",
       "price": 4.0,
@@ -6299,78 +6407,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Música e Instrumentos"
-    },
-    {
-      "id": "1119401044",
-      "title": "PULSADOR DESVIO MAQUETA TREN ANESTE",
-      "price": 5.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ii/gn/__/c10420p1119401044/i5539756644.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/pulsador-desvio-maqueta-tren-aneste-1119401044",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
-      "id": "1119401643",
-      "title": "PULSADOR DESVIO MAQUETA TREN ANESTE",
-      "price": 5.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ii/gn/__/c10420p1119401643/i5539769380.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/pulsador-desvio-maqueta-tren-aneste-1119401643",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
-      "id": "1119400605",
-      "title": "PULSADOR DESVIO MAQUETA TREN ANESTE",
-      "price": 5.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ii/gn/__/c10420p1119400605/i5539746553.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/pulsador-desvio-maqueta-tren-1119400605",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
-      "id": "1117684397",
-      "title": "JUEGO WII U ANIMAL CROSSING AMIIBO FESTIVAL",
-      "price": 6.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ih/fu/__/c10420p1117684397/i5525168780.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/juego-wii-u-animal-crossing-amiibo-festival-1117684397",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
-      "id": "1116970057",
-      "title": "COPA DE CRISTAL AZUL GRANDE",
-      "price": 16.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ih/0j/__/c10420p1116970057/i5521206072.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/copa-de-cristal-azul-grande-1116970057",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Joyería y Complementos"
-    },
-    {
-      "id": "1116649058",
-      "title": "JUEGO PS4 LET'S SING 2022",
-      "price": 11.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ig/tn/__/c10420p1116649058/i5518704071.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/juego-ps4-let-s-sing-2022-1116649058",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
     },
     {
       "id": "1116378468",
@@ -6529,42 +6565,6 @@
       "category": "Otros"
     },
     {
-      "id": "1269222567",
-      "title": "Antena Exterior TDT Activa Axil",
-      "price": 15.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kz/nu/__/c10420p1269222567/i6540938134.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/antena-exterior-tdt-activa-axil-1269222567",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
-      "id": "1255369857",
-      "title": "Soporte TV Hama FIX 37-120 Max 100kg",
-      "price": 49.95,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kr/ex/__/c10420p1255369857/i6452554395.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/soporte-tv-hama-fix-37-120-max-100kg-1255369857",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
-      "id": "1261806306",
-      "title": "Reproductor CD Denon DCD-590 con mando",
-      "price": 69.95,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kv/8v/__/c10420p1261806306/i6494229765.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/reproductor-cd-denon-dcd-590-con-mando-1261806306",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
-    },
-    {
       "id": "1269198830",
       "title": "Redmi Note 13 Pro+ 5G",
       "price": 175.0,
@@ -6635,18 +6635,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1268488893",
-      "title": "God of War Ragnarök PS5 Precintado",
-      "price": 36.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kz/84/__/c10420p1268488893/i6534828938.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/god-of-war-ragnarok-ps5-precintado-1268488893",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
     },
     {
       "id": "1240515126",
@@ -7429,6 +7417,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 619,
-  "actualizado": "2026-08-17T11:01:52"
+  "total": 618,
+  "actualizado": "2026-08-17T11:31:53"
 }
