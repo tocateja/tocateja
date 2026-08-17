@@ -1,6 +1,138 @@
 {
   "productos": [
     {
+      "id": "1230187020",
+      "title": "Daemon X Machina Nintendo Switch",
+      "price": 21.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kc/f6/__/c10420p1230187020/i6290703425.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/daemon-x-machina-nintendo-switch-1230187020",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1230209164",
+      "title": "Norman y Mix (Spanish Edition)",
+      "price": 5.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kc/fn/__/c10420p1230209164/i6290863104.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/norman-y-mix-spanish-edition-1230209164",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1200489201",
+      "title": "Vinilo Coral de Camara de Pamplona",
+      "price": 3.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ju/qn/__/c10420p1200489201/i6089901133.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vinilo-coral-de-camara-de-pamplona-1200489201",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1227112865",
+      "title": "Termómetro Infrarrojos Dr. Senst 3en1 FC-IR206",
+      "price": 10.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ka/la/__/c10420p1227112865/i6270274153.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/termometro-infrarrojos-dr-senst-3en1-fc-ir206-1227112865",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Electrodomésticos"
+    },
+    {
+      "id": "1227543074",
+      "title": "Cómic + Dvd Capitán América El primer vengador",
+      "price": 6.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ka/ui/__/c10420p1227543074/i6273175963.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/comic---dvd-capitan-america-el-primer-vengador-1227543074",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1227540823",
+      "title": "Cómic + Dvd Guardianes de la Galaxia",
+      "price": 6.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ka/ug/__/c10420p1227540823/i6273164975.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/comic---dvd-guardianes-de-la-galaxia-1227540823",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1226698382",
+      "title": "Buscando a Nemo Game Boy Advance",
+      "price": 14.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ka/ce/__/c10420p1226698382/i6266678770.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/buscando-a-nemo-game-boy-advance-1226698382",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1271536950",
+      "title": "Uncharted 3: La Traición de Drake PS3",
+      "price": 9.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l1/1g/__/c10420p1271536950/i6555311513.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/uncharted-3-la-traicion-de-drake-ps3-1271536950",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1230186514",
+      "title": "Rabbids 3D Nintendo 3DS",
+      "price": 8.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kc/f5/__/c10420p1230186514/i6290699256.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/rabbids-3d-nintendo-3ds-1230186514",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1200491168",
+      "title": "Vinilo Jotas Aragonesas",
+      "price": 3.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ju/qo/__/c10420p1200491168/i6089913883.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vinilo-jotas-aragonesas-1200491168",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1200494946",
+      "title": "Vinilo Hnos. Aniz El Campanero Flamenco",
+      "price": 3.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ju/qr/__/c10420p1200494946/i6089938488.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vinilo-hnos-aniz-el-campanero-flamenco-1200494946",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
       "id": "1223373953",
       "title": "Vinilo Johannes Brahms Variaciones Piano",
       "price": 4.0,
@@ -5545,18 +5677,6 @@
       "category": "Libros, Cómics y Revistas"
     },
     {
-      "id": "1230187020",
-      "title": "Daemon X Machina Nintendo Switch",
-      "price": 26.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kc/f6/__/c10420p1230187020/i6290703425.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/daemon-x-machina-nintendo-switch-1230187020",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
       "id": "1230282127",
       "title": "Zetman 13 (Seinen Manga) (Spanish Edition)",
       "price": 4.0,
@@ -5564,18 +5684,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/kc/h7/__/c10420p1230282127/i6291333124.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/zetman-13-seinen-manga-spanish-edition-1230282127",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1230209164",
-      "title": "Norman y Mix (Spanish Edition)",
-      "price": 7.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kc/fn/__/c10420p1230209164/i6290863104.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/norman-y-mix-spanish-edition-1230209164",
       "location": "Pamplona",
       "condition": "",
       "category": "Libros, Cómics y Revistas"
@@ -5605,30 +5713,6 @@
       "category": "Libros, Cómics y Revistas"
     },
     {
-      "id": "1230206470",
-      "title": "Haruhi Suzumiya 7 (Spanish Edition)",
-      "price": 4.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kc/fl/__/c10420p1230206470/i6290842196.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/haruhi-suzumiya-7-spanish-edition-1230206470",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1200489201",
-      "title": "Vinilo Coral de Camara de Pamplona",
-      "price": 6.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ju/qn/__/c10420p1200489201/i6089901133.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/vinilo-coral-de-camara-de-pamplona-1200489201",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
-    },
-    {
       "id": "1229838408",
       "title": "2 Chupetes Suavinex Fusion S 4-18m Silicona",
       "price": 3.5,
@@ -5641,30 +5725,6 @@
       "category": "Juguetes"
     },
     {
-      "id": "1227112865",
-      "title": "Termómetro Infrarrojos Dr. Senst 3en1 FC-IR206",
-      "price": 10.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ka/la/__/c10420p1227112865/i6270274153.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/termometro-infrarrojos-dr-senst-3en1-fc-ir206-1227112865",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Electrodomésticos"
-    },
-    {
-      "id": "1227543074",
-      "title": "Cómic + Dvd Capitán América El primer vengador",
-      "price": 7.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ka/ui/__/c10420p1227543074/i6273175963.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/comic---dvd-capitan-america-el-primer-vengador-1227543074",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
       "id": "1228237107",
       "title": "Manual PSP Gerónimo Stilton Reino Fantasía",
       "price": 2.5,
@@ -5672,18 +5732,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/kb/9d/__/c10420p1228237107/i6277490731.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/manual-psp-geronimo-stilton-reino-fantasia-1228237107",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1227540823",
-      "title": "Cómic + Dvd Guardianes de la Galaxia",
-      "price": 7.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ka/ug/__/c10420p1227540823/i6273164975.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/comic---dvd-guardianes-de-la-galaxia-1227540823",
       "location": "Pamplona",
       "condition": "",
       "category": "Libros, Cómics y Revistas"
@@ -5701,66 +5749,6 @@
       "category": "Gaming"
     },
     {
-      "id": "1226698382",
-      "title": "Buscando a Nemo Game Boy Advance",
-      "price": 16.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ka/ce/__/c10420p1226698382/i6266678770.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/buscando-a-nemo-game-boy-advance-1226698382",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
-      "id": "1230275558",
-      "title": "Platinum End 3 (Spanish Edition)",
-      "price": 4.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kc/h2/__/c10420p1230275558/i6291289436.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/platinum-end-3-spanish-edition-1230275558",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1271536950",
-      "title": "Uncharted 3: La Traición de Drake PS3",
-      "price": 10.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l1/1g/__/c10420p1271536950/i6555311513.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/uncharted-3-la-traicion-de-drake-ps3-1271536950",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
-      "id": "1230273715",
-      "title": "AKAME GA KILL! 2",
-      "price": 4.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kc/h1/__/c10420p1230273715/i6291277195.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/akame-ga-kill-2-1230273715",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1230186514",
-      "title": "Rabbids 3D Nintendo 3DS",
-      "price": 9.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kc/f5/__/c10420p1230186514/i6290699256.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/rabbids-3d-nintendo-3ds-1230186514",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
       "id": "1227643237",
       "title": "Cómic Tigre & Dragón heroes orientales vol 5",
       "price": 5.0,
@@ -5771,18 +5759,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1200491168",
-      "title": "Vinilo Jotas Aragonesas",
-      "price": 6.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ju/qo/__/c10420p1200491168/i6089913883.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/vinilo-jotas-aragonesas-1200491168",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
     },
     {
       "id": "1227640848",
@@ -5819,18 +5795,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
-    },
-    {
-      "id": "1200494946",
-      "title": "Vinilo Hnos. Aniz El Campanero Flamenco",
-      "price": 6.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ju/qr/__/c10420p1200494946/i6089938488.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/vinilo-hnos-aniz-el-campanero-flamenco-1200494946",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
     },
     {
       "id": "1271530858",
@@ -7345,6 +7309,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 612,
-  "actualizado": "2026-08-17T17:31:59"
+  "total": 609,
+  "actualizado": "2026-08-17T18:01:52"
 }
