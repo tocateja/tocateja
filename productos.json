@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1256620729",
+      "title": "Lámpara LED portátil Sompex Pebble dorada",
+      "price": 67.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ks/5q/__/c10420p1256620729/i6459426943.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/lampara-led-portatil-sompex-pebble-dorada-1256620729",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Informática"
+    },
+    {
+      "id": "1181095546",
+      "title": "Reposapiés Fellowes",
+      "price": 8.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/jj/6z/__/c10420p1181095546/i5962709744.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/reposapies-fellowes-1181095546",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1268834114",
       "title": "Empuñadura Canon BG-E21",
       "price": 40.5,
@@ -6697,30 +6721,6 @@
       "category": "Informática"
     },
     {
-      "id": "1147165537",
-      "title": "Masajeador de pies BJM",
-      "price": 13.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/iy/zq/__/c10420p1147165537/i5758393254.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/masajeador-de-pies-bjm-1147165537",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Electrodomésticos"
-    },
-    {
-      "id": "1256620729",
-      "title": "Lámpara LED portátil Sompex Pebble dorada",
-      "price": 74.95,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ks/5q/__/c10420p1256620729/i6459426943.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/lampara-led-portatil-sompex-pebble-dorada-1256620729",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Informática"
-    },
-    {
       "id": "1090243385",
       "title": "ENVASADORA DE VACIO AMC",
       "price": 36.5,
@@ -6731,18 +6731,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Herramientas"
-    },
-    {
-      "id": "1181095546",
-      "title": "Reposapiés Fellowes",
-      "price": 8.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/jj/6z/__/c10420p1181095546/i5962709744.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/reposapies-fellowes-1181095546",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
     },
     {
       "id": "1087904585",
@@ -7441,6 +7429,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 620,
-  "actualizado": "2026-08-17T10:32:22"
+  "total": 619,
+  "actualizado": "2026-08-17T11:01:52"
 }
