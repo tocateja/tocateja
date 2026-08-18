@@ -1,6 +1,126 @@
 {
   "productos": [
     {
+      "id": "1266674504",
+      "title": "Ratón Gaming Razer Viper V3 Pro Negro",
+      "price": 76.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ky/58/__/c10420p1266674504/i6523698037.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/raton-gaming-razer-viper-v3-pro-negro-1266674504",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1266691843",
+      "title": "Reloj Jaguar J929/1 Connected Edición Especial",
+      "price": 359.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ky/5l/__/c10420p1266691843/i6523794657.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/reloj-jaguar-j929-1-connected-edicion-especial-1266691843",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Joyería y Complementos"
+    },
+    {
+      "id": "1259366122",
+      "title": "Reloj Jaguar J1013/1 Negro y color cobre",
+      "price": 269.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kt/sl/__/c10420p1259366122/i6478118869.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/reloj-jaguar-j1013-1-negro-y-color-cobre-1259366122",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Joyería y Complementos"
+    },
+    {
+      "id": "1262731295",
+      "title": "Red Steel Wii",
+      "price": 5.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kv/sp/__/c10420p1262731295/i6500273807.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/red-steel-wii-1262731295",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1261929157",
+      "title": "Gorro antimoscas caballo verde oliva",
+      "price": 9.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kv/bi/__/c10420p1261929157/i6494949785.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/gorro-antimoscas-caballo-verde-oliva-1261929157",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Hogar"
+    },
+    {
+      "id": "1262734680",
+      "title": "Sniper Elite Wii",
+      "price": 9.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kv/ss/__/c10420p1262734680/i6500294983.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/sniper-elite-wii-1262734680",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1260228733",
+      "title": "DVD Ernst Lubitsch en Berlín Coleccionista",
+      "price": 26.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ku/b2/__/c10420p1260228733/i6484459394.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/dvd-ernst-lubitsch-en-berlin-coleccionista-1260228733",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1260142795",
+      "title": "Dragon Ball: Sparking! Zero Xbox Series X",
+      "price": 28.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ku/98/__/c10420p1260142795/i6483939912.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/dragon-ball-sparking-zero-xbox-series-x-1260142795",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1259556349",
+      "title": "Cómic Vengadores encubiertos integral",
+      "price": 11.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kt/wn/__/c10420p1259556349/i6479733548.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/comic-vengadores-encubiertos-integral-1259556349",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1271113530",
+      "title": "Lo mejor de 13 Rue del Percebe",
+      "price": 15.0,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/l0/sd/__/c10420p1271113530/i6552752739.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/lo-mejor-de-13-rue-del-percebe-1271113530",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1260230185",
       "title": "Pack DVD Joyas del Cine Italiano",
       "price": 27.5,
@@ -1052,18 +1172,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/l0/sq/__/c10420p1271130180/i6552851918.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/bascula-de-precision-gram-1271130180",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
-      "id": "1271113530",
-      "title": "Lo mejor de 13 Rue del Percebe",
-      "price": 15.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l0/sd/__/c10420p1271113530/i6552752739.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/lo-mejor-de-13-rue-del-percebe-1271113530",
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
@@ -5041,54 +5149,6 @@
       "category": "Móviles y Smartwatches"
     },
     {
-      "id": "1266674504",
-      "title": "Ratón Gaming Razer Viper V3 Pro Negro",
-      "price": 84.95,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ky/58/__/c10420p1266674504/i6523698037.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/raton-gaming-razer-viper-v3-pro-negro-1266674504",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
-      "id": "1266691843",
-      "title": "Reloj Jaguar J929/1 Connected Edición Especial",
-      "price": 399.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ky/5l/__/c10420p1266691843/i6523794657.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/reloj-jaguar-j929-1-connected-edicion-especial-1266691843",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Joyería y Complementos"
-    },
-    {
-      "id": "1259366122",
-      "title": "Reloj Jaguar J1013/1 Negro y color cobre",
-      "price": 299.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kt/sl/__/c10420p1259366122/i6478118869.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/reloj-jaguar-j1013-1-negro-y-color-cobre-1259366122",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Joyería y Complementos"
-    },
-    {
-      "id": "1238143924",
-      "title": "Juego de habilidad de madera",
-      "price": 3.95,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kh/5p/__/c10420p1238143924/i6344437657.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/juego-de-habilidad-de-madera-1238143924",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Juguetes"
-    },
-    {
       "id": "1262730521",
       "title": "PS2 Los Urbz: Sims en la Ciudad",
       "price": 5.5,
@@ -5096,42 +5156,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/kv/sp/__/c10420p1262730521/i6500268638.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/ps2-los-urbz-sims-en-la-ciudad-1262730521",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
-      "id": "1262731295",
-      "title": "Red Steel Wii",
-      "price": 6.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kv/sp/__/c10420p1262731295/i6500273807.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/red-steel-wii-1262731295",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
-      "id": "1261929157",
-      "title": "Gorro antimoscas caballo verde oliva",
-      "price": 11.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kv/bi/__/c10420p1261929157/i6494949785.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/gorro-antimoscas-caballo-verde-oliva-1261929157",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Hogar"
-    },
-    {
-      "id": "1262734680",
-      "title": "Sniper Elite Wii",
-      "price": 10.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kv/ss/__/c10420p1262734680/i6500294983.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/sniper-elite-wii-1262734680",
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
@@ -5147,54 +5171,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
-    },
-    {
-      "id": "1262737133",
-      "title": "Rainbow Six 3 PS2 (PlayStation 2) - Ubisoft",
-      "price": 15.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kv/su/__/c10420p1262737133/i6500309356.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/rainbow-six-3-ps2-playstation-2-ubisoft-1262737133",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
-      "id": "1260228733",
-      "title": "DVD Ernst Lubitsch en Berlín Coleccionista",
-      "price": 30.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ku/b2/__/c10420p1260228733/i6484459394.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/dvd-ernst-lubitsch-en-berlin-coleccionista-1260228733",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
-      "id": "1260142795",
-      "title": "Dragon Ball: Sparking! Zero Xbox Series X",
-      "price": 31.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ku/98/__/c10420p1260142795/i6483939912.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/dragon-ball-sparking-zero-xbox-series-x-1260142795",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1259556349",
-      "title": "Cómic Vengadores encubiertos integral",
-      "price": 12.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kt/wn/__/c10420p1259556349/i6479733548.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/comic-vengadores-encubiertos-integral-1259556349",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
     },
     {
       "id": "1258990992",
@@ -7153,6 +7129,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 596,
-  "actualizado": "2026-08-18T18:31:46"
+  "total": 594,
+  "actualizado": "2026-08-18T18:58:10"
 }
