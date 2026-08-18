@@ -2425,18 +2425,6 @@
       "category": "Otros"
     },
     {
-      "id": "1285387029",
-      "title": "Consola PS5 Fat+Mando",
-      "price": 445.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l9/aa/__/c10420p1285387029/i6638340908.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/consola-ps5-fat--mando-1285387029",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
       "id": "1287602663",
       "title": "Figura Transformers Optimus Prime",
       "price": 36.5,
@@ -2768,18 +2756,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/l9/kn/__/c10420p1285869344/i6641094795.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/comic-joker-pequenas-locuras-1285869344",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1285868091",
-      "title": "Cómic Edición Integral Ultimate The Ultimates",
-      "price": 16.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l9/km/__/c10420p1285868091/i6641087744.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/comic-edicion-integral-ultimate-the-ultimates-1285868091",
       "location": "Pamplona",
       "condition": "",
       "category": "Libros, Cómics y Revistas"
@@ -4513,18 +4489,6 @@
       "category": "Motor"
     },
     {
-      "id": "1273834269",
-      "title": "Chaqueta Moto RST Mujer",
-      "price": 76.95,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l2/eo/__/c10420p1273834269/i6568750620.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/chaqueta-moto-rst-mujer-1273834269",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Motor"
-    },
-    {
       "id": "1273634050",
       "title": "Calefactor Pared ADM",
       "price": 26.5,
@@ -4628,30 +4592,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/kc/n0/__/c10420p1230552957/i6293138952.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/house-m-d-temporada-1-dvd-completa-1230552957",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1227627935",
-      "title": "Colección DVD Naruto Box Set 04",
-      "price": 11.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ka/wb/__/c10420p1227627935/i6273628205.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/coleccion-dvd-naruto-box-set-04-1227627935",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1227628938",
-      "title": "Colección DVD Naruto Box Set 03",
-      "price": 11.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ka/wc/__/c10420p1227628938/i6273633526.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/coleccion-dvd-naruto-box-set-03-1227628938",
       "location": "Pamplona",
       "condition": "",
       "category": "Libros, Cómics y Revistas"
@@ -4799,18 +4739,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Joyería y Complementos"
-    },
-    {
-      "id": "1265366402",
-      "title": "Cómic Marvel The ultimates Dioses y Monstruos",
-      "price": 16.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kx/d6/__/c10420p1265366402/i6516248697.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/comic-marvel-the-ultimates-dioses-y-monstruos-1265366402",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
     },
     {
       "id": "1238143924",
@@ -6541,18 +6469,6 @@
       "category": "Juguetes"
     },
     {
-      "id": "1268600455",
-      "title": "Cómic Edición Integral Ultimate X-Men Gira Mundial",
-      "price": 13.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kz/ai/__/c10420p1268600455/i6536235308.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/comic-edicion-integral-ultimate-x-men-gira-mundial-1268600455",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
       "id": "1240515126",
       "title": "Silla de ruedas infantil Invacare Action 3",
       "price": 99.0,
@@ -7321,6 +7237,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 610,
-  "actualizado": "2026-08-18T12:01:54"
+  "total": 603,
+  "actualizado": "2026-08-18T12:32:03"
 }
