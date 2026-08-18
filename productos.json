@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1292271157",
+      "title": "iPhone 14 Plus",
+      "price": 425.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ld/du/__/c10420p1292271157/i6682839317.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/iphone-14-plus-1292271157",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
       "id": "1229077250",
       "title": "Vinilo Ryuichi Sakamoto - Heartbeat",
       "price": 59.95,
@@ -7309,6 +7321,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 609,
-  "actualizado": "2026-08-18T11:02:18"
+  "total": 610,
+  "actualizado": "2026-08-18T11:32:15"
 }
