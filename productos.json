@@ -1,6 +1,114 @@
 {
   "productos": [
     {
+      "id": "1257512244",
+      "title": "Ringo Starr - Choose Love CD + DVD Edición Especia",
+      "price": 9.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ks/ou/__/c10420p1257512244/i6464686505.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/ringo-starr-choose-love-cd---dvd-edicion-especia-1257512244",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1257301747",
+      "title": "CD Ten Years After - Cricklewood Green",
+      "price": 9.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ks/kc/__/c10420p1257301747/i6463434096.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/ten-years-after-cricklewood-green-cd-1257301747",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1255217610",
+      "title": "Impresora Térmica Tickets Epson TM-T20",
+      "price": 59.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kr/bo/__/c10420p1255217610/i6451655216.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/impresora-termica-tickets-epson-tm-t20-1255217610",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Informática"
+    },
+    {
+      "id": "1219975959",
+      "title": "Fresa para metal Lukas",
+      "price": 19.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/k6/cb/__/c10420p1219975959/i6224203121.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/fresa-para-metal-lukas-1219975959",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Herramientas"
+    },
+    {
+      "id": "1254242411",
+      "title": "Street Fighter Years 1-2 Fighters Edition Switch",
+      "price": 31.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kq/qr/__/c10420p1254242411/i6445472279.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/street-fighter-years-1-2-fighters-edition-switch-1254242411",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1255597502",
+      "title": "Teléfono Vintage Lelux Gondola Rojo",
+      "price": 16.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kr/jt/__/c10420p1255597502/i6454000403.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/telefono-vintage-lelux-gondola-rojo-1255597502",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
+      "id": "1255223660",
+      "title": "Linterna Frontal Kodak LED 150 Lúmenes 3W",
+      "price": 9.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kr/bs/__/c10420p1255223660/i6451695311.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/linterna-frontal-kodak-led-150-lumenes-3w-1255223660",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1253541910",
+      "title": "Amoladora Dewalt DWE4036",
+      "price": 59.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kq/br/__/c10420p1253541910/i6441989762.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/amoladora-dewalt-dwe4036-1253541910",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Herramientas"
+    },
+    {
+      "id": "1253403324",
+      "title": "Puzzle League DS Nintendo",
+      "price": 8.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kq/8s/__/c10420p1253403324/i6441182063.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/puzzle-league-ds-nintendo-1253403324",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
       "id": "1253388292",
       "title": "Elefante pequeño de ébano tallado",
       "price": 9.5,
@@ -4657,30 +4765,6 @@
       "category": "Otros"
     },
     {
-      "id": "1273932361",
-      "title": "Cazadora Cordura Moto Stina",
-      "price": 50.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l2/gs/__/c10420p1273932361/i6569313779.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/cazadora-cordura-moto-stina-1273932361",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Motor"
-    },
-    {
-      "id": "1273929531",
-      "title": "Chaqueta Textil Moto Mujer Alpinestars",
-      "price": 99.99,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l2/gq/__/c10420p1273929531/i6569298503.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/chaqueta-textil-moto-mujer-alpinestars-1273929531",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Motor"
-    },
-    {
       "id": "1273634050",
       "title": "Calefactor Pared ADM",
       "price": 26.5,
@@ -5341,18 +5425,6 @@
       "category": "Otros"
     },
     {
-      "id": "1209966482",
-      "title": "Arenero Autolimpiable Petsafe Scoopfree A estrenar",
-      "price": 145.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/k0/ds/__/c10420p1209966482/i6161253500.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/arenero-autolimpiable-petsafe-scoopfree-nuevo-1209966482",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Juguetes"
-    },
-    {
       "id": "1257549248",
       "title": "CD Ana Belén y Víctor Manuel - Una Canción Me Traj",
       "price": 9.5,
@@ -5360,18 +5432,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/ks/pn/__/c10420p1257549248/i6464916631.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/cd-ana-belen-y-victor-manuel-una-cancion-me-traj-1257549248",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
-      "id": "1257551130",
-      "title": "CD Battiato Fleurs 2",
-      "price": 9.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ks/po/__/c10420p1257551130/i6464929232.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/cd-battiato-fleurs-2-1257551130",
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
@@ -5387,42 +5447,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1257512244",
-      "title": "Ringo Starr - Choose Love CD + DVD Edición Especia",
-      "price": 11.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ks/ou/__/c10420p1257512244/i6464686505.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/ringo-starr-choose-love-cd---dvd-edicion-especia-1257512244",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1257301747",
-      "title": "CD Ten Years After - Cricklewood Green",
-      "price": 11.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ks/kc/__/c10420p1257301747/i6463434096.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/ten-years-after-cricklewood-green-cd-1257301747",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
-      "id": "1255217610",
-      "title": "Impresora Térmica Tickets Epson TM-T20",
-      "price": 65.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kr/bo/__/c10420p1255217610/i6451655216.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/impresora-termica-tickets-epson-tm-t20-1255217610",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Informática"
     },
     {
       "id": "1234464572",
@@ -5447,66 +5471,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Electrodomésticos"
-    },
-    {
-      "id": "1219975959",
-      "title": "Fresa para metal Lukas",
-      "price": 21.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/k6/cb/__/c10420p1219975959/i6224203121.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/fresa-para-metal-lukas-1219975959",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Herramientas"
-    },
-    {
-      "id": "1254242411",
-      "title": "Street Fighter Years 1-2 Fighters Edition Switch",
-      "price": 36.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kq/qr/__/c10420p1254242411/i6445472279.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/street-fighter-years-1-2-fighters-edition-switch-1254242411",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
-      "id": "1255597502",
-      "title": "Teléfono Vintage Lelux Gondola Rojo",
-      "price": 20.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kr/jt/__/c10420p1255597502/i6454000403.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/telefono-vintage-lelux-gondola-rojo-1255597502",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
-    },
-    {
-      "id": "1255223660",
-      "title": "Linterna Frontal Kodak LED 150 Lúmenes 3W",
-      "price": 10.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kr/bs/__/c10420p1255223660/i6451695311.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/linterna-frontal-kodak-led-150-lumenes-3w-1255223660",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
-      "id": "1253541910",
-      "title": "Amoladora Dewalt DWE4036",
-      "price": 75.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kq/br/__/c10420p1253541910/i6441989762.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/amoladora-dewalt-dwe4036-1253541910",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Herramientas"
     },
     {
       "id": "1253562470",
@@ -7177,6 +7141,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 598,
-  "actualizado": "2026-08-18T17:33:34"
+  "total": 595,
+  "actualizado": "2026-08-18T18:01:41"
 }
