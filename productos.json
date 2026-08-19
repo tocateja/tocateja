@@ -1,6 +1,42 @@
 {
   "productos": [
     {
+      "id": "1275786458",
+      "title": "Farol Sobremuro Jardín",
+      "price": 13.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/kj/__/c10420p1275786458/i6579565897.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/farol-sobremuro-jardin-negro-1275786458",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1275783885",
+      "title": "Candelabro Dorado",
+      "price": 18.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/kh/__/c10420p1275783885/i6579542449.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/candelabro-dorado-1275783885",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1275437981",
+      "title": "Funda Teclado Samsung Book Cover Slim Precintado",
+      "price": 99.99,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/d2/__/c10420p1275437981/i6577592341.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/book-cover-keyboard-slim-ai-key-samsung-precintado-1275437981",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Informática"
+    },
+    {
       "id": "1275449207",
       "title": "Luz bici Blackburn Dayblazer 550 Precintado",
       "price": 18.5,
@@ -11,18 +47,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1275437981",
-      "title": "Funda Teclado Samsung Book Cover Slim Precintado",
-      "price": 99.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l3/d2/__/c10420p1275437981/i6577592341.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/book-cover-keyboard-slim-ai-key-samsung-precintado-1275437981",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Informática"
     },
     {
       "id": "1275344085",
@@ -4933,30 +4957,6 @@
       "category": "Otros"
     },
     {
-      "id": "1275786458",
-      "title": "Farol Sobremuro Jardín",
-      "price": 16.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l3/kj/__/c10420p1275786458/i6579565897.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/farol-sobremuro-jardin-negro-1275786458",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
-      "id": "1275783885",
-      "title": "Candelabro Dorado",
-      "price": 20.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l3/kh/__/c10420p1275783885/i6579542449.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/candelabro-dorado-1275783885",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
       "id": "1275452262",
       "title": "Luz Bici Recargable Gemini Moon",
       "price": 16.5,
@@ -7130,5 +7130,5 @@
     }
   ],
   "total": 594,
-  "actualizado": "2026-08-19T16:31:55"
+  "actualizado": "2026-08-19T17:01:58"
 }
