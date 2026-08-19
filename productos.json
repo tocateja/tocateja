@@ -1,6 +1,42 @@
 {
   "productos": [
     {
+      "id": "1292605011",
+      "title": "Lápiz Digital Maillon Active Pro Stylus Pen",
+      "price": 26.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ld/l0/__/c10420p1292605011/i6684683922.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/lapiz-digital-maillon-active-pro-stylus-pen-1292605011",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1292601470",
+      "title": "Redmi Note 15 Pro 5G Precintado",
+      "price": 239.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ld/kx/__/c10420p1292601470/i6684665163.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/redmi-note-15-pro-5g-precintado-1292601470",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
+      "id": "1292600315",
+      "title": "Altavoz Bluetooth Marshall Emberton II",
+      "price": 95.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ld/kw/__/c10420p1292600315/i6684659674.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/altavoz-bluetooth-marshall-emberton-ii-1292600315",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
       "id": "1267259235",
       "title": "Juego Vajilla 19 Piezas Myott Toquin",
       "price": 179.0,
@@ -7117,6 +7153,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 593,
-  "actualizado": "2026-08-19T11:31:42"
+  "total": 596,
+  "actualizado": "2026-08-19T12:01:34"
 }
