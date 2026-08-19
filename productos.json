@@ -1,6 +1,90 @@
 {
   "productos": [
     {
+      "id": "1274821431",
+      "title": "Fifa 15 Nintendo 3DS",
+      "price": 7.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l2/zu/__/c10420p1274821431/i6573902208.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/fifa-15-nintendo-3ds-1274821431",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1274819887",
+      "title": "Grapadora El Casco",
+      "price": 46.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l2/zt/__/c10420p1274819887/i6573892034.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/grapadora-el-casco-cromada-1274819887",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Herramientas"
+    },
+    {
+      "id": "1274751405",
+      "title": "Crimpadora Profesional Phoenix Contact",
+      "price": 89.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l2/yc/__/c10420p1274751405/i6573521487.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/crimpadora-profesional-phoenix-contact-1274751405",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1274749423",
+      "title": "Pelacables Profesional Facom",
+      "price": 54.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l2/ya/__/c10420p1274749423/i6573508369.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/pelacables-profesional-facom-1274749423",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Herramientas"
+    },
+    {
+      "id": "1268419522",
+      "title": "Fujinon XF 100-400MM 1:4.5-5.6  R LM OIS WR",
+      "price": 980.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kz/6m/__/c10420p1268419522/i6533993164.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/fujinon-xf-100-400mm-1-4-5-5-6-r-lm-ois-wr-1268419522",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1116596436",
+      "title": "PROGRAMA FIESTAS SAN FERMIN 1979",
+      "price": 6.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ig/sj/__/c10420p1116596436/i5518394196.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/programa-fiestas-san-fermin-1979-1116596436",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Antigüedades y Coleccionismo"
+    },
+    {
+      "id": "1273616634",
+      "title": "Cenicero Decorativo Sol Azteca",
+      "price": 10.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l2/a0/__/c10420p1273616634/i6567410735.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/cenicero-decorativo-sol-azteca-1273616634",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1194353746",
       "title": "Vinilo Depeche Mode 101",
       "price": 46.5,
@@ -1100,18 +1184,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/k1/i8/__/c10420p1211854056/i6172529488.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/vinilo-etorkizuna-1211854056",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
-    },
-    {
-      "id": "1211841188",
-      "title": "Vinilo Nuestro Pequeño Mundo - El Folklore",
-      "price": 5.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/k1/hy/__/c10420p1211841188/i6172400042.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/vinilo-nuestro-pequeno-mundo-el-folklore-1211841188",
       "location": "Pamplona",
       "condition": "",
       "category": "Música e Instrumentos"
@@ -2972,18 +3044,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/lb/2x/__/c10420p1288401947/i6660079812.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/minecraft-nintendo-switch-1288401947",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
-      "id": "1288399473",
-      "title": "FIFA 21 Nintendo Switch",
-      "price": 4.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lb/2v/__/c10420p1288399473/i6660065202.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/fifa-21-nintendo-switch-1288399473",
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
@@ -4993,78 +5053,6 @@
       "category": "Joyería y Complementos"
     },
     {
-      "id": "1274822122",
-      "title": "MegaMan 2 Game Boy Nintendo",
-      "price": 21.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l2/zv/__/c10420p1274822122/i6573908120.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/megaman-2-game-boy-nintendo-1274822122",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
-      "id": "1274821431",
-      "title": "Fifa 15 Nintendo 3DS",
-      "price": 8.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l2/zu/__/c10420p1274821431/i6573902208.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/fifa-15-nintendo-3ds-1274821431",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
-      "id": "1274819887",
-      "title": "Grapadora El Casco",
-      "price": 50.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l2/zt/__/c10420p1274819887/i6573892034.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/grapadora-el-casco-cromada-1274819887",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Herramientas"
-    },
-    {
-      "id": "1274751405",
-      "title": "Crimpadora Profesional Phoenix Contact",
-      "price": 99.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l2/yc/__/c10420p1274751405/i6573521487.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/crimpadora-profesional-phoenix-contact-1274751405",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
-      "id": "1274749423",
-      "title": "Pelacables Profesional Facom",
-      "price": 59.95,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l2/ya/__/c10420p1274749423/i6573508369.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/pelacables-profesional-facom-1274749423",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Herramientas"
-    },
-    {
-      "id": "1268419522",
-      "title": "Fujinon XF 100-400MM 1:4.5-5.6  R LM OIS WR",
-      "price": 990.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kz/6m/__/c10420p1268419522/i6533993164.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/fujinon-xf-100-400mm-1-4-5-5-6-r-lm-ois-wr-1268419522",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
       "id": "1273952385",
       "title": "Cinta Andadora iWalk",
       "price": 119.0,
@@ -5099,30 +5087,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Electrodomésticos"
-    },
-    {
-      "id": "1273616634",
-      "title": "Cenicero Decorativo Sol Azteca",
-      "price": 11.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l2/a0/__/c10420p1273616634/i6567410735.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/cenicero-decorativo-sol-azteca-1273616634",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
-      "id": "1116596436",
-      "title": "PROGRAMA FIESTAS SAN FERMIN 1979",
-      "price": 8.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ig/sj/__/c10420p1116596436/i5518394196.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/programa-fiestas-san-fermin-1979-1116596436",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Antigüedades y Coleccionismo"
     },
     {
       "id": "1273256104",
@@ -7153,6 +7117,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 596,
-  "actualizado": "2026-08-19T13:01:47"
+  "total": 593,
+  "actualizado": "2026-08-19T13:31:55"
 }
