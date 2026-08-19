@@ -1,6 +1,90 @@
 {
   "productos": [
     {
+      "id": "1278224073",
+      "title": "Juego Nintendo 64 F1 World Grand Prix",
+      "price": 9.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l5/0s/__/c10420p1278224073/i6595380469.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/juego-nintendo-64-f1-world-grand-prix-1278224073",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1253400698",
+      "title": "Juego Nintendo 64 Off Road Challenge",
+      "price": 14.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kq/8q/__/c10420p1253400698/i6441168781.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/juego-n64-off-road-challenge-1253400698",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1276882760",
+      "title": "Barra de sonido Xiaomi",
+      "price": 52.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l4/81/__/c10420p1276882760/i6585563938.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/barra-de-sonido-xiaomi-1276882760",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
+      "id": "1275997044",
+      "title": "Figura Decorativa Mujer Época",
+      "price": 11.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/p1/__/c10420p1275997044/i6580863056.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/figura-decorativa-mujer-epoca-1275997044",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Hogar"
+    },
+    {
+      "id": "1275993375",
+      "title": "Placa Retrato Jesucristo Metal",
+      "price": 13.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/oy/__/c10420p1275993375/i6580842062.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/placa-retrato-jesucristo-metal-1275993375",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1275991887",
+      "title": "2 Figuras de Alabastro",
+      "price": 85.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/ox/__/c10420p1275991887/i6580833203.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/2-figuras-de-alabastro-1275991887",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Hogar"
+    },
+    {
+      "id": "1275789551",
+      "title": "Elefante Decorativo Metálico",
+      "price": 14.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/kl/__/c10420p1275789551/i6579571584.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/elefante-decorativo-metalico-1275789551",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1275786458",
       "title": "Farol Sobremuro Jardín",
       "price": 13.5,
@@ -4549,42 +4633,6 @@
       "category": "TV y Audio"
     },
     {
-      "id": "1278237850",
-      "title": "El Rey León Trilogía DVD",
-      "price": 21.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l5/12/__/c10420p1278237850/i6595570185.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/el-rey-leon-trilogia-dvd-1278237850",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1278224073",
-      "title": "Juego Nintendo 64 F1 World Grand Prix",
-      "price": 11.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l5/0s/__/c10420p1278224073/i6595380469.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/juego-nintendo-64-f1-world-grand-prix-1278224073",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
-      "id": "1253400698",
-      "title": "Juego Nintendo 64 Off Road Challenge",
-      "price": 16.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kq/8q/__/c10420p1253400698/i6441168781.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/juego-n64-off-road-challenge-1253400698",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
       "id": "1277863559",
       "title": "Cortadora Tubos Virax 63MM",
       "price": 79.95,
@@ -4595,18 +4643,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1276882760",
-      "title": "Barra de sonido Xiaomi",
-      "price": 59.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l4/81/__/c10420p1276882760/i6585563938.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/barra-de-sonido-xiaomi-1276882760",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
     },
     {
       "id": "1277515985",
@@ -4801,18 +4837,6 @@
       "category": "Libros, Cómics y Revistas"
     },
     {
-      "id": "1276080310",
-      "title": "Estante Big Board Precintado",
-      "price": 13.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l3/qt/__/c10420p1276080310/i6581327516.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/estante-big-board-precintado-1276080310",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
       "id": "1276075100",
       "title": "Objeto religioso",
       "price": 11.5,
@@ -4849,18 +4873,6 @@
       "category": "Hogar"
     },
     {
-      "id": "1275997044",
-      "title": "Figura Decorativa Mujer Época",
-      "price": 13.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l3/p1/__/c10420p1275997044/i6580863056.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/figura-decorativa-mujer-epoca-1275997044",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Hogar"
-    },
-    {
       "id": "1275995533",
       "title": "Objeto religioso",
       "price": 11.5,
@@ -4871,30 +4883,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1275993375",
-      "title": "Placa Retrato Jesucristo Metal",
-      "price": 16.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l3/oy/__/c10420p1275993375/i6580842062.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/placa-retrato-jesucristo-metal-1275993375",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
-      "id": "1275991887",
-      "title": "2 Figuras de Alabastro",
-      "price": 95.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l3/ox/__/c10420p1275991887/i6580833203.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/2-figuras-de-alabastro-1275991887",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Hogar"
     },
     {
       "id": "1275988282",
@@ -4943,18 +4931,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Informática"
-    },
-    {
-      "id": "1275789551",
-      "title": "Elefante Decorativo Metálico",
-      "price": 15.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l3/kl/__/c10420p1275789551/i6579571584.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/elefante-decorativo-metalico-1275789551",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
     },
     {
       "id": "1275452262",
@@ -7129,6 +7105,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 594,
-  "actualizado": "2026-08-19T17:01:58"
+  "total": 592,
+  "actualizado": "2026-08-19T17:32:04"
 }
