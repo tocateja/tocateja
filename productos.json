@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1268224319",
+      "title": "Samsung Galaxy A57 5G 256GB Negro",
+      "price": 359.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kz/2g/__/c10420p1268224319/i6532645225.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/samsung-galaxy-a57-5g-256gb-negro-1268224319",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
       "id": "1231688176",
       "title": "Auriculares Inalámbricos Sennheiser RS 165 TV",
       "price": 58.95,
@@ -6385,18 +6397,6 @@
       "category": "Gaming"
     },
     {
-      "id": "1268224319",
-      "title": "Samsung Galaxy A57 5G 256GB Negro",
-      "price": 359.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kz/2g/__/c10420p1268224319/i6532645225.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/samsung-galaxy-a57-5g-256gb-negro-1268224319",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
-    },
-    {
       "id": "1134994377",
       "title": "TECLADO LENOVO USB",
       "price": 9.5,
@@ -7118,5 +7118,5 @@
     }
   ],
   "total": 593,
-  "actualizado": "2026-08-19T18:01:45"
+  "actualizado": "2026-08-19T18:31:47"
 }
