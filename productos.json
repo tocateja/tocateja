@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1254196218",
+      "title": "Cómic AIDP Volumen 6",
+      "price": 19.5,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/kq/pr/__/c10420p1254196218/i6445224365.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/comic-aidp-volumen-6-1254196218",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
       "id": "1266674504",
       "title": "Ratón Gaming Razer Viper V3 Pro Negro",
       "price": 76.0,
@@ -311,18 +323,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Joyería y Complementos"
-    },
-    {
-      "id": "1254196218",
-      "title": "Cómic AIDP Volumen 6",
-      "price": 19.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kq/pr/__/c10420p1254196218/i6445224365.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/comic-aidp-volumen-6-1254196218",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
     },
     {
       "id": "1254193431",
@@ -7130,5 +7130,5 @@
     }
   ],
   "total": 594,
-  "actualizado": "2026-08-19T08:02:17"
+  "actualizado": "2026-08-19T10:01:49"
 }
