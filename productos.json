@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1231688176",
+      "title": "Auriculares Inalámbricos Sennheiser RS 165 TV",
+      "price": 58.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kd/bc/__/c10420p1231688176/i6299594142.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/auriculares-inalambricos-sennheiser-rs-165-tv-1231688176",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "TV y Audio"
+    },
+    {
+      "id": "1278237850",
+      "title": "El Rey León Trilogía DVD",
+      "price": 19.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l5/12/__/c10420p1278237850/i6595570185.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/el-rey-leon-trilogia-dvd-1278237850",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
       "id": "1278224073",
       "title": "Juego Nintendo 64 F1 World Grand Prix",
       "price": 9.5,
@@ -4621,18 +4645,6 @@
       "category": "Otros"
     },
     {
-      "id": "1231688176",
-      "title": "Auriculares Inalámbricos Sennheiser RS 165 TV",
-      "price": 64.95,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kd/bc/__/c10420p1231688176/i6299594142.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/auriculares-inalambricos-sennheiser-rs-165-tv-1231688176",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "TV y Audio"
-    },
-    {
       "id": "1277863559",
       "title": "Cortadora Tubos Virax 63MM",
       "price": 79.95,
@@ -7105,6 +7117,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 592,
-  "actualizado": "2026-08-19T17:32:04"
+  "total": 593,
+  "actualizado": "2026-08-19T18:01:45"
 }
