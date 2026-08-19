@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1252320025",
+      "title": "Samsung Galaxy A57 5G Precintado",
+      "price": 359.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kp/lk/__/c10420p1252320025/i6434348068.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/samsung-galaxy-a57-5g-1252320025",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
+      "id": "1288168737",
+      "title": "Portátil HP Zbook Fury 16 G11",
+      "price": 1245.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/la/xx/__/c10420p1288168737/i6658245715.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/portatil-hp-zbook-fury-16-g11-1288168737",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Informática"
+    },
+    {
       "id": "1254196218",
       "title": "Cómic AIDP Volumen 6",
       "price": 19.5,
@@ -119,18 +143,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1271113530",
-      "title": "Lo mejor de 13 Rue del Percebe",
-      "price": 15.0,
-      "currency": "EUR",
-      "status": "reserved",
-      "image": "https://cdn.wallapop.com/images/10420/l0/sd/__/c10420p1271113530/i6552752739.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/lo-mejor-de-13-rue-del-percebe-1271113530",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
     },
     {
       "id": "1260230185",
@@ -2881,18 +2893,6 @@
       "category": "Hogar"
     },
     {
-      "id": "1288168737",
-      "title": "Portátil HP Zbook Fury 16 G11",
-      "price": 1245.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/la/xx/__/c10420p1288168737/i6658245715.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/portatil-hp-zbook-fury-16-g11-1288168737",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Informática"
-    },
-    {
       "id": "1288166202",
       "title": "All in One Dell Inspiron 5400 AIO Series",
       "price": 375.0,
@@ -5137,18 +5137,6 @@
       "category": "Música e Instrumentos"
     },
     {
-      "id": "1252320025",
-      "title": "Samsung Galaxy A57 5G",
-      "price": 359.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kp/lk/__/c10420p1252320025/i6434348068.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/samsung-galaxy-a57-5g-1252320025",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
-    },
-    {
       "id": "1262730521",
       "title": "PS2 Los Urbz: Sims en la Ciudad",
       "price": 5.5,
@@ -7129,6 +7117,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 594,
-  "actualizado": "2026-08-19T10:31:41"
+  "total": 593,
+  "actualizado": "2026-08-19T11:01:48"
 }
