@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1290425078",
+      "title": "Micrófono Dinámico Supercardioide Telefunken",
+      "price": 135.0,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/lc/aa/__/c10420p1290425078/i6672005783.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/microfono-dinamico-supercardioide-1290425078",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1292968517",
       "title": "MacBook Neo 13\"",
       "price": 699.0,
@@ -7033,6 +7045,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 586,
-  "actualizado": "2026-08-20T14:32:15"
+  "total": 587,
+  "actualizado": "2026-08-20T15:01:38"
 }
