@@ -1045,18 +1045,6 @@
       "category": "Música e Instrumentos"
     },
     {
-      "id": "1274130421",
-      "title": "Limpiadora Alta Presión Karcher K5 Precintado",
-      "price": 250.0,
-      "currency": "EUR",
-      "status": "reserved",
-      "image": "https://cdn.wallapop.com/images/10420/l2/l1/__/c10420p1274130421/i6570429435.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/limpiadora-alta-presion-karcher-k5-precintado-1274130421",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
       "id": "1230187020",
       "title": "Daemon X Machina Nintendo Switch",
       "price": 21.5,
@@ -7117,6 +7105,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 593,
-  "actualizado": "2026-08-20T08:02:16"
+  "total": 592,
+  "actualizado": "2026-08-20T10:01:49"
 }
