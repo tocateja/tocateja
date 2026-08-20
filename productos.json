@@ -2761,18 +2761,6 @@
       "category": "Deporte"
     },
     {
-      "id": "1274737892",
-      "title": "Tensiómetro de Muñeca Ecomed",
-      "price": 12.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l2/y2/__/c10420p1274737892/i6573444302.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/tensiometro-de-muneca-ecomed-1274737892",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Juguetes"
-    },
-    {
       "id": "1247250113",
       "title": "Cubertería Vintage Estuche Metálico",
       "price": 27.5,
@@ -7069,6 +7057,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 589,
-  "actualizado": "2026-08-20T13:01:44"
+  "total": 588,
+  "actualizado": "2026-08-20T13:31:42"
 }
