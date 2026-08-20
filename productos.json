@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1220756320",
+      "title": "Soldador Eléctrico 30W Pemco",
+      "price": 6.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/k6/t1/__/c10420p1220756320/i6228324015.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/soldador-electrico-30w-pemco-1220756320",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Herramientas"
+    },
+    {
+      "id": "1134994377",
+      "title": "TECLADO LENOVO USB",
+      "price": 9.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ir/qv/__/c10420p1134994377/i5664366950.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/teclado-lenovo-usb-1134994377",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Informática"
+    },
+    {
       "id": "1268224319",
       "title": "Samsung Galaxy A57 5G 256GB Negro",
       "price": 359.0,
@@ -3107,18 +3131,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Móviles y Smartwatches"
-    },
-    {
-      "id": "1220756320",
-      "title": "Soldador Eléctrico 30W Pemco",
-      "price": 6.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/k6/t1/__/c10420p1220756320/i6228324015.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/soldador-electrico-30w-pemco-1220756320",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Herramientas"
     },
     {
       "id": "1250411734",
@@ -6385,18 +6397,6 @@
       "category": "Gaming"
     },
     {
-      "id": "1134994377",
-      "title": "TECLADO LENOVO USB",
-      "price": 9.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ir/qv/__/c10420p1134994377/i5664366950.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/teclado-lenovo-usb-1134994377",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Informática"
-    },
-    {
       "id": "1144202496",
       "title": "Teclado Lenovo USB Alemán SK8827",
       "price": 6.5,
@@ -7106,5 +7106,5 @@
     }
   ],
   "total": 592,
-  "actualizado": "2026-08-20T10:01:49"
+  "actualizado": "2026-08-20T10:31:48"
 }
