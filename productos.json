@@ -1,6 +1,42 @@
 {
   "productos": [
     {
+      "id": "1293369435",
+      "title": "Kung-Fu Rider PS3",
+      "price": 4.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/le/1e/__/c10420p1293369435/i6688926197.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/kung-fu-rider-ps3-1293369435",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1293368672",
+      "title": "FIFA 18 PS4 (PlayStation 4) EA Sports",
+      "price": 5.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/le/1d/__/c10420p1293368672/i6688922670.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/fifa-18-ps4-playstation-4-ea-sports-1293368672",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1118259975",
+      "title": "RELOJ DE PENDULO KERN",
+      "price": 11.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ih/s6/__/c10420p1118259975/i5528732350.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/reloj-de-pendulo-kern-1118259975",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Joyería y Complementos"
+    },
+    {
       "id": "1293313291",
       "title": "NFS Heat PS4 (PlayStation 4) Carreras",
       "price": 20.5,
@@ -176,18 +212,6 @@
       "status": "reserved",
       "image": "https://cdn.wallapop.com/images/10420/ii/9j/__/c10420p1119069982/i5536167256.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/funda-book-cover-samsung-galaxy-tab-a7-lite-1119069982",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
-    },
-    {
-      "id": "1292601470",
-      "title": "Redmi Note 15 Pro 5G Precintado",
-      "price": 239.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ld/kx/__/c10420p1292601470/i6684665163.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/redmi-note-15-pro-5g-precintado-1292601470",
       "location": "Pamplona",
       "condition": "",
       "category": "Móviles y Smartwatches"
@@ -2941,18 +2965,6 @@
       "category": "Móviles y Smartwatches"
     },
     {
-      "id": "1268237063",
-      "title": "Samsung Galaxy A57 5G 256GB Negro",
-      "price": 359.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kz/2p/__/c10420p1268237063/i6532717676.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/samsung-galaxy-a57-5g-256gb-negro-1268237063",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
-    },
-    {
       "id": "1254325422",
       "title": "Samsung Galaxy A37 5G Verde",
       "price": 337.95,
@@ -4367,18 +4379,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
-    },
-    {
-      "id": "1118259975",
-      "title": "RELOJ DE PENDULO KERN",
-      "price": 11.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ih/s6/__/c10420p1118259975/i5528732350.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/reloj-de-pendulo-kern-1118259975",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Joyería y Complementos"
     },
     {
       "id": "1283633768",
@@ -7082,5 +7082,5 @@
     }
   ],
   "total": 590,
-  "actualizado": "2026-08-21T16:31:41"
+  "actualizado": "2026-08-21T17:01:43"
 }
