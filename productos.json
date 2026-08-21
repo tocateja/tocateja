@@ -2113,18 +2113,6 @@
       "category": "Juguetes"
     },
     {
-      "id": "1250403423",
-      "title": "Teclado Inalámbrico Apple Plata",
-      "price": 41.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ko/gh/__/c10420p1250403423/i6422508177.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/teclado-inalambrico-apple-plata-1250403423",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Informática"
-    },
-    {
       "id": "1250365599",
       "title": "Apple USB SuperDrive Plata",
       "price": 31.5,
@@ -7009,6 +6997,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 584,
-  "actualizado": "2026-08-21T12:01:42"
+  "total": 583,
+  "actualizado": "2026-08-21T12:31:43"
 }
