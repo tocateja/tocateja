@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1293385597",
+      "title": "Samsung Galaxy Watch 7",
+      "price": 99.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/le/1q/__/c10420p1293385597/i6689005017.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/samsung-galaxy-watch-7-1293385597",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
+      "id": "1293380958",
+      "title": "Portátil Asus Zenbook 13",
+      "price": 349.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/le/1n/__/c10420p1293380958/i6688982186.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/portatil-asus-zenbook-13-1293380958",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Informática"
+    },
+    {
       "id": "1293369435",
       "title": "Kung-Fu Rider PS3",
       "price": 4.5,
@@ -7081,6 +7105,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 590,
-  "actualizado": "2026-08-21T17:01:43"
+  "total": 592,
+  "actualizado": "2026-08-21T17:32:14"
 }
