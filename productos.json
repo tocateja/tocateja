@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1293389099",
+      "title": "Taladro Percutor Ferrestock 21V Precintado",
+      "price": 34.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/le/1t/__/c10420p1293389099/i6689022737.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/taladro-percutor-ferrestock-21v-precintado-1293389099",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Herramientas"
+    },
+    {
       "id": "1293385597",
       "title": "Samsung Galaxy Watch 7",
       "price": 99.0,
@@ -1165,30 +1177,6 @@
       "category": "Gaming"
     },
     {
-      "id": "1246076210",
-      "title": "Cómic Lightship Jim Burns",
-      "price": 9.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kl/vq/__/c10420p1246076210/i6393463222.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/comic-lightship-jim-burns-1246076210",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1246105307",
-      "title": "Cómic libro Mytho-Poeikon",
-      "price": 9.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kl/wd/__/c10420p1246105307/i6393612789.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/comic-libro-mytho-poeikon-1246105307",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
       "id": "1250339370",
       "title": "Casco Livall EVO21 con luces",
       "price": 59.95,
@@ -1388,18 +1376,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/ju/qo/__/c10420p1200491168/i6089913883.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/vinilo-jotas-aragonesas-1200491168",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
-    },
-    {
-      "id": "1200494946",
-      "title": "Vinilo Hnos. Aniz El Campanero Flamenco",
-      "price": 3.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ju/qr/__/c10420p1200494946/i6089938488.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/vinilo-hnos-aniz-el-campanero-flamenco-1200494946",
       "location": "Pamplona",
       "condition": "",
       "category": "Música e Instrumentos"
@@ -4393,18 +4369,6 @@
       "category": "Herramientas"
     },
     {
-      "id": "1183762427",
-      "title": "Eragon PS2",
-      "price": 4.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/jk/s4/__/c10420p1183762427/i5978356865.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/eragon-ps2-1183762427",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
       "id": "1283633768",
       "title": "Samsung Galaxy S24",
       "price": 345.0,
@@ -7105,6 +7069,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 592,
-  "actualizado": "2026-08-21T17:32:14"
+  "total": 589,
+  "actualizado": "2026-08-21T18:01:42"
 }
