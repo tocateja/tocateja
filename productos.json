@@ -1,6 +1,42 @@
 {
   "productos": [
     {
+      "id": "1271436046",
+      "title": "Samsung Galaxy Z Fold 7",
+      "price": 1100.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l0/za/__/c10420p1271436046/i6554735774.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/samsung-galaxy-z-fold-7-1271436046",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
+      "id": "1220756320",
+      "title": "Soldador Eléctrico 30W Pemco",
+      "price": 6.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/k6/t1/__/c10420p1220756320/i6228324015.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/soldador-electrico-30w-pemco-1220756320",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Herramientas"
+    },
+    {
+      "id": "1134994377",
+      "title": "TECLADO LENOVO USB",
+      "price": 9.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ir/qv/__/c10420p1134994377/i5664366950.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/teclado-lenovo-usb-1134994377",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Informática"
+    },
+    {
       "id": "1293389099",
       "title": "Taladro Percutor Ferrestock 21V Precintado",
       "price": 34.5,
@@ -251,30 +287,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Móviles y Smartwatches"
-    },
-    {
-      "id": "1220756320",
-      "title": "Soldador Eléctrico 30W Pemco",
-      "price": 6.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/k6/t1/__/c10420p1220756320/i6228324015.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/soldador-electrico-30w-pemco-1220756320",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Herramientas"
-    },
-    {
-      "id": "1134994377",
-      "title": "TECLADO LENOVO USB",
-      "price": 9.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ir/qv/__/c10420p1134994377/i5664366950.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/teclado-lenovo-usb-1134994377",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Informática"
     },
     {
       "id": "1268224319",
@@ -1400,18 +1412,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/k8/df/__/c10420p1223386553/i6243311546.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/vinilo-mozart-concierto-para-flauta-y-oboe-1223386553",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
-    },
-    {
-      "id": "1223377784",
-      "title": "Vinilo Schubert Sinfonia N 7 (9) Karajan",
-      "price": 4.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/k8/d8/__/c10420p1223377784/i6243271167.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/vinilo-schubert-sinfonia-n-7-9-karajan-1223377784",
       "location": "Pamplona",
       "condition": "",
       "category": "Música e Instrumentos"
@@ -3145,18 +3145,6 @@
       "category": "Otros"
     },
     {
-      "id": "1290437987",
-      "title": "Xiaomi Redmi 15 5G",
-      "price": 145.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lc/ak/__/c10420p1290437987/i6672071187.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/xiaomi-redmi-note-15-5g-1290437987",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
-    },
-    {
       "id": "1290432954",
       "title": "Amplificador Akai Stereo Vintage",
       "price": 79.95,
@@ -3289,18 +3277,6 @@
       "category": "Antigüedades y Coleccionismo"
     },
     {
-      "id": "1253385528",
-      "title": "Plancha antigua carbon Mondragón",
-      "price": 41.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kq/8e/__/c10420p1253385528/i6441081302.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/plancha-antigua-carbon-mondragon-1253385528",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
       "id": "1273935309",
       "title": "Caballito de Tiovivo",
       "price": 290.0,
@@ -3359,18 +3335,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Móviles y Smartwatches"
-    },
-    {
-      "id": "1286678515",
-      "title": "Guitarra Eléctrica Peavey AT-200",
-      "price": 199.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/la/1z/__/c10420p1286678515/i6646002001.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/guitarra-electrica-peavey-at-200-1286678515",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
     },
     {
       "id": "1288401947",
@@ -3541,18 +3505,6 @@
       "category": "Libros, Cómics y Revistas"
     },
     {
-      "id": "1286664367",
-      "title": "Libro cocina Karlos Arguiñano 1060 recetas",
-      "price": 13.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/la/1o/__/c10420p1286664367/i6645912798.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/libro-cocina-karlos-arguinano-1060-recetas-1286664367",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
       "id": "1286662312",
       "title": "Libro cocina Karlos Arguiñano Cocina día a día",
       "price": 13.5,
@@ -3599,18 +3551,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1286653474",
-      "title": "Enciclopedia de Navarra Gastronomía",
-      "price": 10.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/la/1g/__/c10420p1286653474/i6645843854.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/enciclopedia-de-navarra-gastronomia-1286653474",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
     },
     {
       "id": "1286646711",
@@ -3661,18 +3601,6 @@
       "category": "Móviles y Smartwatches"
     },
     {
-      "id": "1285692133",
-      "title": "Reloj Casio G-shock Mudmaster GWG-B1000",
-      "price": 495.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l9/gu/__/c10420p1285692133/i6640099895.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/reloj-casio-g-shock-mudmaster-gwg-b1000-1285692133",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Joyería y Complementos"
-    },
-    {
       "id": "1196578886",
       "title": "Vinilo Michel Haydn Trois Concertos",
       "price": 6.5,
@@ -3719,18 +3647,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1286049428",
-      "title": "Taladro Atornillador Bosch",
-      "price": 85.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l9/oi/__/c10420p1286049428/i6642222134.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/taladro-atornillador-bosch-1286049428",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Herramientas"
     },
     {
       "id": "1014712315",
@@ -4621,18 +4537,6 @@
       "category": "Libros, Cómics y Revistas"
     },
     {
-      "id": "1271436046",
-      "title": "Samsung Galaxy Z Fold 7",
-      "price": 1100.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l0/za/__/c10420p1271436046/i6554735774.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/samsung-galaxy-z-fold-7-1271436046",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
-    },
-    {
       "id": "1278547443",
       "title": "Barra de Sonido Bose Solo 5",
       "price": 135.0,
@@ -5252,18 +5156,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/ks/ov/__/c10420p1257513436/i6464694758.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/cd-ronnie-spector-the-last-of-the-rock-stars-1257513436",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
-      "id": "1257544563",
-      "title": "CD The Byrds Greatest Hits",
-      "price": 9.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ks/pj/__/c10420p1257544563/i6464886633.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/cd-the-byrds-greatest-hits-1257544563",
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
@@ -6289,18 +6181,6 @@
       "category": "Otros"
     },
     {
-      "id": "1269198830",
-      "title": "Redmi Note 13 Pro+ 5G",
-      "price": 175.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kz/nc/__/c10420p1269198830/i6540801937.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/redmi-note-13-pro--5g-1269198830",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
-    },
-    {
       "id": "1269196091",
       "title": "Interfaz de Guitarra Saramonic 2 Canales",
       "price": 59.95,
@@ -7069,6 +6949,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 589,
-  "actualizado": "2026-08-22T08:02:07"
+  "total": 579,
+  "actualizado": "2026-08-22T14:02:44"
 }
