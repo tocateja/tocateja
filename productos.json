@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1288168737",
+      "title": "Portátil HP Zbook Fury 16 G11",
+      "price": 1245.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/la/xx/__/c10420p1288168737/i6658245715.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/portatil-hp-zbook-fury-16-g11-1288168737",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Informática"
+    },
+    {
       "id": "1250365599",
       "title": "Apple USB SuperDrive Plata",
       "price": 31.5,
@@ -71,18 +83,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1288168737",
-      "title": "Portátil HP Zbook Fury 16 G11",
-      "price": 1245.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/la/xx/__/c10420p1288168737/i6658245715.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/portatil-hp-zbook-fury-16-g11-1288168737",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Informática"
     },
     {
       "id": "1294246789",
@@ -5762,5 +5762,5 @@
     }
   ],
   "total": 480,
-  "actualizado": "2026-08-24T19:31:44"
+  "actualizado": "2026-08-24T20:03:00"
 }
