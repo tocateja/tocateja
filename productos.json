@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1294246789",
+      "title": "Consola PS4 Fat 500GB",
+      "price": 99.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/le/k7/__/c10420p1294246789/i6692982256.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/consola-ps4-fat-500gb-1294246789",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1271436046",
+      "title": "Destacado",
+      "price": 1100.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l0/za/__/c10420p1271436046/i6554735774.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/samsung-galaxy-z-fold-7-1271436046",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1294235891",
       "title": "Altavoz Autoamplificado Vonyx  Verver 1000W",
       "price": 199.0,
@@ -59,18 +83,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Informática"
-    },
-    {
-      "id": "1271436046",
-      "title": "Samsung Galaxy Z Fold 7",
-      "price": 1100.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l0/za/__/c10420p1271436046/i6554735774.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/samsung-galaxy-z-fold-7-1271436046",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
     },
     {
       "id": "1220756320",
@@ -275,18 +287,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
-    },
-    {
-      "id": "1271424202",
-      "title": "Tado Bridge X Conector Dispositivos",
-      "price": 25.5,
-      "currency": "EUR",
-      "status": "reserved",
-      "image": "https://cdn.wallapop.com/images/10420/l0/z1/__/c10420p1271424202/i6554665467.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/tado-bridge-x-conector-dispositivos-1271424202",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
     },
     {
       "id": "1229838408",
@@ -6013,18 +6013,6 @@
       "category": "Hogar"
     },
     {
-      "id": "1270564587",
-      "title": "Colección DVD Historias para no dormir",
-      "price": 31.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l0/gl/__/c10420p1270564587/i6548836850.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/coleccion-dvd-historias-para-no-dormir-1270564587",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
       "id": "1122865838",
       "title": "VINILO NICOLE MCCLOUD",
       "price": 4.0,
@@ -6961,6 +6949,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 580,
-  "actualizado": "2026-08-24T12:31:47"
+  "total": 579,
+  "actualizado": "2026-08-24T13:01:50"
 }
