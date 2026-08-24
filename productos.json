@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1275769707",
+      "title": "Chocolatera Vintage Plateada",
+      "price": 30.0,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/l3/k6/__/c10420p1275769707/i6579463946.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/chocolatera-vintage-plateada-1275769707",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Antigüedades y Coleccionismo"
+    },
+    {
       "id": "1247220322",
       "title": "Maletín tocador vintage con espejo y accesorios",
       "price": 21.5,
@@ -200,18 +212,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/le/1e/__/c10420p1293369435/i6688926197.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/kung-fu-rider-ps3-1293369435",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
-      "id": "1293368672",
-      "title": "FIFA 18 PS4 (PlayStation 4) EA Sports",
-      "price": 5.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/le/1d/__/c10420p1293368672/i6688922670.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/fifa-18-ps4-playstation-4-ea-sports-1293368672",
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
@@ -2579,18 +2579,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1275769707",
-      "title": "Chocolatera Vintage Plateada",
-      "price": 34.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l3/k6/__/c10420p1275769707/i6579463946.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/chocolatera-vintage-plateada-1275769707",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Antigüedades y Coleccionismo"
     },
     {
       "id": "1278247534",
@@ -6937,6 +6925,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 578,
-  "actualizado": "2026-08-24T18:01:55"
+  "total": 577,
+  "actualizado": "2026-08-24T18:32:03"
 }
