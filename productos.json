@@ -3193,18 +3193,6 @@
       "category": "Música e Instrumentos"
     },
     {
-      "id": "1290427495",
-      "title": "Micrófono Dinámico Supercardioide SE V7",
-      "price": 64.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lc/ac/__/c10420p1290427495/i6672019019.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/microfono-dinamico-supercardioide-se-v7-1290427495",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
       "id": "1240736846",
       "title": "Smartband Honor Band 10 Precintado",
       "price": 21.5,
@@ -6913,6 +6901,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 576,
-  "actualizado": "2026-08-25T11:02:04"
+  "total": 575,
+  "actualizado": "2026-08-25T11:32:00"
 }
