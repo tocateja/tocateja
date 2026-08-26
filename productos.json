@@ -2701,18 +2701,6 @@
       "category": "Juguetes"
     },
     {
-      "id": "1288412092",
-      "title": "Envasadora al vacío Makro",
-      "price": 119.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lb/35/__/c10420p1288412092/i6660131861.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/envasadora-al-vacio-makro-1288412092",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Herramientas"
-    },
-    {
       "id": "1247258437",
       "title": "Gourmax Pro Airfryer Horno Plancha",
       "price": 175.0,
@@ -6829,6 +6817,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 569,
-  "actualizado": "2026-08-26T19:01:53"
+  "total": 568,
+  "actualizado": "2026-08-26T19:32:26"
 }
