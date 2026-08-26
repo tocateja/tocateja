@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1219645615",
+      "title": "SBK 08 PS3 Superbike World Championship",
+      "price": 6.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/k6/58/__/c10420p1219645615/i6222208547.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/sbk-08-ps3-superbike-world-championship-1219645615",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1294935512",
+      "title": "Vigilabebés Babytime Color",
+      "price": 79.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/le/yy/__/c10420p1294935512/i6696162807.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vigilabebes-babytime-color-1294935512",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1294932214",
       "title": "Calendario Maya Con Figura",
       "price": 139.0,
@@ -1772,18 +1796,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/k6/c3/__/c10420p1219966244/i6224156592.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/juego-nintendo-ds-happy-feet-1219966244",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
-      "id": "1219645615",
-      "title": "SBK 08 PS3 Superbike World Championship",
-      "price": 5.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/k6/58/__/c10420p1219645615/i6222208547.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/sbk-08-ps3-superbike-world-championship-1219645615",
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
@@ -3757,18 +3769,6 @@
       "category": "Música e Instrumentos"
     },
     {
-      "id": "1286064360",
-      "title": "Xiaomi 14T Pro",
-      "price": 285.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l9/ot/__/c10420p1286064360/i6642306013.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/xiaomi-14t-pro-1286064360",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
-    },
-    {
       "id": "1196578886",
       "title": "Vinilo Michel Haydn Trois Concertos",
       "price": 6.5,
@@ -5641,18 +5641,6 @@
       "category": "Libros, Cómics y Revistas"
     },
     {
-      "id": "1271534707",
-      "title": "Dirt 3 Essentials PS3",
-      "price": 10.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l1/1e/__/c10420p1271534707/i6555298787.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/dirt-3-essentials-ps3-1271534707",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
       "id": "1271533714",
       "title": "Red Dead Redemption PS3",
       "price": 16.5,
@@ -6877,6 +6865,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 573,
-  "actualizado": "2026-08-26T11:32:17"
+  "total": 572,
+  "actualizado": "2026-08-26T12:02:10"
 }
