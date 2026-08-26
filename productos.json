@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1271534707",
+      "title": "Dirt 3 Essentials PS3",
+      "price": 9.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l1/1e/__/c10420p1271534707/i6555298787.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/dirt-3-essentials-ps3-1271534707",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
       "id": "1219645615",
       "title": "SBK 08 PS3 Superbike World Championship",
       "price": 6.5,
@@ -6865,6 +6877,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 572,
-  "actualizado": "2026-08-26T12:02:10"
+  "total": 573,
+  "actualizado": "2026-08-26T12:32:17"
 }
