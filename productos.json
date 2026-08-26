@@ -541,18 +541,6 @@
       "category": "Antigüedades y Coleccionismo"
     },
     {
-      "id": "1247220322",
-      "title": "Maletín tocador vintage con espejo y accesorios",
-      "price": 21.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/km/k9/__/c10420p1247220322/i6399893683.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/maletin-tocador-vintage-con-espejo-y-accesorios-1247220322",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Hogar"
-    },
-    {
       "id": "1294344277",
       "title": "Móvil Rugerizado Doogee V Max Pro 512GB",
       "price": 249.0,
@@ -2852,18 +2840,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/l0/dj/__/c10420p1270421063/i6548020452.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/figura-bronce-el-pensador-auguste-rodin-1270421063",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Hogar"
-    },
-    {
-      "id": "1273822182",
-      "title": "Figura Coleccionista Nadal Quijote",
-      "price": 86.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l2/ef/__/c10420p1273822182/i6568681461.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/figura-coleccionista-nadal-quijote-1273822182",
       "location": "Pamplona",
       "condition": "",
       "category": "Hogar"
@@ -6865,6 +6841,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 572,
-  "actualizado": "2026-08-26T18:02:29"
+  "total": 570,
+  "actualizado": "2026-08-26T18:32:21"
 }
