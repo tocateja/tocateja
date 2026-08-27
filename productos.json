@@ -1,6 +1,66 @@
 {
   "productos": [
     {
+      "id": "1295491493",
+      "title": "Vinilo Depeche Mode Songs of Faith and Devotion",
+      "price": 31.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lf/av/__/c10420p1295491493/i6698682470.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vinilo-depeche-mode-songs-of-faith-and-devotion-1295491493",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1295488998",
+      "title": "Vinilo Los Éxitos del Espacio",
+      "price": 16.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lf/at/__/c10420p1295488998/i6698671703.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vinilo-los-exitos-del-espacio-1295488998",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1295486867",
+      "title": "Vinilo The Waterboys Fisherman's Blues",
+      "price": 21.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lf/as/__/c10420p1295486867/i6698662552.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vinilo-the-waterboys-fisherman-s-blues-1295486867",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1295483982",
+      "title": "Vinilo Bananarama The Greatest Hits Collection",
+      "price": 11.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lf/ap/__/c10420p1295483982/i6698649563.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vinilo-bananarama-the-greatest-hits-collection-1295483982",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1295481871",
+      "title": "Vinilo Kenny G Breathless Jazz",
+      "price": 31.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lf/ao/__/c10420p1295481871/i6698640698.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vinilo-kenny-g-breathless-jazz-1295481871",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
       "id": "1295479474",
       "title": "Vinilo Duncan Dhu Canciones",
       "price": 11.5,
@@ -7009,6 +7069,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 584,
-  "actualizado": "2026-08-27T19:01:41"
+  "total": 589,
+  "actualizado": "2026-08-27T19:31:41"
 }
