@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1234481991",
+      "title": "Exprimidor Nexia Premium 40W 700ml",
+      "price": 13.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ke/z8/__/c10420p1234481991/i6318336861.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/exprimidor-nexia-premium-40w-700ml-1234481991",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Electrodomésticos"
+    },
+    {
+      "id": "1292968517",
+      "title": "Destacado",
+      "price": 699.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ld/ss/__/c10420p1292968517/i6686665231.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/macbook-neo-13-1292968517",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1295350671",
       "title": "Vinilo Europe The Final Countdown",
       "price": 11.5,
@@ -1033,18 +1057,6 @@
       "category": "Gaming"
     },
     {
-      "id": "1292968517",
-      "title": "MacBook Neo 13\"",
-      "price": 699.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ld/ss/__/c10420p1292968517/i6686665231.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/macbook-neo-13-1292968517",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Informática"
-    },
-    {
       "id": "1258220512",
       "title": "Cámara Panasonic Lumix DC-G100DV Negra",
       "price": 525.0,
@@ -1871,18 +1883,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
-    },
-    {
-      "id": "1247583251",
-      "title": "LEGO Marvel Vengadores PS4",
-      "price": 13.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/km/s1/__/c10420p1247583251/i6402190308.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/lego-marvel-vengadores-ps4-1247583251",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
     },
     {
       "id": "1247570819",
@@ -4465,18 +4465,6 @@
       "category": "Libros, Cómics y Revistas"
     },
     {
-      "id": "1234481991",
-      "title": "Exprimidor Nexia Premium 40W 700ml",
-      "price": 13.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ke/z8/__/c10420p1234481991/i6318336861.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/exprimidor-nexia-premium-40w-700ml-1234481991",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Electrodomésticos"
-    },
-    {
       "id": "1226678637",
       "title": "Marco De Hipertensión Prim",
       "price": 46.5,
@@ -6949,6 +6937,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 579,
-  "actualizado": "2026-08-27T16:31:35"
+  "total": 578,
+  "actualizado": "2026-08-27T17:01:44"
 }
