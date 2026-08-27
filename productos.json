@@ -1,6 +1,78 @@
 {
   "productos": [
     {
+      "id": "1270421063",
+      "title": "Destacado",
+      "price": 265.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l0/dj/__/c10420p1270421063/i6548020452.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/figura-bronce-el-pensador-auguste-rodin-1270421063",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1273623338",
+      "title": "Mini plancha Jata vintage",
+      "price": 17.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l2/a6/__/c10420p1273623338/i6567446529.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/mini-plancha-jata-vintage-1273623338",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Antigüedades y Coleccionismo"
+    },
+    {
+      "id": "1295337312",
+      "title": "Vinilo Whitesnake Live in the Heart of the City",
+      "price": 17.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lf/7k/__/c10420p1295337312/i6697991497.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vinilo-whitesnake-live-in-the-heart-of-the-city-1295337312",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1295334602",
+      "title": "VINILO WHITESNAKE 1987",
+      "price": 16.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lf/7i/__/c10420p1295334602/i6697979711.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vinilo-whitesnake-1987-1295334602",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1295332988",
+      "title": "Vinilo Peter Paul and Mary - Grandes Exitos",
+      "price": 6.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lf/7h/__/c10420p1295332988/i6697972321.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vinilo-peter-paul-and-mary-grandes-exitos-1295332988",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1295331327",
+      "title": "VINILO ATOMIC ROOSTER",
+      "price": 29.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lf/7g/__/c10420p1295331327/i6697964080.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vinilo-atomic-rooster-1295331327",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
       "id": "1295304344",
       "title": "Vinilo Lo Mejor de Kenny Rogers",
       "price": 6.5,
@@ -2833,18 +2905,6 @@
       "category": "Deporte"
     },
     {
-      "id": "1270421063",
-      "title": "Figura Bronce El Pensador Auguste Rodin",
-      "price": 265.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l0/dj/__/c10420p1270421063/i6548020452.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/figura-bronce-el-pensador-auguste-rodin-1270421063",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Hogar"
-    },
-    {
       "id": "1275351735",
       "title": "Figura Stormtrooper Star Wars Hasbro",
       "price": 8.5,
@@ -3659,18 +3719,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Hogar"
-    },
-    {
-      "id": "1273623338",
-      "title": "Mini plancha Jata vintage",
-      "price": 20.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l2/a6/__/c10420p1273623338/i6567446529.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/mini-plancha-jata-vintage-1273623338",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Antigüedades y Coleccionismo"
     },
     {
       "id": "1273935309",
@@ -6829,6 +6877,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 569,
-  "actualizado": "2026-08-27T12:31:52"
+  "total": 573,
+  "actualizado": "2026-08-27T13:01:33"
 }
