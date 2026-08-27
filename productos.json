@@ -1,6 +1,66 @@
 {
   "productos": [
     {
+      "id": "1295350671",
+      "title": "Vinilo Europe The Final Countdown",
+      "price": 11.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lf/7u/__/c10420p1295350671/i6698052894.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vinilo-europe-the-final-countdown-1295350671",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1295347764",
+      "title": "Vinilo Depeche Mode 101",
+      "price": 49.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lf/7s/__/c10420p1295347764/i6698039304.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vinilo-depeche-mode-101-1295347764",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1295344583",
+      "title": "Vinilo Wham! Fantastic",
+      "price": 6.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lf/7q/__/c10420p1295344583/i6698024720.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vinilo-wham-fantastic-1295344583",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1295342241",
+      "title": "Vinilo The Buddy Holly Story Vol. II",
+      "price": 6.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lf/7o/__/c10420p1295342241/i6698013920.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vinilo-the-buddy-holly-story-vol-ii-1295342241",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1295339773",
+      "title": "Vinilo Asia Alpha",
+      "price": 17.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lf/7m/__/c10420p1295339773/i6698002840.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vinilo-asia-alpha-1295339773",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
       "id": "1270421063",
       "title": "Destacado",
       "price": 265.0,
@@ -6877,6 +6937,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 573,
-  "actualizado": "2026-08-27T13:01:33"
+  "total": 578,
+  "actualizado": "2026-08-27T13:31:51"
 }
