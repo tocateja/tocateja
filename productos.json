@@ -1,6 +1,66 @@
 {
   "productos": [
     {
+      "id": "1295301958",
+      "title": "Vinilo Santana Tabu CBS",
+      "price": 8.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lf/6t/__/c10420p1295301958/i6697833117.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vinilo-santana-tabu-cbs-1295301958",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1295299670",
+      "title": "Vinilo Crosby, Stills & Nash",
+      "price": 16.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lf/6r/__/c10420p1295299670/i6697822902.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vinilo-crosby-stills-nash-1295299670",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1270540891",
+      "title": "Destacado",
+      "price": 219.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l0/g3/__/c10420p1270540891/i6548706558.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/onyx-boox-note-3-e-reader-1270540891",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1295297211",
+      "title": "Vinilo The J. Geils Band Freeze Frame",
+      "price": 21.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lf/6p/__/c10420p1295297211/i6697812887.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vinilo-the-j-geils-band-freeze-frame-1295297211",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1295294176",
+      "title": "Vinilo Leon Russell Will O' The Wisp",
+      "price": 6.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lf/6n/__/c10420p1295294176/i6697797547.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vinilo-leon-russell-will-o-the-wisp-1295294176",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
       "id": "1247584297",
       "title": "Juego Xbox One Paw Patrol: On a Roll!",
       "price": 12.0,
@@ -3011,18 +3071,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1270540891",
-      "title": "Onyx Boox Note 3 E-reader",
-      "price": 219.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l0/g3/__/c10420p1270540891/i6548706558.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/onyx-boox-note-3-e-reader-1270540891",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
     },
     {
       "id": "1253308018",
@@ -6805,6 +6853,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 567,
-  "actualizado": "2026-08-27T11:01:34"
+  "total": 571,
+  "actualizado": "2026-08-27T11:31:33"
 }
