@@ -961,18 +961,6 @@
       "category": "Hogar"
     },
     {
-      "id": "1275789551",
-      "title": "Elefante Decorativo Metálico",
-      "price": 14.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l3/kl/__/c10420p1275789551/i6579571584.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/elefante-decorativo-metalico-1275789551",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
       "id": "1275786458",
       "title": "Farol Sobremuro Jardín",
       "price": 13.5,
@@ -6817,6 +6805,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 568,
-  "actualizado": "2026-08-27T08:01:39"
+  "total": 567,
+  "actualizado": "2026-08-27T10:01:34"
 }
