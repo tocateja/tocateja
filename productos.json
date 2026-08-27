@@ -1,16 +1,76 @@
 {
   "productos": [
     {
+      "id": "1295479474",
+      "title": "Vinilo Duncan Dhu Canciones",
+      "price": 11.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lf/am/__/c10420p1295479474/i6698630565.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vinilo-duncan-dhu-canciones-1295479474",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1295476771",
+      "title": "Vinilo Marisol Canta",
+      "price": 24.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lf/ak/__/c10420p1295476771/i6698618751.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vinilo-marisol-canta-1295476771",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1295474836",
+      "title": "Vinilo Whitney Houston I Will Always Love You",
+      "price": 19.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lf/ai/__/c10420p1295474836/i6698610361.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vinilo-whitney-houston-i-will-always-love-you-1295474836",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1295472096",
+      "title": "Vinilo Mecano - Ya Viene El Sol",
+      "price": 11.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lf/ag/__/c10420p1295472096/i6698597935.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vinilo-mecano-ya-viene-el-sol-1295472096",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
       "id": "1290733930",
       "title": "Nintendo Switch Lite Rosa",
       "price": 89.95,
       "currency": "EUR",
-      "status": "available",
+      "status": "reserved",
       "image": "https://cdn.wallapop.com/images/10420/lc/gw/__/c10420p1290733930/i6673781091.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/nintendo-switch-lite-rosa-1290733930",
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
+    },
+    {
+      "id": "1295469739",
+      "title": "Vinilo Mecano - ¿Dónde está el país de las hadas?",
+      "price": 11.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lf/ae/__/c10420p1295469739/i6698587154.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vinilo-mecano-donde-esta-el-pais-de-las-hadas-1295469739",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
     },
     {
       "id": "1295457849",
@@ -6949,6 +7009,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 579,
-  "actualizado": "2026-08-27T18:31:40"
+  "total": 584,
+  "actualizado": "2026-08-27T19:01:41"
 }
