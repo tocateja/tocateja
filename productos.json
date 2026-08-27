@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1295304344",
+      "title": "Vinilo Lo Mejor de Kenny Rogers",
+      "price": 6.5,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/lf/6v/__/c10420p1295304344/i6697843687.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vinilo-lo-mejor-de-kenny-rogers-1295304344",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
       "id": "1295301958",
       "title": "Vinilo Santana Tabu CBS",
       "price": 8.5,
@@ -1871,30 +1883,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Música e Instrumentos"
-    },
-    {
-      "id": "1227543074",
-      "title": "Cómic + Dvd Capitán América El primer vengador",
-      "price": 6.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ka/ui/__/c10420p1227543074/i6273175963.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/comic---dvd-capitan-america-el-primer-vengador-1227543074",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1227540823",
-      "title": "Cómic + Dvd Guardianes de la Galaxia",
-      "price": 6.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ka/ug/__/c10420p1227540823/i6273164975.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/comic---dvd-guardianes-de-la-galaxia-1227540823",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
     },
     {
       "id": "1226698382",
@@ -6853,6 +6841,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 571,
-  "actualizado": "2026-08-27T11:31:33"
+  "total": 570,
+  "actualizado": "2026-08-27T12:01:34"
 }
