@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1295350671",
+      "title": "Vinilo Europe The Final Countdown",
+      "price": 11.5,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/lf/7u/__/c10420p1295350671/i6698052894.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vinilo-europe-the-final-countdown-1295350671",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
       "id": "1295353273",
       "title": "Vinilo U2 The Joshua Tree",
       "price": 21.5,
@@ -8,18 +20,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/lf/7w/__/c10420p1295353273/i6698063982.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/vinilo-u2-the-joshua-tree-1295353273",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
-    },
-    {
-      "id": "1295350671",
-      "title": "Vinilo Europe The Final Countdown",
-      "price": 11.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lf/7u/__/c10420p1295350671/i6698052894.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/vinilo-europe-the-final-countdown-1295350671",
       "location": "Pamplona",
       "condition": "",
       "category": "Música e Instrumentos"
@@ -6950,5 +6950,5 @@
     }
   ],
   "total": 579,
-  "actualizado": "2026-08-27T15:31:34"
+  "actualizado": "2026-08-27T16:01:35"
 }
