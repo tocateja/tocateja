@@ -1,6 +1,42 @@
 {
   "productos": [
     {
+      "id": "1295709838",
+      "title": "Vinilo Hombres G Maxi Single",
+      "price": 11.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lf/fk/__/c10420p1295709838/i6699724475.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vinilo-hombres-g-maxi-single-1295709838",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1295707835",
+      "title": "Vinilo Deacon Blue When the World...",
+      "price": 11.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lf/fi/__/c10420p1295707835/i6699714283.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vinilo-deacon-blue-when-the-world-1295707835",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1295705475",
+      "title": "Vinilo Mötley Crüe Shout At The Devil",
+      "price": 16.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lf/fg/__/c10420p1295705475/i6699703069.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vinilo-motley-crue-shout-at-the-devil-1295705475",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
       "id": "1295702498",
       "title": "Vinilo Sierra Mötley Crüe Entrevista Ed. Limitada",
       "price": 21.5,
@@ -2161,18 +2197,6 @@
       "category": "Joyería y Complementos"
     },
     {
-      "id": "1194603576",
-      "title": "Cegadora De Iluminación Blinder 2L",
-      "price": 36.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/jr/8i/__/c10420p1194603576/i6038847231.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/cegadora-de-iluminacion-blinder-1194603576",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Informática"
-    },
-    {
       "id": "1271772553",
       "title": "Cargador Samsung Inducción",
       "price": 46.5,
@@ -3536,18 +3560,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/id/44/__/c10420p1110418440/i5465369899.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/instrumento-musical-1110418440",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
-    },
-    {
-      "id": "1180825396",
-      "title": "Armónica Hohner Chromonica",
-      "price": 56.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/jj/16/__/c10420p1180825396/i5961312572.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/armonica-hohner-chromonica-1180825396",
       "location": "Pamplona",
       "condition": "",
       "category": "Música e Instrumentos"
@@ -7093,6 +7105,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 591,
-  "actualizado": "2026-08-28T13:31:35"
+  "total": 592,
+  "actualizado": "2026-08-28T14:01:37"
 }
