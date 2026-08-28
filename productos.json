@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1295702498",
+      "title": "Vinilo Sierra Mötley Crüe Entrevista Ed. Limitada",
+      "price": 21.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lf/fe/__/c10420p1295702498/i6699689828.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vinilo-sierra-motley-crue-entrevista-ed-limitada-1295702498",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
       "id": "1295676833",
       "title": "Teclado Mecánico New Skill Hanshi Spectrum",
       "price": 40.5,
@@ -5089,18 +5101,6 @@
       "category": "Libros, Cómics y Revistas"
     },
     {
-      "id": "1278600208",
-      "title": "Cómic Manga Heaven Official's Blessing N° 1",
-      "price": 9.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l5/8u/__/c10420p1278600208/i6598417645.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/comic-manga-heaven-official-s-blessing-n-1-1278600208",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
       "id": "1278599475",
       "title": "Cómic Manga Hikarunogo Volumen 1",
       "price": 9.5,
@@ -7094,5 +7094,5 @@
     }
   ],
   "total": 591,
-  "actualizado": "2026-08-28T13:01:49"
+  "actualizado": "2026-08-28T13:31:35"
 }
