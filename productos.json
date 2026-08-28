@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1286646711",
+      "title": "Plancha Vitrocerámica Fulgor 1990W",
+      "price": 59.0,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/la/1a/__/c10420p1286646711/i6645797135.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/plancha-vitroceramica-fulgor-1990w-1286646711",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1295709838",
       "title": "Vinilo Hombres G Maxi Single",
       "price": 11.5,
@@ -4309,18 +4321,6 @@
       "category": "Libros, Cómics y Revistas"
     },
     {
-      "id": "1286646711",
-      "title": "Plancha Vitrocerámica Fulgor 1990W",
-      "price": 59.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/la/1a/__/c10420p1286646711/i6645797135.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/plancha-vitroceramica-fulgor-1990w-1286646711",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
       "id": "1286485257",
       "title": "Vinilo Depeche Mode - Personal Jesus",
       "price": 21.5,
@@ -7106,5 +7106,5 @@
     }
   ],
   "total": 592,
-  "actualizado": "2026-08-28T15:31:34"
+  "actualizado": "2026-08-28T16:01:34"
 }
