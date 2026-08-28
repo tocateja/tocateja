@@ -1,6 +1,90 @@
 {
   "productos": [
     {
+      "id": "1251090824",
+      "title": "Destacado",
+      "price": 1195.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ko/v7/__/c10420p1251090824/i6427316016.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/portatil-hp-elitebook-8-g1i-16-1251090824",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1271436046",
+      "title": "Destacado",
+      "price": 1100.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l0/za/__/c10420p1271436046/i6554735774.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/samsung-galaxy-z-fold-7-1271436046",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1249716533",
+      "title": "Destacado",
+      "price": 79.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ko/1r/__/c10420p1249716533/i6417008949.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/maquina-recreativa-retro-frogger-gakken-1249716533",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1111262061",
+      "title": "LÁMPARA PLAFON",
+      "price": 6.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/id/m7/__/c10420p1111262061/i5472874974.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/lampara-plafon-1111262061",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Hogar"
+    },
+    {
+      "id": "1295652100",
+      "title": "Jarra Plateada Estilo Victoriano Metal",
+      "price": 31.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lf/eb/__/c10420p1295652100/i6699468481.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/jarra-plateada-estilo-victoriano-metal-1295652100",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1255376795",
+      "title": "Mini cuadro creaciones artísticas",
+      "price": 13.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kr/f2/__/c10420p1255376795/i6452595187.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/mini-cuadro-creaciones-artisticas-1255376795",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Hogar"
+    },
+    {
+      "id": "1295645201",
+      "title": "Consola PS4 Pro 1TB",
+      "price": 165.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lf/e6/__/c10420p1295645201/i6699434660.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/consola-ps4-pro-1tb-1295645201",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
       "id": "1234481991",
       "title": "Exprimidor Nexia Premium 40W 700ml",
       "price": 13.5,
@@ -983,18 +1067,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
-    },
-    {
-      "id": "1271436046",
-      "title": "Samsung Galaxy Z Fold 7",
-      "price": 1100.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l0/za/__/c10420p1271436046/i6554735774.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/samsung-galaxy-z-fold-7-1271436046",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
     },
     {
       "id": "1294235891",
@@ -3181,18 +3253,6 @@
       "category": "Hogar"
     },
     {
-      "id": "1255376795",
-      "title": "Mini cuadro creaciones artísticas",
-      "price": 13.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kr/f2/__/c10420p1255376795/i6452595187.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/mini-cuadro-creaciones-artisticas-1255376795",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Hogar"
-    },
-    {
       "id": "1276078566",
       "title": "Manoplas Legión o Regulares",
       "price": 18.5,
@@ -3289,18 +3349,6 @@
       "category": "Hogar"
     },
     {
-      "id": "1161461901",
-      "title": "Medidor láser Metabo LD 60",
-      "price": 33.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/j7/i5/__/c10420p1161461901/i5853578142.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/medidor-laser-metabo-ld-60-1161461901",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Herramientas"
-    },
-    {
       "id": "1265357555",
       "title": "Figura Alien Queen 38CM Ultra Deluxe",
       "price": 99.0,
@@ -3344,18 +3392,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/kq/8y/__/c10420p1253411060/i6441221775.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/juego-super-nintendo-mystical-ninja-usa-1253411060",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
-      "id": "1249716533",
-      "title": "Máquina Recreativa Retro Frogger Gakken",
-      "price": 79.95,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ko/1r/__/c10420p1249716533/i6417008949.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/maquina-recreativa-retro-frogger-gakken-1249716533",
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
@@ -4259,18 +4295,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Joyería y Complementos"
-    },
-    {
-      "id": "1251090824",
-      "title": "Portátil HP Elitebook 8 G1i 16 PRECINTADO",
-      "price": 1195.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ko/v7/__/c10420p1251090824/i6427316016.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/portatil-hp-elitebook-8-g1i-16-1251090824",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
     },
     {
       "id": "1014712315",
@@ -5291,18 +5315,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Móviles y Smartwatches"
-    },
-    {
-      "id": "1235171042",
-      "title": "Baliza Geolocalizada V16 Certificada DGT",
-      "price": 20.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kf/e0/__/c10420p1235171042/i6322483036.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/baliza-geolocalizada-v16-certificada-dgt-1235171042",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Motor"
     },
     {
       "id": "1276255524",
@@ -6637,18 +6649,6 @@
       "category": "Deporte"
     },
     {
-      "id": "1111262061",
-      "title": "LÁMPARA PLAFON",
-      "price": 6.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/id/m7/__/c10420p1111262061/i5472874974.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/lampara-plafon-1111262061",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Hogar"
-    },
-    {
       "id": "1136412307",
       "title": "RECEPTOR SATELITE DIGITAL FONESTAR",
       "price": 20.5,
@@ -7058,5 +7058,5 @@
     }
   ],
   "total": 588,
-  "actualizado": "2026-08-28T11:01:35"
+  "actualizado": "2026-08-28T11:31:34"
 }
