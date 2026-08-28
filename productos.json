@@ -1,6 +1,42 @@
 {
   "productos": [
     {
+      "id": "1295676833",
+      "title": "Teclado Mecánico New Skill Hanshi Spectrum",
+      "price": 40.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lf/eu/__/c10420p1295676833/i6699577304.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/teclado-mecanico-new-skill-hanshi-spectrum-1295676833",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Informática"
+    },
+    {
+      "id": "1274761640",
+      "title": "Calculadora Vintage Radio Shack",
+      "price": 16.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l2/yk/__/c10420p1274761640/i6573579045.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/calculadora-vintage-radio-shack-1274761640",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "TV y Audio"
+    },
+    {
+      "id": "1295667679",
+      "title": "DJI Mic Mini",
+      "price": 59.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lf/en/__/c10420p1295667679/i6699537994.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/dji-mic-mini-1295667679",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1295660545",
       "title": "Ratón Inalámbrico HP Comfort Grip Wireless Mouse",
       "price": 31.5,
@@ -3469,18 +3505,6 @@
       "category": "Hogar"
     },
     {
-      "id": "1274761640",
-      "title": "Calculadora Vintage Radio Shack",
-      "price": 16.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l2/yk/__/c10420p1274761640/i6573579045.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/calculadora-vintage-radio-shack-1274761640",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "TV y Audio"
-    },
-    {
       "id": "1266803120",
       "title": "Micrófono Rally Mic Pod Logitech",
       "price": 167.0,
@@ -4568,18 +4592,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/l9/au/__/c10420p1285412556/i6638510199.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/accesorio-thermomix-cubrecuchillas-y-pelador-1285412556",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Electrodomésticos"
-    },
-    {
-      "id": "1285406351",
-      "title": "Accesorio Thermomix  Cubrecuchillas y Pelador",
-      "price": 24.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l9/ap/__/c10420p1285406351/i6638475164.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/accesorio-thermomix-cubrecuchillas-y-pelador-1285406351",
       "location": "Pamplona",
       "condition": "",
       "category": "Electrodomésticos"
@@ -6013,18 +6025,6 @@
       "category": "Libros, Cómics y Revistas"
     },
     {
-      "id": "1271533714",
-      "title": "Red Dead Redemption PS3",
-      "price": 16.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l1/1d/__/c10420p1271533714/i6555292354.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/red-dead-redemption-ps3-1271533714",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
       "id": "1271530858",
       "title": "Mx Vs ATV Reflex PS3",
       "price": 10.5,
@@ -7094,5 +7094,5 @@
     }
   ],
   "total": 591,
-  "actualizado": "2026-08-28T12:01:34"
+  "actualizado": "2026-08-28T12:31:35"
 }
