@@ -350,7 +350,7 @@
     },
     {
       "id": "1251090824",
-      "title": "Destacado",
+      "title": "Portátil HP Elitebook 8 G1i 16 PRECINTADO",
       "price": 1195.0,
       "currency": "EUR",
       "status": "available",
@@ -358,11 +358,11 @@
       "url": "https://es.wallapop.com/item/portatil-hp-elitebook-8-g1i-16-1251090824",
       "location": "Pamplona",
       "condition": "",
-      "category": "Otros"
+      "category": "Libros, Cómics y Revistas"
     },
     {
       "id": "1271436046",
-      "title": "Destacado",
+      "title": "Samsung Galaxy Z Fold 7",
       "price": 1100.0,
       "currency": "EUR",
       "status": "available",
@@ -370,11 +370,11 @@
       "url": "https://es.wallapop.com/item/samsung-galaxy-z-fold-7-1271436046",
       "location": "Pamplona",
       "condition": "",
-      "category": "Otros"
+      "category": "Móviles y Smartwatches"
     },
     {
       "id": "1249716533",
-      "title": "Destacado",
+      "title": "Máquina Recreativa Retro Frogger Gakken",
       "price": 79.95,
       "currency": "EUR",
       "status": "available",
@@ -382,7 +382,7 @@
       "url": "https://es.wallapop.com/item/maquina-recreativa-retro-frogger-gakken-1249716533",
       "location": "Pamplona",
       "condition": "",
-      "category": "Otros"
+      "category": "Gaming"
     },
     {
       "id": "1111262061",
@@ -7226,5 +7226,5 @@
     }
   ],
   "total": 602,
-  "actualizado": "2026-08-30T08:02:01"
+  "actualizado": "2026-08-30T14:01:54"
 }
