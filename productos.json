@@ -589,18 +589,6 @@
       "category": "Música e Instrumentos"
     },
     {
-      "id": "1290733930",
-      "title": "Nintendo Switch Lite Rosa",
-      "price": 89.95,
-      "currency": "EUR",
-      "status": "reserved",
-      "image": "https://cdn.wallapop.com/images/10420/lc/gw/__/c10420p1290733930/i6673781091.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/nintendo-switch-lite-rosa-1290733930",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
       "id": "1295469739",
       "title": "Vinilo Mecano - ¿Dónde está el país de las hadas?",
       "price": 11.5,
@@ -5053,18 +5041,6 @@
       "category": "Herramientas"
     },
     {
-      "id": "1283633768",
-      "title": "Samsung Galaxy S24",
-      "price": 345.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l8/8q/__/c10420p1283633768/i6628193593.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/samsung-galaxy-s24-1283633768",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
-    },
-    {
       "id": "1199373710",
       "title": "Tostador Industrial Horizontal Sammic TP-200",
       "price": 210.0,
@@ -7213,6 +7189,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 601,
-  "actualizado": "2026-08-31T12:01:39"
+  "total": 599,
+  "actualizado": "2026-08-31T12:31:36"
 }
