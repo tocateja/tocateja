@@ -1453,18 +1453,6 @@
       "category": "Herramientas"
     },
     {
-      "id": "1293380958",
-      "title": "Portátil Asus Zenbook 13",
-      "price": 349.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/le/1n/__/c10420p1293380958/i6688982186.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/portatil-asus-zenbook-13-1293380958",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Informática"
-    },
-    {
       "id": "1293369435",
       "title": "Kung-Fu Rider PS3",
       "price": 4.5,
@@ -3239,18 +3227,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1252199985",
-      "title": "Portátil Dell Vostro 3520 Negro",
-      "price": 385.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kp/iz/__/c10420p1252199985/i6433617024.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/portatil-dell-vostro-3520-negro-1252199985",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Informática"
     },
     {
       "id": "1255841707",
@@ -7141,6 +7117,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 595,
-  "actualizado": "2026-08-31T19:01:34"
+  "total": 593,
+  "actualizado": "2026-08-31T19:31:40"
 }
