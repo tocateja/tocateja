@@ -3013,18 +3013,6 @@
       "category": "Libros, Cómics y Revistas"
     },
     {
-      "id": "1224971240",
-      "title": "Comics Elfos Vol 1, 2 y 3.",
-      "price": 41.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/k9/bd/__/c10420p1224971240/i6254754216.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/comics-elfos-vol-1-2-y-3-1224971240",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
       "id": "1230171814",
       "title": "Lote 4 COMICS Satan 666",
       "price": 25.5,
@@ -7153,6 +7141,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 596,
-  "actualizado": "2026-08-31T18:01:34"
+  "total": 595,
+  "actualizado": "2026-08-31T18:31:34"
 }
