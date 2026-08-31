@@ -109,18 +109,6 @@
       "category": "Música e Instrumentos"
     },
     {
-      "id": "1296007669",
-      "title": "Vinilo Alameda Misterioso Manantial",
-      "price": 16.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lf/lx/__/c10420p1296007669/i6701093533.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/vinilo-alameda-misterioso-manantial-1296007669",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
-    },
-    {
       "id": "1296006305",
       "title": "Vinilo Spain Around The World",
       "price": 21.5,
@@ -239,18 +227,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Música e Instrumentos"
-    },
-    {
-      "id": "1295971572",
-      "title": "Portátil Lenovo Yoga 7 2 en 1 Convertible Táctil",
-      "price": 499.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lf/l6/__/c10420p1295971572/i6700939226.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/portatil-lenovo-yoga-7-2-en-1-convertible-tactil-1295971572",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Informática"
     },
     {
       "id": "1292615926",
@@ -824,18 +800,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/lf/6p/__/c10420p1295297211/i6697812887.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/vinilo-the-j-geils-band-freeze-frame-1295297211",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
-    },
-    {
-      "id": "1295294176",
-      "title": "Vinilo Leon Russell Will O' The Wisp",
-      "price": 6.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lf/6n/__/c10420p1295294176/i6697797547.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/vinilo-leon-russell-will-o-the-wisp-1295294176",
       "location": "Pamplona",
       "condition": "",
       "category": "Música e Instrumentos"
@@ -7189,6 +7153,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 599,
-  "actualizado": "2026-08-31T17:01:34"
+  "total": 596,
+  "actualizado": "2026-08-31T17:31:34"
 }
