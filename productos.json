@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1268224319",
+      "title": "Samsung Galaxy A57 5G 256GB Negro",
+      "price": 319.0,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/kz/2g/__/c10420p1268224319/i6532645225.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/samsung-galaxy-a57-5g-256gb-negro-1268224319",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
       "id": "1252320025",
       "title": "Samsung Galaxy A57 5G Precintado",
       "price": 319.0,
@@ -8,18 +20,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/kp/lk/__/c10420p1252320025/i6434348068.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/samsung-galaxy-a57-5g-1252320025",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
-    },
-    {
-      "id": "1268224319",
-      "title": "Samsung Galaxy A57 5G 256GB Negro",
-      "price": 319.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kz/2g/__/c10420p1268224319/i6532645225.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/samsung-galaxy-a57-5g-256gb-negro-1268224319",
       "location": "Pamplona",
       "condition": "",
       "category": "Móviles y Smartwatches"
@@ -1295,18 +1295,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Antigüedades y Coleccionismo"
-    },
-    {
-      "id": "1288168737",
-      "title": "Portátil HP Zbook Fury 16 G11",
-      "price": 1245.0,
-      "currency": "EUR",
-      "status": "reserved",
-      "image": "https://cdn.wallapop.com/images/10420/la/xx/__/c10420p1288168737/i6658245715.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/portatil-hp-zbook-fury-16-g11-1288168737",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Informática"
     },
     {
       "id": "1250365599",
@@ -7117,6 +7105,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 593,
-  "actualizado": "2026-08-31T20:01:36"
+  "total": 592,
+  "actualizado": "2026-09-01T02:01:58"
 }
