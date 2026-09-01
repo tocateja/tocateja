@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1229591082",
+      "title": "FIFA 23 PS5 Precintado",
+      "price": 10.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kc/2e/__/c10420p1229591082/i6286220158.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/fifa-23-ps5-precintado-1229591082",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1275335738",
+      "title": "Cepillo eléctrico de volúmen Ghd",
+      "price": 75.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/av/__/c10420p1275335738/i6577075174.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/cepillo-electrico-de-volumen-ghd-1275335738",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1295667679",
       "title": "DJI Mic Mini",
       "price": 59.0,
@@ -83,18 +107,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Móviles y Smartwatches"
-    },
-    {
-      "id": "1275335738",
-      "title": "Cepillo eléctrico de volúmen Ghd",
-      "price": 75.0,
-      "currency": "EUR",
-      "status": "reserved",
-      "image": "https://cdn.wallapop.com/images/10420/l3/av/__/c10420p1275335738/i6577075174.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/cepillo-electrico-de-volumen-ghd-1275335738",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
     },
     {
       "id": "1271436046",
@@ -3769,18 +3781,6 @@
       "category": "Móviles y Smartwatches"
     },
     {
-      "id": "1277488212",
-      "title": "Samsung Galaxy Buds3",
-      "price": 67.95,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l4/l0/__/c10420p1277488212/i6589157860.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/samsung-galaxy-buds3-1277488212",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
-    },
-    {
       "id": "1254325422",
       "title": "Samsung Galaxy A37 5G Verde",
       "price": 337.95,
@@ -5845,18 +5845,6 @@
       "category": "Móviles y Smartwatches"
     },
     {
-      "id": "1229591082",
-      "title": "FIFA 23 PS5 Precintado",
-      "price": 10.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kc/2e/__/c10420p1229591082/i6286220158.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/fifa-23-ps5-precintado-1229591082",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
       "id": "1271564673",
       "title": "Cómic El pacificador se esfuerza mucho",
       "price": 15.5,
@@ -7021,6 +7009,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 585,
-  "actualizado": "2026-09-01T18:31:37"
+  "total": 584,
+  "actualizado": "2026-09-01T19:01:34"
 }
