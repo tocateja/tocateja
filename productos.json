@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1295667679",
+      "title": "DJI Mic Mini",
+      "price": 59.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lf/en/__/c10420p1295667679/i6699537994.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/dji-mic-mini-1295667679",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1256620729",
       "title": "Lámpara LED portátil Sompex Pebble dorada",
       "price": 59.95,
@@ -359,18 +371,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "TV y Audio"
-    },
-    {
-      "id": "1295667679",
-      "title": "DJI Mic Mini",
-      "price": 59.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lf/en/__/c10420p1295667679/i6699537994.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/dji-mic-mini-1295667679",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
     },
     {
       "id": "1295660545",
@@ -7022,5 +7022,5 @@
     }
   ],
   "total": 585,
-  "actualizado": "2026-09-01T17:01:34"
+  "actualizado": "2026-09-01T17:31:34"
 }
