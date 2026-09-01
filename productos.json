@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1275335738",
+      "title": "Cepillo eléctrico de volúmen Ghd",
+      "price": 75.0,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/l3/av/__/c10420p1275335738/i6577075174.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/cepillo-electrico-de-volumen-ghd-1275335738",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1268224319",
       "title": "Samsung Galaxy A57 5G 256GB Negro",
       "price": 319.0,
@@ -5461,18 +5473,6 @@
       "category": "Gaming"
     },
     {
-      "id": "1275335738",
-      "title": "Cepillo eléctrico de volúmen Ghd",
-      "price": 75.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l3/av/__/c10420p1275335738/i6577075174.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/cepillo-electrico-de-volumen-ghd-1275335738",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
       "id": "1275131809",
       "title": "Reloj Pulsera Daniel Wellington",
       "price": 115.0,
@@ -7106,5 +7106,5 @@
     }
   ],
   "total": 592,
-  "actualizado": "2026-09-01T08:01:38"
+  "actualizado": "2026-09-01T10:01:34"
 }
