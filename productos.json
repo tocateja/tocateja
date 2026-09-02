@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1297476017",
+      "title": "Samsung Galaxy A56 5G",
+      "price": 240.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lg/he/__/c10420p1297476017/i6707941091.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/samsung-galaxy-a56-5g-1297476017",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
       "id": "1209966482",
       "title": "Destacado",
       "price": 135.0,
@@ -7141,6 +7153,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 595,
-  "actualizado": "2026-09-02T12:31:34"
+  "total": 596,
+  "actualizado": "2026-09-02T13:01:35"
 }
