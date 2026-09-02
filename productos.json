@@ -1,6 +1,54 @@
 {
   "productos": [
     {
+      "id": "1209966482",
+      "title": "Destacado",
+      "price": 135.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/k0/ds/__/c10420p1209966482/i6161253500.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/arenero-autolimpiable-petsafe-scoopfree-nuevo-1209966482",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1297460905",
+      "title": "Samsung Galaxy S26 Precintado",
+      "price": 599.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lg/h3/__/c10420p1297460905/i6707872643.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/samsung-galaxy-s26-precintado-1297460905",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
+      "id": "1286058546",
+      "title": "Martillo Perforador Bosch",
+      "price": 499.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l9/op/__/c10420p1286058546/i6642272722.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/martillo-perforador-bosch-1286058546",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Herramientas"
+    },
+    {
+      "id": "1235617982",
+      "title": "Multímetro Fluke 179 True RMS",
+      "price": 185.0,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/kf/nk/__/c10420p1235617982/i6325115164.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/multimetro-fluke-179-true-rms-1235617982",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Herramientas"
+    },
+    {
       "id": "1285506471",
       "title": "Martillo Combinado 800W Makita A estrenar",
       "price": 129.0,
@@ -2257,18 +2305,6 @@
       "category": "Otros"
     },
     {
-      "id": "1209966482",
-      "title": "Arenero Autolimpiable Petsafe Scoopfree A estrenar",
-      "price": 135.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/k0/ds/__/c10420p1209966482/i6161253500.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/arenero-autolimpiable-petsafe-scoopfree-nuevo-1209966482",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Juguetes"
-    },
-    {
       "id": "1257512244",
       "title": "Ringo Starr - Choose Love CD + DVD Edición Especia",
       "price": 9.5,
@@ -3745,18 +3781,6 @@
       "category": "Herramientas"
     },
     {
-      "id": "1235617982",
-      "title": "Multímetro Fluke 179 True RMS",
-      "price": 185.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kf/nk/__/c10420p1235617982/i6325115164.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/multimetro-fluke-179-true-rms-1235617982",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Herramientas"
-    },
-    {
       "id": "1235608695",
       "title": "Multímetro Fluke 83 V",
       "price": 248.0,
@@ -4451,18 +4475,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Música e Instrumentos"
-    },
-    {
-      "id": "1286058546",
-      "title": "Martillo Perforador Bosch",
-      "price": 695.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l9/op/__/c10420p1286058546/i6642272722.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/martillo-perforador-bosch-1286058546",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Herramientas"
     },
     {
       "id": "1285535543",
@@ -7129,6 +7141,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 594,
-  "actualizado": "2026-09-02T12:01:34"
+  "total": 595,
+  "actualizado": "2026-09-02T12:31:34"
 }
