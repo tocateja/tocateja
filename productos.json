@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1297484180",
+      "title": "Picadora Vintage Garhe",
+      "price": 46.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lg/hl/__/c10420p1297484180/i6707978377.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/picadora-vintage-1297484180",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Antigüedades y Coleccionismo"
+    },
+    {
+      "id": "1297478418",
+      "title": "Tensiómetro de mano Analógico Corysan",
+      "price": 31.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lg/hg/__/c10420p1297478418/i6707952095.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/tensiometro-de-mano-analogico-corysan-1297478418",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1297476017",
       "title": "Samsung Galaxy A56 5G",
       "price": 240.0,
@@ -7153,6 +7177,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 596,
-  "actualizado": "2026-09-02T13:01:35"
+  "total": 598,
+  "actualizado": "2026-09-02T13:31:33"
 }
