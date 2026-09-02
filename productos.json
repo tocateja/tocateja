@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1285506471",
+      "title": "Martillo Combinado 800W Makita A estrenar",
+      "price": 129.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l9/cv/__/c10420p1285506471/i6639033898.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/martillo-combinado-800w-makita-a-estrenar-1285506471",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Herramientas"
+    },
+    {
       "id": "1297441176",
       "title": "Samsung Watch 5 Pro",
       "price": 69.95,
@@ -4645,18 +4657,6 @@
       "category": "Herramientas"
     },
     {
-      "id": "1285506471",
-      "title": "Martillo Combinado 800W Makita A estrenar",
-      "price": 129.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l9/cv/__/c10420p1285506471/i6639033898.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/martillo-combinado-800w-makita-a-estrenar-1285506471",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Herramientas"
-    },
-    {
       "id": "1285433962",
       "title": "Monitor Gaming Asus 43\" Antireflejos 120Hz",
       "price": 599.0,
@@ -7130,5 +7130,5 @@
     }
   ],
   "total": 594,
-  "actualizado": "2026-09-02T11:31:35"
+  "actualizado": "2026-09-02T12:01:34"
 }
