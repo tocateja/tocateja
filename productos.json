@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1297441176",
+      "title": "Samsung Watch 5 Pro",
+      "price": 69.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lg/go/__/c10420p1297441176/i6707781918.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/samsung-watch-5-pro-1297441176",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
+      "id": "1297433131",
+      "title": "Cámara Exterior Alarm.com V723X",
+      "price": 46.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lg/gh/__/c10420p1297433131/i6707743558.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/camara-exterior-alarm-com-v723x-1297433131",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Foto y Vídeo"
+    },
+    {
       "id": "1297429277",
       "title": "Cámara Exterior Alarma.com Precintado",
       "price": 46.5,
@@ -7105,6 +7129,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 592,
-  "actualizado": "2026-09-02T11:01:36"
+  "total": 594,
+  "actualizado": "2026-09-02T11:31:35"
 }
