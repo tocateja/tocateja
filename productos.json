@@ -1,6 +1,54 @@
 {
   "productos": [
     {
+      "id": "1297429277",
+      "title": "Cámara Exterior Alarma.com Precintado",
+      "price": 46.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lg/ge/__/c10420p1297429277/i6707723918.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/camara-exterior-alarma-com-precintado-1297429277",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Foto y Vídeo"
+    },
+    {
+      "id": "1297427765",
+      "title": "Cámara Vigilancia Ctronics",
+      "price": 26.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lg/gd/__/c10420p1297427765/i6707716587.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/camara-vigilancia-ctronics-1297427765",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Foto y Vídeo"
+    },
+    {
+      "id": "1297425326",
+      "title": "Casco de bici  / Patín Glovo A estrenar",
+      "price": 13.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lg/gb/__/c10420p1297425326/i6707705827.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/casco-de-bici-patin-glovo-a-estrenar-1297425326",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Deporte"
+    },
+    {
+      "id": "1297423722",
+      "title": "Espaldera Moto UFO Plast",
+      "price": 13.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lg/ga/__/c10420p1297423722/i6707698337.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/espaldera-moto-ufo-plast-1297423722",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Motor"
+    },
+    {
       "id": "1297421658",
       "title": "Red Dead Redemption 2 Xbox One",
       "price": 15.5,
@@ -7057,6 +7105,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 588,
-  "actualizado": "2026-09-02T10:31:34"
+  "total": 592,
+  "actualizado": "2026-09-02T11:01:36"
 }
