@@ -1,6 +1,54 @@
 {
   "productos": [
     {
+      "id": "1297824384",
+      "title": "iPhone 17 256GB",
+      "price": 790.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lg/ov/__/c10420p1297824384/i6709678658.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/iphone-12-256gb-1297824384",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
+      "id": "1297822107",
+      "title": "Certificado Bendición Apostólica 1950 Papa Pio XII",
+      "price": 16.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lg/ot/__/c10420p1297822107/i6709667085.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/certificado-bendicion-apostolica-1950-papa-pio-xii-1297822107",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1297819538",
+      "title": "Cuadro Vintage Burwood Products U.S.A",
+      "price": 6.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lg/or/__/c10420p1297819538/i6709655046.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/cuadro-vintage-burwood-products-u-s-a-1297819538",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Hogar"
+    },
+    {
+      "id": "1297816913",
+      "title": "Atornillador a batería Einhell 12V A estrenar",
+      "price": 36.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lg/op/__/c10420p1297816913/i6709641939.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/atornillador-a-bateria-einhell-1297816913",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1297806982",
       "title": "Cargador Makita DC40RA XGT + Batería BL4040 XGT",
       "price": 145.0,
@@ -7189,6 +7237,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 599,
-  "actualizado": "2026-09-03T12:31:37"
+  "total": 603,
+  "actualizado": "2026-09-03T13:01:41"
 }
