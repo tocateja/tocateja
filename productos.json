@@ -1,6 +1,42 @@
 {
   "productos": [
     {
+      "id": "1297909583",
+      "title": "Lámpara Antigua Dragones",
+      "price": 195.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lg/qp/__/c10420p1297909583/i6710072052.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/lampara-antigua-dragones-dorada-cristal-1297909583",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Hogar"
+    },
+    {
+      "id": "1297819538",
+      "title": "Cuadro Vintage Burwood Products U.S.A",
+      "price": 6.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lg/or/__/c10420p1297819538/i6709655046.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/cuadro-vintage-burwood-products-u-s-a-1297819538",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Hogar"
+    },
+    {
+      "id": "1297822107",
+      "title": "Certificado Bendición Apostólica 1950 Papa Pio XII",
+      "price": 16.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lg/ot/__/c10420p1297822107/i6709667085.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/certificado-bendicion-apostolica-1950-papa-pio-xii-1297822107",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1271115893",
       "title": "Libro de 1972 Las aves de España",
       "price": 30.5,
@@ -107,30 +143,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Móviles y Smartwatches"
-    },
-    {
-      "id": "1297822107",
-      "title": "Certificado Bendición Apostólica 1950 Papa Pio XII",
-      "price": 16.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lg/ot/__/c10420p1297822107/i6709667085.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/certificado-bendicion-apostolica-1950-papa-pio-xii-1297822107",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
-      "id": "1297819538",
-      "title": "Cuadro Vintage Burwood Products U.S.A",
-      "price": 6.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lg/or/__/c10420p1297819538/i6709655046.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/cuadro-vintage-burwood-products-u-s-a-1297819538",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Hogar"
     },
     {
       "id": "1297816913",
@@ -7309,6 +7321,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 609,
-  "actualizado": "2026-09-03T16:31:48"
+  "total": 610,
+  "actualizado": "2026-09-03T17:01:40"
 }
