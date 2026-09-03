@@ -133,18 +133,6 @@
       "category": "Gaming"
     },
     {
-      "id": "1297829510",
-      "title": "Mario Strikers Nintendo Switch",
-      "price": 15.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lg/oz/__/c10420p1297829510/i6709702149.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/mario-strikers-nintendo-switch-1297829510",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
       "id": "1297829062",
       "title": "FC 24 Nintendo Switch",
       "price": 7.5,
@@ -7297,6 +7285,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 608,
-  "actualizado": "2026-09-03T18:31:40"
+  "total": 607,
+  "actualizado": "2026-09-03T19:02:11"
 }
