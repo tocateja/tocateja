@@ -1,6 +1,42 @@
 {
   "productos": [
     {
+      "id": "1120849560",
+      "title": "ALTAVOCES MEGAFONÍA BOSE DESING MAX DM2S",
+      "price": 137.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ij/bp/__/c10420p1120849560/i5553989264.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/altavoces-megadonia-bose-desing-max-dm2s-1120849560",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1297831960",
+      "title": "Super Smash Bros. Ultimate Nintendo Switch",
+      "price": 25.5,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/lg/p1/__/c10420p1297831960/i6709713244.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/super-smash-bros-ultimate-nintendo-switch-1297831960",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1290432954",
+      "title": "Amplificador Akai Stereo Vintage",
+      "price": 79.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lc/ag/__/c10420p1290432954/i6672046853.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/amplificador-akai-stereo-vintage-1290432954",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
       "id": "1297909583",
       "title": "Lámpara Antigua Dragones",
       "price": 195.0,
@@ -80,18 +116,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/lg/p3/__/c10420p1297833942/i6709721665.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/super-mario-party-nintendo-switch-1297833942",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
-      "id": "1297831960",
-      "title": "Super Smash Bros. Ultimate Nintendo Switch",
-      "price": 25.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lg/p1/__/c10420p1297831960/i6709713244.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/super-smash-bros-ultimate-nintendo-switch-1297831960",
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
@@ -3913,18 +3937,6 @@
       "category": "Otros"
     },
     {
-      "id": "1120849560",
-      "title": "ALTAVOCES MEGAFONÍA BOSE DESING MAX DM2S",
-      "price": 137.95,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ij/bp/__/c10420p1120849560/i5553989264.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/altavoces-megadonia-bose-desing-max-dm2s-1120849560",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
-    },
-    {
       "id": "1138770287",
       "title": "SET BOLI Y ROTULADOR FOR EVER",
       "price": 6.0,
@@ -4319,18 +4331,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1290432954",
-      "title": "Amplificador Akai Stereo Vintage",
-      "price": 79.95,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lc/ag/__/c10420p1290432954/i6672046853.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/amplificador-akai-stereo-vintage-1290432954",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
     },
     {
       "id": "1290429506",
@@ -7153,18 +7153,6 @@
       "category": "Gaming"
     },
     {
-      "id": "1110879738",
-      "title": "SKYLANDERS SPYROS ADVENTURE NINTENDO 3DS",
-      "price": 6.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/id/e0/__/c10420p1110879738/i5467746507.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/skylanders-spyros-adventure-nintendo-3ds-1110879738",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
       "id": "1132457602",
       "title": "JUEGO NINTENDO DS MATHS PLAY",
       "price": 3.5,
@@ -7321,6 +7309,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 610,
-  "actualizado": "2026-09-03T17:31:40"
+  "total": 609,
+  "actualizado": "2026-09-03T18:01:42"
 }
