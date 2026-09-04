@@ -145,30 +145,6 @@
       "category": "Gaming"
     },
     {
-      "id": "1297831441",
-      "title": "Pokémon Sword Nintendo Switch",
-      "price": 17.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lg/p1/__/c10420p1297831441/i6709710239.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/pokemon-sword-nintendo-switch-1297831441",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
-      "id": "1297829062",
-      "title": "FC 24 Nintendo Switch",
-      "price": 7.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lg/oz/__/c10420p1297829062/i6709700094.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/fc-24-nintendo-switch-1297829062",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
       "id": "1297824384",
       "title": "iPhone 17 256GB",
       "price": 790.0,
@@ -7273,6 +7249,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 606,
-  "actualizado": "2026-09-04T10:31:39"
+  "total": 604,
+  "actualizado": "2026-09-04T11:01:39"
 }
