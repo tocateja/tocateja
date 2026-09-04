@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1196806558",
+      "title": "Adaptador VHS-C a VHS Philips Precintado",
+      "price": 37.5,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/js/jp/__/c10420p1196806558/i6057890662.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/adaptador-vhs-c-a-vhs-philips-precintado-1196806558",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
       "id": "1295667679",
       "title": "DJI Mic Mini",
       "price": 59.0,
@@ -4057,18 +4069,6 @@
       "category": "Joyería y Complementos"
     },
     {
-      "id": "1196806558",
-      "title": "Adaptador VHS-C a VHS Philips Precintado",
-      "price": 37.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/js/jp/__/c10420p1196806558/i6057890662.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/adaptador-vhs-c-a-vhs-philips-precintado-1196806558",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
       "id": "1269201161",
       "title": "Flash Nissin MG8000 Extreme",
       "price": 59.0,
@@ -7274,5 +7274,5 @@
     }
   ],
   "total": 606,
-  "actualizado": "2026-09-03T20:01:59"
+  "actualizado": "2026-09-04T02:02:02"
 }
