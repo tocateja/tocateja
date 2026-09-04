@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1297833942",
+      "title": "Super Mario Party Nintendo Switch",
+      "price": 17.5,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/lg/p3/__/c10420p1297833942/i6709721665.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/super-mario-party-nintendo-switch-1297833942",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
       "id": "1144196878",
       "title": "Fighter Within - Xbox One",
       "price": 1.5,
@@ -164,18 +176,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/lg/p3/__/c10420p1297834466/i6709723740.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/ring-fit-adventure-nintendo-switch-1297834466",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
-      "id": "1297833942",
-      "title": "Super Mario Party Nintendo Switch",
-      "price": 17.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lg/p3/__/c10420p1297833942/i6709721665.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/super-mario-party-nintendo-switch-1297833942",
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
@@ -7226,5 +7226,5 @@
     }
   ],
   "total": 602,
-  "actualizado": "2026-09-04T14:31:40"
+  "actualizado": "2026-09-04T15:01:38"
 }
