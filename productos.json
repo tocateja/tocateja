@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1255841707",
+      "title": "Portátil Samsung Galaxy Book 4",
+      "price": 595.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kr/p1/__/c10420p1255841707/i6455447642.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/portatil-samsung-gris-plata-1255841707",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
       "id": "1297833942",
       "title": "Super Mario Party Nintendo Switch",
       "price": 17.5,
@@ -3527,18 +3539,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1255841707",
-      "title": "Portátil Samsung Gris Plata",
-      "price": 595.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kr/p1/__/c10420p1255841707/i6455447642.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/portatil-samsung-gris-plata-1255841707",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Informática"
     },
     {
       "id": "1273944222",
@@ -7226,5 +7226,5 @@
     }
   ],
   "total": 602,
-  "actualizado": "2026-09-04T16:31:43"
+  "actualizado": "2026-09-04T17:01:39"
 }
