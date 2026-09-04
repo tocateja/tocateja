@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1298255235",
+      "title": "Cámara Nikon D60 + Objetivo 18-55mm",
+      "price": 110.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lg/y4/__/c10420p1298255235/i6711795611.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/camara-nikon-d60---objetivo-18-55mm-1298255235",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Foto y Vídeo"
+    },
+    {
       "id": "1255841707",
       "title": "Portátil Samsung Galaxy Book 4",
       "price": 595.0,
@@ -7225,6 +7237,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 602,
-  "actualizado": "2026-09-04T17:01:39"
+  "total": 603,
+  "actualizado": "2026-09-04T17:31:41"
 }
