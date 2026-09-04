@@ -481,18 +481,6 @@
       "category": "Gaming"
     },
     {
-      "id": "1297420692",
-      "title": "Samsung Galaxy S26 Precintado",
-      "price": 599.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lg/g8/__/c10420p1297420692/i6707684012.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/samsung-galaxy-s26-precintado-1297420692",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
-    },
-    {
       "id": "1278283999",
       "title": "Protector Parachoques  Rolmovil Precintado",
       "price": 6.5,
@@ -7201,6 +7189,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 600,
-  "actualizado": "2026-09-04T19:31:38"
+  "total": 599,
+  "actualizado": "2026-09-04T20:01:42"
 }
