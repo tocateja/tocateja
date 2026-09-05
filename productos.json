@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1275437981",
+      "title": "Funda Teclado Samsung Book Cover Slim Precintado",
+      "price": 99.99,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/d2/__/c10420p1275437981/i6577592341.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/book-cover-keyboard-slim-ai-key-samsung-precintado-1275437981",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Informática"
+    },
+    {
       "id": "1298255235",
       "title": "Cámara Nikon D60 + Objetivo 18-55mm",
       "price": 110.0,
@@ -613,18 +625,6 @@
       "category": "Móviles y Smartwatches"
     },
     {
-      "id": "1296013428",
-      "title": "Vinilo Rock & Rios",
-      "price": 11.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lf/m2/__/c10420p1296013428/i6701118071.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/vinilo-rock-rios-1296013428",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
-    },
-    {
       "id": "1296011479",
       "title": "Vinilo Osibisa World Music",
       "price": 11.5,
@@ -680,18 +680,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/lf/lt/__/c10420p1296002574/i6701072347.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/vinilo-malon-el-camino-dale-negro-1296002574",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
-    },
-    {
-      "id": "1296000804",
-      "title": "Vinilo Chicago VII",
-      "price": 11.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lf/ls/__/c10420p1296000804/i6701065030.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/vinilo-chicago-vii-1296000804",
       "location": "Pamplona",
       "condition": "",
       "category": "Música e Instrumentos"
@@ -1088,18 +1076,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/lf/7s/__/c10420p1295347764/i6698039304.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/vinilo-depeche-mode-101-1295347764",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
-    },
-    {
-      "id": "1295344583",
-      "title": "Vinilo Wham! Fantastic",
-      "price": 6.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lf/7q/__/c10420p1295344583/i6698024720.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/vinilo-wham-fantastic-1295344583",
       "location": "Pamplona",
       "condition": "",
       "category": "Música e Instrumentos"
@@ -1741,18 +1717,6 @@
       "category": "Otros"
     },
     {
-      "id": "1294246789",
-      "title": "Consola PS4 Fat 500GB",
-      "price": 99.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/le/k7/__/c10420p1294246789/i6692982256.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/consola-ps4-fat-500gb-1294246789",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
       "id": "1294235891",
       "title": "Altavoz Autoamplificado Vonyx  Verver 1000W",
       "price": 199.0,
@@ -2039,18 +2003,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1275437981",
-      "title": "Funda Teclado Samsung Book Cover Slim Precintado",
-      "price": 99.99,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l3/d2/__/c10420p1275437981/i6577592341.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/book-cover-keyboard-slim-ai-key-samsung-precintado-1275437981",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Informática"
     },
     {
       "id": "1275449207",
@@ -3529,18 +3481,6 @@
       "category": "Hogar"
     },
     {
-      "id": "1252540346",
-      "title": "Funko Pop Pokémon 920 Arcanine",
-      "price": 8.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kp/qa/__/c10420p1252540346/i6435767934.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/funko-pop-pokemon-920-arcanine-1252540346",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Juguetes"
-    },
-    {
       "id": "1247258437",
       "title": "Gourmax Pro Airfryer Horno Plancha",
       "price": 175.0,
@@ -3587,18 +3527,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Moda"
-    },
-    {
-      "id": "1190972990",
-      "title": "Abrelatas electrico + Afilador Krups Gve1",
-      "price": 10.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/jp/2o/__/c10420p1190972990/i6016996337.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/abrelatas-y-afilador-krups-gve1-1190972990",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Electrodomésticos"
     },
     {
       "id": "1265339544",
@@ -3851,18 +3779,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1138770287",
-      "title": "SET BOLI Y ROTULADOR FOR EVER",
-      "price": 6.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/it/zs/__/c10420p1138770287/i5696197164.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/set-boli-y-rotulador-estilografico-forever-1138770287",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Hogar"
     },
     {
       "id": "1266803120",
@@ -4813,18 +4729,6 @@
       "category": "Otros"
     },
     {
-      "id": "1284558202",
-      "title": "Ipad Pro Magic Keyboard",
-      "price": 36.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l8/sj/__/c10420p1284558202/i6633847851.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/ipad-pro-magic-keyboard-1284558202",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
-    },
-    {
       "id": "1045236388",
       "title": "LIBRO FORMACION Y ORIENTACION LABORAL",
       "price": 6.5,
@@ -5084,18 +4988,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/iu/2z/__/c10420p1138918535/i5697848480.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/grapadora-rexel-delphi-roja-1138918535",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Herramientas"
-    },
-    {
-      "id": "1138917057",
-      "title": "Grapadora Rexel Océan",
-      "price": 6.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/iu/2y/__/c10420p1138917057/i5697838064.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/grapadora-rexel-ocean-1138917057",
       "location": "Pamplona",
       "condition": "",
       "category": "Herramientas"
@@ -6049,18 +5941,6 @@
       "category": "Móviles y Smartwatches"
     },
     {
-      "id": "1271564673",
-      "title": "Cómic El pacificador se esfuerza mucho",
-      "price": 15.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l1/21/__/c10420p1271564673/i6555469756.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/comic-el-pacificador-se-esfuerza-mucho-1271564673",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
       "id": "1230282127",
       "title": "Zetman 13 (Seinen Manga) (Spanish Edition)",
       "price": 4.0,
@@ -6709,18 +6589,6 @@
       "category": "Hogar"
     },
     {
-      "id": "1240130407",
-      "title": "Muñeca Monster high Frankie Stein (Precintada)",
-      "price": 18.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ki/ca/__/c10420p1240130407/i6357076831.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/muneca-monster-high-frankie-stein-precintada-1240130407",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Juguetes"
-    },
-    {
       "id": "1240515126",
       "title": "Silla de ruedas infantil Invacare Action 3",
       "price": 99.0,
@@ -7189,6 +7057,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 599,
-  "actualizado": "2026-09-05T08:01:33"
+  "total": 588,
+  "actualizado": "2026-09-05T14:01:52"
 }
