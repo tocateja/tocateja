@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1276078566",
+      "title": "Manoplas Legión o Regulares",
+      "price": 18.5,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/l3/qs/__/c10420p1276078566/i6581319293.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/manoplas-legion-o-regulares-1276078566",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1275437981",
       "title": "Funda Teclado Samsung Book Cover Slim Precintado",
       "price": 99.99,
@@ -3613,18 +3625,6 @@
       "category": "Hogar"
     },
     {
-      "id": "1276078566",
-      "title": "Manoplas Legión o Regulares",
-      "price": 18.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l3/qs/__/c10420p1276078566/i6581319293.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/manoplas-legion-o-regulares-1276078566",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
       "id": "1227245485",
       "title": "Figura Decorativa Alabastro",
       "price": 19.5,
@@ -7046,5 +7046,5 @@
     }
   ],
   "total": 587,
-  "actualizado": "2026-09-05T20:01:34"
+  "actualizado": "2026-09-06T02:01:35"
 }
