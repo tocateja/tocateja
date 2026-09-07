@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1267508137",
+      "title": "Cámara Yashica FX-3 Vintage + Accesorios",
+      "price": 85.0,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/ky/n3/__/c10420p1267508137/i6528865110.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/camara-yashica-fx-3-vintage---accesorios-1267508137",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Foto y Vídeo"
+    },
+    {
       "id": "1271114437",
       "title": "Mortadelo especial Fórmula 1",
       "price": 10.5,
@@ -2255,18 +2267,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1267508137",
-      "title": "Cámara Yashica FX-3 Vintage + Accesorios",
-      "price": 85.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ky/n3/__/c10420p1267508137/i6528865110.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/camara-yashica-fx-3-vintage---accesorios-1267508137",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Foto y Vídeo"
     },
     {
       "id": "1292608488",
@@ -7022,5 +7022,5 @@
     }
   ],
   "total": 585,
-  "actualizado": "2026-09-07T14:01:36"
+  "actualizado": "2026-09-07T14:31:39"
 }
