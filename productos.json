@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1299299376",
+      "title": "Catalejo terrestre Zeus TS-2560",
+      "price": 145.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lh/kh/__/c10420p1299299376/i6716659972.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/catalejo-terrestre-zeus-ts-2560-1299299376",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1268224319",
       "title": "Samsung Galaxy A57 5G 256GB Negro",
       "price": 319.0,
@@ -7021,6 +7033,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 585,
-  "actualizado": "2026-09-07T18:01:36"
+  "total": 586,
+  "actualizado": "2026-09-07T18:31:34"
 }
