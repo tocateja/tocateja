@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1271436046",
+      "title": "Samsung Galaxy Z Fold 7",
+      "price": 945.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l0/za/__/c10420p1271436046/i6554735774.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/samsung-galaxy-z-fold-7-1271436046",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
       "id": "1267508137",
       "title": "Cámara Yashica FX-3 Vintage + Accesorios",
       "price": 85.0,
@@ -620,18 +632,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/kz/2g/__/c10420p1268224319/i6532645225.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/samsung-galaxy-a57-5g-256gb-negro-1268224319",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
-    },
-    {
-      "id": "1271436046",
-      "title": "Samsung Galaxy Z Fold 7",
-      "price": 945.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l0/za/__/c10420p1271436046/i6554735774.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/samsung-galaxy-z-fold-7-1271436046",
       "location": "Pamplona",
       "condition": "",
       "category": "Móviles y Smartwatches"
@@ -7022,5 +7022,5 @@
     }
   ],
   "total": 585,
-  "actualizado": "2026-09-07T15:31:34"
+  "actualizado": "2026-09-07T16:01:36"
 }
