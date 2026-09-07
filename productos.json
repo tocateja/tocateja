@@ -733,18 +733,6 @@
       "category": "Electrodomésticos"
     },
     {
-      "id": "1295997384",
-      "title": "Vinilo Chicago V",
-      "price": 8.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lf/lp/__/c10420p1295997384/i6701050347.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/vinilo-chicago-v-1295997384",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
-    },
-    {
       "id": "1295995841",
       "title": "Vinilo Chicago X",
       "price": 6.5,
@@ -752,18 +740,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/lf/lo/__/c10420p1295995841/i6701043374.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/vinilo-chicago-x-1295995841",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
-    },
-    {
-      "id": "1295993788",
-      "title": "Vinilo Chicago VI",
-      "price": 6.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lf/ln/__/c10420p1295993788/i6701034555.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/vinilo-chicago-vi-1295993788",
       "location": "Pamplona",
       "condition": "",
       "category": "Música e Instrumentos"
@@ -7033,6 +7009,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 586,
-  "actualizado": "2026-09-07T18:31:34"
+  "total": 584,
+  "actualizado": "2026-09-07T19:01:34"
 }
