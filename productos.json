@@ -1189,18 +1189,6 @@
       "category": "Música e Instrumentos"
     },
     {
-      "id": "1295301958",
-      "title": "Vinilo Santana Tabu CBS",
-      "price": 8.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lf/6t/__/c10420p1295301958/i6697833117.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/vinilo-santana-tabu-cbs-1295301958",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
-    },
-    {
       "id": "1295299670",
       "title": "Vinilo Crosby, Stills & Nash",
       "price": 16.5,
@@ -6997,6 +6985,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 583,
-  "actualizado": "2026-09-08T10:31:34"
+  "total": 582,
+  "actualizado": "2026-09-08T11:01:34"
 }
