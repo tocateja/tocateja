@@ -1,6 +1,54 @@
 {
   "productos": [
     {
+      "id": "1299534248",
+      "title": "Objetivo Sigma Para Canon 70-300mm 1:4,5.6",
+      "price": 59.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lh/pj/__/c10420p1299534248/i6717813908.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/objetivo-sigma-para-canon-70-300mm-1-4-5-6-1299534248",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Foto y Vídeo"
+    },
+    {
+      "id": "1299532648",
+      "title": "VHS Lo Mejor de Pato Lucas",
+      "price": 6.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lh/ph/__/c10420p1299532648/i6717806826.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vhs-lo-mejor-de-pato-lucas-1299532648",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1299528512",
+      "title": "Disco VHS Harry Potter y la Cámara Secreta",
+      "price": 6.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lh/pe/__/c10420p1299528512/i6717788239.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/disco-vhs-harry-potter-y-la-camara-secreta-1299528512",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1299527021",
+      "title": "Disco VHS Walt Disney Los Clásicos Dinosaurio",
+      "price": 6.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lh/pd/__/c10420p1299527021/i6717781018.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/disco-vhs-walt-disney-los-clasicos-dinosaurio-1299527021",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
       "id": "1299525844",
       "title": "VHS Expediente 1 - The X-Files",
       "price": 6.5,
@@ -863,18 +911,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Electrodomésticos"
-    },
-    {
-      "id": "1295995841",
-      "title": "Vinilo Chicago X",
-      "price": 6.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lf/lo/__/c10420p1295995841/i6701043374.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/vinilo-chicago-x-1295995841",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
     },
     {
       "id": "1292615926",
@@ -7117,6 +7153,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 593,
-  "actualizado": "2026-09-08T12:31:55"
+  "total": 596,
+  "actualizado": "2026-09-08T13:01:36"
 }
