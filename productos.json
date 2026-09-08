@@ -1,6 +1,42 @@
 {
   "productos": [
     {
+      "id": "1299670868",
+      "title": "Vinilo Snow Informer EW",
+      "price": 10.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lh/sg/__/c10420p1299670868/i6718445150.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vinilo-snow-informer-ew-1299670868",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1299669306",
+      "title": "Vinilo BSO Nuns on the Run",
+      "price": 6.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lh/sf/__/c10420p1299669306/i6718438275.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vinilo-bso-nuns-on-the-run-1299669306",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1299667280",
+      "title": "BAP für ussgeschnigge! Vinilo",
+      "price": 6.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lh/sd/__/c10420p1299667280/i6718429167.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/bap-fur-ussgeschnigge-vinilo-1299667280",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
       "id": "1299665330",
       "title": "Vinilo Parchís Comando G",
       "price": 10.5,
@@ -4717,18 +4753,6 @@
       "category": "Libros, Cómics y Revistas"
     },
     {
-      "id": "1286666180",
-      "title": "Libro cocina Jamie Oliver 7 Ideas",
-      "price": 13.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/la/1p/__/c10420p1286666180/i6645923101.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/libro-cocina-jamie-oliver-7-ideas-1286666180",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
       "id": "1286662312",
       "title": "Libro cocina Karlos Arguiñano Cocina día a día",
       "price": 13.5,
@@ -7357,6 +7381,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 613,
-  "actualizado": "2026-09-08T18:31:40"
+  "total": 615,
+  "actualizado": "2026-09-08T19:01:39"
 }
