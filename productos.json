@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1275960657",
+      "title": "Monitor Dell LED 24\"",
+      "price": 85.0,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/l3/o9/__/c10420p1275960657/i6580660704.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/monitor-dell-led-24-1275960657",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Informática"
+    },
+    {
       "id": "1299538555",
       "title": "Mochila Fotografía Nikonistas",
       "price": 40.5,
@@ -5605,18 +5617,6 @@
       "category": "Hogar"
     },
     {
-      "id": "1275960657",
-      "title": "Monitor Dell LED 24\"",
-      "price": 85.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l3/o9/__/c10420p1275960657/i6580660704.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/monitor-dell-led-24-1275960657",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Informática"
-    },
-    {
       "id": "1275952429",
       "title": "Ordenador HP All in One",
       "price": 189.0,
@@ -7202,5 +7202,5 @@
     }
   ],
   "total": 600,
-  "actualizado": "2026-09-08T16:01:36"
+  "actualizado": "2026-09-08T16:31:35"
 }
