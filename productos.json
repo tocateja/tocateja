@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1299635581",
+      "title": "Vinilo Eros Ramazzotti Todo Historias",
+      "price": 11.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lh/rp/__/c10420p1299635581/i6718278909.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vinilo-eros-ramazzotti-todo-historias-1299635581",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
       "id": "1299624328",
       "title": "Monitor Dell 23\" P2319H",
       "price": 75.0,
@@ -7213,6 +7225,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 601,
-  "actualizado": "2026-09-08T17:01:39"
+  "total": 602,
+  "actualizado": "2026-09-08T17:31:40"
 }
