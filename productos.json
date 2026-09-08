@@ -1,6 +1,42 @@
 {
   "productos": [
     {
+      "id": "1299511393",
+      "title": "Disco VHS Gandhi (8 Oscars)",
+      "price": 6.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lh/p1/__/c10420p1299511393/i6717703995.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/disco-vhs-gandhi-8-oscars-1299511393",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1299509683",
+      "title": "VHS JFK - Caso Abierto (Kevin Costner)",
+      "price": 6.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lh/p0/__/c10420p1299509683/i6717695854.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vhs-jfk-caso-abierto-kevin-costner-1299509683",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1299503272",
+      "title": "Disco VHS La Obra Maestra de Walt Disney Fantasía",
+      "price": 6.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lh/ov/__/c10420p1299503272/i6717666174.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/disco-vhs-la-obra-maestra-de-walt-disney-fantasia-1299503272",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
       "id": "1299501323",
       "title": "Disco VHS Christmas Evil",
       "price": 6.5,
@@ -6997,6 +7033,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 583,
-  "actualizado": "2026-09-08T11:31:34"
+  "total": 586,
+  "actualizado": "2026-09-08T12:01:34"
 }
