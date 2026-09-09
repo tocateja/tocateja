@@ -1,6 +1,66 @@
 {
   "productos": [
     {
+      "id": "1299866767",
+      "title": "Secador Pelo Profesional Gamma+ E.T.C. Light",
+      "price": 51.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lh/wn/__/c10420p1299866767/i6719839048.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/secador-pelo-profesional-gamma--e-t-c-light-1299866767",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Electrodomésticos"
+    },
+    {
+      "id": "1267275106",
+      "title": "Secador Dyson Airwrap",
+      "price": 215.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ky/i3/__/c10420p1267275106/i6527449292.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/secador-dyson-airwrap-rosa-y-plateado-1267275106",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1275952429",
+      "title": "Ordenador HP All in One",
+      "price": 189.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/o3/__/c10420p1275952429/i6580610198.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/ordenador-hp-all-in-one-1275952429",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Informática"
+    },
+    {
+      "id": "1290873614",
+      "title": "Figura Gizmo Gremlins Iconic Fan",
+      "price": 36.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lc/jw/__/c10420p1290873614/i6674780578.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/figura-gizmo-gremlins-iconic-fan-1290873614",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Hogar"
+    },
+    {
+      "id": "1299859865",
+      "title": "Ventilador Purificador Dyson TP7A",
+      "price": 249.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lh/wi/__/c10420p1299859865/i6719798671.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/ventilador-purificador-dyson-tp7a-1299859865",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Electrodomésticos"
+    },
+    {
       "id": "1299834343",
       "title": "Portabicis Thule E-Flexi 958",
       "price": 349.0,
@@ -623,18 +683,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
-    },
-    {
-      "id": "1196806558",
-      "title": "Adaptador VHS-C a VHS Philips Precintado",
-      "price": 37.5,
-      "currency": "EUR",
-      "status": "reserved",
-      "image": "https://cdn.wallapop.com/images/10420/js/jp/__/c10420p1196806558/i6057890662.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/adaptador-vhs-c-a-vhs-philips-precintado-1196806558",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
     },
     {
       "id": "1290731251",
@@ -1592,18 +1640,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/lf/7g/__/c10420p1295331327/i6697964080.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/vinilo-atomic-rooster-1295331327",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
-    },
-    {
-      "id": "1295304344",
-      "title": "Vinilo Lo Mejor de Kenny Rogers",
-      "price": 6.5,
-      "currency": "EUR",
-      "status": "reserved",
-      "image": "https://cdn.wallapop.com/images/10420/lf/6v/__/c10420p1295304344/i6697843687.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/vinilo-lo-mejor-de-kenny-rogers-1295304344",
       "location": "Pamplona",
       "condition": "",
       "category": "Música e Instrumentos"
@@ -2696,18 +2732,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/ky/hr/__/c10420p1267259235/i6527424015.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/juego-vajilla-19-piezas-myott-toquin-1267259235",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
-      "id": "1267275106",
-      "title": "Secador Dyson Airwrap",
-      "price": 215.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ky/i3/__/c10420p1267275106/i6527449292.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/secador-dyson-airwrap-rosa-y-plateado-1267275106",
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
@@ -4465,18 +4489,6 @@
       "category": "Otros"
     },
     {
-      "id": "1290873614",
-      "title": "Figura Gizmo Gremlins Iconic Fan",
-      "price": 36.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lc/jw/__/c10420p1290873614/i6674780578.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/figura-gizmo-gremlins-iconic-fan-1290873614",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Hogar"
-    },
-    {
       "id": "1288694261",
       "title": "Batidor Leche Manual Cilio Inducción",
       "price": 23.5,
@@ -5795,18 +5807,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Hogar"
-    },
-    {
-      "id": "1275952429",
-      "title": "Ordenador HP All in One",
-      "price": 189.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l3/o3/__/c10420p1275952429/i6580610198.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/ordenador-hp-all-in-one-1275952429",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Informática"
     },
     {
       "id": "1275452262",
@@ -7382,5 +7382,5 @@
     }
   ],
   "total": 615,
-  "actualizado": "2026-09-09T11:31:38"
+  "actualizado": "2026-09-09T12:01:38"
 }
