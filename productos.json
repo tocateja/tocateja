@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1299834343",
+      "title": "Portabicis Thule E-Flexi 958",
+      "price": 349.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lh/vy/__/c10420p1299834343/i6719632659.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/portabicis-thule-e-flexi-958-1299834343",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1299670868",
       "title": "Vinilo Snow Informer EW",
       "price": 10.5,
@@ -7369,6 +7381,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 614,
-  "actualizado": "2026-09-09T10:01:38"
+  "total": 615,
+  "actualizado": "2026-09-09T10:31:48"
 }
