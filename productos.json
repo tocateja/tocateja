@@ -625,18 +625,6 @@
       "category": "Libros, Cómics y Revistas"
     },
     {
-      "id": "1295667679",
-      "title": "DJI Mic Mini",
-      "price": 59.0,
-      "currency": "EUR",
-      "status": "reserved",
-      "image": "https://cdn.wallapop.com/images/10420/lf/en/__/c10420p1295667679/i6699537994.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/dji-mic-mini-1295667679",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
       "id": "1290731251",
       "title": "Nintendo Switch Oled A estrenar",
       "price": 275.0,
@@ -7381,6 +7369,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 615,
-  "actualizado": "2026-09-09T02:01:47"
+  "total": 614,
+  "actualizado": "2026-09-09T08:01:58"
 }
