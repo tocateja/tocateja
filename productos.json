@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1287589215",
+      "title": "Portátil Lenovo Thinkbook 16 G7",
+      "price": 475.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/la/li/__/c10420p1287589215/i6653232831.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/portatil-lenovo-thinkbook-16-g7-1287589215",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Informática"
+    },
+    {
       "id": "1257510190",
       "title": "CD Roy Harper Death or Glory?",
       "price": 9.5,
@@ -1547,18 +1559,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Música e Instrumentos"
-    },
-    {
-      "id": "1292968517",
-      "title": "MacBook Neo 13\"",
-      "price": 699.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ld/ss/__/c10420p1292968517/i6686665231.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/macbook-neo-13-1292968517",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Informática"
     },
     {
       "id": "1295353273",
@@ -4729,18 +4729,6 @@
       "category": "Hogar"
     },
     {
-      "id": "1287589215",
-      "title": "Portátil Lenovo Thinkbook 16 G7",
-      "price": 475.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/la/li/__/c10420p1287589215/i6653232831.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/portatil-lenovo-thinkbook-16-g7-1287589215",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Informática"
-    },
-    {
       "id": "1273239632",
       "title": "Secador de manos LOSDI A estrenar",
       "price": 20.5,
@@ -7393,6 +7381,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 616,
-  "actualizado": "2026-09-09T13:01:38"
+  "total": 615,
+  "actualizado": "2026-09-09T13:31:48"
 }
