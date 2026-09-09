@@ -4957,18 +4957,6 @@
       "category": "Libros, Cómics y Revistas"
     },
     {
-      "id": "1285846070",
-      "title": "Portátil Asus Vivobook",
-      "price": 399.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l9/k5/__/c10420p1285846070/i6640952394.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/portatil-asus-vivobook-1285846070",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Informática"
-    },
-    {
       "id": "1168688760",
       "title": "Calzado Seguridad Kingsmann A estrenar",
       "price": 19.5,
@@ -7357,6 +7345,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 613,
-  "actualizado": "2026-09-09T18:31:39"
+  "total": 612,
+  "actualizado": "2026-09-09T19:01:39"
 }
