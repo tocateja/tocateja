@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1245105227",
+      "title": "Impresora de tickets aqprox negra",
+      "price": 37.5,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/kl/ax/__/c10420p1245105227/i6387350555.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/impresora-de-tickets-aqprox-negra-1245105227",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Informática"
+    },
+    {
+      "id": "1299650189",
+      "title": "Vinilo Alejandro Sanz Viviendo Deprisa",
+      "price": 11.5,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/lh/s0/__/c10420p1299650189/i6718349155.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vinilo-alejandro-sanz-viviendo-deprisa-1299650189",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
       "id": "1287589215",
       "title": "Portátil Lenovo Thinkbook 16 G7",
       "price": 475.0,
@@ -212,18 +236,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/lh/s2/__/c10420p1299652976/i6718362033.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/vinilo-chase-1299652976",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
-    },
-    {
-      "id": "1299650189",
-      "title": "Vinilo Alejandro Sanz Viviendo Deprisa",
-      "price": 11.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lh/s0/__/c10420p1299650189/i6718349155.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/vinilo-alejandro-sanz-viviendo-deprisa-1299650189",
       "location": "Pamplona",
       "condition": "",
       "category": "Música e Instrumentos"
@@ -3743,18 +3755,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1245105227",
-      "title": "Impresora de tickets aqprox negra",
-      "price": 37.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kl/ax/__/c10420p1245105227/i6387350555.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/impresora-de-tickets-aqprox-negra-1245105227",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Informática"
     },
     {
       "id": "1163214611",
@@ -7346,5 +7346,5 @@
     }
   ],
   "total": 612,
-  "actualizado": "2026-09-09T20:01:47"
+  "actualizado": "2026-09-10T02:01:59"
 }
