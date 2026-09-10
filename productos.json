@@ -1,16 +1,16 @@
 {
   "productos": [
     {
-      "id": "1245105227",
-      "title": "Impresora de tickets aqprox negra",
-      "price": 37.5,
+      "id": "1163214611",
+      "title": "Pistola de silicona Simes Precintado",
+      "price": 134.95,
       "currency": "EUR",
       "status": "reserved",
-      "image": "https://cdn.wallapop.com/images/10420/kl/ax/__/c10420p1245105227/i6387350555.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/impresora-de-tickets-aqprox-negra-1245105227",
+      "image": "https://cdn.wallapop.com/images/10420/j8/jq/__/c10420p1163214611/i5865132397.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/encoladora-simhm18-hd-600w-precintado-1163214611",
       "location": "Pamplona",
       "condition": "",
-      "category": "Informática"
+      "category": "Herramientas"
     },
     {
       "id": "1299650189",
@@ -536,18 +536,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/lh/ov/__/c10420p1299503272/i6717666174.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/disco-vhs-la-obra-maestra-de-walt-disney-fantasia-1299503272",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1299501323",
-      "title": "Disco VHS Christmas Evil",
-      "price": 6.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lh/ot/__/c10420p1299501323/i6717657301.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/disco-vhs-christmas-evil-1299501323",
       "location": "Pamplona",
       "condition": "",
       "category": "Libros, Cómics y Revistas"
@@ -3743,18 +3731,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1163214611",
-      "title": "Pistola de silicona Simes Precintado",
-      "price": 134.95,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/j8/jq/__/c10420p1163214611/i5865132397.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/encoladora-simhm18-hd-600w-precintado-1163214611",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Herramientas"
     },
     {
       "id": "1270555865",
@@ -7333,6 +7309,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 611,
-  "actualizado": "2026-09-10T10:31:39"
+  "total": 609,
+  "actualizado": "2026-09-10T11:01:40"
 }
