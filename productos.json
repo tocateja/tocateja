@@ -685,18 +685,6 @@
       "category": "Móviles y Smartwatches"
     },
     {
-      "id": "1297833942",
-      "title": "Super Mario Party Nintendo Switch",
-      "price": 17.5,
-      "currency": "EUR",
-      "status": "reserved",
-      "image": "https://cdn.wallapop.com/images/10420/lg/p3/__/c10420p1297833942/i6709721665.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/super-mario-party-nintendo-switch-1297833942",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
       "id": "1144196878",
       "title": "Fighter Within - Xbox One",
       "price": 1.5,
@@ -7345,6 +7333,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 612,
-  "actualizado": "2026-09-10T02:01:59"
+  "total": 611,
+  "actualizado": "2026-09-10T08:01:52"
 }
