@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1295457849",
+      "title": "Vinilo Luis Eduardo Aute - 20 Canciones de Amor",
+      "price": 11.5,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/lf/a5/__/c10420p1295457849/i6698528428.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vinilo-luis-eduardo-aute-20-canciones-de-amor-1295457849",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
       "id": "1266664915",
       "title": "Ajedrez Azteca Resina Años 80",
       "price": 110.0,
@@ -335,18 +347,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Electrodomésticos"
-    },
-    {
-      "id": "1299834343",
-      "title": "Portabicis Thule E-Flexi 958",
-      "price": 349.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lh/vy/__/c10420p1299834343/i6719632659.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/portabicis-thule-e-flexi-958-1299834343",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
     },
     {
       "id": "1299670868",
@@ -1597,18 +1597,6 @@
       "category": "Hogar"
     },
     {
-      "id": "1295645201",
-      "title": "Consola PS4 Pro 1TB",
-      "price": 165.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lf/e6/__/c10420p1295645201/i6699434660.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/consola-ps4-pro-1tb-1295645201",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
       "id": "1295488998",
       "title": "Vinilo Los Éxitos del Espacio",
       "price": 16.5,
@@ -1712,18 +1700,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/lf/ae/__/c10420p1295469739/i6698587154.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/vinilo-mecano-donde-esta-el-pais-de-las-hadas-1295469739",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
-    },
-    {
-      "id": "1295457849",
-      "title": "Vinilo Luis Eduardo Aute - 20 Canciones de Amor",
-      "price": 11.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lf/a5/__/c10420p1295457849/i6698528428.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/vinilo-luis-eduardo-aute-20-canciones-de-amor-1295457849",
       "location": "Pamplona",
       "condition": "",
       "category": "Música e Instrumentos"
@@ -7021,18 +6997,6 @@
       "category": "Electrodomésticos"
     },
     {
-      "id": "1091786473",
-      "title": "PODÓMETRO GEONAUTE ONWALK 900",
-      "price": 4.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/i2/0r/__/c10420p1091786473/i5363413365.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/podometro-geonaute-onwalk-900-1091786473",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Deporte"
-    },
-    {
       "id": "1136412307",
       "title": "RECEPTOR SATELITE DIGITAL FONESTAR",
       "price": 20.5,
@@ -7417,6 +7381,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 618,
-  "actualizado": "2026-09-10T18:01:39"
+  "total": 615,
+  "actualizado": "2026-09-10T18:31:38"
 }
