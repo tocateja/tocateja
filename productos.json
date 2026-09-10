@@ -1,6 +1,54 @@
 {
   "productos": [
     {
+      "id": "1300250330",
+      "title": "Vinilo Los Pekenikes Hilo de Seda",
+      "price": 7.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/li/4v/__/c10420p1300250330/i6721720558.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vinilo-los-pekenikes-hilo-de-seda-1300250330",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1300249047",
+      "title": "Vinilo Los Pekenikes - Robin Hood, Felices 20",
+      "price": 7.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/li/4u/__/c10420p1300249047/i6721714942.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vinilo-los-pekenikes-robin-hood-felices-20-1300249047",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1300244208",
+      "title": "Vinilo Micky y Los Tonys",
+      "price": 14.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/li/4q/__/c10420p1300244208/i6721692561.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vinilo-micky-y-los-tonys-1300244208",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1300240379",
+      "title": "Vinilo Mongo Santamaria - Images",
+      "price": 11.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/li/4n/__/c10420p1300240379/i6721674467.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vinilo-mongo-santamaria-images-1300240379",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
       "id": "1300237900",
       "title": "Vinilo Arpa para Bailar - Julio Atahualpa",
       "price": 11.5,
@@ -7405,6 +7453,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 617,
-  "actualizado": "2026-09-10T12:31:40"
+  "total": 621,
+  "actualizado": "2026-09-10T13:01:40"
 }
