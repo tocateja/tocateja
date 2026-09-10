@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1287589215",
+      "title": "Portátil Lenovo Thinkbook 16 G7",
+      "price": 475.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/la/li/__/c10420p1287589215/i6653232831.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/portatil-lenovo-thinkbook-16-g7-1287589215",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Informática"
+    },
+    {
       "id": "1300249047",
       "title": "Vinilo Los Pekenikes - Robin Hood, Felices 20",
       "price": 7.5,
@@ -227,18 +239,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Música e Instrumentos"
-    },
-    {
-      "id": "1287589215",
-      "title": "Portátil Lenovo Thinkbook 16 G7",
-      "price": 475.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/la/li/__/c10420p1287589215/i6653232831.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/portatil-lenovo-thinkbook-16-g7-1287589215",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Informática"
     },
     {
       "id": "1257510190",
@@ -5341,18 +5341,6 @@
       "category": "Gaming"
     },
     {
-      "id": "1123200180",
-      "title": "JUEGO GAMEBOY ADVANCE SHARK TALE",
-      "price": 4.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ik/q2/__/c10420p1123200180/i5575440299.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/juego-gameboy-advance-shark-tale-1123200180",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
       "id": "1118848755",
       "title": "LEGO STAR WARS II THE ORIGINAL TRILOGY GB ADVANCE",
       "price": 6.0,
@@ -5384,18 +5372,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/jb/4c/__/c10420p1167535388/i5889031827.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/lego-city-undercover-nintendo-3ds-1167535388",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
-      "id": "1167499193",
-      "title": "Happy Feet GBA - Nintendo",
-      "price": 5.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/jb/3k/__/c10420p1167499193/i5888833920.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/happy-feet-gba-nintendo-1167499193",
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
@@ -7021,18 +6997,6 @@
       "category": "Hogar"
     },
     {
-      "id": "1268439425",
-      "title": "Horizon Zero Dawn Complete Edition PS4",
-      "price": 13.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kz/72/__/c10420p1268439425/i6534238437.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/horizon-zero-dawn-complete-edition-ps4-1268439425",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
       "id": "1144202496",
       "title": "Teclado Lenovo USB Alemán SK8827",
       "price": 6.5,
@@ -7465,6 +7429,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 622,
-  "actualizado": "2026-09-10T13:31:48"
+  "total": 619,
+  "actualizado": "2026-09-10T14:01:50"
 }
