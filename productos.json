@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1300228148",
+      "title": "Vinilo American Jazz & Blues History Vol.29",
+      "price": 7.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/li/4e/__/c10420p1300228148/i6721616127.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vinilo-american-jazz-blues-history-vol-29-1300228148",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1300226953",
+      "title": "Vinilo Jerry Maginucci Salsa Greats Vol. III",
+      "price": 7.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/li/4d/__/c10420p1300226953/i6721610565.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vinilo-jerry-maginucci-salsa-greats-vol-iii-1300226953",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
       "id": "1300216110",
       "title": "Set 9 Cuchillos Eva Solo + Maza",
       "price": 99.0,
@@ -7321,6 +7345,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 610,
-  "actualizado": "2026-09-10T11:31:39"
+  "total": 612,
+  "actualizado": "2026-09-10T12:01:39"
 }
