@@ -1,6 +1,54 @@
 {
   "productos": [
     {
+      "id": "1300709262",
+      "title": "Vinilo Lo Mejor de Arthur Conley R&B Soul",
+      "price": 6.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/li/ep/__/c10420p1300709262/i6723808376.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vinilo-lo-mejor-de-arthur-conley-r-b-soul-1300709262",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1300707488",
+      "title": "Vinilo Margaret Urlich Safety in numbers",
+      "price": 7.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/li/eo/__/c10420p1300707488/i6723800413.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vinilo-margaret-urlich-safety-in-numbers-1300707488",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1300705224",
+      "title": "Vinilo Hermeticos - Un Golpe de Suerte",
+      "price": 7.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/li/em/__/c10420p1300705224/i6723789874.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vinilo-hermeticos-un-golpe-de-suerte-1300705224",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1300702902",
+      "title": "Vinilo Chicago VIII",
+      "price": 6.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/li/ek/__/c10420p1300702902/i6723778250.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vinilo-chicago-viii-1300702902",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
       "id": "1300700291",
       "title": "Vinilo Luz casal LUZ",
       "price": 7.5,
@@ -7369,6 +7417,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 614,
-  "actualizado": "2026-09-11T18:01:39"
+  "total": 618,
+  "actualizado": "2026-09-11T18:31:39"
 }
