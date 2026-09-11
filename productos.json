@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1300700291",
+      "title": "Vinilo Luz casal LUZ",
+      "price": 7.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/li/ei/__/c10420p1300700291/i6723765101.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vinilo-luz-casal-luz-1300700291",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1300696822",
+      "title": "Vinilo Roy Budd Y Su Orquesta Temas Peliculas",
+      "price": 16.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/li/eg/__/c10420p1300696822/i6723749655.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vinilo-roy-budd-y-su-orquesta-temas-peliculas-1300696822",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
       "id": "1229591082",
       "title": "FIFA 23 PS5 Precintado",
       "price": 10.5,
@@ -7345,6 +7369,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 612,
-  "actualizado": "2026-09-11T17:31:39"
+  "total": 614,
+  "actualizado": "2026-09-11T18:01:39"
 }
