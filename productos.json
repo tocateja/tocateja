@@ -4045,18 +4045,6 @@
       "category": "Electrodomésticos"
     },
     {
-      "id": "1291261499",
-      "title": "Bajo Eléctrico Ibanez",
-      "price": 249.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lc/s7/__/c10420p1291261499/i6677059803.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/bajo-electrico-ibanez-1291261499",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
-    },
-    {
       "id": "1129788357",
       "title": "WOK DE 7 CAPAS ICOOK",
       "price": 121.5,
@@ -7357,6 +7345,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 613,
-  "actualizado": "2026-09-11T16:31:39"
+  "total": 612,
+  "actualizado": "2026-09-11T17:01:39"
 }
