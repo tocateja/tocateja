@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1299549604",
+      "title": "Teclado Bluetooth Logitech Pebble Keys 2 K380s",
+      "price": 17.5,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/lh/pu/__/c10420p1299549604/i6717885789.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/teclado-bluetooth-logitech-pebble-keys-2-k380s-1299549604",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Informática"
+    },
+    {
       "id": "1278228480",
       "title": "Juego Carmageddon 64 Nintendo 64",
       "price": 21.5,
@@ -587,18 +599,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Foto y Vídeo"
-    },
-    {
-      "id": "1299549604",
-      "title": "Teclado Bluetooth Logitech Pebble Keys 2 K380s",
-      "price": 17.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lh/pu/__/c10420p1299549604/i6717885789.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/teclado-bluetooth-logitech-pebble-keys-2-k380s-1299549604",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Informática"
     },
     {
       "id": "1299545524",
@@ -7370,5 +7370,5 @@
     }
   ],
   "total": 614,
-  "actualizado": "2026-09-11T11:31:45"
+  "actualizado": "2026-09-11T12:01:39"
 }
