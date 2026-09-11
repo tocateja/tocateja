@@ -2689,18 +2689,6 @@
       "category": "Hogar"
     },
     {
-      "id": "1275993375",
-      "title": "Placa Retrato Jesucristo Metal",
-      "price": 13.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l3/oy/__/c10420p1275993375/i6580842062.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/placa-retrato-jesucristo-metal-1275993375",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
       "id": "1275991887",
       "title": "2 Figuras de Alabastro",
       "price": 85.0,
@@ -4367,18 +4355,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1253308018",
-      "title": "Juego SEGA Master System Barcelona '92",
-      "price": 13.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kq/6q/__/c10420p1253308018/i6440634654.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/juego-sega-master-system-barcelona-92-1253308018",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
     },
     {
       "id": "1262098928",
@@ -7441,6 +7417,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 620,
-  "actualizado": "2026-09-11T19:01:53"
+  "total": 618,
+  "actualizado": "2026-09-11T19:31:39"
 }
