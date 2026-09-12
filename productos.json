@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1246123945",
+      "title": "ALIEN EL INFORME WEYLAND YUTANI",
+      "price": 105.0,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/kl/wr/__/c10420p1246123945/i6393721140.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/alien-el-informe-weyland-yutani-1246123945",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
       "id": "1300720598",
       "title": "Vinilo Jungle Fever - Stevie Wonder",
       "price": 7.5,
@@ -3913,18 +3925,6 @@
       "category": "Libros, Cómics y Revistas"
     },
     {
-      "id": "1246123945",
-      "title": "ALIEN EL INFORME WEYLAND YUTANI",
-      "price": 105.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kl/wr/__/c10420p1246123945/i6393721140.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/alien-el-informe-weyland-yutani-1246123945",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
       "id": "1230171814",
       "title": "Lote 4 COMICS Satan 666",
       "price": 25.5,
@@ -7418,5 +7418,5 @@
     }
   ],
   "total": 618,
-  "actualizado": "2026-09-11T20:01:41"
+  "actualizado": "2026-09-12T02:02:03"
 }
