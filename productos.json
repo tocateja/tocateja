@@ -1,6 +1,54 @@
 {
   "productos": [
     {
+      "id": "1301601040",
+      "title": "Vinilo Fausto Papetti 24ª Raccolta Sax",
+      "price": 11.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/li/xt/__/c10420p1301601040/i6727628946.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vinilo-fausto-papetti-24-raccolta-sax-1301601040",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1301599639",
+      "title": "Vinilo Fausto Papetti Sax 23a Raccolta",
+      "price": 11.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/li/xs/__/c10420p1301599639/i6727622717.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vinilo-fausto-papetti-sax-23a-raccolta-1301599639",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1301598427",
+      "title": "Vinilo Fausto Papetti Sax 22a Raccolta",
+      "price": 6.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/li/xr/__/c10420p1301598427/i6727617570.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vinilo-fausto-papetti-sax-22a-raccolta-1301598427",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1301597088",
+      "title": "Vinilo Fausto Papetti 21ª Raccolta",
+      "price": 6.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/li/xq/__/c10420p1301597088/i6727610923.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vinilo-fausto-papetti-21-raccolta-1301597088",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
       "id": "1301594683",
       "title": "Vinilo Fausto Papetti Sax 20ª Raccolta",
       "price": 8.5,
@@ -7681,6 +7729,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 640,
-  "actualizado": "2026-09-14T11:01:42"
+  "total": 644,
+  "actualizado": "2026-09-14T11:31:50"
 }
