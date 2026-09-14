@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1301636998",
+      "title": "Ghost of Tsushima Director's Cut PS4",
+      "price": 30.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/li/yl/__/c10420p1301636998/i6727786397.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/ghost-of-tsushima-director-s-cut-ps4-1301636998",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1301629322",
+      "title": "Vigilabebés HelloBaby",
+      "price": 40.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/li/yf/__/c10420p1301629322/i6727752064.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vigilabebes-hellobaby-1301629322",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1301627060",
       "title": "Grip para Nintendo Switch Fr Tec",
       "price": 16.5,
@@ -7765,6 +7789,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 647,
-  "actualizado": "2026-09-14T12:31:46"
+  "total": 649,
+  "actualizado": "2026-09-14T13:01:47"
 }
