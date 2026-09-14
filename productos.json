@@ -1,6 +1,42 @@
 {
   "productos": [
     {
+      "id": "1301627060",
+      "title": "Grip para Nintendo Switch Fr Tec",
+      "price": 16.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/li/yd/__/c10420p1301627060/i6727742513.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/grip-para-nintendo-switch-fr-tec-1301627060",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1301625034",
+      "title": "Consola Nintendo Switch",
+      "price": 139.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/li/yc/__/c10420p1301625034/i6727733096.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/consola-nintendo-switch-1301625034",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1301621024",
+      "title": "Consola Nintendo 2Ds",
+      "price": 89.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/li/y9/__/c10420p1301621024/i6727715848.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/consola-nintendo-2ds-1301621024",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
       "id": "1301601040",
       "title": "Vinilo Fausto Papetti 24ª Raccolta Sax",
       "price": 11.5,
@@ -7729,6 +7765,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 644,
-  "actualizado": "2026-09-14T12:01:46"
+  "total": 647,
+  "actualizado": "2026-09-14T12:31:46"
 }
