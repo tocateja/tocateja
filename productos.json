@@ -1,6 +1,66 @@
 {
   "productos": [
     {
+      "id": "1301586470",
+      "title": "Vinilo Fausto Papetti 15ª Raccolta Sax",
+      "price": 14.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/li/xi/__/c10420p1301586470/i6727560931.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vinilo-fausto-papetti-15-raccolta-sax-1301586470",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1301585214",
+      "title": "Vinilo Fausto Papetti 14ª Raccolta Sax",
+      "price": 8.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/li/xh/__/c10420p1301585214/i6727555319.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vinilo-fausto-papetti-14-raccolta-sax-1301585214",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1301584221",
+      "title": "Vinilo Fausto Papetti - Lo mejor de Fausto papetti",
+      "price": 7.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/li/xg/__/c10420p1301584221/i6727550780.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vinilo-fausto-papetti-lo-mejor-de-fausto-papetti-1301584221",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1301582807",
+      "title": "Vinilo Fausto Papetti Sax 12a Raccolta",
+      "price": 16.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/li/xf/__/c10420p1301582807/i6727543182.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vinilo-fausto-papetti-sax-12a-raccolta-1301582807",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1301581716",
+      "title": "Vinilo Fausto Papetti 11ª Raccolta Simpatia Sax",
+      "price": 7.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/li/xe/__/c10420p1301581716/i6727537082.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vinilo-fausto-papetti-11-raccolta-simpatia-sax-1301581716",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
       "id": "1118848755",
       "title": "LEGO STAR WARS II THE ORIGINAL TRILOGY GB ADVANCE",
       "price": 6.0,
@@ -7705,6 +7765,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 642,
-  "actualizado": "2026-09-14T10:01:45"
+  "total": 647,
+  "actualizado": "2026-09-14T10:31:46"
 }
