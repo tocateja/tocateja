@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1301649127",
+      "title": "Sly Cooper Thieves in Time PS Vita",
+      "price": 21.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/li/yu/__/c10420p1301649127/i6727842458.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/sly-cooper-ps-vita-1301649127",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1301648714",
+      "title": "Ratchet & Clank Trilogy PS Vita",
+      "price": 26.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/li/yu/__/c10420p1301648714/i6727840395.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/ratchet-clank-trilogy-ps-vita-1301648714",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1301636998",
       "title": "Ghost of Tsushima Director's Cut PS4",
       "price": 30.5,
@@ -7789,6 +7813,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 649,
-  "actualizado": "2026-09-14T13:01:47"
+  "total": 651,
+  "actualizado": "2026-09-14T13:32:07"
 }
