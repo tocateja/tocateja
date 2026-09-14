@@ -1,6 +1,66 @@
 {
   "productos": [
     {
+      "id": "1301594683",
+      "title": "Vinilo Fausto Papetti Sax 20ª Raccolta",
+      "price": 8.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/li/xo/__/c10420p1301594683/i6727599480.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vinilo-fausto-papetti-sax-20-raccolta-1301594683",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1301593439",
+      "title": "Vinilo Fausto Papetti Sax 19a Raccolta",
+      "price": 11.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/li/xn/__/c10420p1301593439/i6727594249.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vinilo-fausto-papetti-sax-19a-raccolta-1301593439",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1301591797",
+      "title": "Vinilo Fausto Papetti 18ª raccolta",
+      "price": 11.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/li/xm/__/c10420p1301591797/i6727586673.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vinilo-fausto-papetti-18-raccolta-1301591797",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1301590698",
+      "title": "Vinilo Fausto Papetti 17a Raccolta",
+      "price": 14.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/li/xl/__/c10420p1301590698/i6727581793.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vinilo-fausto-papetti-17a-raccolta-1301590698",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1301589141",
+      "title": "Vinilo Fausto Papetti 16ª Raccolta Sax",
+      "price": 11.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/li/xk/__/c10420p1301589141/i6727574446.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vinilo-fausto-papetti-16-raccolta-sax-1301589141",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
       "id": "1301586470",
       "title": "Vinilo Fausto Papetti 15ª Raccolta Sax",
       "price": 14.5,
@@ -241,18 +301,6 @@
       "category": "Música e Instrumentos"
     },
     {
-      "id": "1300890174",
-      "title": "Vinilo Louis Armstrong Lo Mejor De Vol. III Jazz",
-      "price": 6.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/li/il/__/c10420p1300890174/i6724639456.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/vinilo-louis-armstrong-lo-mejor-de-vol-iii-jazz-1300890174",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
-    },
-    {
       "id": "1300892234",
       "title": "Vinilo Un Amigo de Verdad Viceversa",
       "price": 6.5,
@@ -260,18 +308,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/li/im/__/c10420p1300892234/i6724648042.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/vinilo-un-amigo-de-verdad-viceversa-1300892234",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
-    },
-    {
-      "id": "1300893882",
-      "title": "Vinilo Wilson Pickett Great Hits R&B Soul",
-      "price": 6.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/li/io/__/c10420p1300893882/i6724654666.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/vinilo-wilson-pickett-great-hits-r-b-soul-1300893882",
       "location": "Pamplona",
       "condition": "",
       "category": "Música e Instrumentos"
@@ -673,42 +709,6 @@
       "category": "Música e Instrumentos"
     },
     {
-      "id": "1300256032",
-      "title": "Vinilo Cha Cha Cha - Pedro Garcia",
-      "price": 7.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/li/4z/__/c10420p1300256032/i6721748391.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/vinilo-cha-cha-cha-pedro-garcia-1300256032",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
-    },
-    {
-      "id": "1300254579",
-      "title": "Vinilo Perez Prado y su Orquesta",
-      "price": 7.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/li/4y/__/c10420p1300254579/i6721740940.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/vinilo-perez-prado-y-su-orquesta-1300254579",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
-    },
-    {
-      "id": "1300252924",
-      "title": "Vinilo Pérez Prado Latino",
-      "price": 7.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/li/4x/__/c10420p1300252924/i6721733183.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/vinilo-perez-prado-latino-1300252924",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
-    },
-    {
       "id": "1300250330",
       "title": "Vinilo Los Pekenikes Hilo de Seda",
       "price": 7.5,
@@ -728,30 +728,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/li/4q/__/c10420p1300244208/i6721692561.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/vinilo-micky-y-los-tonys-1300244208",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
-    },
-    {
-      "id": "1300240379",
-      "title": "Vinilo Mongo Santamaria - Images",
-      "price": 11.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/li/4n/__/c10420p1300240379/i6721674467.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/vinilo-mongo-santamaria-images-1300240379",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
-    },
-    {
-      "id": "1300237900",
-      "title": "Vinilo Arpa para Bailar - Julio Atahualpa",
-      "price": 11.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/li/4l/__/c10420p1300237900/i6721662689.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/vinilo-arpa-para-bailar-julio-atahualpa-1300237900",
       "location": "Pamplona",
       "condition": "",
       "category": "Música e Instrumentos"
@@ -779,18 +755,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Herramientas"
-    },
-    {
-      "id": "1300235031",
-      "title": "Vinilo Fania All Stars Live Vol.2 Salsa",
-      "price": 10.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/li/4j/__/c10420p1300235031/i6721648548.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/vinilo-fania-all-stars-live-vol-2-salsa-1300235031",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
     },
     {
       "id": "1300233293",
@@ -824,30 +788,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/li/4g/__/c10420p1300230288/i6721626691.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/vinilo-noches-de-blanco-saten-baladas-1300230288",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
-    },
-    {
-      "id": "1300228148",
-      "title": "Vinilo American Jazz & Blues History Vol.29",
-      "price": 7.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/li/4e/__/c10420p1300228148/i6721616127.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/vinilo-american-jazz-blues-history-vol-29-1300228148",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
-    },
-    {
-      "id": "1300226953",
-      "title": "Vinilo Jerry Maginucci Salsa Greats Vol. III",
-      "price": 7.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/li/4d/__/c10420p1300226953/i6721610565.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/vinilo-jerry-maginucci-salsa-greats-vol-iii-1300226953",
       "location": "Pamplona",
       "condition": "",
       "category": "Música e Instrumentos"
@@ -887,18 +827,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Música e Instrumentos"
-    },
-    {
-      "id": "1257510190",
-      "title": "CD Roy Harper Death or Glory?",
-      "price": 9.5,
-      "currency": "EUR",
-      "status": "reserved",
-      "image": "https://cdn.wallapop.com/images/10420/ks/ot/__/c10420p1257510190/i6464673955.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/cd-roy-harper-death-or-glory-1257510190",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
     },
     {
       "id": "1299875104",
@@ -1076,18 +1004,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/lh/s2/__/c10420p1299652976/i6718362033.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/vinilo-chase-1299652976",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
-    },
-    {
-      "id": "1299648435",
-      "title": "Vinilo La Historia de The Platters Vol. 1",
-      "price": 11.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lh/rz/__/c10420p1299648435/i6718339411.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/vinilo-la-historia-de-the-platters-vol-1-1299648435",
       "location": "Pamplona",
       "condition": "",
       "category": "Música e Instrumentos"
@@ -7765,6 +7681,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 647,
-  "actualizado": "2026-09-14T10:31:46"
+  "total": 640,
+  "actualizado": "2026-09-14T11:01:42"
 }
