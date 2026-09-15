@@ -589,18 +589,6 @@
       "category": "Música e Instrumentos"
     },
     {
-      "id": "1300892234",
-      "title": "Vinilo Un Amigo de Verdad Viceversa",
-      "price": 6.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/li/im/__/c10420p1300892234/i6724648042.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/vinilo-un-amigo-de-verdad-viceversa-1300892234",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
-    },
-    {
       "id": "1300889126",
       "title": "Vinilo Parchís y Sus Amigos - Grandes Éxitos",
       "price": 6.5,
@@ -644,18 +632,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/li/ih/__/c10420p1300885050/i6724617498.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/vinilo-marchas-americanas-bob-sharples-1300885050",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
-    },
-    {
-      "id": "1300883205",
-      "title": "Vinilo Parchís Las Super 25",
-      "price": 6.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/li/if/__/c10420p1300883205/i6724610211.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/vinilo-parchis-las-super-25-1300883205",
       "location": "Pamplona",
       "condition": "",
       "category": "Música e Instrumentos"
@@ -7849,6 +7825,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 654,
-  "actualizado": "2026-09-15T18:31:46"
+  "total": 652,
+  "actualizado": "2026-09-15T19:01:45"
 }
