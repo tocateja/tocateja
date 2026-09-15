@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1301966694",
+      "title": "Trompeta Oqan 3 Pistones",
+      "price": 199.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lj/5n/__/c10420p1301966694/i6729332825.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/trompeta-oqan-3-pistones-1301966694",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
       "id": "1292615926",
       "title": "iPhone 17 Pro Max 256gb",
       "price": 999.0,
@@ -7777,6 +7789,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 648,
-  "actualizado": "2026-09-15T12:01:59"
+  "total": 649,
+  "actualizado": "2026-09-15T12:31:46"
 }
