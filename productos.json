@@ -1,6 +1,66 @@
 {
   "productos": [
     {
+      "id": "1302356931",
+      "title": "Sports Island 3D Nintendo 3DS",
+      "price": 6.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lj/e1/__/c10420p1302356931/i6731280362.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/sports-island-3d-nintendo-3ds-1302356931",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1302356284",
+      "title": "Pokémon Omega Ruby Nintendo 3DS",
+      "price": 31.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lj/e0/__/c10420p1302356284/i6731277300.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/pokemon-omega-ruby-nintendo-3ds-1302356284",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1302355523",
+      "title": "Pokémon X Nintendo 3DS",
+      "price": 21.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lj/dz/__/c10420p1302355523/i6731273752.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/pokemon-x-nintendo-3ds-1302355523",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1302354542",
+      "title": "Pokémon Ultra Sol Nintendo 3DS",
+      "price": 36.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lj/dz/__/c10420p1302354542/i6731268907.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/pokemon-ultra-sol-nintendo-3ds-1302354542",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1302352210",
+      "title": "The Legend of Zelda Ocarina of Time 3D 3Ds",
+      "price": 31.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lj/dx/__/c10420p1302352210/i6731257658.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/the-legend-of-zelda-ocarina-of-time-3d-3ds-1302352210",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1302339372",
       "title": "Taladro Percutor Makita HR2230 A estrenar",
       "price": 175.0,
@@ -1091,18 +1151,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Herramientas"
-    },
-    {
-      "id": "1299875104",
-      "title": "Cámara Fotos Instantánea Instax mini 70",
-      "price": 50.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lh/wu/__/c10420p1299875104/i6719890241.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/camara-fotos-instantanea-instax-mini-70-1299875104",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Foto y Vídeo"
     },
     {
       "id": "1299866767",
@@ -2543,18 +2591,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
-    },
-    {
-      "id": "1260142795",
-      "title": "Dragon Ball: Sparking! Zero Xbox Series X",
-      "price": 23.95,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ku/98/__/c10420p1260142795/i6483939912.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/dragon-ball-sparking-zero-xbox-series-x-1260142795",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
     },
     {
       "id": "1156144472",
@@ -7837,6 +7873,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 653,
-  "actualizado": "2026-09-16T13:01:50"
+  "total": 656,
+  "actualizado": "2026-09-16T13:31:48"
 }
