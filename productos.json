@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1302307504",
+      "title": "Consola Nintendo 3DS XL",
+      "price": 175.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lj/cy/__/c10420p1302307504/i6731048954.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/consola-nintendo-3ds-xl-1302307504",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1302303794",
+      "title": "Proyector Led Xiaomi L1 Pro",
+      "price": 199.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lj/cw/__/c10420p1302303794/i6731031117.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/proyector-xiaomi-l1-pro-1302303794",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
       "id": "1267259235",
       "title": "Juego Vajilla 19 Piezas Myott Toquin",
       "price": 129.0,
@@ -7765,6 +7789,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 647,
-  "actualizado": "2026-09-16T11:02:01"
+  "total": 649,
+  "actualizado": "2026-09-16T11:31:46"
 }
