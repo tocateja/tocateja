@@ -49,18 +49,6 @@
       "category": "Móviles y Smartwatches"
     },
     {
-      "id": "1301976943",
-      "title": "Huawei FreeBuds SE 4 ANC Precintados",
-      "price": 36.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lj/5v/__/c10420p1301976943/i6729384469.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/huawei-freebuds-se-4-anc-precintados-1301976943",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
-    },
-    {
       "id": "1292615926",
       "title": "iPhone 17 Pro Max 256gb",
       "price": 999.0,
@@ -143,18 +131,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1301627060",
-      "title": "Grip para Nintendo Switch Fr Tec",
-      "price": 16.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/li/yd/__/c10420p1301627060/i6727742513.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/grip-para-nintendo-switch-fr-tec-1301627060",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
     },
     {
       "id": "1301625034",
@@ -887,18 +863,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Foto y Vídeo"
-    },
-    {
-      "id": "1295457849",
-      "title": "Vinilo Luis Eduardo Aute - 20 Canciones de Amor",
-      "price": 11.5,
-      "currency": "EUR",
-      "status": "reserved",
-      "image": "https://cdn.wallapop.com/images/10420/lf/a5/__/c10420p1295457849/i6698528428.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/vinilo-luis-eduardo-aute-20-canciones-de-amor-1295457849",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
     },
     {
       "id": "1266664915",
@@ -7801,6 +7765,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 650,
-  "actualizado": "2026-09-16T10:31:46"
+  "total": 647,
+  "actualizado": "2026-09-16T11:02:01"
 }
