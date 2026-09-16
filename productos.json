@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1302339372",
+      "title": "Taladro Percutor Makita HR2230 A estrenar",
+      "price": 175.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lj/dn/__/c10420p1302339372/i6731196098.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/taladro-percutor-makita-hr2230-a-estrenar-1302339372",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Herramientas"
+    },
+    {
       "id": "1302333045",
       "title": "Arrancador Batería Coche 12V START",
       "price": 30.5,
@@ -7825,6 +7837,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 652,
-  "actualizado": "2026-09-16T12:31:49"
+  "total": 653,
+  "actualizado": "2026-09-16T13:01:50"
 }
