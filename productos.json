@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1302333045",
+      "title": "Arrancador Batería Coche 12V START",
+      "price": 30.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lj/di/__/c10420p1302333045/i6731166994.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/arrancador-bateria-coche-12v-start-1302333045",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Motor"
+    },
+    {
+      "id": "1302327036",
+      "title": "Tablet Honor Pad X8A",
+      "price": 89.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lj/dd/__/c10420p1302327036/i6731139581.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/honor-pad-x8a-1302327036",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
       "id": "1302321791",
       "title": "Samsung Galaxy Watch 6 Precintado",
       "price": 119.0,
@@ -7801,6 +7825,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 650,
-  "actualizado": "2026-09-16T12:01:46"
+  "total": 652,
+  "actualizado": "2026-09-16T12:31:49"
 }
