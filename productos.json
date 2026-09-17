@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1302810375",
+      "title": "Consola Nintendo switch 2",
+      "price": 395.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lj/nq/__/c10420p1302810375/i6735845178.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/consola-nintendo-switch-2-1302810375",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1302802271",
+      "title": "Alisia Dragoon Sega Mega Drive",
+      "price": 41.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lj/nk/__/c10420p1302802271/i6735779570.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/alisia-dragoon-sega-mega-drive-1302802271",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
       "id": "1302801027",
       "title": "Golden Axe II Sega Mega Drive",
       "price": 41.5,
@@ -728,18 +752,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/li/j3/__/c10420p1300913550/i6724735776.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/vinilo-fausto-papetti-sax-alto-la-raccolta-1300913550",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
-    },
-    {
-      "id": "1300869198",
-      "title": "Vinilo Speedy J Pullover Remixes Techno",
-      "price": 6.5,
-      "currency": "EUR",
-      "status": "reserved",
-      "image": "https://cdn.wallapop.com/images/10420/li/i5/__/c10420p1300869198/i6724551478.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/vinilo-speedy-j-pullover-remixes-techno-1300869198",
       "location": "Pamplona",
       "condition": "",
       "category": "Música e Instrumentos"
@@ -7813,6 +7825,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 651,
-  "actualizado": "2026-09-17T13:01:57"
+  "total": 652,
+  "actualizado": "2026-09-17T13:31:47"
 }
