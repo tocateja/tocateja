@@ -1,6 +1,42 @@
 {
   "productos": [
     {
+      "id": "1302354542",
+      "title": "Pokémon Ultra Sol Nintendo 3DS",
+      "price": 36.5,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/lj/dz/__/c10420p1302354542/i6731268907.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/pokemon-ultra-sol-nintendo-3ds-1302354542",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1302817636",
+      "title": "Prismáticos Bushnell Prime 10x42 + Funda",
+      "price": 135.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lj/nw/__/c10420p1302817636/i6735893209.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/prismaticos-bushnell-prime-10x42---funda-1302817636",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Deporte"
+    },
+    {
+      "id": "1302814432",
+      "title": "Estuche Nintendo Switch",
+      "price": 21.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lj/nu/__/c10420p1302814432/i6735873690.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/estuche-nintendo-switch-1302814432",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
       "id": "1302810375",
       "title": "Consola Nintendo switch 2",
       "price": 395.0,
@@ -104,18 +140,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/lj/dz/__/c10420p1302355523/i6731273752.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/pokemon-x-nintendo-3ds-1302355523",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
-      "id": "1302354542",
-      "title": "Pokémon Ultra Sol Nintendo 3DS",
-      "price": 36.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lj/dz/__/c10420p1302354542/i6731268907.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/pokemon-ultra-sol-nintendo-3ds-1302354542",
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
@@ -623,18 +647,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Música e Instrumentos"
-    },
-    {
-      "id": "1118848755",
-      "title": "LEGO STAR WARS II THE ORIGINAL TRILOGY GB ADVANCE",
-      "price": 6.0,
-      "currency": "EUR",
-      "status": "reserved",
-      "image": "https://cdn.wallapop.com/images/10420/ii/4t/__/c10420p1118848755/i5534355538.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/lego-star-wars-ii-the-original-trilogy-gb-advance-1118848755",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Juguetes"
     },
     {
       "id": "1300928154",
@@ -7825,6 +7837,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 652,
-  "actualizado": "2026-09-17T13:31:47"
+  "total": 653,
+  "actualizado": "2026-09-17T14:01:46"
 }
