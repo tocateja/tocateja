@@ -1,6 +1,126 @@
 {
   "productos": [
     {
+      "id": "1302913413",
+      "title": "Consola Nintendo 3DS Rosa + Funda",
+      "price": 199.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lj/py/__/c10420p1302913413/i6736396500.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/consola-nintendo-3ds-rosa---funda-1302913413",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1302911640",
+      "title": "Pokémon Pokopia Nintendo Switch 2",
+      "price": 52.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lj/px/__/c10420p1302911640/i6736386008.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/pokemon-pokopia-nintendo-switch-2-1302911640",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1302910769",
+      "title": "Donkey Kong Bananza Nintendo switch 2",
+      "price": 52.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lj/pw/__/c10420p1302910769/i6736382271.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/donkey-kong-bananza-nintendo-switch-2-1302910769",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1302909352",
+      "title": "Gran Turismo 7 PS4",
+      "price": 36.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lj/pv/__/c10420p1302909352/i6736375046.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/gran-turismo-7-ps4-1302909352",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1302903106",
+      "title": "Disney Tarzán PlayStation Platinum PS1",
+      "price": 36.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lj/pq/__/c10420p1302903106/i6736341156.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/disney-tarzan-playstation-platinum-ps1-1302903106",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1302900597",
+      "title": "Dino Crisis PS1 (PlayStation 1)",
+      "price": 100.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lj/po/__/c10420p1302900597/i6736329032.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/dino-crisis-ps1-playstation-1-1302900597",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1302896026",
+      "title": "Ace Combat 3 Electrosphere PS1",
+      "price": 21.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lj/pl/__/c10420p1302896026/i6736307164.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/ace-combat-3-electrosphere-ps1-1302896026",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1302897605",
+      "title": "Air Combat PS1 (PlayStation)",
+      "price": 21.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lj/pm/__/c10420p1302897605/i6736314688.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/air-combat-ps1-playstation-1302897605",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1302894116",
+      "title": "Juego PS1 Bichos: Una Aventura en Miniatura",
+      "price": 36.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lj/pj/__/c10420p1302894116/i6736298409.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/juego-ps1-bichos-una-aventura-en-miniatura-1302894116",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1302891533",
+      "title": "Colin McRae Rally PS1 (PlayStation 1)",
+      "price": 16.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lj/ph/__/c10420p1302891533/i6736285464.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/colin-mcrae-rally-ps1-playstation-1-1302891533",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
       "id": "1302889345",
       "title": "Mando Pokémon Hori Nintendo switch 2/ Pc",
       "price": 17.5,
@@ -7873,6 +7993,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 656,
-  "actualizado": "2026-09-17T17:01:45"
+  "total": 666,
+  "actualizado": "2026-09-17T18:01:45"
 }
