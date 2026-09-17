@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1302792455",
+      "title": "Sega Mega Drive Streets of Rage 2",
+      "price": 31.5,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/lj/nd/__/c10420p1302792455/i6735719894.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/sega-mega-drive-streets-of-rage-2-1302792455",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
       "id": "1302354542",
       "title": "Pokémon Ultra Sol Nintendo 3DS",
       "price": 36.5,
@@ -92,18 +104,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/lj/ne/__/c10420p1302794423/i6735731554.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/mega-games-i-sega-mega-drive-1302794423",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
-      "id": "1302792455",
-      "title": "Sega Mega Drive Streets of Rage 2",
-      "price": 31.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lj/nd/__/c10420p1302792455/i6735719894.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/sega-mega-drive-streets-of-rage-2-1302792455",
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
@@ -7838,5 +7838,5 @@
     }
   ],
   "total": 653,
-  "actualizado": "2026-09-17T14:01:46"
+  "actualizado": "2026-09-17T14:31:48"
 }
