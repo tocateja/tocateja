@@ -1789,18 +1789,6 @@
       "category": "Electrodomésticos"
     },
     {
-      "id": "1297587725",
-      "title": "Tablet Huawei MatePad 11.5 PaperMatte Edition",
-      "price": 279.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lg/jt/__/c10420p1297587725/i6708450866.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/huawei-matepad-11-5-papermatte-edition-precintado-1297587725",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
-    },
-    {
       "id": "1297484180",
       "title": "Picadora Vintage Garhe",
       "price": 46.5,
@@ -7813,6 +7801,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 651,
-  "actualizado": "2026-09-17T11:31:48"
+  "total": 650,
+  "actualizado": "2026-09-17T12:01:45"
 }
