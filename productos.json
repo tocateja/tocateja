@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1180859808",
+      "title": "Alambre Fino Remanit  0.6mm AB HART",
+      "price": 4.0,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/jj/1x/__/c10420p1180859808/i5961474610.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/alambre-fino-remanit-0-6mm-ab-hart-1180859808",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Herramientas"
+    },
+    {
       "id": "1302918185",
       "title": "Super Mario Galaxy Nintendo wii",
       "price": 21.5,
@@ -179,18 +191,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
-    },
-    {
-      "id": "1180859808",
-      "title": "Alambre Fino Remanit  0.6mm AB HART",
-      "price": 4.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/jj/1x/__/c10420p1180859808/i5961474610.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/alambre-fino-remanit-0-6mm-ab-hart-1180859808",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Herramientas"
     },
     {
       "id": "1302792455",
@@ -1115,18 +1115,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Música e Instrumentos"
-    },
-    {
-      "id": "1246123945",
-      "title": "ALIEN EL INFORME WEYLAND YUTANI",
-      "price": 105.0,
-      "currency": "EUR",
-      "status": "reserved",
-      "image": "https://cdn.wallapop.com/images/10420/kl/wr/__/c10420p1246123945/i6393721140.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/alien-el-informe-weyland-yutani-1246123945",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
     },
     {
       "id": "1300720598",
@@ -7981,6 +7969,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 665,
-  "actualizado": "2026-09-17T18:31:45"
+  "total": 664,
+  "actualizado": "2026-09-17T19:01:46"
 }
