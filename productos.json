@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1302910769",
+      "title": "Donkey Kong Bananza Nintendo switch 2",
+      "price": 52.0,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/lj/pw/__/c10420p1302910769/i6736382271.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/donkey-kong-bananza-nintendo-switch-2-1302910769",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
       "id": "1303262620",
       "title": "Volante Hori RWA PS5/PS4/PC",
       "price": 79.95,
@@ -92,18 +104,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/lj/px/__/c10420p1302911640/i6736386008.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/pokemon-pokopia-nintendo-switch-2-1302911640",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
-      "id": "1302910769",
-      "title": "Donkey Kong Bananza Nintendo switch 2",
-      "price": 52.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lj/pw/__/c10420p1302910769/i6736382271.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/donkey-kong-bananza-nintendo-switch-2-1302910769",
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
@@ -7958,5 +7958,5 @@
     }
   ],
   "total": 663,
-  "actualizado": "2026-09-18T18:31:46"
+  "actualizado": "2026-09-18T19:01:45"
 }
