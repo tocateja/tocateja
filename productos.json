@@ -1,6 +1,54 @@
 {
   "productos": [
     {
+      "id": "1234481991",
+      "title": "Exprimidor Nexia Premium 40W 700ml",
+      "price": 13.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ke/z8/__/c10420p1234481991/i6318336861.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/exprimidor-nexia-premium-40w-700ml-1234481991",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Electrodomésticos"
+    },
+    {
+      "id": "1299624328",
+      "title": "Monitor Dell 23\" P2319H",
+      "price": 65.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lh/rg/__/c10420p1299624328/i6718228271.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/monitor-dell-p2319h-23-1299624328",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Informática"
+    },
+    {
+      "id": "1147146730",
+      "title": "Filtro Antical Lavadoras y Lavavajillas",
+      "price": 4.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/iy/zc/__/c10420p1147146730/i5758307840.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/filtro-antical-salvalavatrice-lavadoras-1147146730",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Electrodomésticos"
+    },
+    {
+      "id": "1275335738",
+      "title": "Cepillo eléctrico de volúmen Ghd",
+      "price": 75.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/av/__/c10420p1275335738/i6577075174.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/cepillo-electrico-de-volumen-ghd-1275335738",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1302910769",
       "title": "Donkey Kong Bananza Nintendo switch 2",
       "price": 52.0,
@@ -277,30 +325,6 @@
       "category": "Gaming"
     },
     {
-      "id": "1302802271",
-      "title": "Alisia Dragoon Sega Mega Drive",
-      "price": 41.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lj/nk/__/c10420p1302802271/i6735779570.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/alisia-dragoon-sega-mega-drive-1302802271",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
-      "id": "1302801027",
-      "title": "Golden Axe II Sega Mega Drive",
-      "price": 41.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lj/nj/__/c10420p1302801027/i6735773900.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/golden-axe-ii-sega-mega-drive-1302801027",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
       "id": "1302799834",
       "title": "Sonic the Hedgehog Sega Mega Drive",
       "price": 21.5,
@@ -383,18 +407,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Motor"
-    },
-    {
-      "id": "1302327036",
-      "title": "Tablet Honor Pad X8A",
-      "price": 89.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lj/dd/__/c10420p1302327036/i6731139581.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/honor-pad-x8a-1302327036",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
     },
     {
       "id": "1302321791",
@@ -491,18 +503,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Herramientas"
-    },
-    {
-      "id": "1301980629",
-      "title": "Cuenco Tibetano",
-      "price": 59.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lj/5y/__/c10420p1301980629/i6729404064.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/cuenco-tibetano-1301980629",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
     },
     {
       "id": "1301978420",
@@ -1585,18 +1585,6 @@
       "category": "Música e Instrumentos"
     },
     {
-      "id": "1299624328",
-      "title": "Monitor Dell 23\" P2319H",
-      "price": 75.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lh/rg/__/c10420p1299624328/i6718228271.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/monitor-dell-p2319h-23-1299624328",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Informática"
-    },
-    {
       "id": "1275960657",
       "title": "Monitor Dell LED 24\"",
       "price": 85.0,
@@ -2197,18 +2185,6 @@
       "category": "Móviles y Smartwatches"
     },
     {
-      "id": "1275335738",
-      "title": "Cepillo eléctrico de volúmen Ghd",
-      "price": 75.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l3/av/__/c10420p1275335738/i6577075174.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/cepillo-electrico-de-volumen-ghd-1275335738",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
       "id": "1256620729",
       "title": "Lámpara LED portátil Sompex Pebble dorada",
       "price": 59.95,
@@ -2339,18 +2315,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Música e Instrumentos"
-    },
-    {
-      "id": "1234481991",
-      "title": "Exprimidor Nexia Premium 40W 700ml",
-      "price": 13.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ke/z8/__/c10420p1234481991/i6318336861.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/exprimidor-nexia-premium-40w-700ml-1234481991",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Electrodomésticos"
     },
     {
       "id": "1258220512",
@@ -5401,18 +5365,6 @@
       "category": "Móviles y Smartwatches"
     },
     {
-      "id": "1250411734",
-      "title": "Pedal efectos acústicos Zoom A2.1u",
-      "price": 79.95,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ko/gn/__/c10420p1250411734/i6422573087.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/pedal-efectos-acusticos-zoom-a2-1u-1250411734",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
-    },
-    {
       "id": "1289000075",
       "title": "Micrófono de condensador Tonor Tc20",
       "price": 52.0,
@@ -6539,18 +6491,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Herramientas"
-    },
-    {
-      "id": "1219952031",
-      "title": "Reloj Sandoz Cerámica Blanco y cobre",
-      "price": 145.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/k6/bt/__/c10420p1219952031/i6224082819.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/reloj-sandoz-ceramica-blanco-y-cobre-1219952031",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Joyería y Complementos"
     },
     {
       "id": "1273952385",
@@ -7921,18 +7861,6 @@
       "category": "Informática"
     },
     {
-      "id": "1147146730",
-      "title": "Filtro Antical Lavadoras y Lavavajillas",
-      "price": 6.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/iy/zc/__/c10420p1147146730/i5758307840.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/filtro-antical-salvalavatrice-lavadoras-1147146730",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Electrodomésticos"
-    },
-    {
       "id": "1139530486",
       "title": "iPhone 14 Pro Max 512GB",
       "price": 765.0,
@@ -7957,6 +7885,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 663,
-  "actualizado": "2026-09-19T08:02:04"
+  "total": 657,
+  "actualizado": "2026-09-19T14:02:00"
 }
