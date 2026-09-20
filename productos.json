@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1295479474",
+      "title": "Vinilo Duncan Dhu Canciones",
+      "price": 11.5,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/lf/am/__/c10420p1295479474/i6698630565.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vinilo-duncan-dhu-canciones-1295479474",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
       "id": "1231688176",
       "title": "Auriculares Inalámbricos Sennheiser RS 165 TV",
       "price": 58.95,
@@ -110,7 +122,7 @@
     },
     {
       "id": "1251090824",
-      "title": "Destacado",
+      "title": "Portátil HP Elitebook 8 G1i 16 PRECINTADO",
       "price": 1195.0,
       "currency": "EUR",
       "status": "available",
@@ -118,7 +130,7 @@
       "url": "https://es.wallapop.com/item/portatil-hp-elitebook-8-g1i-16-1251090824",
       "location": "Pamplona",
       "condition": "",
-      "category": "Otros"
+      "category": "Libros, Cómics y Revistas"
     },
     {
       "id": "1302352210",
@@ -2516,18 +2528,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/lf/ao/__/c10420p1295481871/i6698640698.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/vinilo-kenny-g-breathless-jazz-1295481871",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
-    },
-    {
-      "id": "1295479474",
-      "title": "Vinilo Duncan Dhu Canciones",
-      "price": 11.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lf/am/__/c10420p1295479474/i6698630565.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/vinilo-duncan-dhu-canciones-1295479474",
       "location": "Pamplona",
       "condition": "",
       "category": "Música e Instrumentos"
@@ -7874,5 +7874,5 @@
     }
   ],
   "total": 656,
-  "actualizado": "2026-09-20T14:02:05"
+  "actualizado": "2026-09-20T20:01:46"
 }
