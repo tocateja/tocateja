@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1231688176",
+      "title": "Auriculares Inalámbricos Sennheiser RS 165 TV",
+      "price": 58.95,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/kd/bc/__/c10420p1231688176/i6299594142.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/auriculares-inalambricos-sennheiser-rs-165-tv-1231688176",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "TV y Audio"
+    },
+    {
       "id": "1295709838",
       "title": "Vinilo Hombres G Maxi Single",
       "price": 11.5,
@@ -3287,18 +3299,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
-    },
-    {
-      "id": "1231688176",
-      "title": "Auriculares Inalámbricos Sennheiser RS 165 TV",
-      "price": 58.95,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kd/bc/__/c10420p1231688176/i6299594142.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/auriculares-inalambricos-sennheiser-rs-165-tv-1231688176",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "TV y Audio"
     },
     {
       "id": "1278237850",
@@ -7874,5 +7874,5 @@
     }
   ],
   "total": 656,
-  "actualizado": "2026-09-19T20:01:56"
+  "actualizado": "2026-09-20T02:02:10"
 }
