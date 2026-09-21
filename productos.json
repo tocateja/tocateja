@@ -2305,18 +2305,6 @@
       "category": "Móviles y Smartwatches"
     },
     {
-      "id": "1296011479",
-      "title": "Vinilo Osibisa World Music",
-      "price": 11.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lf/m0/__/c10420p1296011479/i6701110391.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/vinilo-osibisa-world-music-1296011479",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
-    },
-    {
       "id": "1296009637",
       "title": "Vinilo Alameda Flamenco",
       "price": 11.5,
@@ -7873,6 +7861,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 656,
-  "actualizado": "2026-09-21T12:31:46"
+  "total": 655,
+  "actualizado": "2026-09-21T13:01:45"
 }
