@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1304173282",
+      "title": "Cámara compacta exteriores OM SYSTEM TG-7",
+      "price": 275.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lk/gy/__/c10420p1304173282/i6743328065.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/camara-compacta-exteriores-om-system-tg-7-1304173282",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Foto y Vídeo"
+    },
+    {
       "id": "1253562470",
       "title": "CD U.D.O. - Touchdown",
       "price": 20.5,
@@ -2156,18 +2168,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/lg/ge/__/c10420p1297429277/i6707723918.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/camara-exterior-alarma-com-precintado-1297429277",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Foto y Vídeo"
-    },
-    {
-      "id": "1297427765",
-      "title": "Cámara Vigilancia Ctronics",
-      "price": 26.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lg/gd/__/c10420p1297427765/i6707716587.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/camara-vigilancia-ctronics-1297427765",
       "location": "Pamplona",
       "condition": "",
       "category": "Foto y Vídeo"
@@ -7874,5 +7874,5 @@
     }
   ],
   "total": 656,
-  "actualizado": "2026-09-21T11:31:47"
+  "actualizado": "2026-09-21T12:01:46"
 }
