@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1304660547",
+      "title": "Oppo A5 128GB 4RAM",
+      "price": 95.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lk/re/__/c10420p1304660547/i6746078571.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/oppo-a5-128gb-4ram-1304660547",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
       "id": "1304173282",
       "title": "Cámara compacta exteriores OM SYSTEM TG-7",
       "price": 275.0,
@@ -7861,6 +7873,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 655,
-  "actualizado": "2026-09-22T16:31:34"
+  "total": 656,
+  "actualizado": "2026-09-22T17:01:32"
 }
