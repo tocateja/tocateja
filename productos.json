@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1304562416",
+      "title": "Grabadora DVD Externa HP dvd1170 LightScribe",
+      "price": 30.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lk/pa/__/c10420p1304562416/i6745584024.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/grabadora-dvd-externa-hp-dvd1170-lightscribe-1304562416",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1304558738",
+      "title": "Libro electronico onyx boox GO 7",
+      "price": 190.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lk/p7/__/c10420p1304558738/i6745565876.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/libro-electronico-onyx-boox-go-7-1304558738",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
       "id": "1304552370",
       "title": "Auriculares Motorola Moto Buds 2 Bluetooth Negros",
       "price": 65.0,
@@ -3169,18 +3193,6 @@
       "category": "Otros"
     },
     {
-      "id": "1294235891",
-      "title": "Altavoz Autoamplificado Vonyx  Verver 1000W",
-      "price": 199.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/le/jy/__/c10420p1294235891/i6692929853.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/altavoz-autoamplificado-vonyx-verver-1000w-1294235891",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
-    },
-    {
       "id": "781663189",
       "title": "TOCATEJA",
       "price": 0.0,
@@ -4940,18 +4952,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/l5/1a/__/c10420p1278247534/i6595697963.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/sneakers-camuflaje-raw-vintage-1278247534",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Antigüedades y Coleccionismo"
-    },
-    {
-      "id": "1278251568",
-      "title": "Sneakers Camuflaje Raw Vintage",
-      "price": 9.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l5/1d/__/c10420p1278251568/i6595751008.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/sneakers-camuflaje-raw-vintage-1278251568",
       "location": "Pamplona",
       "condition": "",
       "category": "Antigüedades y Coleccionismo"
@@ -7850,5 +7850,5 @@
     }
   ],
   "total": 654,
-  "actualizado": "2026-09-22T12:31:35"
+  "actualizado": "2026-09-22T13:01:34"
 }
