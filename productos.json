@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1300926628",
+      "title": "Vinilo Fausto Papetti 9ª Raccolta Sax Alto",
+      "price": 10.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/li/jd/__/c10420p1300926628/i6724788973.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vinilo-fausto-papetti-9-raccolta-sax-alto-1300926628",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
       "id": "1304173282",
       "title": "Cámara compacta exteriores OM SYSTEM TG-7",
       "price": 275.0,
@@ -920,18 +932,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/li/je/__/c10420p1300928154/i6724794973.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/vinilo-fausto-papetti-10-raccolta-sax-1300928154",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
-    },
-    {
-      "id": "1300926628",
-      "title": "Vinilo Fausto Papetti 9ª Raccolta Sax Alto",
-      "price": 11.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/li/jd/__/c10420p1300926628/i6724788973.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/vinilo-fausto-papetti-9-raccolta-sax-alto-1300926628",
       "location": "Pamplona",
       "condition": "",
       "category": "Música e Instrumentos"
@@ -2303,18 +2303,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Móviles y Smartwatches"
-    },
-    {
-      "id": "1296009637",
-      "title": "Vinilo Alameda Flamenco",
-      "price": 11.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lf/lz/__/c10420p1296009637/i6701102557.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/vinilo-alameda-flamenco-1296009637",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
     },
     {
       "id": "1296006305",
@@ -4700,18 +4688,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/kz/nu/__/c10420p1269222567/i6540938134.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/antena-exterior-tdt-activa-axil-1269222567",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
-      "id": "1255369857",
-      "title": "Soporte TV Hama FIX 37-120 Max 100kg",
-      "price": 46.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kr/ex/__/c10420p1255369857/i6452554395.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/soporte-tv-hama-fix-37-120-max-100kg-1255369857",
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
@@ -7849,6 +7825,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 654,
-  "actualizado": "2026-09-22T10:01:45"
+  "total": 652,
+  "actualizado": "2026-09-22T10:31:46"
 }
