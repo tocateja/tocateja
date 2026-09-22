@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1304572782",
+      "title": "Consola Nintendo Switch Azul y Rosa",
+      "price": 139.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lk/pi/__/c10420p1304572782/i6745635713.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/consola-nintendo-switch-azul-y-rosa-1304572782",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
       "id": "1304562416",
       "title": "Grabadora DVD Externa HP dvd1170 LightScribe",
       "price": 30.5,
@@ -7849,6 +7861,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 654,
-  "actualizado": "2026-09-22T13:01:34"
+  "total": 655,
+  "actualizado": "2026-09-22T13:31:34"
 }
