@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1304173282",
+      "title": "Cámara compacta exteriores OM SYSTEM TG-7",
+      "price": 275.0,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/lk/gy/__/c10420p1304173282/i6743328065.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/camara-compacta-exteriores-om-system-tg-7-1304173282",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Foto y Vídeo"
+    },
+    {
       "id": "1304572782",
       "title": "Consola Nintendo Switch Azul y Rosa",
       "price": 139.0,
@@ -71,18 +83,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Música e Instrumentos"
-    },
-    {
-      "id": "1304173282",
-      "title": "Cámara compacta exteriores OM SYSTEM TG-7",
-      "price": 275.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lk/gy/__/c10420p1304173282/i6743328065.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/camara-compacta-exteriores-om-system-tg-7-1304173282",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Foto y Vídeo"
     },
     {
       "id": "1253562470",
@@ -7862,5 +7862,5 @@
     }
   ],
   "total": 655,
-  "actualizado": "2026-09-22T16:01:33"
+  "actualizado": "2026-09-22T16:31:34"
 }
