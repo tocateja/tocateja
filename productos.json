@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1304552370",
+      "title": "Auriculares Motorola Moto Buds 2 Bluetooth Negros",
+      "price": 65.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lk/p3/__/c10420p1304552370/i6745531695.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/auriculares-motorola-moto-buds-2-bluetooth-negros-1304552370",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
+      "id": "1304550656",
+      "title": "Motorola Edge 70",
+      "price": 349.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lk/p1/__/c10420p1304550656/i6745522661.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/motorola-edge-70-1304550656",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
       "id": "1300926628",
       "title": "Vinilo Fausto Papetti 9ª Raccolta Sax Alto",
       "price": 10.0,
@@ -7825,6 +7849,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 652,
-  "actualizado": "2026-09-22T12:01:36"
+  "total": 654,
+  "actualizado": "2026-09-22T12:31:35"
 }
