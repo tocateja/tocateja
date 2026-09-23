@@ -637,18 +637,6 @@
       "category": "Herramientas"
     },
     {
-      "id": "1301978420",
-      "title": "Smartband Huawei Band 11 Precintado",
-      "price": 38.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lj/5w/__/c10420p1301978420/i6729391010.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/smartband-huawei-band-11-precintado-1301978420",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
-    },
-    {
       "id": "1292615926",
       "title": "iPhone 17 Pro Max 256gb",
       "price": 999.0,
@@ -7837,6 +7825,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 653,
-  "actualizado": "2026-09-23T11:01:33"
+  "total": 652,
+  "actualizado": "2026-09-23T11:31:35"
 }
