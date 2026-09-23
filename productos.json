@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1304939247",
+      "title": "Portátil Lenovo ThinkPad L14 5GEN Negro",
+      "price": 590.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lk/xd/__/c10420p1304939247/i6747650186.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/portatil-lenovo-thinkpad-l14-5gen-negro-1304939247",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Informática"
+    },
+    {
       "id": "1290440667",
       "title": "Ahuyentador de alimañas Weitech Ultrasonic",
       "price": 36.5,
@@ -7825,6 +7837,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 652,
-  "actualizado": "2026-09-23T12:01:34"
+  "total": 653,
+  "actualizado": "2026-09-23T12:31:36"
 }
