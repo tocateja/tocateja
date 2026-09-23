@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1304951743",
+      "title": "Samsung Galaxy S24 Ultra Negro",
+      "price": 599.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lk/xn/__/c10420p1304951743/i6747714209.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/samsung-galaxy-s24-ultra-negro-1304951743",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
+      "id": "1304946316",
+      "title": "iPhone 17 256GB Negro",
+      "price": 849.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lk/xj/__/c10420p1304946316/i6747687175.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/iphone-17-256gb-negro-1304946316",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
       "id": "1304939247",
       "title": "Portátil Lenovo ThinkPad L14 5GEN Negro",
       "price": 590.0,
@@ -203,18 +227,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1302910769",
-      "title": "Donkey Kong Bananza Nintendo switch 2",
-      "price": 52.0,
-      "currency": "EUR",
-      "status": "reserved",
-      "image": "https://cdn.wallapop.com/images/10420/lj/pw/__/c10420p1302910769/i6736382271.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/donkey-kong-bananza-nintendo-switch-2-1302910769",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
     },
     {
       "id": "1303262620",
@@ -7837,6 +7849,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 653,
-  "actualizado": "2026-09-23T12:31:36"
+  "total": 654,
+  "actualizado": "2026-09-23T13:01:34"
 }
