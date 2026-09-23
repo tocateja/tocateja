@@ -4153,18 +4153,6 @@
       "category": "Música e Instrumentos"
     },
     {
-      "id": "1223386553",
-      "title": "Vinilo Mozart Concierto para Flauta y Oboe",
-      "price": 4.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/k8/df/__/c10420p1223386553/i6243311546.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/vinilo-mozart-concierto-para-flauta-y-oboe-1223386553",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
-    },
-    {
       "id": "1223372606",
       "title": "Vinilo Vivaldi, Carulli, Giuliani",
       "price": 4.0,
@@ -4220,30 +4208,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/k8/d2/__/c10420p1223370573/i6243229943.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/vinilo-antonio-vivaldi-concerti-con-organo-1223370573",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
-    },
-    {
-      "id": "1223371606",
-      "title": "Vinilo Herbert von Karajan - La Consagración",
-      "price": 4.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/k8/d3/__/c10420p1223371606/i6243235267.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/vinilo-herbert-von-karajan-la-consagracion-1223371606",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
-    },
-    {
-      "id": "1223369473",
-      "title": "Vinilo Beethoven Sinfonía Nº6 Pastoral",
-      "price": 4.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/k8/d1/__/c10420p1223369473/i6243222860.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/vinilo-beethoven-sinfonia-n6-pastoral-1223369473",
       "location": "Pamplona",
       "condition": "",
       "category": "Música e Instrumentos"
@@ -7849,6 +7813,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 654,
-  "actualizado": "2026-09-23T19:01:35"
+  "total": 651,
+  "actualizado": "2026-09-23T19:31:36"
 }
