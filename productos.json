@@ -1393,18 +1393,6 @@
       "category": "Gaming"
     },
     {
-      "id": "1178558745",
-      "title": "Batería Para Beaulieu 5008S Bloc Accus 500MA",
-      "price": 15.5,
-      "currency": "EUR",
-      "status": "reserved",
-      "image": "https://cdn.wallapop.com/images/10420/jh/ol/__/c10420p1178558745/i5949852799.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/bateria-beaulieu-5008s-bloc-accus-500ma-1178558745",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Foto y Vídeo"
-    },
-    {
       "id": "1266664915",
       "title": "Ajedrez Azteca Resina Años 80",
       "price": 110.0,
@@ -2708,18 +2696,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/lf/7o/__/c10420p1295342241/i6698013920.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/vinilo-the-buddy-holly-story-vol-ii-1295342241",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
-    },
-    {
-      "id": "1295339773",
-      "title": "Vinilo Asia Alpha",
-      "price": 17.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lf/7m/__/c10420p1295339773/i6698002840.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/vinilo-asia-alpha-1295339773",
       "location": "Pamplona",
       "condition": "",
       "category": "Música e Instrumentos"
@@ -7873,6 +7849,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 656,
-  "actualizado": "2026-09-23T18:31:37"
+  "total": 654,
+  "actualizado": "2026-09-23T19:01:35"
 }
