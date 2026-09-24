@@ -853,30 +853,6 @@
       "category": "Música e Instrumentos"
     },
     {
-      "id": "1300880460",
-      "title": "Elvis Para los más  Españoles Vinilo",
-      "price": 6.5,
-      "currency": "EUR",
-      "status": "reserved",
-      "image": "https://cdn.wallapop.com/images/10420/li/id/__/c10420p1300880460/i6724599024.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/elvis-para-los-mas-espanoles-vinilo-1300880460",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
-    },
-    {
-      "id": "1300230288",
-      "title": "Vinilo Noches de Blanco Satén - Baladas",
-      "price": 7.5,
-      "currency": "EUR",
-      "status": "reserved",
-      "image": "https://cdn.wallapop.com/images/10420/li/4g/__/c10420p1300230288/i6721626691.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/vinilo-noches-de-blanco-saten-baladas-1300230288",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
-    },
-    {
       "id": "1301601040",
       "title": "Vinilo Fausto Papetti 24ª Raccolta Sax",
       "price": 11.5,
@@ -7777,6 +7753,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 648,
-  "actualizado": "2026-09-24T18:01:44"
+  "total": 646,
+  "actualizado": "2026-09-24T18:31:50"
 }
