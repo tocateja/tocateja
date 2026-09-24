@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1230635831",
+      "title": "Set 5 Ruedas Silla Oficina WEWILL",
+      "price": 9.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kc/os/__/c10420p1230635831/i6293654206.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/set-5-ruedas-silla-oficina-wewill-1230635831",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Hogar"
+    },
+    {
       "id": "1305039577",
       "title": "Gran Turismo 7 (PS5)",
       "price": 32.0,
@@ -4717,18 +4729,6 @@
       "category": "Otros"
     },
     {
-      "id": "1261806306",
-      "title": "Reproductor CD Denon DCD-590 con mando",
-      "price": 62.95,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kv/8v/__/c10420p1261806306/i6494229765.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/reproductor-cd-denon-dcd-590-con-mando-1261806306",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
-    },
-    {
       "id": "1181095546",
       "title": "Reposapiés Fellowes",
       "price": 8.5,
@@ -4943,18 +4943,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Antigüedades y Coleccionismo"
-    },
-    {
-      "id": "1230635831",
-      "title": "Set 5 Ruedas Silla Oficina WEWILL",
-      "price": 9.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kc/os/__/c10420p1230635831/i6293654206.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/set-5-ruedas-silla-oficina-wewill-1230635831",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Hogar"
     },
     {
       "id": "1265357555",
@@ -7321,18 +7309,6 @@
       "category": "Hogar"
     },
     {
-      "id": "1168706687",
-      "title": "3 ovillos lana - Colores pastel",
-      "price": 4.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/jb/tf/__/c10420p1168706687/i5895696444.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/3-ovillos-lana-colores-pastel-1168706687",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Moda"
-    },
-    {
       "id": "1269283771",
       "title": "Silla giratoria para bañera Ayudas Dinámicas",
       "price": 31.5,
@@ -7813,6 +7789,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 651,
-  "actualizado": "2026-09-24T10:01:36"
+  "total": 649,
+  "actualizado": "2026-09-24T10:31:36"
 }
