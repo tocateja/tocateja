@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1302339372",
+      "title": "Taladro Percutor Makita HR2230 A estrenar",
+      "price": 129.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lj/dn/__/c10420p1302339372/i6731196098.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/taladro-percutor-makita-hr2230-a-estrenar-1302339372",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Herramientas"
+    },
+    {
+      "id": "1285506471",
+      "title": "Martillo Combinado 800W Makita A estrenar",
+      "price": 139.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l9/cv/__/c10420p1285506471/i6639033898.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/martillo-combinado-800w-makita-a-estrenar-1285506471",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Herramientas"
+    },
+    {
       "id": "1220756320",
       "title": "Soldador Eléctrico 30W Pemco",
       "price": 6.5,
@@ -551,18 +575,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
-    },
-    {
-      "id": "1302339372",
-      "title": "Taladro Percutor Makita HR2230 A estrenar",
-      "price": 175.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lj/dn/__/c10420p1302339372/i6731196098.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/taladro-percutor-makita-hr2230-a-estrenar-1302339372",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Herramientas"
     },
     {
       "id": "1302333045",
@@ -2132,18 +2144,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/l9/op/__/c10420p1286058546/i6642272722.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/martillo-perforador-bosch-1286058546",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Herramientas"
-    },
-    {
-      "id": "1285506471",
-      "title": "Martillo Combinado 800W Makita A estrenar",
-      "price": 129.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l9/cv/__/c10420p1285506471/i6639033898.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/martillo-combinado-800w-makita-a-estrenar-1285506471",
       "location": "Pamplona",
       "condition": "",
       "category": "Herramientas"
@@ -7658,5 +7658,5 @@
     }
   ],
   "total": 638,
-  "actualizado": "2026-09-25T12:31:32"
+  "actualizado": "2026-09-25T13:01:31"
 }
