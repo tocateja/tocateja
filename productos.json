@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1299524163",
+      "title": "Disco VHS El Nombre de la Rosa",
+      "price": 6.5,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/lh/pb/__/c10420p1299524163/i6717767593.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/disco-vhs-el-nombre-de-la-rosa-1299524163",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
       "id": "1305694525",
       "title": "Baraja cartas tarot  Rosa Mística - Oraculo",
       "price": 9.5,
@@ -656,18 +668,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/lj/e1/__/c10420p1302356931/i6731280362.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/sports-island-3d-nintendo-3ds-1302356931",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
-      "id": "1302355523",
-      "title": "Pokémon X Nintendo 3DS",
-      "price": 21.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lj/dz/__/c10420p1302355523/i6731273752.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/pokemon-x-nintendo-3ds-1302355523",
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
@@ -1868,18 +1868,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/lh/pc/__/c10420p1299525844/i6717775745.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/vhs-expediente-1-the-x-files-1299525844",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1299524163",
-      "title": "Disco VHS El Nombre de la Rosa",
-      "price": 6.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lh/pb/__/c10420p1299524163/i6717767593.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/disco-vhs-el-nombre-de-la-rosa-1299524163",
       "location": "Pamplona",
       "condition": "",
       "category": "Libros, Cómics y Revistas"
@@ -7753,6 +7741,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 646,
-  "actualizado": "2026-09-25T17:01:36"
+  "total": 645,
+  "actualizado": "2026-09-25T17:31:35"
 }
