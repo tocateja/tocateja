@@ -349,18 +349,6 @@
       "category": "Gaming"
     },
     {
-      "id": "1302913413",
-      "title": "Consola Nintendo 3DS Rosa + Funda",
-      "price": 199.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lj/py/__/c10420p1302913413/i6736396500.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/consola-nintendo-3ds-rosa---funda-1302913413",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
       "id": "1302911640",
       "title": "Pokémon Pokopia Nintendo Switch 2",
       "price": 52.0,
@@ -548,18 +536,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/lj/e1/__/c10420p1302356931/i6731280362.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/sports-island-3d-nintendo-3ds-1302356931",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
-      "id": "1302356284",
-      "title": "Pokémon Omega Ruby Nintendo 3DS",
-      "price": 31.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lj/e0/__/c10420p1302356284/i6731277300.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/pokemon-omega-ruby-nintendo-3ds-1302356284",
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
@@ -7729,6 +7705,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 644,
-  "actualizado": "2026-09-25T10:31:36"
+  "total": 642,
+  "actualizado": "2026-09-25T11:01:40"
 }
