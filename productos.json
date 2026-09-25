@@ -1,6 +1,78 @@
 {
   "productos": [
     {
+      "id": "1305692727",
+      "title": "Baraja cartas tarot Oráculo de la Sabiduría",
+      "price": 14.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ll/di/__/c10420p1305692727/i6751880064.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/baraja-cartas-tarot-oraculo-de-la-sabiduria-1305692727",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1305691443",
+      "title": "Baraja cartas tarot El Árbol de la Vida ORACULO",
+      "price": 12.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ll/dh/__/c10420p1305691443/i6751872314.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/baraja-cartas-tarot-el-arbol-de-la-vida-oraculo-1305691443",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1305689692",
+      "title": "Baraja de Cartas Astro Crush",
+      "price": 12.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ll/dg/__/c10420p1305689692/i6751863096.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/baraja-de-cartas-astro-crush-1305689692",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1305688164",
+      "title": "Cartas Oráculo La Bruja Verde",
+      "price": 12.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ll/df/__/c10420p1305688164/i6751853458.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/cartas-oraculo-la-bruja-verde-1305688164",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1305686506",
+      "title": "Baraja de Tarot y Libro Guía Wicked",
+      "price": 14.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ll/de/__/c10420p1305686506/i6751845120.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/baraja-de-tarot-y-libro-guia-wicked-1305686506",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1305684742",
+      "title": "Cartas Tarot Ángeles y Ancestros - Kyle Gray",
+      "price": 12.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ll/dc/__/c10420p1305684742/i6751835231.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/cartas-tarot-angeles-y-ancestros-kyle-gray-1305684742",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1302339372",
       "title": "Taladro Percutor Makita HR2230 A estrenar",
       "price": 129.0,
@@ -7657,6 +7729,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 638,
-  "actualizado": "2026-09-25T13:01:31"
+  "total": 644,
+  "actualizado": "2026-09-25T13:31:36"
 }
