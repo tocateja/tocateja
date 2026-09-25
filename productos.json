@@ -481,18 +481,6 @@
       "category": "Deporte"
     },
     {
-      "id": "1302814432",
-      "title": "Estuche Nintendo Switch",
-      "price": 21.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lj/nu/__/c10420p1302814432/i6735873690.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/estuche-nintendo-switch-1302814432",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
       "id": "1302810375",
       "title": "Consola Nintendo switch 2",
       "price": 395.0,
@@ -4057,18 +4045,6 @@
       "category": "Gaming"
     },
     {
-      "id": "1271536950",
-      "title": "Uncharted 3: La Traición de Drake PS3",
-      "price": 9.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l1/1g/__/c10420p1271536950/i6555311513.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/uncharted-3-la-traicion-de-drake-ps3-1271536950",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
       "id": "1230186514",
       "title": "Rabbids 3D Nintendo 3DS",
       "price": 8.5,
@@ -6133,18 +6109,6 @@
       "category": "TV y Audio"
     },
     {
-      "id": "1278266173",
-      "title": "Maleta + Neceser Debota & Lomba",
-      "price": 50.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l5/1o/__/c10420p1278266173/i6595938287.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/maleta---neceser-debota-lomba-1278266173",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
       "id": "1278257744",
       "title": "Maleta de viaje Diesport",
       "price": 26.5,
@@ -7705,6 +7669,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 642,
-  "actualizado": "2026-09-25T11:01:40"
+  "total": 639,
+  "actualizado": "2026-09-25T11:31:31"
 }
