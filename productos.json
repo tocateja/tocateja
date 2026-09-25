@@ -217,18 +217,6 @@
       "category": "Otros"
     },
     {
-      "id": "1295479474",
-      "title": "Vinilo Duncan Dhu Canciones",
-      "price": 11.5,
-      "currency": "EUR",
-      "status": "reserved",
-      "image": "https://cdn.wallapop.com/images/10420/lf/am/__/c10420p1295479474/i6698630565.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/vinilo-duncan-dhu-canciones-1295479474",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
-    },
-    {
       "id": "1231688176",
       "title": "Auriculares Inalámbricos Sennheiser RS 165 TV",
       "price": 58.95,
@@ -239,18 +227,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "TV y Audio"
-    },
-    {
-      "id": "1247223929",
-      "title": "Suzuki Melodion M-37",
-      "price": 41.5,
-      "currency": "EUR",
-      "status": "reserved",
-      "image": "https://cdn.wallapop.com/images/10420/km/kc/__/c10420p1247223929/i6399911821.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/suzuki-melodion-m-37-1247223929",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
     },
     {
       "id": "1234481991",
@@ -7753,6 +7729,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 646,
-  "actualizado": "2026-09-25T08:01:38"
+  "total": 644,
+  "actualizado": "2026-09-25T10:01:36"
 }
