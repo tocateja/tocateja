@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1220756320",
+      "title": "Soldador Eléctrico 30W Pemco",
+      "price": 6.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/k6/t1/__/c10420p1220756320/i6228324015.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/soldador-electrico-30w-pemco-1220756320",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Herramientas"
+    },
+    {
       "id": "1194259278",
       "title": "Vinilo Liza Minnelli - Results",
       "price": 5.5,
@@ -599,18 +611,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Móviles y Smartwatches"
-    },
-    {
-      "id": "1302317615",
-      "title": "Portátil Samsung Book G4",
-      "price": 450.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lj/d6/__/c10420p1302317615/i6731096693.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/portatil-samsung-book-g4-1302317615",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Informática"
     },
     {
       "id": "1302307504",
@@ -1403,18 +1403,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Música e Instrumentos"
-    },
-    {
-      "id": "1220756320",
-      "title": "Soldador Eléctrico 30W Pemco",
-      "price": 6.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/k6/t1/__/c10420p1220756320/i6228324015.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/soldador-electrico-30w-pemco-1220756320",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Herramientas"
     },
     {
       "id": "1300233293",
@@ -7669,6 +7657,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 639,
-  "actualizado": "2026-09-25T11:31:31"
+  "total": 638,
+  "actualizado": "2026-09-25T12:01:34"
 }
