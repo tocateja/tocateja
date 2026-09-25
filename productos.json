@@ -1,6 +1,42 @@
 {
   "productos": [
     {
+      "id": "1305697744",
+      "title": "Baraja Tarot de Marsella Mini",
+      "price": 12.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ll/dm/__/c10420p1305697744/i6751912402.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/baraja-tarot-de-marsella-mini-1305697744",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1305696125",
+      "title": "Baraja cartas tarot El Oráculo de la Buenaventura",
+      "price": 12.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ll/dl/__/c10420p1305696125/i6751900820.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/baraja-cartas-tarot-el-oraculo-de-la-buenaventura-1305696125",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1305694525",
+      "title": "Baraja cartas tarot  Rosa Mística - Oraculo",
+      "price": 9.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ll/dk/__/c10420p1305694525/i6751891354.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/baraja-cartas-tarot-rosa-mistica-oraculo-1305694525",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1305692727",
       "title": "Baraja cartas tarot Oráculo de la Sabiduría",
       "price": 14.0,
@@ -7729,6 +7765,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 644,
-  "actualizado": "2026-09-25T13:31:36"
+  "total": 647,
+  "actualizado": "2026-09-25T14:01:36"
 }
