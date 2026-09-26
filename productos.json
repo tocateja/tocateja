@@ -5,12 +5,24 @@
       "title": "Lote 2 Barajas de Tarot y Oráculo",
       "price": 24.0,
       "currency": "EUR",
-      "status": "available",
+      "status": "reserved",
       "image": "https://cdn.wallapop.com/images/10420/ll/j3/__/c10420p1305952896/i6753344328.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/lote-2-barajas-de-tarot-y-oraculo-1305952896",
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
+    },
+    {
+      "id": "1304558738",
+      "title": "Libro electronico onyx boox GO 7",
+      "price": 190.0,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/lk/p7/__/c10420p1304558738/i6745565876.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/libro-electronico-onyx-boox-go-7-1304558738",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
     },
     {
       "id": "1299524163",
@@ -313,18 +325,6 @@
       "category": "Libros, Cómics y Revistas"
     },
     {
-      "id": "1304558738",
-      "title": "Libro electronico onyx boox GO 7",
-      "price": 190.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lk/p7/__/c10420p1304558738/i6745565876.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/libro-electronico-onyx-boox-go-7-1304558738",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
       "id": "1304552370",
       "title": "Auriculares Motorola Moto Buds 2 Bluetooth Negros",
       "price": 65.0,
@@ -371,18 +371,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1231688176",
-      "title": "Auriculares Inalámbricos Sennheiser RS 165 TV",
-      "price": 58.95,
-      "currency": "EUR",
-      "status": "reserved",
-      "image": "https://cdn.wallapop.com/images/10420/kd/bc/__/c10420p1231688176/i6299594142.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/auriculares-inalambricos-sennheiser-rs-165-tv-1231688176",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "TV y Audio"
     },
     {
       "id": "1234481991",
@@ -7681,6 +7669,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 640,
-  "actualizado": "2026-09-26T14:01:29"
+  "total": 639,
+  "actualizado": "2026-09-26T20:01:29"
 }
