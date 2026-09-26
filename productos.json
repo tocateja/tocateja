@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1305952896",
+      "title": "Lote 2 Barajas de Tarot y Oráculo",
+      "price": 24.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ll/j3/__/c10420p1305952896/i6753344328.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/lote-2-barajas-de-tarot-y-oraculo-1305952896",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1299524163",
       "title": "Disco VHS El Nombre de la Rosa",
       "price": 6.5,
@@ -275,18 +287,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Informática"
-    },
-    {
-      "id": "1290440667",
-      "title": "Ahuyentador de alimañas Weitech Ultrasonic",
-      "price": 36.5,
-      "currency": "EUR",
-      "status": "reserved",
-      "image": "https://cdn.wallapop.com/images/10420/lc/am/__/c10420p1290440667/i6672085502.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/ahuyentador-de-alimanas-weitech-ultrasonic-1290440667",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
     },
     {
       "id": "1304572782",
@@ -620,18 +620,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/lj/nq/__/c10420p1302810375/i6735845178.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/consola-nintendo-switch-2-1302810375",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
-      "id": "1302799834",
-      "title": "Sonic the Hedgehog Sega Mega Drive",
-      "price": 21.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lj/ni/__/c10420p1302799834/i6735766301.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/sonic-the-hedgehog-sega-mega-drive-1302799834",
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
@@ -2533,18 +2521,6 @@
       "category": "Hogar"
     },
     {
-      "id": "1295652100",
-      "title": "Jarra Plateada Estilo Victoriano Metal",
-      "price": 31.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lf/eb/__/c10420p1295652100/i6699468481.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/jarra-plateada-estilo-victoriano-metal-1295652100",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
       "id": "1255376795",
       "title": "Mini cuadro creaciones artísticas",
       "price": 13.5,
@@ -3673,18 +3649,6 @@
       "category": "Otros"
     },
     {
-      "id": "1292608488",
-      "title": "Taladro Bosch EasyImpact 600 A estrenar",
-      "price": 36.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ld/l3/__/c10420p1292608488/i6684700375.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/taladro-bosch-easyimpact-600-con-maletin-1292608488",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Herramientas"
-    },
-    {
       "id": "1292605011",
       "title": "Lápiz Digital Maillon Active Pro Stylus Pen",
       "price": 26.5,
@@ -3875,18 +3839,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
-    },
-    {
-      "id": "1255597502",
-      "title": "Teléfono Vintage Lelux Gondola Rojo",
-      "price": 16.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kr/jt/__/c10420p1255597502/i6454000403.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/telefono-vintage-lelux-gondola-rojo-1255597502",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
     },
     {
       "id": "1255223660",
@@ -7729,6 +7681,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 644,
-  "actualizado": "2026-09-26T08:01:33"
+  "total": 640,
+  "actualizado": "2026-09-26T14:01:29"
 }
