@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1302894116",
+      "title": "Juego PS1 Bichos: Una Aventura en Miniatura",
+      "price": 36.5,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/lj/pj/__/c10420p1302894116/i6736298409.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/juego-ps1-bichos-una-aventura-en-miniatura-1302894116",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
       "id": "1305952896",
       "title": "Lote 2 Barajas de Tarot y Oráculo",
       "price": 24.0,
@@ -536,18 +548,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/lj/pm/__/c10420p1302897605/i6736314688.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/air-combat-ps1-playstation-1302897605",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
-      "id": "1302894116",
-      "title": "Juego PS1 Bichos: Una Aventura en Miniatura",
-      "price": 36.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lj/pj/__/c10420p1302894116/i6736298409.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/juego-ps1-bichos-una-aventura-en-miniatura-1302894116",
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
@@ -7670,5 +7670,5 @@
     }
   ],
   "total": 639,
-  "actualizado": "2026-09-27T14:01:29"
+  "actualizado": "2026-09-27T20:01:30"
 }
