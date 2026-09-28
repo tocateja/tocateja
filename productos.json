@@ -1,6 +1,54 @@
 {
   "productos": [
     {
+      "id": "1306846798",
+      "title": "Nintendo Switch Oled",
+      "price": 149.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lm/29/__/c10420p1306846798/i6757720101.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/nintendo-switch-oled-1306846798",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1306843674",
+      "title": "Bicicleta Estática BH Fitness Pro Action",
+      "price": 59.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lm/27/__/c10420p1306843674/i6757701699.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/bicicleta-estatica-bh-fitness-pro-action-1306843674",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Deporte"
+    },
+    {
+      "id": "1306841495",
+      "title": "Andador con Asiento y Freno Totalcare",
+      "price": 79.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lm/25/__/c10420p1306841495/i6757690999.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/andador-con-asiento-y-freno-totalcare-1306841495",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1306839466",
+      "title": "Rodillo Inteligente Zwift Hub Z004",
+      "price": 189.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lm/23/__/c10420p1306839466/i6757679964.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/rodillo-inteligente-zwift-hub-z004-1306839466",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1306832493",
       "title": "Auriculares Bluetooth Beats Solo Buds A estrenar",
       "price": 51.5,
@@ -7609,6 +7657,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 634,
-  "actualizado": "2026-09-28T17:31:29"
+  "total": 638,
+  "actualizado": "2026-09-28T18:01:28"
 }
