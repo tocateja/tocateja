@@ -5209,18 +5209,6 @@
       "category": "Otros"
     },
     {
-      "id": "1242425520",
-      "title": "Mini Bar Bola del Mundo Madera y Metal",
-      "price": 69.95,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kj/ph/__/c10420p1242425520/i6371157682.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/mini-bar-bola-del-mundo-madera-y-metal-1242425520",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Hogar"
-    },
-    {
       "id": "1164112922",
       "title": "Mondaine Helvetica Smart - Smartwatch",
       "price": 249.0,
@@ -7645,6 +7633,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 637,
-  "actualizado": "2026-09-28T11:01:27"
+  "total": 636,
+  "actualizado": "2026-09-28T11:31:27"
 }
