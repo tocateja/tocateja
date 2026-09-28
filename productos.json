@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1282567624",
+      "title": "Soporte Bici Canyon Bikestand",
+      "price": 31.5,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/l7/lv/__/c10420p1282567624/i6622108801.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/soporte-bici-canyon-bikestand-1282567624",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1306846798",
       "title": "Nintendo Switch Oled",
       "price": 149.0,
@@ -68,18 +80,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/lm/1w/__/c10420p1306829384/i6757624979.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/herramienta-de-aplicacion-de-bridas-hellermanntyto-1306829384",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
-      "id": "1282567624",
-      "title": "Soporte Bici Canyon Bikestand",
-      "price": 31.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l7/lv/__/c10420p1282567624/i6622108801.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/soporte-bici-canyon-bikestand-1282567624",
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
@@ -7658,5 +7658,5 @@
     }
   ],
   "total": 638,
-  "actualizado": "2026-09-28T19:31:28"
+  "actualizado": "2026-09-28T20:01:29"
 }
