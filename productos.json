@@ -85,18 +85,6 @@
       "category": "Otros"
     },
     {
-      "id": "1305696125",
-      "title": "Baraja cartas tarot El Oráculo de la Buenaventura",
-      "price": 12.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ll/dl/__/c10420p1305696125/i6751900820.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/baraja-cartas-tarot-el-oraculo-de-la-buenaventura-1305696125",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
       "id": "1305692727",
       "title": "Baraja cartas tarot Oráculo de la Sabiduría",
       "price": 14.0,
@@ -155,18 +143,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1305684742",
-      "title": "Cartas Tarot Ángeles y Ancestros - Kyle Gray",
-      "price": 12.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ll/dc/__/c10420p1305684742/i6751835231.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/cartas-tarot-angeles-y-ancestros-kyle-gray-1305684742",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
     },
     {
       "id": "1302339372",
@@ -7669,6 +7645,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 639,
-  "actualizado": "2026-09-28T10:01:29"
+  "total": 637,
+  "actualizado": "2026-09-28T10:31:27"
 }
