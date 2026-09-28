@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1306705220",
+      "title": "Baraja de Cartas: La Mujer Medicina - El Oráculo",
+      "price": 12.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ll/z8/__/c10420p1306705220/i6756962088.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/baraja-de-cartas-la-mujer-medicina-el-oraculo-1306705220",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1240688782",
       "title": "VHS Pinocho Los Clásicos Disney (Precintado)",
       "price": 16.5,
@@ -7633,6 +7645,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 636,
-  "actualizado": "2026-09-28T11:31:27"
+  "total": 637,
+  "actualizado": "2026-09-28T12:01:28"
 }
