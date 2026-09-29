@@ -1,6 +1,42 @@
 {
   "productos": [
     {
+      "id": "1251090824",
+      "title": "Destacado",
+      "price": 1195.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ko/v7/__/c10420p1251090824/i6427316016.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/portatil-hp-elitebook-8-g1i-16-1251090824",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1307075904",
+      "title": "Silla regulable para inodoro Etac",
+      "price": 59.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lm/76/__/c10420p1307075904/i6759040672.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/silla-regulable-para-inodoro-etac-1307075904",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Joyería y Complementos"
+    },
+    {
+      "id": "1307073658",
+      "title": "Silla de ruedas Breezy Style",
+      "price": 85.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lm/74/__/c10420p1307073658/i6759027833.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/silla-de-ruedas-breezy-style-1307073658",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Hogar"
+    },
+    {
       "id": "1240515126",
       "title": "Silla de ruedas infantil Invacare Action 3",
       "price": 99.0,
@@ -623,18 +659,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
-    },
-    {
-      "id": "1251090824",
-      "title": "Portátil HP Elitebook 8 G1i 16 PRECINTADO",
-      "price": 1195.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ko/v7/__/c10420p1251090824/i6427316016.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/portatil-hp-elitebook-8-g1i-16-1251090824",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
     },
     {
       "id": "1302352210",
@@ -5797,18 +5821,6 @@
       "category": "Electrodomésticos"
     },
     {
-      "id": "1230311716",
-      "title": "Silla de transferencia Moovy Emo A ESTRENAR",
-      "price": 125.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kc/hu/__/c10420p1230311716/i6359458202.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/silla-de-transferencia-moovy-emo-1230311716",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Hogar"
-    },
-    {
       "id": "1145170093",
       "title": "PRISMATICOS QUECHUA 6X25 A ESTRENAR",
       "price": 10.5,
@@ -7717,6 +7729,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 643,
-  "actualizado": "2026-09-29T11:31:35"
+  "total": 644,
+  "actualizado": "2026-09-29T12:01:34"
 }
