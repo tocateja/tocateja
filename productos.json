@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1306839466",
+      "title": "Rodillo Inteligente Zwift Hub Z004",
+      "price": 189.0,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/lm/23/__/c10420p1306839466/i6757679964.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/rodillo-inteligente-zwift-hub-z004-1306839466",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1307046409",
       "title": "iPhone 18 Pro 512gb Precintado",
       "price": 1499.0,
@@ -212,18 +224,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/lm/25/__/c10420p1306841495/i6757690999.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/andador-con-asiento-y-freno-totalcare-1306841495",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
-      "id": "1306839466",
-      "title": "Rodillo Inteligente Zwift Hub Z004",
-      "price": 189.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lm/23/__/c10420p1306839466/i6757679964.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/rodillo-inteligente-zwift-hub-z004-1306839466",
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
@@ -7682,5 +7682,5 @@
     }
   ],
   "total": 640,
-  "actualizado": "2026-09-29T16:01:30"
+  "actualizado": "2026-09-29T16:31:28"
 }
