@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1307191473",
+      "title": "Samsung Galaxy S24 FE",
+      "price": 349.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lm/9n/__/c10420p1307191473/i6759674753.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/samsung-galaxy-s24-fe-1307191473",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
+      "id": "1307188779",
+      "title": "Samsung Galaxy S23+",
+      "price": 375.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lm/9l/__/c10420p1307188779/i6759661734.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/samsung-galaxy-s23--negro-1307188779",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
       "id": "1306839466",
       "title": "Rodillo Inteligente Zwift Hub Z004",
       "price": 189.0,
@@ -7681,6 +7705,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 640,
-  "actualizado": "2026-09-29T16:31:28"
+  "total": 642,
+  "actualizado": "2026-09-29T17:01:34"
 }
