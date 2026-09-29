@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1297806982",
+      "title": "Cargador Makita DC40RA XGT + Batería BL4040 XGT",
+      "price": 145.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lg/oi/__/c10420p1297806982/i6709592555.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/cargador-makita-dc40ra-xgt---bateria-bl4040-xgt-1297806982",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Herramientas"
+    },
+    {
       "id": "1251090824",
       "title": "Destacado",
       "price": 1195.0,
@@ -2269,18 +2281,6 @@
       "category": "Móviles y Smartwatches"
     },
     {
-      "id": "1297806982",
-      "title": "Cargador Makita DC40RA XGT + Batería BL4040 XGT",
-      "price": 145.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lg/oi/__/c10420p1297806982/i6709592555.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/cargador-makita-dc40ra-xgt---bateria-bl4040-xgt-1297806982",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Herramientas"
-    },
-    {
       "id": "1285433962",
       "title": "Monitor Gaming Asus 43\" Antireflejos 120Hz",
       "price": 599.0,
@@ -4448,18 +4448,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/jz/dd/__/c10420p1208268343/i6151145223.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/vinilo-lesley-jayne-dance-music-1208268343",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
-    },
-    {
-      "id": "1208249090",
-      "title": "Disco Vinilo Luis Mariano Así Canta",
-      "price": 4.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/jz/cy/__/c10420p1208249090/i6151047043.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/disco-vinilo-luis-mariano-asi-canta-1208249090",
       "location": "Pamplona",
       "condition": "",
       "category": "Música e Instrumentos"
@@ -7693,6 +7681,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 641,
-  "actualizado": "2026-09-29T13:31:33"
+  "total": 640,
+  "actualizado": "2026-09-29T14:01:29"
 }
