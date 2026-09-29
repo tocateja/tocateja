@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1307199081",
+      "title": "Piedra del Sol Azteca D'Argenta Plata",
+      "price": 145.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lm/9t/__/c10420p1307199081/i6759714462.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/piedra-del-sol-azteca-d-argenta-plata-1307199081",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Joyería y Complementos"
+    },
+    {
       "id": "1307191473",
       "title": "Samsung Galaxy S24 FE",
       "price": 349.0,
@@ -800,18 +812,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/lj/ph/__/c10420p1302891533/i6736285464.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/colin-mcrae-rally-ps1-playstation-1-1302891533",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
-      "id": "1302889345",
-      "title": "Mando Pokémon Hori Nintendo switch 2/ Pc",
-      "price": 17.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lj/pf/__/c10420p1302889345/i6736275402.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/mando-pokemon-hori-nintendo-switch-2-pc-1302889345",
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
@@ -7706,5 +7706,5 @@
     }
   ],
   "total": 642,
-  "actualizado": "2026-09-29T17:01:34"
+  "actualizado": "2026-09-29T17:31:33"
 }
