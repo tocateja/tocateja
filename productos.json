@@ -1609,18 +1609,6 @@
       "category": "Otros"
     },
     {
-      "id": "1287589215",
-      "title": "Portátil Lenovo Thinkbook 16 G7",
-      "price": 475.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/la/li/__/c10420p1287589215/i6653232831.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/portatil-lenovo-thinkbook-16-g7-1287589215",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Informática"
-    },
-    {
       "id": "1300249047",
       "title": "Vinilo Los Pekenikes - Robin Hood, Felices 20",
       "price": 7.5,
@@ -7705,6 +7693,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 642,
-  "actualizado": "2026-09-29T13:01:33"
+  "total": 641,
+  "actualizado": "2026-09-29T13:31:33"
 }
