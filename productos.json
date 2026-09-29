@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1285412556",
+      "title": "Accesorio Thermomix Cubrecuchillas y Pelador",
+      "price": 24.5,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/l9/au/__/c10420p1285412556/i6638510199.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/accesorio-thermomix-cubrecuchillas-y-pelador-1285412556",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Electrodomésticos"
+    },
+    {
       "id": "1282567624",
       "title": "Soporte Bici Canyon Bikestand",
       "price": 31.5,
@@ -275,18 +287,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Herramientas"
-    },
-    {
-      "id": "1194259278",
-      "title": "Vinilo Liza Minnelli - Results",
-      "price": 5.5,
-      "currency": "EUR",
-      "status": "reserved",
-      "image": "https://cdn.wallapop.com/images/10420/jr/14/__/c10420p1194259278/i6036045453.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/vinilo-liza-minnelli-results-1194259278",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
     },
     {
       "id": "1305303009",
@@ -5641,18 +5641,6 @@
       "category": "Móviles y Smartwatches"
     },
     {
-      "id": "1285412556",
-      "title": "Accesorio Thermomix Cubrecuchillas y Pelador",
-      "price": 24.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l9/au/__/c10420p1285412556/i6638510199.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/accesorio-thermomix-cubrecuchillas-y-pelador-1285412556",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Electrodomésticos"
-    },
-    {
       "id": "1285398714",
       "title": "Consola Nintendo Switch",
       "price": 185.0,
@@ -7657,6 +7645,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 638,
-  "actualizado": "2026-09-28T20:01:29"
+  "total": 637,
+  "actualizado": "2026-09-29T02:01:30"
 }
