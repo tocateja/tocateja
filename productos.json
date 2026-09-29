@@ -1,6 +1,78 @@
 {
   "productos": [
     {
+      "id": "1240515126",
+      "title": "Silla de ruedas infantil Invacare Action 3",
+      "price": 99.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ki/kj/__/c10420p1240515126/i6359492239.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/silla-de-ruedas-infantil-invacare-action-3-1240515126",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Hogar"
+    },
+    {
+      "id": "1307062227",
+      "title": "Andador con Asiento y Bolsa Prim",
+      "price": 69.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lm/6v/__/c10420p1307062227/i6758961472.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/andador-con-asiento-y-bolsa-prim-1307062227",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1307060514",
+      "title": "Andador de Interior",
+      "price": 39.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lm/6u/__/c10420p1307060514/i6758950326.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/andador-de-interior-1307060514",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1304939247",
+      "title": "Portátil Lenovo ThinkPad L14 5GEN Negro",
+      "price": 590.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lk/xd/__/c10420p1304939247/i6747650186.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/portatil-lenovo-thinkpad-l14-5gen-negro-1304939247",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Informática"
+    },
+    {
+      "id": "1273952385",
+      "title": "Cinta Andadora iWalk",
+      "price": 119.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l2/h7/__/c10420p1273952385/i6569426210.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/cinta-andadora-iwalk-1273952385",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1307055362",
+      "title": "Bicicleta Estática Pro Action Artic",
+      "price": 195.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lm/6q/__/c10420p1307055362/i6758925052.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/bicicleta-estatica-pro-action-artic-1307055362",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Deporte"
+    },
+    {
       "id": "1307050982",
       "title": "Lámpara Antimosquitos J10",
       "price": 11.5,
@@ -419,18 +491,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Móviles y Smartwatches"
-    },
-    {
-      "id": "1304939247",
-      "title": "Portátil Lenovo ThinkPad L14 5GEN Negro",
-      "price": 590.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lk/xd/__/c10420p1304939247/i6747650186.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/portatil-lenovo-thinkpad-l14-5gen-negro-1304939247",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Informática"
     },
     {
       "id": "1304572782",
@@ -6325,18 +6385,6 @@
       "category": "Herramientas"
     },
     {
-      "id": "1273952385",
-      "title": "Cinta Andadora iWalk",
-      "price": 119.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l2/h7/__/c10420p1273952385/i6569426210.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/cinta-andadora-iwalk-1273952385",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
       "id": "1273631710",
       "title": "Calefactor Pared ADM",
       "price": 26.5,
@@ -7261,18 +7309,6 @@
       "category": "Hogar"
     },
     {
-      "id": "1240515126",
-      "title": "Silla de ruedas infantil Invacare Action 3",
-      "price": 99.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ki/kj/__/c10420p1240515126/i6359492239.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/silla-de-ruedas-infantil-invacare-action-3-1240515126",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Hogar"
-    },
-    {
       "id": "1144202496",
       "title": "Teclado Lenovo USB Alemán SK8827",
       "price": 6.5,
@@ -7681,6 +7717,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 640,
-  "actualizado": "2026-09-29T11:01:30"
+  "total": 643,
+  "actualizado": "2026-09-29T11:31:35"
 }
