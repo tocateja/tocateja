@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1307438328",
+      "title": "Figura Naruto Uzumaki con Rasengan",
+      "price": 26.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lm/ex/__/c10420p1307438328/i6761117493.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/figura-naruto-uzumaki-con-rasengan-1307438328",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
       "id": "1307435242",
       "title": "Mando Pro Controller para Nintendo Switch",
       "price": 31.5,
@@ -7813,6 +7825,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 651,
-  "actualizado": "2026-09-30T12:01:35"
+  "total": 652,
+  "actualizado": "2026-09-30T12:31:34"
 }
