@@ -1,6 +1,42 @@
 {
   "productos": [
     {
+      "id": "1307569705",
+      "title": "Oráculo de los 22 Arcángeles - Kyle Gray",
+      "price": 12.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lm/hr/__/c10420p1307569705/i6761899217.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/oraculo-de-los-22-arcangeles-kyle-gray-1307569705",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1307567138",
+      "title": "Reproductor Blu-ray y DVD Sony S1700/K",
+      "price": 75.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lm/hp/__/c10420p1307567138/i6761882075.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/reproductor-blu-ray-y-dvd-sony-s1700-k-1307567138",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1307564835",
+      "title": "Mando Arcade Stick 8BitDo A estrenar",
+      "price": 69.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lm/hn/__/c10420p1307564835/i6761868862.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/mando-arcade-stick-8bitdo-a-estrenar-1307564835",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
       "id": "1307046409",
       "title": "iPhone 18 Pro 512gb Precintado",
       "price": 1499.0,
@@ -635,18 +671,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Herramientas"
-    },
-    {
-      "id": "1305303009",
-      "title": "Consola PS4 Pro 1TB",
-      "price": 155.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ll/56/__/c10420p1305303009/i6749627275.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/consola-ps4-pro-1tb-1305303009",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
     },
     {
       "id": "1305294447",
@@ -7813,6 +7837,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 651,
-  "actualizado": "2026-09-30T17:31:34"
+  "total": 653,
+  "actualizado": "2026-09-30T18:01:33"
 }
