@@ -1,6 +1,54 @@
 {
   "productos": [
     {
+      "id": "1307435242",
+      "title": "Mando Pro Controller para Nintendo Switch",
+      "price": 31.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lm/ev/__/c10420p1307435242/i6761098945.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/mando-pro-controller-para-nintendo-switch-1307435242",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1307432747",
+      "title": "Figura Iron Monger Marvel",
+      "price": 16.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lm/et/__/c10420p1307432747/i6761085778.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/figura-iron-monger-marvel-1307432747",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1307429262",
+      "title": "Altavoz Bluetooth Escudo Capitán América",
+      "price": 20.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lm/eq/__/c10420p1307429262/i6761064206.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/altavoz-bluetooth-escudo-capitan-america-1307429262",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1307425845",
+      "title": "Punto de Acceso Doble Banda Ubiquiti",
+      "price": 50.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lm/eo/__/c10420p1307425845/i6761043947.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/punto-de-acceso-doble-banda-ubiquiti-1307425845",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1307422493",
       "title": "Punto de Acceso Aruba 2.4/5GHz A estrenar",
       "price": 50.5,
@@ -7765,6 +7813,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 647,
-  "actualizado": "2026-09-30T11:31:33"
+  "total": 651,
+  "actualizado": "2026-09-30T12:01:35"
 }
