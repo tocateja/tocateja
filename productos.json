@@ -1,6 +1,42 @@
 {
   "productos": [
     {
+      "id": "1307422493",
+      "title": "Punto de Acceso Aruba 2.4/5GHz A estrenar",
+      "price": 50.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lm/el/__/c10420p1307422493/i6761024948.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/punto-de-acceso-aruba-2-4-5ghz-a-estrenar-1307422493",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1307418464",
+      "title": "Mando a distancia universal Grundig 8 en 1",
+      "price": 6.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lm/ei/__/c10420p1307418464/i6761001380.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/mando-a-distancia-universal-grundig-8-en-1-1307418464",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1307413932",
+      "title": "Mando a Distancia TV Samsung TM Electron",
+      "price": 16.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lm/ef/__/c10420p1307413932/i6760974469.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/mando-a-distancia-tv-samsung-tm-electron-1307413932",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
       "id": "1307411266",
       "title": "Mando a distancia compatible con TV Sony",
       "price": 16.5,
@@ -2399,18 +2435,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1297476017",
-      "title": "Samsung Galaxy A56 5G",
-      "price": 240.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lg/he/__/c10420p1297476017/i6707941091.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/samsung-galaxy-a56-5g-1297476017",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
     },
     {
       "id": "1209966482",
@@ -7741,6 +7765,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 645,
-  "actualizado": "2026-09-30T11:01:35"
+  "total": 647,
+  "actualizado": "2026-09-30T11:31:33"
 }
