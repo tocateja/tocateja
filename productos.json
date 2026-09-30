@@ -1,6 +1,42 @@
 {
   "productos": [
     {
+      "id": "1307411266",
+      "title": "Mando a distancia compatible con TV Sony",
+      "price": 16.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lm/ec/__/c10420p1307411266/i6760960327.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/mando-a-distancia-compatible-con-tv-sony-a-estrena-1307411266",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1307408642",
+      "title": "Mando a distancia universal para TV LG A estrenar",
+      "price": 16.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lm/ea/__/c10420p1307408642/i6760944592.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/mando-a-distancia-universal-para-tv-lg-a-estrenar-1307408642",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1307407367",
+      "title": "Mando a distancia compatible TV Philips A estrenar",
+      "price": 16.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lm/e9/__/c10420p1307407367/i6760937593.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/mando-a-distancia-compatible-tv-philips-a-estrenar-1307407367",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
       "id": "1307402258",
       "title": "iPhone 15 Pro 256GB",
       "price": 565.0,
@@ -7705,6 +7741,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 642,
-  "actualizado": "2026-09-30T10:31:34"
+  "total": 645,
+  "actualizado": "2026-09-30T11:01:35"
 }
