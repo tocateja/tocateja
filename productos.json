@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1200153750",
+      "title": "Destacado",
+      "price": 179.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ju/jg/__/c10420p1200153750/i6359430227.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/remolque-bici-nin-xlc-1200153750",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1302810375",
+      "title": "Consola Nintendo switch 2",
+      "price": 395.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lj/nq/__/c10420p1302810375/i6735845178.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/consola-nintendo-switch-2-1302810375",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
       "id": "1307811469",
       "title": "Consola Nintendo Switch 2",
       "price": 375.0,
@@ -1045,18 +1069,6 @@
       "category": "Deporte"
     },
     {
-      "id": "1302810375",
-      "title": "Consola Nintendo switch 2",
-      "price": 395.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lj/nq/__/c10420p1302810375/i6735845178.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/consola-nintendo-switch-2-1302810375",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
       "id": "1302794423",
       "title": "Mega Games I Sega Mega Drive",
       "price": 21.5,
@@ -1835,18 +1847,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1300249047",
-      "title": "Vinilo Los Pekenikes - Robin Hood, Felices 20",
-      "price": 7.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/li/4u/__/c10420p1300249047/i6721714942.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/vinilo-los-pekenikes-robin-hood-felices-20-1300249047",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
     },
     {
       "id": "1300250330",
@@ -3025,18 +3025,6 @@
       "category": "Otros"
     },
     {
-      "id": "1295297211",
-      "title": "Vinilo The J. Geils Band Freeze Frame",
-      "price": 21.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lf/6p/__/c10420p1295297211/i6697812887.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/vinilo-the-j-geils-band-freeze-frame-1295297211",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
-    },
-    {
       "id": "1247584297",
       "title": "Juego Xbox One Paw Patrol: On a Roll!",
       "price": 12.0,
@@ -4208,18 +4196,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/ko/f4/__/c10420p1250339370/i6421802360.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/casco-livall-evo21-con-luces-1250339370",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Deporte"
-    },
-    {
-      "id": "1200153750",
-      "title": "Remolque Bici Niñ@ XLC",
-      "price": 179.95,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ju/jg/__/c10420p1200153750/i6359430227.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/remolque-bici-nin-xlc-1200153750",
       "location": "Pamplona",
       "condition": "",
       "category": "Deporte"
@@ -7825,6 +7801,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 652,
-  "actualizado": "2026-10-01T12:31:34"
+  "total": 650,
+  "actualizado": "2026-10-01T13:01:33"
 }
