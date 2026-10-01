@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1178254870",
+      "title": "Cargador Rápido Nikon MH-22",
+      "price": 36.5,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/jh/i3/__/c10420p1178254870/i5948065491.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/cargador-rapido-nikon-mh-22-1178254870",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Foto y Vídeo"
+    },
+    {
       "id": "1180818562",
       "title": "Termómetro Digital Sodany KT-902 Nuevo",
       "price": 6.0,
@@ -278,7 +290,7 @@
     },
     {
       "id": "1251090824",
-      "title": "Destacado",
+      "title": "Portátil HP Elitebook 8 G1i 16 PRECINTADO",
       "price": 1195.0,
       "currency": "EUR",
       "status": "available",
@@ -286,7 +298,7 @@
       "url": "https://es.wallapop.com/item/portatil-hp-elitebook-8-g1i-16-1251090824",
       "location": "Pamplona",
       "condition": "",
-      "category": "Otros"
+      "category": "Libros, Cómics y Revistas"
     },
     {
       "id": "1307075904",
@@ -503,18 +515,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1240688782",
-      "title": "VHS Pinocho Los Clásicos Disney (Precintado)",
-      "price": 16.5,
-      "currency": "EUR",
-      "status": "reserved",
-      "image": "https://cdn.wallapop.com/images/10420/ki/o9/__/c10420p1240688782/i6360626023.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/vhs-pinocho-los-clasicos-disney-precintado-1240688782",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
     },
     {
       "id": "1302894116",
@@ -5377,18 +5377,6 @@
       "category": "TV y Audio"
     },
     {
-      "id": "1178254870",
-      "title": "Cargador Rápido Nikon MH-22",
-      "price": 36.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/jh/i3/__/c10420p1178254870/i5948065491.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/cargador-rapido-nikon-mh-22-1178254870",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Foto y Vídeo"
-    },
-    {
       "id": "1186476432",
       "title": "Colección Monedas 30 Ligas 30 Monedas Marca",
       "price": 37.5,
@@ -7825,6 +7813,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 652,
-  "actualizado": "2026-10-01T11:31:34"
+  "total": 651,
+  "actualizado": "2026-10-01T12:01:35"
 }
