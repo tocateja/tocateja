@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1306839466",
+      "title": "Rodillo Inteligente Zwift Hub Z004",
+      "price": 189.0,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/lm/23/__/c10420p1306839466/i6757679964.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/rodillo-inteligente-zwift-hub-z004-1306839466",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1307569705",
       "title": "Oráculo de los 22 Arcángeles - Kyle Gray",
       "price": 12.0,
@@ -203,18 +215,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Móviles y Smartwatches"
-    },
-    {
-      "id": "1306839466",
-      "title": "Rodillo Inteligente Zwift Hub Z004",
-      "price": 189.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lm/23/__/c10420p1306839466/i6757679964.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/rodillo-inteligente-zwift-hub-z004-1306839466",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
     },
     {
       "id": "1307199081",
@@ -7838,5 +7838,5 @@
     }
   ],
   "total": 653,
-  "actualizado": "2026-10-01T08:01:36"
+  "actualizado": "2026-10-01T10:01:34"
 }
