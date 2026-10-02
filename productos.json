@@ -4177,18 +4177,6 @@
       "category": "Deporte"
     },
     {
-      "id": "1246069899",
-      "title": "Alien blanco, negro y sangre",
-      "price": 16.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kl/vl/__/c10420p1246069899/i6393429966.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/alien-blanco-negro-y-sangre-1246069899",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
       "id": "1246080175",
       "title": "Cómic de ilustraciones Sirens Chris achilleos",
       "price": 26.5,
@@ -7753,6 +7741,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 646,
-  "actualizado": "2026-10-02T17:31:34"
+  "total": 645,
+  "actualizado": "2026-10-02T18:01:33"
 }
