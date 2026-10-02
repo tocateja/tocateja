@@ -517,18 +517,6 @@
       "category": "Hogar"
     },
     {
-      "id": "1285412556",
-      "title": "Accesorio Thermomix Cubrecuchillas y Pelador",
-      "price": 24.5,
-      "currency": "EUR",
-      "status": "reserved",
-      "image": "https://cdn.wallapop.com/images/10420/l9/au/__/c10420p1285412556/i6638510199.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/accesorio-thermomix-cubrecuchillas-y-pelador-1285412556",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Electrodomésticos"
-    },
-    {
       "id": "1282567624",
       "title": "Soporte Bici Canyon Bikestand",
       "price": 31.5,
@@ -7765,6 +7753,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 647,
-  "actualizado": "2026-10-02T12:31:34"
+  "total": 646,
+  "actualizado": "2026-10-02T13:01:33"
 }
