@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1308184954",
+      "title": "Soporte para Pedaleras Pedalbay 60L",
+      "price": 46.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lm/ux/__/c10420p1308184954/i6766160052.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/soporte-para-pedaleras-pedalbay-60l-1308184954",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1308176319",
       "title": "Amados Muertos: Manual y Oráculo",
       "price": 12.0,
@@ -565,18 +577,6 @@
       "category": "Otros"
     },
     {
-      "id": "1306832493",
-      "title": "Auriculares Bluetooth Beats Solo Buds A estrenar",
-      "price": 51.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lm/1y/__/c10420p1306832493/i6757643060.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/auriculares-bluetooth-beats-solo-buds-a-estrenar-1306832493",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "TV y Audio"
-    },
-    {
       "id": "1306829384",
       "title": "Herramienta de Aplicación de Bridas HellermannTyto",
       "price": 149.0,
@@ -755,18 +755,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Herramientas"
-    },
-    {
-      "id": "1305294447",
-      "title": "Caja de Batería 14\" Yamaha con Funda",
-      "price": 95.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ll/4z/__/c10420p1305294447/i6749582254.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/caja-de-bateria-14-yamaha-con-funda-1305294447",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
     },
     {
       "id": "1230635831",
@@ -3572,18 +3560,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/le/05/__/c10420p1293311845/i6688621717.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/nba-2k20-ps4-playstation-4-1293311845",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
-      "id": "1293311257",
-      "title": "Battlefield Hardline PS4",
-      "price": 6.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/le/05/__/c10420p1293311257/i6688618892.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/battlefield-hardline-ps4-1293311257",
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
@@ -7789,6 +7765,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 649,
-  "actualizado": "2026-10-02T11:01:33"
+  "total": 647,
+  "actualizado": "2026-10-02T11:31:35"
 }
