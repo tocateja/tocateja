@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1297421658",
+      "title": "Red Dead Redemption 2 Xbox One",
+      "price": 15.5,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/lg/g8/__/c10420p1297421658/i6707688417.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/red-dead-redemption-2-xbox-one-1297421658",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
       "id": "1307046409",
       "title": "iPhone 18 Pro 512gb Precintado",
       "price": 1499.0,
@@ -2603,18 +2615,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Motor"
-    },
-    {
-      "id": "1297421658",
-      "title": "Red Dead Redemption 2 Xbox One",
-      "price": 15.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lg/g8/__/c10420p1297421658/i6707688417.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/red-dead-redemption-2-xbox-one-1297421658",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
     },
     {
       "id": "1297421240",
@@ -7778,5 +7778,5 @@
     }
   ],
   "total": 648,
-  "actualizado": "2026-10-01T20:01:34"
+  "actualizado": "2026-10-02T02:01:35"
 }
