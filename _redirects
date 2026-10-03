@@ -1,0 +1,3 @@
+https://tocateja-net.netlify.app/*        https://tocateja.net/:splat 301!
+http://tocateja-net.netlify.app/*         https://tocateja.net/:splat 301!
+https://main--tocateja-net.netlify.app/*  https://tocateja.net/:splat 301!
