@@ -1,6 +1,222 @@
 {
   "productos": [
     {
+      "id": "1302352210",
+      "title": "The Legend of Zelda Ocarina of Time 3D 3Ds",
+      "price": 31.5,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/lj/dx/__/c10420p1302352210/i6731257658.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/the-legend-of-zelda-ocarina-of-time-3d-3ds-1302352210",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1308692619",
+      "title": "Juego de Siembra Africano Decorativo",
+      "price": 16.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ln/5t/__/c10420p1308692619/i6770919842.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/juego-de-siembra-africano-decorativo-1308692619",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1308688525",
+      "title": "Pareja de Soportes para Altavoces Millenium",
+      "price": 39.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ln/5q/__/c10420p1308688525/i6770900912.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/pareja-de-soportes-para-altavoces-millenium-1308688525",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1308686569",
+      "title": "Aro de Luz Hama LED 17cm",
+      "price": 13.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ln/5p/__/c10420p1308686569/i6770892000.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/aro-de-luz-hama-led-17cm-1308686569",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1199407298",
+      "title": "Juego Lego Marvel Vengadores PSVita Precintado",
+      "price": 16.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ju/3g/__/c10420p1199407298/i6080803017.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/lego-marvel-vengadores-ps-vita-precintado-1199407298",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1308681040",
+      "title": "Walkie Talkie Vintage Com-Talk CT-998",
+      "price": 11.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ln/5k/__/c10420p1308681040/i6770862225.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/walkie-talkie-vintage-com-talk-ct-998-1308681040",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Antigüedades y Coleccionismo"
+    },
+    {
+      "id": "1308671655",
+      "title": "Xiaomi Mi Box S 1ª Generación",
+      "price": 40.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ln/5d/__/c10420p1308671655/i6770812713.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/xiaomi-mi-box-s-1-generacion-1308671655",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
+      "id": "1308665646",
+      "title": "Altavoz Bluetooth Vieta Pro",
+      "price": 41.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ln/58/__/c10420p1308665646/i6770775885.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/altavoz-bluetooth-vieta-pro-1308665646",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1308659347",
+      "title": "Altavoz Inteligente Google Home Mini",
+      "price": 16.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ln/54/__/c10420p1308659347/i6770706791.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/altavoz-inteligente-google-home-mini-1308659347",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1308649125",
+      "title": "Fifa 13 (PlayStation 3)",
+      "price": 4.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ln/4w/__/c10420p1308649125/i6770588303.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/fifa-13-playstation-3-1308649125",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1308646910",
+      "title": "FIFA 13 (PlayStation 3)",
+      "price": 4.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ln/4u/__/c10420p1308646910/i6770561757.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/fifa-13-playstation-3-1308646910",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1308643669",
+      "title": "Fórmula 1 2012 (PlayStation 3)",
+      "price": 5.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ln/4r/__/c10420p1308643669/i6770524280.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/formula-1-2012-playstation-3-1308643669",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1308640574",
+      "title": "Tekken Tag Tournament 2 (PS3)",
+      "price": 13.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ln/4p/__/c10420p1308640574/i6770489045.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/tekken-tag-tournament-2-ps3-1308640574",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1308635391",
+      "title": "Assassin's Creed: La Hermandad (PS3)",
+      "price": 8.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ln/4l/__/c10420p1308635391/i6770429209.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/assassin-s-creed-la-hermandad-ps3-1308635391",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1308633047",
+      "title": "Soul Calibur IV (PS3)",
+      "price": 8.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ln/4j/__/c10420p1308633047/i6770400216.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/soul-calibur-iv-ps3-1308633047",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1308630816",
+      "title": "Diablo III (PS3)",
+      "price": 8.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ln/4i/__/c10420p1308630816/i6770373698.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/diablo-iii-ps3-1308630816",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1308627640",
+      "title": "Final Fantasy XIII-2 (PS3)",
+      "price": 7.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ln/4f/__/c10420p1308627640/i6770333576.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/final-fantasy-xiii-2-ps3-1308627640",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1308625468",
+      "title": "Project Cars 2 (PS4)",
+      "price": 11.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ln/4d/__/c10420p1308625468/i6770308864.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/project-cars-2-ps4-1308625468",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
       "id": "1300715876",
       "title": "Vinilo 2 Unlimited - Twilight Zone",
       "price": 6.5,
@@ -23,18 +239,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Electrodomésticos"
-    },
-    {
-      "id": "1308184954",
-      "title": "Soporte para Pedaleras Pedalbay 60L",
-      "price": 46.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lm/ux/__/c10420p1308184954/i6766160052.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/soporte-para-pedaleras-pedalbay-60l-1308184954",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
     },
     {
       "id": "1308176319",
@@ -98,7 +302,7 @@
     },
     {
       "id": "1200153750",
-      "title": "Destacado",
+      "title": "Remolque Bici Niñ@ XLC",
       "price": 179.95,
       "currency": "EUR",
       "status": "available",
@@ -106,7 +310,7 @@
       "url": "https://es.wallapop.com/item/remolque-bici-nin-xlc-1200153750",
       "location": "Pamplona",
       "condition": "",
-      "category": "Otros"
+      "category": "Deporte"
     },
     {
       "id": "1302810375",
@@ -935,18 +1139,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
-    },
-    {
-      "id": "1302352210",
-      "title": "The Legend of Zelda Ocarina of Time 3D 3Ds",
-      "price": 31.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lj/dx/__/c10420p1302352210/i6731257658.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/the-legend-of-zelda-ocarina-of-time-3d-3ds-1302352210",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
     },
     {
       "id": "1302918185",
@@ -2180,30 +2372,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/lh/pc/__/c10420p1299525844/i6717775745.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/vhs-expediente-1-the-x-files-1299525844",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1299522414",
-      "title": "Disco VHS Walt Disney Los clásicos Dumbo",
-      "price": 6.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lh/p9/__/c10420p1299522414/i6717754512.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/disco-vhs-dumbo-los-clasicos-disney-1299522414",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1299521295",
-      "title": "VHS El Libro de la Selva Disney",
-      "price": 6.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lh/p9/__/c10420p1299521295/i6717749760.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/vhs-el-libro-de-la-selva-disney-1299521295",
       "location": "Pamplona",
       "condition": "",
       "category": "Libros, Cómics y Revistas"
@@ -4081,18 +4249,6 @@
       "category": "Otros"
     },
     {
-      "id": "1254193431",
-      "title": "La moneda de plata Vol 03",
-      "price": 11.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kq/pp/__/c10420p1254193431/i6445208091.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/la-moneda-de-plata-vol-03-1254193431",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Joyería y Complementos"
-    },
-    {
       "id": "1271772553",
       "title": "Cargador Samsung Inducción",
       "price": 46.5,
@@ -4547,18 +4703,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Música e Instrumentos"
-    },
-    {
-      "id": "1199407298",
-      "title": "Juego Lego Marvel Vengadores PSVita Precintado",
-      "price": 16.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ju/3g/__/c10420p1199407298/i6080803017.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/lego-marvel-vengadores-ps-vita-precintado-1199407298",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
     },
     {
       "id": "1196942483",
@@ -5492,18 +5636,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/la/1t/__/c10420p1286670725/i6645952572.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/libro-cocina-karlos-arguinano-gran-recetario-1286670725",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1286662312",
-      "title": "Libro cocina Karlos Arguiñano Cocina día a día",
-      "price": 13.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/la/1m/__/c10420p1286662312/i6645896734.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/libro-cocina-karlos-arguinano-cocina-dia-a-dia-1286662312",
       "location": "Pamplona",
       "condition": "",
       "category": "Libros, Cómics y Revistas"
@@ -7321,18 +7453,6 @@
       "category": "Informática"
     },
     {
-      "id": "1087904585",
-      "title": "SOPORTE LECTOR CÓDIGO DE BARRAS METROLOGIC",
-      "price": 4.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/hz/pk/__/c10420p1087904585/i5346387884.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/soporte-lector-codigo-de-barras-metrologic-1087904585",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Herramientas"
-    },
-    {
       "id": "1136412307",
       "title": "RECEPTOR SATELITE DIGITAL FONESTAR",
       "price": 20.5,
@@ -7705,6 +7825,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 642,
-  "actualizado": "2026-10-03T08:01:36"
+  "total": 652,
+  "actualizado": "2026-10-03T14:01:36"
 }
