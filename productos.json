@@ -1,6 +1,78 @@
 {
   "productos": [
     {
+      "id": "1209966482",
+      "title": "Destacado",
+      "price": 135.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/k0/ds/__/c10420p1209966482/i6161253500.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/arenero-autolimpiable-petsafe-scoopfree-nuevo-1209966482",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1247258437",
+      "title": "Gourmax Pro Airfryer Horno Plancha A estrenar",
+      "price": 175.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/km/l2/__/c10420p1247258437/i6400101477.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/gourmax-pro-airfryer-horno-plancha-1247258437",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Electrodomésticos"
+    },
+    {
+      "id": "1267259235",
+      "title": "Juego Vajilla 19 Piezas Myott Toquin",
+      "price": 129.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ky/hr/__/c10420p1267259235/i6527424015.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/juego-vajilla-19-piezas-myott-toquin-1267259235",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1297822107",
+      "title": "Certificado Bendición Apostólica 1950 Papa Pio XII",
+      "price": 16.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lg/ot/__/c10420p1297822107/i6709667085.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/certificado-bendicion-apostolica-1950-papa-pio-xii-1297822107",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1240722962",
+      "title": "Casco Motocross Airoh Aviator Amarillo",
+      "price": 165.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ki/oz/__/c10420p1240722962/i6360843344.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/casco-motocross-airoh-aviator-amarillo-1240722962",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Motor"
+    },
+    {
+      "id": "1309497521",
+      "title": "Pantalón Holgado Mujer Jordan Flight con Hebilla",
+      "price": 59.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ln/n2/__/c10420p1309497521/i6775472885.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/pantalon-holgado-mujer-jordan-flight-con-hebilla-1309497521",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Moda"
+    },
+    {
       "id": "1309493809",
       "title": "Pantalón Mujer Cargo Nike Sport Wear Talla XL",
       "price": 41.5,
@@ -1369,18 +1441,6 @@
       "category": "Móviles y Smartwatches"
     },
     {
-      "id": "1267259235",
-      "title": "Juego Vajilla 19 Piezas Myott Toquin",
-      "price": 129.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ky/hr/__/c10420p1267259235/i6527424015.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/juego-vajilla-19-piezas-myott-toquin-1267259235",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
       "id": "1193444038",
       "title": "Nivel Láser Settop EK-118G",
       "price": 67.0,
@@ -2569,18 +2629,6 @@
       "category": "Hogar"
     },
     {
-      "id": "1297822107",
-      "title": "Certificado Bendición Apostólica 1950 Papa Pio XII",
-      "price": 16.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lg/ot/__/c10420p1297822107/i6709667085.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/certificado-bendicion-apostolica-1950-papa-pio-xii-1297822107",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
       "id": "1271115893",
       "title": "Libro de 1972 Las aves de España",
       "price": 30.5,
@@ -2663,18 +2711,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1209966482",
-      "title": "Arenero Autolimpiable Petsafe Scoopfree A estrenar",
-      "price": 135.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/k0/ds/__/c10420p1209966482/i6161253500.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/arenero-autolimpiable-petsafe-scoopfree-nuevo-1209966482",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Juguetes"
     },
     {
       "id": "1286058546",
@@ -3323,18 +3359,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
-    },
-    {
-      "id": "1240722962",
-      "title": "Casco Motocross Airoh Aviator Amarillo",
-      "price": 175.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ki/oz/__/c10420p1240722962/i6360843344.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/casco-motocross-airoh-aviator-amarillo-1240722962",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Motor"
     },
     {
       "id": "1118482493",
@@ -4967,18 +4991,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Hogar"
-    },
-    {
-      "id": "1247258437",
-      "title": "Gourmax Pro Airfryer Horno Plancha",
-      "price": 175.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/km/l2/__/c10420p1247258437/i6400101477.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/gourmax-pro-airfryer-horno-plancha-1247258437",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Electrodomésticos"
     },
     {
       "id": "1129788357",
@@ -7825,6 +7837,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 652,
-  "actualizado": "2026-10-05T11:01:33"
+  "total": 653,
+  "actualizado": "2026-10-05T11:31:35"
 }
