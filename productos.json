@@ -1,6 +1,42 @@
 {
   "productos": [
     {
+      "id": "1309519211",
+      "title": "Consola Sony PlayStation 1 (PS1)",
+      "price": 51.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ln/nj/__/c10420p1309519211/i6775594344.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/consola-sony-playstation-1-ps1-1309519211",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1309512946",
+      "title": "Grabador DVD HP dvd1170",
+      "price": 30.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ln/ne/__/c10420p1309512946/i6775558815.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/grabador-dvd-hp-dvd1170-1309512946",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1309509239",
+      "title": "Alarma Hogar GSM THUSTAR QXC500 A estrenar",
+      "price": 26.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ln/nb/__/c10420p1309509239/i6775537322.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/alarma-hogar-gsm-thustar-qxc500-a-estrenar-1309509239",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1209966482",
       "title": "Destacado",
       "price": 135.0,
@@ -7837,6 +7873,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 653,
-  "actualizado": "2026-10-05T11:31:35"
+  "total": 656,
+  "actualizado": "2026-10-05T12:01:33"
 }
