@@ -1,6 +1,42 @@
 {
   "productos": [
     {
+      "id": "1309528553",
+      "title": "Bandeja Decorativa Elena Baño Oro 24K",
+      "price": 24.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ln/nq/__/c10420p1309528553/i6775649646.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/bandeja-decorativa-elena-oro-24k-1309528553",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Joyería y Complementos"
+    },
+    {
+      "id": "1272694177",
+      "title": "Mando PowerA Nintendo switch 2",
+      "price": 27.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l1/q9/__/c10420p1272694177/i6562009800.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/mando-powera-switch-negro-1272694177",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1309524786",
+      "title": "Consola Nintendo Wii",
+      "price": 36.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ln/nn/__/c10420p1309524786/i6775627018.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/consola-nintendo-wii-1309524786",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
       "id": "1309519211",
       "title": "Consola Sony PlayStation 1 (PS1)",
       "price": 51.5,
@@ -3037,18 +3073,6 @@
       "category": "Hogar"
     },
     {
-      "id": "1255376795",
-      "title": "Mini cuadro creaciones artísticas",
-      "price": 13.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kr/f2/__/c10420p1255376795/i6452595187.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/mini-cuadro-creaciones-artisticas-1255376795",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Hogar"
-    },
-    {
       "id": "1295488998",
       "title": "Vinilo Los Éxitos del Espacio",
       "price": 16.5,
@@ -4043,18 +4067,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Música e Instrumentos"
-    },
-    {
-      "id": "1272694177",
-      "title": "Mando PowerA Switch Negro",
-      "price": 27.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l1/q9/__/c10420p1272694177/i6562009800.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/mando-powera-switch-negro-1272694177",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
     },
     {
       "id": "1262723028",
@@ -7873,6 +7885,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 656,
-  "actualizado": "2026-10-05T12:01:33"
+  "total": 657,
+  "actualizado": "2026-10-05T12:31:35"
 }
