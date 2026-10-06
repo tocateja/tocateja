@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1310043029",
+      "title": "Guitarra Eléctrica Epiphone Flying V",
+      "price": 345.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ln/yr/__/c10420p1310043029/i6779404770.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/guitarra-electrica-epiphone-flying-v-1310043029",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1309911136",
+      "title": "Pedal Ampli Multiefectos Mooer",
+      "price": 125.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ln/vx/__/c10420p1309911136/i6778534931.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/pedal-ampli-multiefectos-mooer-1309911136",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1297806982",
       "title": "Cargador Makita DC40RA XGT + Batería BL4040 XGT",
       "price": 145.0,
@@ -68,18 +92,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/ln/vz/__/c10420p1309913534/i6778552649.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/baraja-cartas-de-tarot-osho-zen-1309913534",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
-      "id": "1309911136",
-      "title": "Pedal Ampli Multiefectos Mooer",
-      "price": 125.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ln/vx/__/c10420p1309911136/i6778534931.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/pedal-ampli-multiefectos-mooer-1309911136",
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
@@ -7813,6 +7825,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 651,
-  "actualizado": "2026-10-06T17:01:34"
+  "total": 652,
+  "actualizado": "2026-10-06T17:31:34"
 }
