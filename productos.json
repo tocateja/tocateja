@@ -1,6 +1,42 @@
 {
   "productos": [
     {
+      "id": "1308665646",
+      "title": "Altavoz Bluetooth Vieta Pro",
+      "price": 41.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ln/58/__/c10420p1308665646/i6778767257.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/altavoz-bluetooth-vieta-pro-1308665646",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1308671655",
+      "title": "Xiaomi Mi Box S 1ª Generación",
+      "price": 40.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ln/5d/__/c10420p1308671655/i6778763221.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/xiaomi-mi-box-s-1-generacion-1308671655",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
+      "id": "1308681040",
+      "title": "Walkie Talkie Vintage Com-Talk CT-998",
+      "price": 11.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ln/5k/__/c10420p1308681040/i6778760342.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/walkie-talkie-vintage-com-talk-ct-998-1308681040",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Antigüedades y Coleccionismo"
+    },
+    {
       "id": "1309892837",
       "title": "Guitarra Eléctrica Gibson Les Paul Standard 50S",
       "price": 1595.0,
@@ -359,42 +395,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1308681040",
-      "title": "Walkie Talkie Vintage Com-Talk CT-998",
-      "price": 11.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ln/5k/__/c10420p1308681040/i6770862225.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/walkie-talkie-vintage-com-talk-ct-998-1308681040",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Antigüedades y Coleccionismo"
-    },
-    {
-      "id": "1308671655",
-      "title": "Xiaomi Mi Box S 1ª Generación",
-      "price": 40.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ln/5d/__/c10420p1308671655/i6770812713.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/xiaomi-mi-box-s-1-generacion-1308671655",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
-    },
-    {
-      "id": "1308665646",
-      "title": "Altavoz Bluetooth Vieta Pro",
-      "price": 41.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ln/58/__/c10420p1308665646/i6770775885.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/altavoz-bluetooth-vieta-pro-1308665646",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
     },
     {
       "id": "1308659347",
@@ -1340,18 +1340,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/lj/xf/__/c10420p1303262620/i6738359307.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/volante-hori-rwa-ps5-ps4-pc-1303262620",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
-      "id": "1302918185",
-      "title": "Super Mario Galaxy Nintendo wii",
-      "price": 21.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lj/q2/__/c10420p1302918185/i6736421603.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/super-mario-galaxy-nintendo-wii-1302918185",
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
@@ -3889,18 +3877,6 @@
       "category": "Otros"
     },
     {
-      "id": "1275344085",
-      "title": "Reloj Pulsera Casio",
-      "price": 62.95,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l3/b1/__/c10420p1275344085/i6577116698.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/reloj-pulsera-casio-1275344085",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Joyería y Complementos"
-    },
-    {
       "id": "1209742720",
       "title": "Grifo Miomare para lavabo Eco-Clic",
       "price": 17.5,
@@ -4604,18 +4580,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/k5/zy/__/c10420p1219398843/i6220440402.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/disney-golf-ps2-1219398843",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
-      "id": "1219620889",
-      "title": "Ghost Recon Advanced Warfighter 2 PS3",
-      "price": 9.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/k6/4p/__/c10420p1219620889/i6222046076.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/ghost-recon-advanced-warfighter-2-ps3-1219620889",
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
@@ -7849,6 +7813,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 654,
-  "actualizado": "2026-10-06T13:01:33"
+  "total": 651,
+  "actualizado": "2026-10-06T13:31:35"
 }
