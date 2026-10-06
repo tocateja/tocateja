@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1309892837",
+      "title": "Guitarra Eléctrica Gibson Les Paul Standard 50S",
+      "price": 1595.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ln/vj/__/c10420p1309892837/i6778414754.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/guitarra-electrica-gibson-les-paul-tobacco-burst-1309892837",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
       "id": "1308665646",
       "title": "Altavoz Bluetooth Vieta Pro",
       "price": 41.5,
@@ -35,18 +47,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Antigüedades y Coleccionismo"
-    },
-    {
-      "id": "1309892837",
-      "title": "Guitarra Eléctrica Gibson Les Paul Standard 50S",
-      "price": 1595.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ln/vj/__/c10420p1309892837/i6778414754.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/guitarra-electrica-gibson-les-paul-tobacco-burst-1309892837",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
     },
     {
       "id": "1309913534",
@@ -7814,5 +7814,5 @@
     }
   ],
   "total": 651,
-  "actualizado": "2026-10-06T15:31:35"
+  "actualizado": "2026-10-06T16:01:35"
 }
