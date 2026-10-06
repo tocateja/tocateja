@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1297806982",
+      "title": "Cargador Makita DC40RA XGT + Batería BL4040 XGT",
+      "price": 145.0,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/lg/oi/__/c10420p1297806982/i6709592555.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/cargador-makita-dc40ra-xgt---bateria-bl4040-xgt-1297806982",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Herramientas"
+    },
+    {
       "id": "1309892837",
       "title": "Guitarra Eléctrica Gibson Les Paul Standard 50S",
       "price": 1595.0,
@@ -131,18 +143,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Hogar"
-    },
-    {
-      "id": "1297806982",
-      "title": "Cargador Makita DC40RA XGT + Batería BL4040 XGT",
-      "price": 145.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lg/oi/__/c10420p1297806982/i6709592555.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/cargador-makita-dc40ra-xgt---bateria-bl4040-xgt-1297806982",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Herramientas"
     },
     {
       "id": "1309528553",
@@ -7814,5 +7814,5 @@
     }
   ],
   "total": 651,
-  "actualizado": "2026-10-06T16:01:35"
+  "actualizado": "2026-10-06T16:31:35"
 }
