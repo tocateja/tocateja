@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1309892837",
+      "title": "Destacado",
+      "price": 1595.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ln/vj/__/c10420p1309892837/i6778414754.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/guitarra-electrica-gibson-les-paul-tobacco-burst-1309892837",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1134994377",
       "title": "TECLADO LENOVO USB",
       "price": 9.5,
@@ -20,18 +32,6 @@
       "status": "reserved",
       "image": "https://cdn.wallapop.com/images/10420/l0/g3/__/c10420p1270540891/i6548706558.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/onyx-boox-note-3-e-reader-1270540891",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
-      "id": "1309892837",
-      "title": "Destacado",
-      "price": 1595.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ln/vj/__/c10420p1309892837/i6778414754.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/guitarra-electrica-gibson-les-paul-tobacco-burst-1309892837",
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
@@ -7754,5 +7754,5 @@
     }
   ],
   "total": 646,
-  "actualizado": "2026-10-07T16:31:36"
+  "actualizado": "2026-10-07T17:01:33"
 }
