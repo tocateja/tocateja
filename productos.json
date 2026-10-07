@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1270540891",
+      "title": "Onyx Boox Note 3 E-reader",
+      "price": 219.0,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/l0/g3/__/c10420p1270540891/i6548706558.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/onyx-boox-note-3-e-reader-1270540891",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1309892837",
       "title": "Destacado",
       "price": 1595.0,
@@ -3227,18 +3239,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Antigüedades y Coleccionismo"
-    },
-    {
-      "id": "1270540891",
-      "title": "Onyx Boox Note 3 E-reader",
-      "price": 219.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l0/g3/__/c10420p1270540891/i6548706558.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/onyx-boox-note-3-e-reader-1270540891",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
     },
     {
       "id": "1247584297",
@@ -7826,5 +7826,5 @@
     }
   ],
   "total": 652,
-  "actualizado": "2026-10-06T20:01:34"
+  "actualizado": "2026-10-07T02:01:36"
 }
