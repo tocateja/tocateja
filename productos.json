@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1307425845",
+      "title": "Punto de Acceso Doble Banda Ubiquiti",
+      "price": 50.5,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/lm/eo/__/c10420p1307425845/i6761043947.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/punto-de-acceso-doble-banda-ubiquiti-1307425845",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1307046409",
+      "title": "Destacado",
+      "price": 1499.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lm/6j/__/c10420p1307046409/i6758874262.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/iphone-18-pro-512gb-precintado-1307046409",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1309892837",
       "title": "Destacado",
       "price": 1595.0,
@@ -589,18 +613,6 @@
       "category": "Gaming"
     },
     {
-      "id": "1307046409",
-      "title": "iPhone 18 Pro 512gb Precintado",
-      "price": 1499.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lm/6j/__/c10420p1307046409/i6758874262.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/iphone-18-pro-512gb-precintado-1307046409",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
-    },
-    {
       "id": "1229591082",
       "title": "FIFA 23 PS5 Precintado",
       "price": 10.5,
@@ -731,18 +743,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Música e Instrumentos"
-    },
-    {
-      "id": "1307425845",
-      "title": "Punto de Acceso Doble Banda Ubiquiti",
-      "price": 50.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lm/eo/__/c10420p1307425845/i6761043947.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/punto-de-acceso-doble-banda-ubiquiti-1307425845",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
     },
     {
       "id": "1307422493",
@@ -7754,5 +7754,5 @@
     }
   ],
   "total": 646,
-  "actualizado": "2026-10-07T17:31:35"
+  "actualizado": "2026-10-07T18:01:34"
 }
