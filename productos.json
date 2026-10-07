@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1134994377",
+      "title": "TECLADO LENOVO USB",
+      "price": 9.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ir/qv/__/c10420p1134994377/i5664366950.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/teclado-lenovo-usb-1134994377",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Informática"
+    },
+    {
       "id": "1270540891",
       "title": "Onyx Boox Note 3 E-reader",
       "price": 219.0,
@@ -3635,18 +3647,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Música e Instrumentos"
-    },
-    {
-      "id": "1134994377",
-      "title": "TECLADO LENOVO USB",
-      "price": 9.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ir/qv/__/c10420p1134994377/i5664366950.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/teclado-lenovo-usb-1134994377",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Informática"
     },
     {
       "id": "1293389099",
@@ -7754,5 +7754,5 @@
     }
   ],
   "total": 646,
-  "actualizado": "2026-10-07T13:01:34"
+  "actualizado": "2026-10-07T13:31:37"
 }
