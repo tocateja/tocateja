@@ -145,18 +145,6 @@
       "category": "Hogar"
     },
     {
-      "id": "1309877256",
-      "title": "Cabezal Amplificador Válvulas Peavey 5150",
-      "price": 599.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ln/v7/__/c10420p1309877256/i6778212489.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/cabezal-amplificador-valvulas-peavey-5150-1309877256",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
-    },
-    {
       "id": "1302810375",
       "title": "Consola Nintendo switch 2",
       "price": 395.0,
@@ -7825,6 +7813,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 652,
-  "actualizado": "2026-10-07T10:01:35"
+  "total": 651,
+  "actualizado": "2026-10-07T10:31:35"
 }
