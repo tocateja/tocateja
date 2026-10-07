@@ -254,7 +254,7 @@
     },
     {
       "id": "1209966482",
-      "title": "Destacado",
+      "title": "Arenero Autolimpiable Petsafe Scoopfree A estrenar",
       "price": 135.0,
       "currency": "EUR",
       "status": "available",
@@ -262,7 +262,7 @@
       "url": "https://es.wallapop.com/item/arenero-autolimpiable-petsafe-scoopfree-nuevo-1209966482",
       "location": "Pamplona",
       "condition": "",
-      "category": "Otros"
+      "category": "Juguetes"
     },
     {
       "id": "1247258437",
@@ -419,18 +419,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1308659347",
-      "title": "Altavoz Inteligente Google Home Mini",
-      "price": 16.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ln/54/__/c10420p1308659347/i6770706791.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/altavoz-inteligente-google-home-mini-1308659347",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
     },
     {
       "id": "1308649125",
@@ -7813,6 +7801,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 651,
-  "actualizado": "2026-10-07T11:01:33"
+  "total": 650,
+  "actualizado": "2026-10-07T11:31:37"
 }
