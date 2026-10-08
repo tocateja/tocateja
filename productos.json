@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1310720754",
+      "title": "Teclado y Ratón Inalámbrico Elbe",
+      "price": 21.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lo/da/__/c10420p1310720754/i6783871947.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/teclado-y-raton-inalambrico-elbe-1310720754",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Informática"
+    },
+    {
       "id": "1309911136",
       "title": "Pedalera Guitarra Multiefectos Mooer GE200",
       "price": 125.0,
@@ -407,18 +419,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1308688525",
-      "title": "Pareja de Soportes para Altavoces Millenium",
-      "price": 39.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ln/5q/__/c10420p1308688525/i6770900912.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/pareja-de-soportes-para-altavoces-millenium-1308688525",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
     },
     {
       "id": "1308686569",
@@ -6097,18 +6097,6 @@
       "category": "Otros"
     },
     {
-      "id": "1282207431",
-      "title": "Guitarra eléctrica Sterling Cutlass 50 Firemist",
-      "price": 475.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l7/e5/__/c10420p1282207431/i6619826953.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/guitarra-electrica-sterling-cutlass-50-firemist-1282207431",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
-    },
-    {
       "id": "1268492000",
       "title": "Pokémon Edición Esmeralda GBA",
       "price": 45.0,
@@ -7705,6 +7693,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 642,
-  "actualizado": "2026-10-08T11:31:35"
+  "total": 641,
+  "actualizado": "2026-10-08T12:01:34"
 }
