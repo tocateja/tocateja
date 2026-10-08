@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1310767189",
+      "title": "Samsung Galaxy S25",
+      "price": 440.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lo/ea/__/c10420p1310767189/i6784158780.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/samsung-galaxy-s25-1310767189",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
+      "id": "1310761685",
+      "title": "Cámara Analógica Compacta Olympus Trip 35",
+      "price": 65.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lo/e6/__/c10420p1310761685/i6784117530.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/camara-analogica-olympus-trip-35-1310761685",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Foto y Vídeo"
+    },
+    {
       "id": "1310757286",
       "title": "Báscula de precisión Cobos G-6000",
       "price": 51.5,
@@ -7753,6 +7777,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 646,
-  "actualizado": "2026-10-08T13:31:36"
+  "total": 648,
+  "actualizado": "2026-10-08T14:01:34"
 }
