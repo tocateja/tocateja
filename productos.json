@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1311089876",
+      "title": "Gran Turismo 7 (PS5)",
+      "price": 33.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lo/l7/__/c10420p1311089876/i6786270270.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/gran-turismo-7-ps5-1311089876",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
       "id": "1290429506",
       "title": "Reproductor CD Philips",
       "price": 69.95,
@@ -479,18 +491,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Música e Instrumentos"
-    },
-    {
-      "id": "1302352210",
-      "title": "The Legend of Zelda Ocarina of Time 3D 3Ds",
-      "price": 31.5,
-      "currency": "EUR",
-      "status": "reserved",
-      "image": "https://cdn.wallapop.com/images/10420/lj/dx/__/c10420p1302352210/i6731257658.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/the-legend-of-zelda-ocarina-of-time-3d-3ds-1302352210",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
     },
     {
       "id": "1308692619",
@@ -7730,5 +7730,5 @@
     }
   ],
   "total": 644,
-  "actualizado": "2026-10-09T11:31:35"
+  "actualizado": "2026-10-09T12:01:33"
 }
