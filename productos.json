@@ -4249,18 +4249,6 @@
       "category": "Gaming"
     },
     {
-      "id": "1230209164",
-      "title": "Norman y Mix (Spanish Edition)",
-      "price": 5.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kc/fn/__/c10420p1230209164/i6290863104.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/norman-y-mix-spanish-edition-1230209164",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
       "id": "1200489201",
       "title": "Vinilo Coral de Camara de Pamplona",
       "price": 3.5,
@@ -7645,6 +7633,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 637,
-  "actualizado": "2026-10-13T18:31:29"
+  "total": 636,
+  "actualizado": "2026-10-13T19:01:28"
 }
