@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1312626454",
+      "title": "Cámara Fotos Compacta Sony Cyber-shot",
+      "price": 75.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lp/i5/__/c10420p1312626454/i6794302569.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/camara-fotos-compacta-sony-cyber-shot-1312626454",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Foto y Vídeo"
+    },
+    {
       "id": "1312622975",
       "title": "Cartas Tarot El Tarot Moderno",
       "price": 10.0,
@@ -7609,6 +7621,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 634,
-  "actualizado": "2026-10-13T13:01:28"
+  "total": 635,
+  "actualizado": "2026-10-13T13:31:31"
 }
