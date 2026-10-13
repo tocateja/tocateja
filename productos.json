@@ -1,18 +1,6 @@
 {
   "productos": [
     {
-      "id": "1266674504",
-      "title": "Ratón Gaming Razer Viper V3 Pro Negro",
-      "price": 69.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ky/58/__/c10420p1266674504/i6523698037.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/raton-gaming-razer-viper-v3-pro-negro-1266674504",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
       "id": "1251090824",
       "title": "Portátil HP Elitebook 8 G1i 16 PRECINTADO",
       "price": 1195.0,
@@ -971,18 +959,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1304939247",
-      "title": "Portátil Lenovo ThinkPad L14 5GEN Negro",
-      "price": 590.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lk/xd/__/c10420p1304939247/i6747650186.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/portatil-lenovo-thinkpad-l14-5gen-negro-1304939247",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Informática"
     },
     {
       "id": "1273952385",
@@ -7609,6 +7585,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 634,
-  "actualizado": "2026-10-13T10:31:31"
+  "total": 632,
+  "actualizado": "2026-10-13T11:01:29"
 }
