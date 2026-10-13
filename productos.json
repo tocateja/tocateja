@@ -1,6 +1,42 @@
 {
   "productos": [
     {
+      "id": "1312622975",
+      "title": "Cartas Tarot El Tarot Moderno",
+      "price": 10.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lp/i2/__/c10420p1312622975/i6794284193.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/cartas-tarot-el-tarot-moderno-1312622975",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1312622274",
+      "title": "Baraja Tarot El Oráculo de la Voz de las Almas",
+      "price": 14.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lp/i1/__/c10420p1312622274/i6794279924.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/baraja-tarot-el-oraculo-de-la-voz-de-las-almas-1312622274",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1312620392",
+      "title": "Baraja Cartas Tarot La Bruja Verde El Oráculo",
+      "price": 12.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lp/i0/__/c10420p1312620392/i6794269214.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/baraja-cartas-tarot-la-bruja-verde-el-oraculo-1312620392",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1302303794",
       "title": "Proyector Led Xiaomi L1 Pro",
       "price": 199.0,
@@ -3731,18 +3767,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Electrodomésticos"
-    },
-    {
-      "id": "1194745902",
-      "title": "Set Whisky 7 Piezas Cristal De  Bohemia A estrenar",
-      "price": 31.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/jr/bj/__/c10420p1194745902/i6039928791.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/set-whisky-7-piezas-cristal-de-bohemia-a-estrenar-1194745902",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Joyería y Complementos"
     },
     {
       "id": "1275141682",
@@ -7585,6 +7609,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 632,
-  "actualizado": "2026-10-13T12:31:30"
+  "total": 634,
+  "actualizado": "2026-10-13T13:01:28"
 }
