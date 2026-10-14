@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1312941845",
+      "title": "Alicate y llave de anillo M8-M10",
+      "price": 51.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lp/ow/__/c10420p1312941845/i6796657112.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/alicate-y-llave-de-anillo-m8-m10-1312941845",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Joyería y Complementos"
+    },
+    {
       "id": "1312942775",
       "title": "Tenazas Berner",
       "price": 41.5,
@@ -59,18 +71,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Música e Instrumentos"
-    },
-    {
-      "id": "1312941845",
-      "title": "Alicate y llave de anillo M8-M10",
-      "price": 51.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lp/ow/__/c10420p1312941845/i6796657112.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/alicate-y-llave-de-anillo-m8-m10-1312941845",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Joyería y Complementos"
     },
     {
       "id": "1312937881",
@@ -419,18 +419,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Informática"
-    },
-    {
-      "id": "1270540891",
-      "title": "Onyx Boox Note 3 E-reader",
-      "price": 219.0,
-      "currency": "EUR",
-      "status": "reserved",
-      "image": "https://cdn.wallapop.com/images/10420/l0/g3/__/c10420p1270540891/i6548706558.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/onyx-boox-note-3-e-reader-1270540891",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
     },
     {
       "id": "1310046462",
@@ -7693,6 +7681,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 641,
-  "actualizado": "2026-10-14T12:01:33"
+  "total": 640,
+  "actualizado": "2026-10-14T12:31:30"
 }
