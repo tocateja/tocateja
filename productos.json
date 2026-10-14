@@ -1261,18 +1261,6 @@
       "category": "Otros"
     },
     {
-      "id": "1305692727",
-      "title": "Baraja cartas tarot Oráculo de la Sabiduría",
-      "price": 0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ll/di/__/c10420p1305692727/i6751880064.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/baraja-cartas-tarot-oraculo-de-la-sabiduria-1305692727",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
       "id": "1305691443",
       "title": "Baraja cartas tarot El Árbol de la Vida ORACULO",
       "price": 0,
@@ -5545,18 +5533,6 @@
       "category": "Otros"
     },
     {
-      "id": "1286674383",
-      "title": "Libro cocina Karlos Arguiñano 1000 recetas de oro",
-      "price": 0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/la/1w/__/c10420p1286674383/i6645975084.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/libro-cocina-karlos-arguinano-1000-recetas-de-oro-1286674383",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
       "id": "1286670725",
       "title": "Libro cocina Karlos Arguiñano Gran recetario",
       "price": 0,
@@ -7705,6 +7681,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 642,
-  "actualizado": "2026-10-14T18:31:39"
+  "total": 640,
+  "actualizado": "2026-10-14T19:01:30"
 }
