@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1313067337",
+      "title": "Cartas Tarot Encuentra Tu Magia",
+      "price": 0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lp/rl/__/c10420p1313067337/i6797367738.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/cartas-tarot-encuentra-tu-magia-1313067337",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1312941845",
       "title": "Alicate y llave de anillo M8-M10",
       "price": 0,
@@ -7681,6 +7693,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 640,
-  "actualizado": "2026-10-14T16:31:31"
+  "total": 641,
+  "actualizado": "2026-10-14T17:01:34"
 }
