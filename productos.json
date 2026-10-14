@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1266664915",
+      "title": "Ajedrez Azteca Resina Años 80",
+      "price": 0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ky/50/__/c10420p1266664915/i6523639747.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/ajedrez-azteca-resina-anos-80-1266664915",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1313069873",
+      "title": "Colección 2 Películas Frozen DVD",
+      "price": 0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lp/rn/__/c10420p1313069873/i6797384348.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/coleccion-2-peliculas-frozen-dvd-1313069873",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
       "id": "1313067337",
       "title": "Cartas Tarot Encuentra Tu Magia",
       "price": 0,
@@ -119,18 +143,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Deporte"
-    },
-    {
-      "id": "1266664915",
-      "title": "Ajedrez Azteca Resina Años 80",
-      "price": 0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ky/50/__/c10420p1266664915/i6523639747.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/ajedrez-azteca-resina-anos-80-1266664915",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
     },
     {
       "id": "1312720696",
@@ -7693,6 +7705,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 641,
-  "actualizado": "2026-10-14T17:01:34"
+  "total": 642,
+  "actualizado": "2026-10-14T17:31:36"
 }
