@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1313299768",
+      "title": "Teclado Plegable Bluetooth con Touchpad",
+      "price": 0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lp/wk/__/c10420p1313299768/i6798688027.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/teclado-plegable-bluetooth-con-touchpad-1313299768",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Informática"
+    },
+    {
+      "id": "1313292641",
+      "title": "Altavoces Sony SS-L80 90W",
+      "price": 0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lp/wf/__/c10420p1313292641/i6798648914.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/altavoces-sony-90w-1313292641",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
       "id": "1313297667",
       "title": "Baraja Tarot El Poder de lo Femenino",
       "price": 0,
@@ -23,18 +47,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Informática"
-    },
-    {
-      "id": "1313292641",
-      "title": "Altavoces Sony 90W",
-      "price": 0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lp/wf/__/c10420p1313292641/i6798648914.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/altavoces-sony-90w-1313292641",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
     },
     {
       "id": "1312937881",
@@ -167,18 +179,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Móviles y Smartwatches"
-    },
-    {
-      "id": "1310723940",
-      "title": "Patinete Skate Independent",
-      "price": 0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lo/dd/__/c10420p1310723940/i6783890734.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/patinete-skate-independent-1310723940",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Deporte"
     },
     {
       "id": "1312720696",
@@ -7706,5 +7706,5 @@
     }
   ],
   "total": 642,
-  "actualizado": "2026-10-15T11:01:35"
+  "actualizado": "2026-10-15T11:31:35"
 }
