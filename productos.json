@@ -37,18 +37,6 @@
       "category": "Informática"
     },
     {
-      "id": "1313296156",
-      "title": "Teclado MIDI M-Audio Keystation Mini 32 MK3",
-      "price": 0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lp/wh/__/c10420p1313296156/i6798668511.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/teclado-midi-m-audio-keystation-mini-32-mk3-1313296156",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Informática"
-    },
-    {
       "id": "1161461901",
       "title": "Medidor láser Metabo LD 60",
       "price": 0,
@@ -7645,6 +7633,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 637,
-  "actualizado": "2026-10-15T19:01:30"
+  "total": 636,
+  "actualizado": "2026-10-15T19:31:30"
 }
