@@ -1,13 +1,25 @@
 {
   "productos": [
     {
-      "id": "1313299768",
+      "id": "1229591082",
+      "title": "FIFA 23 PS5 Precintado",
+      "price": 0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kc/2e/__/c10420p1229591082/i6286220158.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/fifa-23-ps5-precintado-1229591082",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1313314409",
       "title": "Teclado Plegable Bluetooth con Touchpad",
       "price": 0,
       "currency": "EUR",
       "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lp/wk/__/c10420p1313299768/i6798688027.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/teclado-plegable-bluetooth-con-touchpad-1313299768",
+      "image": "https://cdn.wallapop.com/images/10420/lp/wv/__/c10420p1313314409/i6798768877.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/teclado-plegable-bluetooth-con-touchpad-1313314409",
       "location": "Pamplona",
       "condition": "",
       "category": "Informática"
@@ -145,18 +157,6 @@
       "category": "TV y Audio"
     },
     {
-      "id": "1312949205",
-      "title": "Samsung Galaxy Buds 2 Pro",
-      "price": 0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lp/p2/__/c10420p1312949205/i6796709777.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/samsung-galaxy-buds-2-pro-1312949205",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
-    },
-    {
       "id": "1299657540",
       "title": "Vinilo Canciones para Niños de Hoy",
       "price": 0,
@@ -248,18 +248,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/lp/i2/__/c10420p1312622975/i6794284193.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/cartas-tarot-el-tarot-moderno-1312622975",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
-      "id": "1312622274",
-      "title": "Baraja Tarot El Oráculo de la Voz de las Almas",
-      "price": 0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lp/i1/__/c10420p1312622274/i6794279924.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/baraja-tarot-el-oraculo-de-la-voz-de-las-almas-1312622274",
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
@@ -887,18 +875,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1229591082",
-      "title": "FIFA 23 PS5 Precintado",
-      "price": 0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kc/2e/__/c10420p1229591082/i6286220158.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/fifa-23-ps5-precintado-1229591082",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
     },
     {
       "id": "1186476432",
@@ -3248,18 +3224,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/km/s2/__/c10420p1247584297/i6402198555.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/juego-xbox-one-paw-patrol-on-a-roll-1247584297",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
-      "id": "1156144472",
-      "title": "The Division-  Xbox One",
-      "price": 0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/j4/c6/__/c10420p1156144472/i5819761871.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/the-division-xbox-one-1156144472",
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
@@ -7705,6 +7669,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 642,
-  "actualizado": "2026-10-15T11:31:35"
+  "total": 639,
+  "actualizado": "2026-10-15T12:01:29"
 }
