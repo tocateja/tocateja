@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1251090824",
+      "title": "Portátil HP Elitebook 8 G1i 16 PRECINTADO",
+      "price": 0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ko/v7/__/c10420p1251090824/i6427316016.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/portatil-hp-elitebook-8-g1i-16-1251090824",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
       "id": "1310753125",
       "title": "TPV Táctil+Datáfono+Cajón+ Impresora Sumup",
       "price": 0,
@@ -383,18 +395,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1251090824",
-      "title": "Portátil HP Elitebook 8 G1i 16 PRECINTADO",
-      "price": 0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ko/v7/__/c10420p1251090824/i6427316016.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/portatil-hp-elitebook-8-g1i-16-1251090824",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
     },
     {
       "id": "1311089876",
@@ -7694,5 +7694,5 @@
     }
   ],
   "total": 641,
-  "actualizado": "2026-10-15T17:31:35"
+  "actualizado": "2026-10-15T18:01:34"
 }
