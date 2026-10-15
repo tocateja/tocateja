@@ -1,6 +1,42 @@
 {
   "productos": [
     {
+      "id": "1313297667",
+      "title": "Baraja Tarot El Poder de lo Femenino",
+      "price": 0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lp/wi/__/c10420p1313297667/i6798676760.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/baraja-tarot-el-poder-de-lo-femenino-1313297667",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1313296156",
+      "title": "Teclado MIDI M-Audio Keystation Mini 32 MK3",
+      "price": 0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lp/wh/__/c10420p1313296156/i6798668511.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/teclado-midi-m-audio-keystation-mini-32-mk3-1313296156",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Informática"
+    },
+    {
+      "id": "1313292641",
+      "title": "Altavoces Sony 90W",
+      "price": 0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lp/wf/__/c10420p1313292641/i6798648914.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/altavoces-sony-90w-1313292641",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
       "id": "1312937881",
       "title": "Micrófono de Condensador Rode",
       "price": 0,
@@ -7669,6 +7705,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 639,
-  "actualizado": "2026-10-15T10:31:31"
+  "total": 642,
+  "actualizado": "2026-10-15T11:01:35"
 }
