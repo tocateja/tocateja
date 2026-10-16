@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1285403374",
+      "title": "Google Pixel 10A A Estrenar",
+      "price": 0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l9/an/__/c10420p1285403374/i6638459792.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/google-pixel-10a-a-estrenar-1285403374",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
       "id": "1307564835",
       "title": "Mando Arcade Stick 8BitDo A estrenar",
       "price": 0,
@@ -332,18 +344,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/l0/za/__/c10420p1271436046/i6554735774.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/samsung-galaxy-z-fold-7-1271436046",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
-    },
-    {
-      "id": "1285403374",
-      "title": "Google Pixel 10A A Estrenar",
-      "price": 0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l9/an/__/c10420p1285403374/i6638459792.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/google-pixel-10a-a-estrenar-1285403374",
       "location": "Pamplona",
       "condition": "",
       "category": "Móviles y Smartwatches"
@@ -7802,5 +7802,5 @@
     }
   ],
   "total": 650,
-  "actualizado": "2026-10-16T14:31:37"
+  "actualizado": "2026-10-16T15:01:33"
 }
