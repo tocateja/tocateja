@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1209966482",
+      "title": "Arenero Autolimpiable Petsafe Scoopfree A estrenar",
+      "price": 0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/k0/ds/__/c10420p1209966482/i6161253500.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/arenero-autolimpiable-petsafe-scoopfree-nuevo-1209966482",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Juguetes"
+    },
+    {
       "id": "1290432954",
       "title": "Amplificador Akai Stereo Vintage",
       "price": 0,
@@ -923,18 +935,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1209966482",
-      "title": "Arenero Autolimpiable Petsafe Scoopfree A estrenar",
-      "price": 0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/k0/ds/__/c10420p1209966482/i6161253500.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/arenero-autolimpiable-petsafe-scoopfree-nuevo-1209966482",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Juguetes"
     },
     {
       "id": "1297822107",
@@ -7790,5 +7790,5 @@
     }
   ],
   "total": 649,
-  "actualizado": "2026-10-16T19:01:33"
+  "actualizado": "2026-10-16T19:31:36"
 }
