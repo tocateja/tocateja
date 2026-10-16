@@ -1,6 +1,78 @@
 {
   "productos": [
     {
+      "id": "1313657755",
+      "title": "Minecraft Dungeons Hero Edition (Nintendo Switch)",
+      "price": 0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lq/48/__/c10420p1313657755/i6800836434.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/minecraft-dungeons-hero-edition-nintendo-switch-1313657755",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1313656860",
+      "title": "Super Mario 3D World + Bowser's Fury Switch",
+      "price": 0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lq/48/__/c10420p1313656860/i6800832274.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/super-mario-3d-world---bowser-s-fury-switch-1313656860",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1313655886",
+      "title": "New Super Mario Bros. U Deluxe (Nintendo Switch)",
+      "price": 0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lq/47/__/c10420p1313655886/i6800826258.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/new-super-mario-bros-u-deluxe-nintendo-switch-1313655886",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1313655171",
+      "title": "Luigi's Mansion 3 - Nintendo Switch",
+      "price": 0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lq/46/__/c10420p1313655171/i6800822313.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/luigi-s-mansion-3-nintendo-switch-1313655171",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1313654474",
+      "title": "Sonic Mania Nintendo Switch",
+      "price": 0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lq/46/__/c10420p1313654474/i6800817490.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/sonic-mania-nintendo-switch-1313654474",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1313647983",
+      "title": "Cazadora de Moto Cordura Bering Discovery",
+      "price": 0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lq/41/__/c10420p1313647983/i6800777968.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/cazadora-de-moto-cordura-bering-discover-1313647983",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Motor"
+    },
+    {
       "id": "1307046409",
       "title": "iPhone 18 Pro 512gb Precintado",
       "price": 0,
@@ -7633,6 +7705,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 636,
-  "actualizado": "2026-10-16T11:01:29"
+  "total": 642,
+  "actualizado": "2026-10-16T11:31:37"
 }
