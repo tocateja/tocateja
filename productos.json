@@ -1,6 +1,90 @@
 {
   "productos": [
     {
+      "id": "1313663484",
+      "title": "New Super Mario Bros. U Deluxe (Nintendo Switch)",
+      "price": 0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lq/4d/__/c10420p1313663484/i6800868365.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/new-super-mario-bros-u-deluxe-nintendo-switch-1313663484",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1313662821",
+      "title": "Ring Fit Adventure Nintendo Switch",
+      "price": 0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lq/4c/__/c10420p1313662821/i6800863463.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/ring-fit-adventure-nintendo-switch-1313662821",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1313661985",
+      "title": "Pikmin 3 Deluxe (Nintendo Switch)",
+      "price": 0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lq/4c/__/c10420p1313661985/i6800859158.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/pikmin-3-deluxe-nintendo-switch-1313661985",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1313660410",
+      "title": "Mario Party Superstars (Nintendo Switch)",
+      "price": 0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lq/4a/__/c10420p1313660410/i6800851206.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/mario-party-superstars-nintendo-switch-1313660410",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1313661277",
+      "title": "LEGO Star Wars: La Saga Skywalker (Switch)",
+      "price": 0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lq/4b/__/c10420p1313661277/i6800855194.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/lego-star-wars-la-saga-skywalker-switch-1313661277",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1313659756",
+      "title": "Super Mario Maker 2 (Nintendo Switch)",
+      "price": 0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lq/4a/__/c10420p1313659756/i6800846767.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/super-mario-maker-2-nintendo-switch-1313659756",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1313659084",
+      "title": "Paper Mario: The Origami King (Nintendo Switch)",
+      "price": 0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lq/49/__/c10420p1313659084/i6800843336.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/paper-mario-the-origami-king-nintendo-switch-1313659084",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
       "id": "1313657755",
       "title": "Minecraft Dungeons Hero Edition (Nintendo Switch)",
       "price": 0,
@@ -587,18 +671,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Informática"
-    },
-    {
-      "id": "1307425845",
-      "title": "Punto de Acceso Doble Banda Ubiquiti",
-      "price": 0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lm/eo/__/c10420p1307425845/i6761043947.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/punto-de-acceso-doble-banda-ubiquiti-1307425845",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
     },
     {
       "id": "1134994377",
@@ -7705,6 +7777,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 642,
-  "actualizado": "2026-10-16T11:31:37"
+  "total": 648,
+  "actualizado": "2026-10-16T12:01:39"
 }
