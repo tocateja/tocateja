@@ -1,6 +1,210 @@
 {
   "productos": [
     {
+      "id": "1314007137",
+      "title": "Xiaomi Watch S3",
+      "price": 0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lq/bq/__/c10420p1314007137/i6802827169.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/xiaomi-watch-s3-1314007137",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
+      "id": "1314003383",
+      "title": "Guitarra Clásica Oqan José Torres",
+      "price": 0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lq/bn/__/c10420p1314003383/i6802808734.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/guitarra-clasica-oqan-jose-torres-1314003383",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1313998088",
+      "title": "Juego de 2 Copas Decorativas",
+      "price": 0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lq/bj/__/c10420p1313998088/i6802783394.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/juego-de-2-copas-decorativas-1313998088",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1313995849",
+      "title": "Espejo de mano vintage",
+      "price": 0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lq/bh/__/c10420p1313995849/i6802770543.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/espejo-de-mano-vintage-1313995849",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Hogar"
+    },
+    {
+      "id": "1313993720",
+      "title": "Soporte Espejo de Bronce Grabado",
+      "price": 0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lq/bg/__/c10420p1313993720/i6802760822.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/soporte-espejo-de-bronce-grabado-1313993720",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Hogar"
+    },
+    {
+      "id": "1313991567",
+      "title": "Balanza Antigua",
+      "price": 0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lq/be/__/c10420p1313991567/i6802749951.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/balanza-antigua-1313991567",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1277482157",
+      "title": "Pinza Amperimétrica Vintage Kyoritsu",
+      "price": 0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l4/kv/__/c10420p1277482157/i6589121327.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/pinza-amperimetrica-vintage-kyoritsu-1277482157",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Antigüedades y Coleccionismo"
+    },
+    {
+      "id": "1313987463",
+      "title": "Pareja de figuras africanas decorativas",
+      "price": 0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lq/bb/__/c10420p1313987463/i6802728881.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/pareja-de-figuras-africanas-decorativas-1313987463",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Hogar"
+    },
+    {
+      "id": "1313984989",
+      "title": "Teléfono Fijo Vintage Decorativo",
+      "price": 0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lq/b9/__/c10420p1313984989/i6802716925.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/telefono-fijo-vintage-decorativo-1313984989",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
+      "id": "1313982693",
+      "title": "Lámpara de escritorio LED Abrila",
+      "price": 0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lq/b7/__/c10420p1313982693/i6802706450.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/lampara-de-escritorio-led-abrila-1313982693",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Hogar"
+    },
+    {
+      "id": "1313980295",
+      "title": "Lámpara de escritorio LED Abrila",
+      "price": 0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lq/b5/__/c10420p1313980295/i6802695177.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/lampara-de-escritorio-led-abrila-1313980295",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Hogar"
+    },
+    {
+      "id": "1313977126",
+      "title": "Lámpara Rústica Led Artesolar Max 60W",
+      "price": 0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lq/b3/__/c10420p1313977126/i6802681431.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/lampara-rustica-led-artesolar-max-60w-1313977126",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Hogar"
+    },
+    {
+      "id": "1313973564",
+      "title": "Portátil Acer Aspire Go 15",
+      "price": 0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lq/b0/__/c10420p1313973564/i6802663883.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/portatil-acer-aspire-go-15-1313973564",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Informática"
+    },
+    {
+      "id": "1313970733",
+      "title": "Samsung Galaxy S24",
+      "price": 0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lq/ay/__/c10420p1313970733/i6802649321.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/samsung-galaxy-s24-1313970733",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
+      "id": "1307564835",
+      "title": "Mando Arcade Stick 8BitDo A estrenar",
+      "price": 0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lm/hn/__/c10420p1307564835/i6761868862.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/mando-arcade-stick-8bitdo-a-estrenar-1307564835",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1290873614",
+      "title": "Figura Gizmo Gremlins Iconic Fan",
+      "price": 0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lc/jw/__/c10420p1290873614/i6674780578.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/figura-gizmo-gremlins-iconic-fan-1290873614",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Hogar"
+    },
+    {
+      "id": "1163214611",
+      "title": "Pistola de silicona Simes Precintado",
+      "price": 0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/j8/jq/__/c10420p1163214611/i6802579558.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/encoladora-simhm18-hd-600w-precintado-1163214611",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Herramientas"
+    },
+    {
       "id": "1313669110",
       "title": "Brain Training del Dr. Kawashima (Nintendo Switch)",
       "price": 0,
@@ -47,18 +251,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Móviles y Smartwatches"
-    },
-    {
-      "id": "1307564835",
-      "title": "Mando Arcade Stick 8BitDo A estrenar",
-      "price": 0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lm/hn/__/c10420p1307564835/i6761868862.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/mando-arcade-stick-8bitdo-a-estrenar-1307564835",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
     },
     {
       "id": "1305038741",
@@ -1393,18 +1585,6 @@
       "category": "Joyería y Complementos"
     },
     {
-      "id": "1307073658",
-      "title": "Silla de ruedas Breezy Style",
-      "price": 0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lm/74/__/c10420p1307073658/i6759027833.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/silla-de-ruedas-breezy-style-1307073658",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Hogar"
-    },
-    {
       "id": "1240515126",
       "title": "Silla de ruedas infantil Invacare Action 3",
       "price": 0,
@@ -2593,18 +2773,6 @@
       "category": "Otros"
     },
     {
-      "id": "1163214611",
-      "title": "Pistola de silicona Simes Precintado",
-      "price": 0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/j8/jq/__/c10420p1163214611/i5865132397.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/encoladora-simhm18-hd-600w-precintado-1163214611",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Herramientas"
-    },
-    {
       "id": "1299866767",
       "title": "Secador Pelo Profesional Gamma+ E.T.C. Light",
       "price": 0,
@@ -2627,18 +2795,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1290873614",
-      "title": "Figura Gizmo Gremlins Iconic Fan",
-      "price": 0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lc/jw/__/c10420p1290873614/i6674780578.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/figura-gizmo-gremlins-iconic-fan-1290873614",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Hogar"
     },
     {
       "id": "1299859865",
@@ -6397,18 +6553,6 @@
       "category": "Otros"
     },
     {
-      "id": "1277482157",
-      "title": "Pinza Amperimétrica Vintage Kyoritsu",
-      "price": 0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l4/kv/__/c10420p1277482157/i6589121327.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/pinza-amperimetrica-vintage-kyoritsu-1277482157",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Antigüedades y Coleccionismo"
-    },
-    {
       "id": "1277283557",
       "title": "Calibre Pie de Rey Mitutoyo Para interior Piezas",
       "price": 0,
@@ -7789,6 +7933,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 649,
-  "actualizado": "2026-10-17T08:01:36"
+  "total": 661,
+  "actualizado": "2026-10-17T14:01:36"
 }
