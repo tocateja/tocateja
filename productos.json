@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1255362556",
+      "title": "Móvil 5G Redmi Note 15 PRO+ Plata",
+      "price": 0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kr/er/__/c10420p1255362556/i6452512072.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/movil-5g-redmi-note-15-pro--plata-1255362556",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
       "id": "1314007137",
       "title": "Xiaomi Watch S3",
       "price": 0,
@@ -560,18 +572,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/l0/za/__/c10420p1271436046/i6554735774.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/samsung-galaxy-z-fold-7-1271436046",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
-    },
-    {
-      "id": "1255362556",
-      "title": "Móvil 5G Redmi Note 15 PRO+ Plata",
-      "price": 0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kr/er/__/c10420p1255362556/i6452512072.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/movil-5g-redmi-note-15-pro--plata-1255362556",
       "location": "Pamplona",
       "condition": "",
       "category": "Móviles y Smartwatches"
@@ -7922,5 +7922,5 @@
     }
   ],
   "total": 660,
-  "actualizado": "2026-10-18T20:01:39"
+  "actualizado": "2026-10-19T02:01:35"
 }
