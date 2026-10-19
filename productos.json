@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1275995533",
+      "title": "Objeto religioso",
+      "price": 0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l3/p0/__/c10420p1275995533/i6580853945.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/objeto-religioso-1275995533",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1255362556",
       "title": "Móvil 5G Redmi Note 15 PRO+ Plata",
       "price": 0,
@@ -3685,18 +3697,6 @@
       "category": "Hogar"
     },
     {
-      "id": "1275995533",
-      "title": "Objeto religioso",
-      "price": 0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l3/p0/__/c10420p1275995533/i6580853945.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/objeto-religioso-1275995533",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
       "id": "1276075100",
       "title": "Objeto religioso",
       "price": 0,
@@ -5833,18 +5833,6 @@
       "category": "Libros, Cómics y Revistas"
     },
     {
-      "id": "1286660160",
-      "title": "Libro cocina Karlos Arguiñano La buena cocina",
-      "price": 0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/la/1l/__/c10420p1286660160/i6645884800.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/libro-cocina-karlos-arguinano-la-buena-cocina-1286660160",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
       "id": "1286657905",
       "title": "Libro Cocina Karlos Arguiñano La cocina de tu vida",
       "price": 0,
@@ -5852,18 +5840,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/la/1j/__/c10420p1286657905/i6645871325.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/libro-cocina-karlos-arguinano-la-cocina-de-tu-vida-1286657905",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1286655281",
-      "title": "Libro Cocina Karlos Arguiñano Cocina fácil y rico",
-      "price": 0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/la/1h/__/c10420p1286655281/i6645855061.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/libro-cocina-karlos-arguinano-cocina-facil-y-rico-1286655281",
       "location": "Pamplona",
       "condition": "",
       "category": "Libros, Cómics y Revistas"
@@ -7921,6 +7897,6 @@
       "category": "Gaming"
     }
   ],
-  "total": 660,
-  "actualizado": "2026-10-19T10:01:34"
+  "total": 658,
+  "actualizado": "2026-10-19T10:31:35"
 }
