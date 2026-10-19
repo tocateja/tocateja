@@ -1,6 +1,42 @@
 {
   "productos": [
     {
+      "id": "1285869344",
+      "title": "Cómic Joker pequeñas locuras",
+      "price": 0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l9/kn/__/c10420p1285869344/i6641094795.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/comic-joker-pequenas-locuras-1285869344",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1285866835",
+      "title": "Operación Amanecer. Tomo 1. Que corra la sangre",
+      "price": 0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l9/kl/__/c10420p1285866835/i6641080565.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/operacion-amanecer-tomo-1-que-corra-la-sangre-1285866835",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1282244165",
+      "title": "Caja iPhone 13 Pro Max",
+      "price": 0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l7/ex/__/c10420p1282244165/i6620038298.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/caja-iphone-13-pro-max-1282244165",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
       "id": "1307418464",
       "title": "Mando a distancia universal Grundig 8 en 1",
       "price": 0,
@@ -7129,42 +7165,6 @@
       "category": "Herramientas"
     },
     {
-      "id": "1285870481",
-      "title": "Cómic Rocketeer Aventuras",
-      "price": 0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l9/ko/__/c10420p1285870481/i6641100150.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/comic-rocketeer-aventuras-1285870481",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1285869344",
-      "title": "Cómic Joker pequeñas locuras",
-      "price": 0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l9/kn/__/c10420p1285869344/i6641094795.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/comic-joker-pequenas-locuras-1285869344",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1285866835",
-      "title": "Operación Amanecer. Tomo 1. Que corra la sangre",
-      "price": 0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l9/kl/__/c10420p1285866835/i6641080565.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/operacion-amanecer-tomo-1-que-corra-la-sangre-1285866835",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
       "id": "1229581041",
       "title": "Vinilo Sarita Montiel Mi Último Tango",
       "price": 0,
@@ -7295,18 +7295,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Herramientas"
-    },
-    {
-      "id": "1282244165",
-      "title": "Caja iPhone 13 Pro Max",
-      "price": 0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l7/ex/__/c10420p1282244165/i6620038298.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/caja-iphone-13-pro-max-1282244165",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
     },
     {
       "id": "1282243398",
@@ -7825,6 +7813,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 652,
-  "actualizado": "2026-10-19T16:31:35"
+  "total": 651,
+  "actualizado": "2026-10-19T17:01:33"
 }
