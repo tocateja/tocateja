@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1307418464",
+      "title": "Mando a distancia universal Grundig 8 en 1",
+      "price": 0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lm/ei/__/c10420p1307418464/i6761001380.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/mando-a-distancia-universal-grundig-8-en-1-1307418464",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
       "id": "1285866063",
       "title": "Cómic Novela Gráfica Fagin El Judío de Will Eisner",
       "price": 0,
@@ -2723,18 +2735,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1307418464",
-      "title": "Mando a distancia universal Grundig 8 en 1",
-      "price": 0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lm/ei/__/c10420p1307418464/i6761001380.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/mando-a-distancia-universal-grundig-8-en-1-1307418464",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
     },
     {
       "id": "1307413932",
@@ -7826,5 +7826,5 @@
     }
   ],
   "total": 652,
-  "actualizado": "2026-10-19T14:01:34"
+  "actualizado": "2026-10-19T14:31:34"
 }
