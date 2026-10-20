@@ -1,6 +1,78 @@
 {
   "productos": [
     {
+      "id": "1315170745",
+      "title": "Libro Oráculo Mágico",
+      "price": 6.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lr/0o/__/c10420p1315170745/i6808661096.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/oraculo-magico-guia-para-responder-a-las-pregu-1315170745",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1315168855",
+      "title": "Apple Magic Keyboard USB-C",
+      "price": 46.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lr/0m/__/c10420p1315168855/i6808651073.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/apple-magic-keyboard-usb-c-1315168855",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1315167709",
+      "title": "Apple Magic Keyboard",
+      "price": 16.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lr/0l/__/c10420p1315167709/i6808644320.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/apple-magic-keyboard-1315167709",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1315165480",
+      "title": "Apple Magic Mouse",
+      "price": 36.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lr/0k/__/c10420p1315165480/i6808631743.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/apple-magic-mouse-1315165480",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1315164857",
+      "title": "Apple Magic Mouse",
+      "price": 36.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lr/0j/__/c10420p1315164857/i6808628273.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/apple-magic-mouse-1315164857",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1315163033",
+      "title": "Consola PS4 (PlayStation 4) Fat 500GB",
+      "price": 110.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lr/0i/__/c10420p1315163033/i6808618382.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/consola-ps4-playstation-4-fat-500gb-1315163033",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
       "id": "1315160792",
       "title": "Reproductor DVD DivX Sony",
       "price": 30.5,
@@ -7801,6 +7873,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 650,
-  "actualizado": "2026-10-20T10:31:35"
+  "total": 656,
+  "actualizado": "2026-10-20T11:01:34"
 }
