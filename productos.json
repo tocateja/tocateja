@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1315171510",
+      "title": "Baraja de Tarot del Toro",
+      "price": 9.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lr/0o/__/c10420p1315171510/i6808665673.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/baraja-de-tarot-del-toro-1315171510",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Joyería y Complementos"
+    },
+    {
       "id": "1315170745",
       "title": "Libro Oráculo Mágico",
       "price": 6.0,
@@ -7873,6 +7885,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 656,
-  "actualizado": "2026-10-20T11:01:34"
+  "total": 657,
+  "actualizado": "2026-10-20T11:31:35"
 }
