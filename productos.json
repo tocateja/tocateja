@@ -1,6 +1,42 @@
 {
   "productos": [
     {
+      "id": "1315194242",
+      "title": "Consola Nintendo Switch",
+      "price": 125.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lr/16/__/c10420p1315194242/i6808802567.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/consola-nintendo-switch-1315194242",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1315188591",
+      "title": "Altavoz Bluetooth Peaq Robbie Williams",
+      "price": 99.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lr/12/__/c10420p1315188591/i6808770055.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/altavoz-bluetooth-peaq-robbie-williams-1315188591",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1315184259",
+      "title": "Serie Completa Sexo en Nueva York (DVD)",
+      "price": 41.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lr/0y/__/c10420p1315184259/i6808743106.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/serie-completa-sexo-en-nueva-york-dvd-1315184259",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
       "id": "1315171510",
       "title": "Baraja de Tarot del Toro",
       "price": 9.0,
@@ -872,18 +908,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/l3/ul/__/c10420p1276255524/i6582371170.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/comic-street-fighter-volumen-uno-hadoken-1276255524",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1276254274",
-      "title": "Cómic Daredevil De Mark Waid La sonrisa del diablo",
-      "price": 9.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l3/uk/__/c10420p1276254274/i6582364858.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/comic-daredevil-de-mark-waid-la-sonrisa-del-diablo-1276254274",
       "location": "Pamplona",
       "condition": "",
       "category": "Libros, Cómics y Revistas"
@@ -7885,6 +7909,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 657,
-  "actualizado": "2026-10-20T11:31:35"
+  "total": 659,
+  "actualizado": "2026-10-20T12:01:37"
 }
