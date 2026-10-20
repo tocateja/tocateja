@@ -2497,18 +2497,6 @@
       "category": "Libros, Cómics y Revistas"
     },
     {
-      "id": "1312715120",
-      "title": "Colección DVD Los Pitufos (48 episodios)",
-      "price": 41.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lp/k1/__/c10420p1312715120/i6794825476.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/coleccion-dvd-los-pitufos-48-episodios-1312715120",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
       "id": "1312710292",
       "title": "Tablet Oppo Pad 5 Precintada",
       "price": 315.0,
@@ -3308,18 +3296,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/lm/6u/__/c10420p1307060514/i6758950326.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/andador-de-interior-1307060514",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
-      "id": "1273952385",
-      "title": "Cinta Andadora iWalk",
-      "price": 119.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l2/h7/__/c10420p1273952385/i6569426210.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/cinta-andadora-iwalk-1273952385",
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
@@ -7909,6 +7885,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 659,
-  "actualizado": "2026-10-20T13:01:34"
+  "total": 657,
+  "actualizado": "2026-10-20T13:31:36"
 }
