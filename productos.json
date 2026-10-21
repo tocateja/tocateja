@@ -1,6 +1,90 @@
 {
   "productos": [
     {
+      "id": "1315557014",
+      "title": "Casco Moto Jet NZI Zeta X",
+      "price": 15.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lr/8y/__/c10420p1315557014/i6810973976.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/casco-moto-jet-nzi-zeta-x-1315557014",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Motor"
+    },
+    {
+      "id": "1315552602",
+      "title": "Cómic capital de provincias del dolor",
+      "price": 10.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lr/8u/__/c10420p1315552602/i6810948350.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/comic-capital-de-provincias-del-dolor-1315552602",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1315551312",
+      "title": "Cómic Fontanero de almas",
+      "price": 10.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lr/8t/__/c10420p1315551312/i6810941526.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/fontanero-de-almas-1315551312",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1315548956",
+      "title": "Cómic Daredevil El fin del infierno",
+      "price": 7.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lr/8s/__/c10420p1315548956/i6810929066.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/el-fin-del-infierno-1315548956",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1315547632",
+      "title": "Cómic La mugre Pat Grant",
+      "price": 15.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lr/8r/__/c10420p1315547632/i6810921105.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/comic-la-mugre-pat-grant-1315547632",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1315546267",
+      "title": "UFC 5 (PlayStation 5)",
+      "price": 23.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lr/8p/__/c10420p1315546267/i6810913217.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/ufc-5-playstation-5-1315546267",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1315545456",
+      "title": "Call of Duty: Black Ops 6 (PS5)",
+      "price": 21.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lr/8p/__/c10420p1315545456/i6810908296.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/call-of-duty-black-ops-6-ps5-1315545456",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
       "id": "1315542751",
       "title": "Samsung Galaxy Tab A11",
       "price": 125.0,
@@ -7921,6 +8005,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 660,
-  "actualizado": "2026-10-21T11:01:33"
+  "total": 667,
+  "actualizado": "2026-10-21T11:31:34"
 }
