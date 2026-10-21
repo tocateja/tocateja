@@ -1,6 +1,42 @@
 {
   "productos": [
     {
+      "id": "1315678765",
+      "title": "Base de Carga para Mandos Xbox Pdp Gaming",
+      "price": 7.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lr/bk/__/c10420p1315678765/i6811691275.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/base-de-carga-para-mandos-xbox-pdp-gaming-1315678765",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1315676956",
+      "title": "Mando de cable PDP para Nintendo Switch",
+      "price": 31.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lr/bi/__/c10420p1315676956/i6811680672.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/mando-de-cable-pdp-para-nintendo-switch-1315676956",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1315673620",
+      "title": "Consola Nintendo Switch",
+      "price": 165.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lr/bg/__/c10420p1315673620/i6811661108.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/consola-nintendo-switch-1315673620",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
       "id": "1315609793",
       "title": "Auriculares Bluetooth Sony WH-1000XM5 Precintados",
       "price": 170.0,
@@ -8209,6 +8245,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 684,
-  "actualizado": "2026-10-21T16:31:38"
+  "total": 687,
+  "actualizado": "2026-10-21T17:01:38"
 }
