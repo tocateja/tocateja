@@ -1,6 +1,42 @@
 {
   "productos": [
     {
+      "id": "1315689897",
+      "title": "Alicate Multiusos Plegable",
+      "price": 9.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lr/bs/__/c10420p1315689897/i6811757154.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/alicate-multiusos-plegable-1315689897",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Herramientas"
+    },
+    {
+      "id": "1315687305",
+      "title": "Cortadora de tela Bosch Xeo",
+      "price": 31.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lr/bq/__/c10420p1315687305/i6811741027.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/cortadora-de-tela-bosch-xeo-1315687305",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Herramientas"
+    },
+    {
+      "id": "1315683524",
+      "title": "Juego de Herramientas para Marcos de Metal",
+      "price": 26.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lr/bn/__/c10420p1315683524/i6811719854.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/juego-de-herramientas-para-marcos-essentials-1315683524",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1315678765",
       "title": "Base de Carga para Mandos Xbox Pdp Gaming",
       "price": 7.5,
@@ -803,18 +839,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
-    },
-    {
-      "id": "1287602663",
-      "title": "Figura Transformers Optimus Prime",
-      "price": 33.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/la/ls/__/c10420p1287602663/i6653377880.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/figura-transformers-optimus-prime-1287602663",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Hogar"
     },
     {
       "id": "1273239632",
@@ -7249,18 +7273,6 @@
       "category": "Otros"
     },
     {
-      "id": "1169012207",
-      "title": "Cuerdas TRX - Suspension Training",
-      "price": 11.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/jb/zz/__/c10420p1169012207/i5897571699.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/cuerdas-trx-suspension-training-1169012207",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Deporte"
-    },
-    {
       "id": "1275351735",
       "title": "Figura Stormtrooper Star Wars Hasbro",
       "price": 8.5,
@@ -8245,6 +8257,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 687,
-  "actualizado": "2026-10-21T17:01:38"
+  "total": 688,
+  "actualizado": "2026-10-21T17:31:38"
 }
