@@ -1,6 +1,102 @@
 {
   "productos": [
     {
+      "id": "1315604912",
+      "title": "NBA 2K19 (PlayStation 4)",
+      "price": 9.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lr/9z/__/c10420p1315604912/i6811259169.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/nba-2k19-playstation-4-1315604912",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1315603816",
+      "title": "FIFA 17 para PlayStation 3 (PS3)",
+      "price": 6.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lr/9y/__/c10420p1315603816/i6811252091.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/fifa-17-para-playstation-3-ps3-1315603816",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1315602068",
+      "title": "Fifa 15 (PlayStation 3)",
+      "price": 6.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lr/9x/__/c10420p1315602068/i6811242354.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/fifa-15-playstation-3-1315602068",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1315601046",
+      "title": "Uncharted: The Nathan Drake Collection (PS4)",
+      "price": 10.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lr/9w/__/c10420p1315601046/i6811237427.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/uncharted-the-nathan-drake-collection-ps4-1315601046",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1315599879",
+      "title": "Call of Duty: Black Ops II (PS3)",
+      "price": 9.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lr/9v/__/c10420p1315599879/i6811229298.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/call-of-duty-black-ops-ii-ps3-1315599879",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1315598960",
+      "title": "FIFA 22 (PlayStation 4)",
+      "price": 9.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lr/9u/__/c10420p1315598960/i6811223959.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/fifa-22-playstation-4-1315598960",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1315597865",
+      "title": "Juego de Cartas Something Wild Toy Story",
+      "price": 7.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lr/9t/__/c10420p1315597865/i6811218286.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/juego-de-cartas-something-wild-toy-story-1315597865",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1315595258",
+      "title": "Reloj Cauny Prima Edición Especial",
+      "price": 85.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lr/9r/__/c10420p1315595258/i6811200611.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/reloj-cauny-prima-edicion-especial-1315595258",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Joyería y Complementos"
+    },
+    {
       "id": "1315589801",
       "title": "Juego de Llaves de Carraca Puma",
       "price": 41.5,
@@ -8101,6 +8197,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 675,
-  "actualizado": "2026-10-21T13:01:32"
+  "total": 683,
+  "actualizado": "2026-10-21T13:31:39"
 }
