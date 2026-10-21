@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1315589801",
+      "title": "Juego de Llaves de Carraca Puma",
+      "price": 41.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lr/9n/__/c10420p1315589801/i6811169801.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/juego-de-llaves-de-carraca-puma-1315589801",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Moda"
+    },
+    {
       "id": "1315582426",
       "title": "Mando Compatible PS1 Blaze",
       "price": 13.5,
@@ -8089,6 +8101,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 674,
-  "actualizado": "2026-10-21T12:31:33"
+  "total": 675,
+  "actualizado": "2026-10-21T13:01:32"
 }
