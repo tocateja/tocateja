@@ -1,6 +1,54 @@
 {
   "productos": [
     {
+      "id": "1315582426",
+      "title": "Mando Compatible PS1 Blaze",
+      "price": 13.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lr/9h/__/c10420p1315582426/i6811122580.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/mando-compatible-ps1-blaze-1315582426",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1315580862",
+      "title": "Mando compatible para PS1",
+      "price": 7.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lr/9g/__/c10420p1315580862/i6811114115.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/mando-compatible-para-ps1-1315580862",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1315576379",
+      "title": "Martillo Percutor Makita 800W",
+      "price": 99.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lr/9d/__/c10420p1315576379/i6811087198.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/martillo-percutor-makita-800w-1315576379",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Herramientas"
+    },
+    {
+      "id": "1315572818",
+      "title": "Sierra Sable Makita 1250W",
+      "price": 125.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lr/9a/__/c10420p1315572818/i6811065808.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/sierra-sable-makita-1250w-1315572818",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Herramientas"
+    },
+    {
       "id": "1315567727",
       "title": "Juguete Invader Warrior 2",
       "price": 6.5,
@@ -8041,6 +8089,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 670,
-  "actualizado": "2026-10-21T12:01:33"
+  "total": 674,
+  "actualizado": "2026-10-21T12:31:33"
 }
