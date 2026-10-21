@@ -1,6 +1,54 @@
 {
   "productos": [
     {
+      "id": "1315700588",
+      "title": "2 Adaptadores PLC TP-Link",
+      "price": 6.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lr/c1/__/c10420p1315700588/i6811821281.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/2-adaptadores-plc-tp-link-1315700588",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1308681040",
+      "title": "Walkie Talkie Vintage Com-Talk CT-998",
+      "price": 11.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ln/5k/__/c10420p1308681040/i6778760342.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/walkie-talkie-vintage-com-talk-ct-998-1308681040",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Antigüedades y Coleccionismo"
+    },
+    {
+      "id": "1315698665",
+      "title": "Altavoz Bluetooth con luz Tronic",
+      "price": 13.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lr/bz/__/c10420p1315698665/i6811809854.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/altavoz-bluetooth-con-luz-tronic-1315698665",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1315692925",
+      "title": "Altavoz Bluetooth con luz Tronic",
+      "price": 13.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lr/bv/__/c10420p1315692925/i6811774477.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/altavoz-bluetooth-con-luz-tronic-1315692925",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
       "id": "1315689897",
       "title": "Alicate Multiusos Plegable",
       "price": 9.5,
@@ -83,18 +131,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "TV y Audio"
-    },
-    {
-      "id": "1315607466",
-      "title": "Cortadora de tubos Super Ego",
-      "price": 21.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lr/a1/__/c10420p1315607466/i6811275412.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/cortadora-de-tubos-super-ego-1315607466",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
     },
     {
       "id": "1315604912",
@@ -3119,18 +3155,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Móviles y Smartwatches"
-    },
-    {
-      "id": "1308681040",
-      "title": "Walkie Talkie Vintage Com-Talk CT-998",
-      "price": 11.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ln/5k/__/c10420p1308681040/i6778760342.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/walkie-talkie-vintage-com-talk-ct-998-1308681040",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Antigüedades y Coleccionismo"
     },
     {
       "id": "1309913534",
@@ -8257,6 +8281,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 688,
-  "actualizado": "2026-10-21T17:31:38"
+  "total": 690,
+  "actualizado": "2026-10-21T18:01:38"
 }
