@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1316075222",
+      "title": "Set de 5 Cinceles SDS Varias Marcas",
+      "price": 21.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lr/k2/__/c10420p1316075222/i6813956769.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/set-de-5-cinceles-sds-varias-marcas-1316075222",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1313662821",
       "title": "Ring Fit Adventure Nintendo Switch",
       "price": 7.5,
@@ -8377,6 +8389,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 698,
-  "actualizado": "2026-10-22T18:01:39"
+  "total": 699,
+  "actualizado": "2026-10-22T18:31:41"
 }
