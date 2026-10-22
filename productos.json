@@ -1,13 +1,37 @@
 {
   "productos": [
     {
+      "id": "1315966944",
+      "title": "iMac 21.5 (Mediados 2011)",
+      "price": 195.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lr/hq/__/c10420p1315966944/i6813380668.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/imac-21-5-mediados-2011-1315966944",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Informática"
+    },
+    {
       "id": "1315957374",
-      "title": "iMac 27 Apple A1312",
+      "title": "iMac 27 Apple A1312 Mediados 2011",
       "price": 275.0,
       "currency": "EUR",
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/lr/hj/__/c10420p1315957374/i6813328434.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/imac-27-apple-a1312-1315957374",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Informática"
+    },
+    {
+      "id": "1315235292",
+      "title": "iMac 27\" (Finales 2013)",
+      "price": 315.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lr/22/__/c10420p1315235292/i6809037668.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/imac-27-finales-2013-1315235292",
       "location": "Pamplona",
       "condition": "",
       "category": "Informática"
@@ -644,18 +668,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/lr/3m/__/c10420p1315308398/i6809447163.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/portatil-hp-pavilion-15cs-3002-1315308398",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Informática"
-    },
-    {
-      "id": "1315235292",
-      "title": "iMac 27\" (Finales 2013)",
-      "price": 315.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lr/22/__/c10420p1315235292/i6809037668.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/imac-27-finales-2013-1315235292",
       "location": "Pamplona",
       "condition": "",
       "category": "Informática"
@@ -8389,6 +8401,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 699,
-  "actualizado": "2026-10-22T13:01:39"
+  "total": 700,
+  "actualizado": "2026-10-22T13:31:40"
 }
