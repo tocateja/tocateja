@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1315957374",
+      "title": "iMac 27 Apple A1312",
+      "price": 275.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lr/hj/__/c10420p1315957374/i6813328434.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/imac-27-apple-a1312-1315957374",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Informática"
+    },
+    {
+      "id": "1315950958",
+      "title": "Sierra Sable Makita 1000W",
+      "price": 145.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lr/he/__/c10420p1315950958/i6813294573.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/sierra-sable-makita-1000w-1315950958",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Herramientas"
+    },
+    {
       "id": "1315937476",
       "title": "Teclado Gaming Dierya",
       "price": 26.5,
@@ -8365,6 +8389,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 697,
-  "actualizado": "2026-10-22T12:31:40"
+  "total": 699,
+  "actualizado": "2026-10-22T13:01:39"
 }
