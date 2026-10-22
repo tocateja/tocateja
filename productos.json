@@ -1,6 +1,42 @@
 {
   "productos": [
     {
+      "id": "1315924069",
+      "title": "Limpiador de Superficies Duro",
+      "price": 20.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lr/gt/__/c10420p1315924069/i6813144485.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/limpiador-de-superficies-duro-1315924069",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1315919548",
+      "title": "Consola PlayStation 5 Slim Lector Discos 848gb",
+      "price": 549.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lr/gq/__/c10420p1315919548/i6813118799.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/consola-playstation-5-slim-lector-discos-848gb-1315919548",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1315915273",
+      "title": "Jaula para Conejos o Mascotas",
+      "price": 59.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lr/gm/__/c10420p1315915273/i6813094969.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/jaula-para-conejos-o-mascotas-1315915273",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1315714475",
       "title": "Baliza DGT 3.0 Osram",
       "price": 26.5,
@@ -68,18 +104,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/lr/c2/__/c10420p1315702374/i6811831726.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/enchufe-inteligente-innr-1315702374",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
-      "id": "1315700588",
-      "title": "2 Adaptadores PLC TP-Link",
-      "price": 6.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lr/c1/__/c10420p1315700588/i6811821281.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/2-adaptadores-plc-tp-link-1315700588",
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
@@ -8305,6 +8329,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 692,
-  "actualizado": "2026-10-22T11:01:39"
+  "total": 694,
+  "actualizado": "2026-10-22T11:31:40"
 }
