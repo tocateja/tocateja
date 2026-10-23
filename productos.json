@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1316401761",
+      "title": "Barra de Sonido Samsung",
+      "price": 125.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lr/r2/__/c10420p1316401761/i6815912484.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/barra-de-sonido-samsung-1316401761",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "TV y Audio"
+    },
+    {
+      "id": "1316397380",
+      "title": "Reloj Lanscotte 316L",
+      "price": 110.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lr/qy/__/c10420p1316397380/i6815887469.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/reloj-lanscotte-316l-1316397380",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Joyería y Complementos"
+    },
+    {
       "id": "1316312224",
       "title": "Colección 30 CD Box Chopin Complete Works",
       "price": 20.5,
@@ -8389,6 +8413,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 699,
-  "actualizado": "2026-10-23T17:31:40"
+  "total": 701,
+  "actualizado": "2026-10-23T18:01:39"
 }
