@@ -1297,18 +1297,6 @@
       "category": "Libros, Cómics y Revistas"
     },
     {
-      "id": "1285865236",
-      "title": "Cómic DC Estado futuro El próximo batman",
-      "price": 14.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l9/kj/__/c10420p1285865236/i6641071982.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/comic-dc-estado-futuro-el-proximo-batman-1285865236",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
       "id": "1168688760",
       "title": "Calzado Seguridad Kingsmann A estrenar",
       "price": 16.5,
@@ -6625,18 +6613,6 @@
       "category": "Libros, Cómics y Revistas"
     },
     {
-      "id": "1259546027",
-      "title": "Cómic Marvel Los Vengadores Desunidos",
-      "price": 9.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kt/wf/__/c10420p1259546027/i6479671823.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/comic-marvel-los-vengadores-desunidos-1259546027",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
       "id": "1257512244",
       "title": "Ringo Starr - Choose Love CD + DVD Edición Especia",
       "price": 9.5,
@@ -8413,6 +8389,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 701,
-  "actualizado": "2026-10-23T17:01:38"
+  "total": 699,
+  "actualizado": "2026-10-23T17:31:40"
 }
