@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1316268916",
+      "title": "Samsung Galaxy S22",
+      "price": 275.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lr/o7/__/c10420p1316268916/i6815150571.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/samsung-galaxy-s22-1316268916",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
       "id": "1220756320",
       "title": "Soldador Eléctrico 30W Pemco",
       "price": 6.5,
@@ -8401,6 +8413,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 700,
-  "actualizado": "2026-10-23T11:01:37"
+  "total": 701,
+  "actualizado": "2026-10-23T11:31:40"
 }
