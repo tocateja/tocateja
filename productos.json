@@ -1,6 +1,162 @@
 {
   "productos": [
     {
+      "id": "1313669110",
+      "title": "Brain Training del Dr. Kawashima (Nintendo Switch)",
+      "price": 16.5,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/lq/4h/__/c10420p1313669110/i6800900468.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/brain-training-del-dr-kawashima-nintendo-switch-1313669110",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1316614694",
+      "title": "Barra de Sonido Sony + Subwoofer+ 2 altavoces",
+      "price": 95.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lr/vm/__/c10420p1316614694/i6817126880.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/barra-de-sonido-sony---subwoofer--2-altavoces-1316614694",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1316606494",
+      "title": "Barra de Sonido Samsung con Subwoofer",
+      "price": 265.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lr/vg/__/c10420p1316606494/i6817087345.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/barra-de-sonido-samsung-con-subwoofer-1316606494",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1316600805",
+      "title": "Home Cinema 5.1 Yamaha",
+      "price": 245.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lr/vb/__/c10420p1316600805/i6817058791.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/home-cinema-5-1-yamaha-1316600805",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "TV y Audio"
+    },
+    {
+      "id": "1316599364",
+      "title": "Home Cinema 5.1 Yamaha",
+      "price": 149.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lr/va/__/c10420p1316599364/i6817051897.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/home-cinema-5-1-yamaha-1316599364",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "TV y Audio"
+    },
+    {
+      "id": "1316585793",
+      "title": "TV LED Nevir 40\" pulgadas",
+      "price": 99.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lr/v0/__/c10420p1316585793/i6816986094.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/tv-led-nevir-40-pulgadas-1316585793",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1316587522",
+      "title": "TV LED 49\" LG Smart TV",
+      "price": 225.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lr/v1/__/c10420p1316587522/i6816994566.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/tv-led-49-lg-smart-tv-1316587522",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "TV y Audio"
+    },
+    {
+      "id": "1316584347",
+      "title": "TV LCD Sony 40 pulgadas",
+      "price": 149.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lr/uy/__/c10420p1316584347/i6816980191.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/tv-lcd-sony-40-pulgadas-1316584347",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1316579220",
+      "title": "Bicicleta Junior Woom 5 24\"",
+      "price": 295.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lr/uv/__/c10420p1316579220/i6816956228.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/bicicleta-junior-woom-5-24-1316579220",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Deporte"
+    },
+    {
+      "id": "1316576825",
+      "title": "Bicicleta de paseo Btwin Elops City Bike",
+      "price": 229.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lr/ut/__/c10420p1316576825/i6816944957.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/bicicleta-de-paseo-btwin-elops-city-bike-1316576825",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Deporte"
+    },
+    {
+      "id": "1316575476",
+      "title": "Bicicleta de Montaña Decathlon Rockrider 20\"",
+      "price": 79.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lr/us/__/c10420p1316575476/i6816938321.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/bicicleta-de-montana-decathlon-rockrider-20-1316575476",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Deporte"
+    },
+    {
+      "id": "1316571925",
+      "title": "Remo de Agua Titanium Strength",
+      "price": 375.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lr/up/__/c10420p1316571925/i6816921295.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/remo-de-agua-titanium-strength-1316571925",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1316568809",
+      "title": "Aparato de Ejercicios Cardio Twister",
+      "price": 26.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lr/um/__/c10420p1316568809/i6816905982.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/aparato-de-ejercicios-cardio-twister-1316568809",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1251090824",
       "title": "Portátil HP Elitebook 8 G1i 16 PRECINTADO",
       "price": 1099.0,
@@ -697,18 +853,6 @@
       "category": "Herramientas"
     },
     {
-      "id": "1315567727",
-      "title": "Juguete Invader Warrior 2",
-      "price": 6.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lr/96/__/c10420p1315567727/i6811037140.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/juguete-invader-warrior-2-1315567727",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Juguetes"
-    },
-    {
       "id": "1315561130",
       "title": "Altavoz Bluetooth UE (Ultimate Ears)",
       "price": 40.5,
@@ -740,18 +884,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/lr/8u/__/c10420p1315552602/i6810948350.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/comic-capital-de-provincias-del-dolor-1315552602",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1315551312",
-      "title": "Cómic Fontanero de almas",
-      "price": 10.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lr/8t/__/c10420p1315551312/i6810941526.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/fontanero-de-almas-1315551312",
       "location": "Pamplona",
       "condition": "",
       "category": "Libros, Cómics y Revistas"
@@ -827,18 +959,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Música e Instrumentos"
-    },
-    {
-      "id": "1275335738",
-      "title": "Cepillo eléctrico de volúmen Ghd",
-      "price": 75.0,
-      "currency": "EUR",
-      "status": "reserved",
-      "image": "https://cdn.wallapop.com/images/10420/l3/av/__/c10420p1275335738/i6577075174.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/cepillo-electrico-de-volumen-ghd-1275335738",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
     },
     {
       "id": "1315334135",
@@ -1556,18 +1676,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/l5/8t/__/c10420p1278599475/i6598414323.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/comic-manga-hikarunogo-volumen-1-1278599475",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1278598388",
-      "title": "Cómic Manga Blue Phobia Volúmen 1",
-      "price": 4.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l5/8s/__/c10420p1278598388/i6598409521.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/comic-manga-blue-phobia-volumen-1-1278598388",
       "location": "Pamplona",
       "condition": "",
       "category": "Libros, Cómics y Revistas"
@@ -2581,18 +2689,6 @@
       "category": "Móviles y Smartwatches"
     },
     {
-      "id": "1314003383",
-      "title": "Guitarra Clásica Oqan José Torres",
-      "price": 75.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lq/bn/__/c10420p1314003383/i6802808734.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/guitarra-clasica-oqan-jose-torres-1314003383",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
-    },
-    {
       "id": "1313998088",
       "title": "Juego de 2 Copas Decorativas",
       "price": 26.5,
@@ -2773,18 +2869,6 @@
       "category": "Herramientas"
     },
     {
-      "id": "1313669110",
-      "title": "Brain Training del Dr. Kawashima (Nintendo Switch)",
-      "price": 16.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lq/4h/__/c10420p1313669110/i6800900468.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/brain-training-del-dr-kawashima-nintendo-switch-1313669110",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
       "id": "1209966482",
       "title": "Arenero Autolimpiable Petsafe Scoopfree A estrenar",
       "price": 135.0,
@@ -2876,18 +2960,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/lq/4c/__/c10420p1313661985/i6800859158.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/pikmin-3-deluxe-nintendo-switch-1313661985",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
-      "id": "1313660410",
-      "title": "Mario Party Superstars (Nintendo Switch)",
-      "price": 31.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lq/4a/__/c10420p1313660410/i6800851206.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/mario-party-superstars-nintendo-switch-1313660410",
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
@@ -5785,18 +5857,6 @@
       "category": "Música e Instrumentos"
     },
     {
-      "id": "1295353273",
-      "title": "Vinilo U2 The Joshua Tree",
-      "price": 21.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lf/7w/__/c10420p1295353273/i6698063982.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/vinilo-u2-the-joshua-tree-1295353273",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
-    },
-    {
       "id": "1295347764",
       "title": "Vinilo Depeche Mode 101",
       "price": 49.0,
@@ -7741,30 +7801,6 @@
       "category": "Móviles y Smartwatches"
     },
     {
-      "id": "1286670725",
-      "title": "Libro cocina Karlos Arguiñano Gran recetario",
-      "price": 13.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/la/1t/__/c10420p1286670725/i6645952572.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/libro-cocina-karlos-arguinano-gran-recetario-1286670725",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1286657905",
-      "title": "Libro Cocina Karlos Arguiñano La cocina de tu vida",
-      "price": 13.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/la/1j/__/c10420p1286657905/i6645871325.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/libro-cocina-karlos-arguinano-la-cocina-de-tu-vida-1286657905",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
       "id": "1285535543",
       "title": "Reloj Automático Tissot Seastar 2000 Powermatic 80",
       "price": 795.0,
@@ -8425,6 +8461,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 702,
-  "actualizado": "2026-10-24T08:01:41"
+  "total": 705,
+  "actualizado": "2026-10-24T14:01:40"
 }
