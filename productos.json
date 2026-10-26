@@ -1,6 +1,42 @@
 {
   "productos": [
     {
+      "id": "1317469169",
+      "title": "Centro de mesa Florence  Giuseppe Armani",
+      "price": 50.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ls/dx/__/c10420p1317469169/i6821829364.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/centro-de-mesa-florence-giuseppe-armani-1317469169",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Hogar"
+    },
+    {
+      "id": "1317465898",
+      "title": "Sierra de calar Black+Decker 620W",
+      "price": 35.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ls/dv/__/c10420p1317465898/i6821811177.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/sierra-de-calar-black-decker-620w-1317465898",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Herramientas"
+    },
+    {
+      "id": "1317368537",
+      "title": "Kit de Herramientas Aeromodelismo Naval Constructo",
+      "price": 21.5,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/ls/bs/__/c10420p1317368537/i6821185194.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/kit-de-herramientas-aeromodelismo-constructo-1317368537",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1317461885",
       "title": "Reloj Pulsera Lotus 18162",
       "price": 69.0,
@@ -131,18 +167,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
-    },
-    {
-      "id": "1317368537",
-      "title": "Kit de Herramientas Aeromodelismo Naval Constructo",
-      "price": 21.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ls/bs/__/c10420p1317368537/i6821185194.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/kit-de-herramientas-aeromodelismo-constructo-1317368537",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
     },
     {
       "id": "1317351364",
@@ -8593,6 +8617,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 716,
-  "actualizado": "2026-10-26T17:01:39"
+  "total": 718,
+  "actualizado": "2026-10-26T17:31:39"
 }
