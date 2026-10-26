@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1317351364",
+      "title": "Exprimidor Braun",
+      "price": 25.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ls/be/__/c10420p1317351364/i6821069291.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/exprimidor-braun-1317351364",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Electrodomésticos"
+    },
+    {
       "id": "1317347773",
       "title": "Barra de sonido Panasonic",
       "price": 75.0,
@@ -8461,6 +8473,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 705,
-  "actualizado": "2026-10-26T12:01:39"
+  "total": 706,
+  "actualizado": "2026-10-26T12:31:40"
 }
