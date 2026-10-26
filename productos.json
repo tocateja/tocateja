@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1317461885",
+      "title": "Reloj Pulsera Lotus 18162",
+      "price": 69.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ls/ds/__/c10420p1317461885/i6821782419.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/reloj-pulsera-lotus-18162-1317461885",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Joyería y Complementos"
+    },
+    {
+      "id": "1317458472",
+      "title": "Detector de cables Bosch Truvo",
+      "price": 35.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ls/dp/__/c10420p1317458472/i6821761622.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/detector-de-cables-bosch-truvo-1317458472",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Herramientas"
+    },
+    {
       "id": "1316579220",
       "title": "Bicicleta Junior Woom 5 24\"",
       "price": 365.0,
@@ -8569,6 +8593,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 714,
-  "actualizado": "2026-10-26T16:31:40"
+  "total": 716,
+  "actualizado": "2026-10-26T17:01:39"
 }
