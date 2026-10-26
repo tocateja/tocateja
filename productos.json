@@ -1,6 +1,42 @@
 {
   "productos": [
     {
+      "id": "1317347773",
+      "title": "Barra de sonido Panasonic",
+      "price": 75.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ls/bc/__/c10420p1317347773/i6821047398.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/barra-de-sonido-panasonic-1317347773",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "TV y Audio"
+    },
+    {
+      "id": "1317345122",
+      "title": "Smart TV Samsung 32 pulgadas",
+      "price": 149.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ls/ba/__/c10420p1317345122/i6821030987.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/smart-tv-samsung-32-pulgadas-1317345122",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "TV y Audio"
+    },
+    {
+      "id": "1317343680",
+      "title": "Bicicleta de paseo Btwin Elops 3",
+      "price": 175.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ls/b8/__/c10420p1317343680/i6821021905.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/bicicleta-de-paseo-btwin-elops-3-1317343680",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Deporte"
+    },
+    {
       "id": "1290022612",
       "title": "Poco X8 Pro Precintado",
       "price": 285.0,
@@ -8425,6 +8461,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 702,
-  "actualizado": "2026-10-26T11:31:41"
+  "total": 705,
+  "actualizado": "2026-10-26T12:01:39"
 }
