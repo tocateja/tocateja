@@ -1,6 +1,54 @@
 {
   "productos": [
     {
+      "id": "1316579220",
+      "title": "Bicicleta Junior Woom 5 24\"",
+      "price": 365.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lr/uv/__/c10420p1316579220/i6816956228.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/bicicleta-junior-woom-5-24-1316579220",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Deporte"
+    },
+    {
+      "id": "1317387867",
+      "title": "Battlefield Hardline (PS4)",
+      "price": 9.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ls/c6/__/c10420p1317387867/i6821310937.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/battlefield-hardline-ps4-1317387867",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1317387502",
+      "title": "Call of Duty: Black Ops III (PS4)",
+      "price": 9.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ls/c6/__/c10420p1317387502/i6821308950.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/call-of-duty-black-ops-iii-ps4-1317387502",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1317387057",
+      "title": "FC25 (EA Sports) para PS4",
+      "price": 13.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ls/c6/__/c10420p1317387057/i6821306886.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/fc25-ea-sports-para-ps4-1317387057",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
       "id": "1317383791",
       "title": "DJ Hero para Nintendo Wii",
       "price": 6.5,
@@ -143,18 +191,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1316579220",
-      "title": "Bicicleta Junior Woom 5 24\"",
-      "price": 295.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lr/uv/__/c10420p1316579220/i6816956228.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/bicicleta-junior-woom-5-24-1316579220",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Deporte"
     },
     {
       "id": "1313669110",
@@ -8533,6 +8569,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 711,
-  "actualizado": "2026-10-26T13:31:40"
+  "total": 714,
+  "actualizado": "2026-10-26T14:01:39"
 }
