@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1317504415",
+      "title": "Auriculares Bluetooth JBL Tune 720BT Precintados",
+      "price": 50.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ls/eo/__/c10420p1317504415/i6822065030.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/auriculares-bluetooth-jbl-tune-720bt-1317504415",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "TV y Audio"
+    },
+    {
+      "id": "1317498678",
+      "title": "Garmin Fénix 8 47MM A estrenar",
+      "price": 599.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ls/ek/__/c10420p1317498678/i6822024694.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/garmin-fenix-8-47mm-a-estrenar-1317498678",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1317495180",
       "title": "Mando Xbox Elite Series 2 Bluetooth",
       "price": 115.0,
@@ -8653,6 +8677,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 721,
-  "actualizado": "2026-10-26T18:31:45"
+  "total": 723,
+  "actualizado": "2026-10-26T19:01:45"
 }
