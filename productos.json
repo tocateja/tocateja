@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1317479085",
+      "title": "Magia para el día a día",
+      "price": 11.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ls/e5/__/c10420p1317479085/i6821898475.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/magia-para-el-dia-a-dia-1317479085",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1317474523",
+      "title": "Mini herramienta eléctrica Dexter A estrenar",
+      "price": 30.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ls/e1/__/c10420p1317474523/i6821869141.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/mini-herramienta-electrica-dexter-a-estrenar-1317474523",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1317469169",
       "title": "Centro de mesa Florence  Giuseppe Armani",
       "price": 50.5,
@@ -8617,6 +8641,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 718,
-  "actualizado": "2026-10-26T17:31:39"
+  "total": 720,
+  "actualizado": "2026-10-26T18:01:38"
 }
