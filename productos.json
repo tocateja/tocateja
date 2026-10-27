@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1313991567",
+      "title": "Balanza Antigua",
+      "price": 26.5,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/lq/be/__/c10420p1313991567/i6802749951.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/balanza-antigua-1313991567",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1317504415",
       "title": "Auriculares Bluetooth JBL Tune 720BT Precintados",
       "price": 50.5,
@@ -2987,18 +2999,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Hogar"
-    },
-    {
-      "id": "1313991567",
-      "title": "Balanza Antigua",
-      "price": 26.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lq/be/__/c10420p1313991567/i6802749951.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/balanza-antigua-1313991567",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
     },
     {
       "id": "1277482157",
@@ -8678,5 +8678,5 @@
     }
   ],
   "total": 723,
-  "actualizado": "2026-10-26T20:01:44"
+  "actualizado": "2026-10-27T02:01:46"
 }
