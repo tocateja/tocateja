@@ -1,6 +1,42 @@
 {
   "productos": [
     {
+      "id": "1317691224",
+      "title": "Bomba de Aire Blackburn",
+      "price": 16.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ls/ip/__/c10420p1317691224/i6823513503.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/bomba-de-aire-blackburn-1317691224",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1317688315",
+      "title": "Máscara con Snorkel Decathlon",
+      "price": 13.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ls/im/__/c10420p1317688315/i6823498178.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/mascara-de-snorkel-decathlon-1317688315",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1317683918",
+      "title": "Caja Original Nintendo 64",
+      "price": 26.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ls/ij/__/c10420p1317683918/i6823476099.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/caja-original-nintendo-64-1317683918",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
       "id": "1313991567",
       "title": "Balanza Antigua",
       "price": 26.5,
@@ -1427,18 +1463,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
-    },
-    {
-      "id": "1315160792",
-      "title": "Reproductor DVD DivX Sony",
-      "price": 30.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lr/0g/__/c10420p1315160792/i6808605593.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/reproductor-dvd-divx-sony-1315160792",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
     },
     {
       "id": "1274734184",
@@ -8677,6 +8701,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 723,
-  "actualizado": "2026-10-27T11:01:45"
+  "total": 725,
+  "actualizado": "2026-10-27T11:31:47"
 }
