@@ -1,6 +1,54 @@
 {
   "productos": [
     {
+      "id": "1317683918",
+      "title": "Caja Original Nintendo 64",
+      "price": 26.5,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/ls/ij/__/c10420p1317683918/i6823476099.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/caja-original-nintendo-64-1317683918",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1317714319",
+      "title": "Guía Pasacables de Nylon 10 metros",
+      "price": 5.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ls/j6/__/c10420p1317714319/i6823645271.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/guia-pasacables-de-nylon-10-metros-1317714319",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1317709561",
+      "title": "Set de 30 Puntas para Atornillador",
+      "price": 9.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ls/j3/__/c10420p1317709561/i6823618466.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/set-de-30-puntas-para-atornillador-1317709561",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1317706389",
+      "title": "Set de Accesorios para Mini Taladro Powerfix",
+      "price": 10.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ls/j0/__/c10420p1317706389/i6823599234.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/set-de-accesorios-para-mini-taladro-powerfix-1317706389",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Herramientas"
+    },
+    {
       "id": "1317695990",
       "title": "Lijadora Bavaria BOS 150/1",
       "price": 21.5,
@@ -35,18 +83,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1317683918",
-      "title": "Caja Original Nintendo 64",
-      "price": 26.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ls/ij/__/c10420p1317683918/i6823476099.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/caja-original-nintendo-64-1317683918",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
     },
     {
       "id": "1313991567",
@@ -8701,6 +8737,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 725,
-  "actualizado": "2026-10-27T12:01:46"
+  "total": 728,
+  "actualizado": "2026-10-27T12:31:46"
 }
