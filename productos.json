@@ -1,13 +1,49 @@
 {
   "productos": [
     {
+      "id": "1317824952",
+      "title": "Set 7 Brocas para Madera con Avellanado",
+      "price": 17.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ls/lk/__/c10420p1317824952/i6824267669.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/set-7-brocas-para-madera-con-avellanado-1317824952",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1317815322",
-      "title": "Libro Cómic Colección Mortadelo y Filemón",
+      "title": "Cómic Mortadelo y Filemón Volumen 1",
       "price": 13.5,
       "currency": "EUR",
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/ls/lc/__/c10420p1317815322/i6824212893.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/libro-comic-coleccion-mortadelo-y-filemon-1317815322",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1317821287",
+      "title": "Consola Sony PlayStation 2",
+      "price": 59.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ls/lh/__/c10420p1317821287/i6824245735.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/consola-sony-playstation-2-1317821287",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1317817906",
+      "title": "Mortadelo y Filemón",
+      "price": 16.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ls/le/__/c10420p1317817906/i6824225927.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/mortadelo-y-filemon-1317817906",
       "location": "Pamplona",
       "condition": "",
       "category": "Libros, Cómics y Revistas"
@@ -344,18 +380,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/ls/c6/__/c10420p1317387867/i6821310937.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/battlefield-hardline-ps4-1317387867",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
-      "id": "1317387502",
-      "title": "Call of Duty: Black Ops III (PS4)",
-      "price": 9.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ls/c6/__/c10420p1317387502/i6821308950.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/call-of-duty-black-ops-iii-ps4-1317387502",
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
@@ -8821,6 +8845,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 735,
-  "actualizado": "2026-10-27T17:01:42"
+  "total": 737,
+  "actualizado": "2026-10-27T17:31:43"
 }
