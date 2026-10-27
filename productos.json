@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1317746491",
+      "title": "Sierra Circular Einhell",
+      "price": 40.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ls/jv/__/c10420p1317746491/i6823830009.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/sierra-circular-einhell-1317746491",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Herramientas"
+    },
+    {
+      "id": "1317743728",
+      "title": "Lámpara portátil con gancho",
+      "price": 6.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ls/jt/__/c10420p1317743728/i6823813779.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/lampara-portatil-con-gancho-1317743728",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Informática"
+    },
+    {
       "id": "1317738935",
       "title": "Lámpara con Forma de Huevo Cristales",
       "price": 59.0,
@@ -8773,6 +8797,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 731,
-  "actualizado": "2026-10-27T13:31:44"
+  "total": 733,
+  "actualizado": "2026-10-27T14:01:45"
 }
