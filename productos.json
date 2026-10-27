@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1317738935",
+      "title": "Lámpara con Forma de Huevo Cristales",
+      "price": 59.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ls/jp/__/c10420p1317738935/i6823784773.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/lampara-de-mesa-con-forma-de-huevo-1317738935",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Hogar"
+    },
+    {
+      "id": "1317735219",
+      "title": "Altavoz Inteligente Amazon Echo Spot",
+      "price": 50.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ls/jn/__/c10420p1317735219/i6823764300.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/altavoz-inteligente-amazon-echo-spot-1317735219",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
       "id": "1317728251",
       "title": "Polímetro Vintage Central C-7202E",
       "price": 9.5,
@@ -611,18 +635,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "TV y Audio"
-    },
-    {
-      "id": "1316397380",
-      "title": "Reloj Lanscotte 316L",
-      "price": 110.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lr/qy/__/c10420p1316397380/i6815887469.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/reloj-lanscotte-316l-1316397380",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Joyería y Complementos"
     },
     {
       "id": "1316312224",
@@ -8761,6 +8773,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 730,
-  "actualizado": "2026-10-27T13:01:42"
+  "total": 731,
+  "actualizado": "2026-10-27T13:31:44"
 }
