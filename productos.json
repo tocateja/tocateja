@@ -1,6 +1,42 @@
 {
   "productos": [
     {
+      "id": "1317815322",
+      "title": "Libro Cómic Colección Mortadelo y Filemón",
+      "price": 13.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ls/lc/__/c10420p1317815322/i6824212893.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/libro-comic-coleccion-mortadelo-y-filemon-1317815322",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1317816680",
+      "title": "Libro Cómic Colección Super Humor Volumen XXVIII",
+      "price": 11.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ls/ld/__/c10420p1317816680/i6824219240.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/libro-comic-coleccion-super-humor-volumen-xxviii-1317816680",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1317814108",
+      "title": "Libro Cómic Colección 13 Rue del percebe",
+      "price": 21.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ls/lb/__/c10420p1317814108/i6824206514.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/libro-comic-coleccion-13-rue-del-percebe-1317814108",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
       "id": "1317746491",
       "title": "Sierra Circular Einhell",
       "price": 40.5,
@@ -71,18 +107,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "TV y Audio"
-    },
-    {
-      "id": "1317683918",
-      "title": "Caja Original Nintendo 64",
-      "price": 26.5,
-      "currency": "EUR",
-      "status": "reserved",
-      "image": "https://cdn.wallapop.com/images/10420/ls/ij/__/c10420p1317683918/i6823476099.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/caja-original-nintendo-64-1317683918",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
     },
     {
       "id": "1317714319",
@@ -8797,6 +8821,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 733,
-  "actualizado": "2026-10-27T16:31:42"
+  "total": 735,
+  "actualizado": "2026-10-27T17:01:42"
 }
