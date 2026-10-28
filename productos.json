@@ -1,6 +1,66 @@
 {
   "productos": [
     {
+      "id": "1318171151",
+      "title": "Alimentador Sony para PS2",
+      "price": 11.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ls/sz/__/c10420p1318171151/i6826293187.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/alimentador-sony-para-ps2-1318171151",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1318172258",
+      "title": "Mando Gameware para PS2 (PlayStation 2)",
+      "price": 11.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ls/t0/__/c10420p1318172258/i6826299907.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/mando-gameware-para-ps2-playstation-2-1318172258",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1304550656",
+      "title": "Motorola Edge 70",
+      "price": 349.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lk/p1/__/c10420p1304550656/i6745522661.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/motorola-edge-70-1304550656",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
+      "id": "1318169276",
+      "title": "Figura de Cristal de Murano",
+      "price": 21.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ls/sx/__/c10420p1318169276/i6826283044.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/figura-de-cristal-de-murano-1318169276",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Hogar"
+    },
+    {
+      "id": "1318166756",
+      "title": "Figura de Búho en Cristal de Murano",
+      "price": 26.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ls/sv/__/c10420p1318166756/i6826269454.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/figura-de-buho-en-cristal-de-murano-1318166756",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Hogar"
+    },
+    {
       "id": "1318165485",
       "title": "Cable de Video para Nintendo 64",
       "price": 10.5,
@@ -4765,18 +4825,6 @@
       "category": "Libros, Cómics y Revistas"
     },
     {
-      "id": "1304550656",
-      "title": "Motorola Edge 70",
-      "price": 349.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lk/p1/__/c10420p1304550656/i6745522661.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/motorola-edge-70-1304550656",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
-    },
-    {
       "id": "1300926628",
       "title": "Vinilo Fausto Papetti 9ª Raccolta Sax Alto",
       "price": 10.0,
@@ -8929,6 +8977,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 744,
-  "actualizado": "2026-10-28T17:01:42"
+  "total": 748,
+  "actualizado": "2026-10-28T17:31:43"
 }
