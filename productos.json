@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1318071691",
+      "title": "Alimentador Nintendo 64",
+      "price": 21.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ls/qu/__/c10420p1318071691/i6825743056.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/alimentador-nintendo-64-1318071691",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1318067099",
+      "title": "Mando Nintendo 64",
+      "price": 11.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ls/qr/__/c10420p1318067099/i6825715116.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/mando-nintendo-64-1318067099",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
       "id": "1318062633",
       "title": "Altavoz Bluetooth Kimiso",
       "price": 19.5,
@@ -8845,6 +8869,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 737,
-  "actualizado": "2026-10-28T12:01:43"
+  "total": 739,
+  "actualizado": "2026-10-28T12:31:43"
 }
