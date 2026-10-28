@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1318081048",
+      "title": "Radio Multibanda Venturer Estilo Militar",
+      "price": 51.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ls/r1/__/c10420p1318081048/i6825797773.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/radio-multibanda-venturer-estilo-militar-1318081048",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "TV y Audio"
+    },
+    {
+      "id": "1318078136",
+      "title": "Mini Herramienta Eléctrica Toledo",
+      "price": 15.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ls/qz/__/c10420p1318078136/i6825781460.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/mini-herramienta-electrica-toledo-1318078136",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1318071691",
       "title": "Alimentador Nintendo 64",
       "price": 21.5,
@@ -8869,6 +8893,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 739,
-  "actualizado": "2026-10-28T12:31:43"
+  "total": 741,
+  "actualizado": "2026-10-28T13:01:45"
 }
