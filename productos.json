@@ -1,6 +1,78 @@
 {
   "productos": [
     {
+      "id": "1318183101",
+      "title": "Mario + Rabbids Kingdom Battle (Nintendo Switch)",
+      "price": 16.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ls/t8/__/c10420p1318183101/i6826366140.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/mario---rabbids-kingdom-battle-nintendo-switch-1318183101",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1318182655",
+      "title": "EyeToy: Play 3 (PlayStation 2)",
+      "price": 5.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ls/t8/__/c10420p1318182655/i6826363734.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/eyetoy-play-3-playstation-2-1318182655",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1318182211",
+      "title": "Clever Kids: Dino Land (PlayStation 2)",
+      "price": 5.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ls/t7/__/c10420p1318182211/i6826360569.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/clever-kids-dino-land-playstation-2-1318182211",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1318181878",
+      "title": "Buscando a Nemo (Findet Nemo) - PS2",
+      "price": 4.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ls/t7/__/c10420p1318181878/i6826358506.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/buscando-a-nemo-findet-nemo-ps2-1318181878",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1318179645",
+      "title": "Los Increíbles: La Amenaza del Socavador (PS2)",
+      "price": 7.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ls/t5/__/c10420p1318179645/i6826344703.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/los-increibles-la-amenaza-del-socavador-ps2-1318179645",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1318178756",
+      "title": "Bee Movie Game (PlayStation 2)",
+      "price": 4.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ls/t5/__/c10420p1318178756/i6826339340.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/bee-movie-game-playstation-2-1318178756",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
       "id": "1318171151",
       "title": "Alimentador Sony para PS2",
       "price": 11.5,
@@ -8977,6 +9049,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 748,
-  "actualizado": "2026-10-28T17:31:43"
+  "total": 754,
+  "actualizado": "2026-10-28T18:01:45"
 }
