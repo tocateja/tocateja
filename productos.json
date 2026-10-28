@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1318086761",
+      "title": "Buzz! El Gran Reto (PS2) + 4 Pulsadores",
+      "price": 16.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ls/r6/__/c10420p1318086761/i6825831016.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/buzz-el-gran-reto-ps2---4-pulsadores-1318086761",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1318095165",
+      "title": "Buzz! El Gran Concurso Musical (PS2) + 4 Mandos",
+      "price": 16.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ls/rc/__/c10420p1318095165/i6825876964.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/buzz-el-gran-concurso-musical-ps2---4-mandos-1318095165",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
       "id": "1318081048",
       "title": "Radio Multibanda Venturer Estilo Militar",
       "price": 51.5,
@@ -8893,6 +8917,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 741,
-  "actualizado": "2026-10-28T13:01:45"
+  "total": 743,
+  "actualizado": "2026-10-28T13:31:44"
 }
