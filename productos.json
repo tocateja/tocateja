@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1318165485",
+      "title": "Cable de Video para Nintendo 64",
+      "price": 10.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ls/su/__/c10420p1318165485/i6826262518.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/cable-de-video-para-nintendo-64-1318165485",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1318164077",
+      "title": "Mando Sony PlayStation 3 (PS3)",
+      "price": 26.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ls/st/__/c10420p1318164077/i6826255700.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/mando-sony-playstation-3-ps3-1318164077",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
       "id": "1318081048",
       "title": "Radio Multibanda Venturer Estilo Militar",
       "price": 51.5,
@@ -8905,6 +8929,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 742,
-  "actualizado": "2026-10-28T16:31:42"
+  "total": 744,
+  "actualizado": "2026-10-28T17:01:42"
 }
