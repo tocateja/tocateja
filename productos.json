@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1318207467",
+      "title": "Auriculares Traducción HiFuture Precintados",
+      "price": 51.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ls/tr/__/c10420p1318207467/i6826511974.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/auriculares-hifuture-flybuds4-ai-1318207467",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "TV y Audio"
+    },
+    {
       "id": "1318060304",
       "title": "TPV Táctil",
       "price": 89.95,
@@ -9061,6 +9073,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 755,
-  "actualizado": "2026-10-28T18:31:45"
+  "total": 756,
+  "actualizado": "2026-10-28T19:01:42"
 }
