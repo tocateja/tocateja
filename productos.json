@@ -1,6 +1,42 @@
 {
   "productos": [
     {
+      "id": "1318060304",
+      "title": "TPV Táctil",
+      "price": 89.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ls/ql/__/c10420p1318060304/i6825677145.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/tpv-tactil-1318060304",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1318193404",
+      "title": "Funda para consola Nintendo Switch 2",
+      "price": 21.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ls/tg/__/c10420p1318193404/i6826427378.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/funda-para-consola-nintendo-switch-2-1318193404",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1304550656",
+      "title": "Motorola Edge 70",
+      "price": 349.0,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/lk/p1/__/c10420p1304550656/i6745522661.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/motorola-edge-70-1304550656",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
       "id": "1318183101",
       "title": "Mario + Rabbids Kingdom Battle (Nintendo Switch)",
       "price": 16.5,
@@ -95,18 +131,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
-    },
-    {
-      "id": "1304550656",
-      "title": "Motorola Edge 70",
-      "price": 349.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lk/p1/__/c10420p1304550656/i6745522661.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/motorola-edge-70-1304550656",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
     },
     {
       "id": "1318169276",
@@ -263,18 +287,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Música e Instrumentos"
-    },
-    {
-      "id": "1318060304",
-      "title": "TPV Táctil",
-      "price": 89.95,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ls/ql/__/c10420p1318060304/i6825677145.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/tpv-tactil-1318060304",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
     },
     {
       "id": "1229077250",
@@ -9049,6 +9061,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 754,
-  "actualizado": "2026-10-28T18:01:45"
+  "total": 755,
+  "actualizado": "2026-10-28T18:31:45"
 }
