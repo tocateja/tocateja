@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1318430803",
+      "title": "Auriculares Traducción HiFuture Flybuds4 AI",
+      "price": 51.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ls/yj/__/c10420p1318430803/i6828007349.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/auriculares-traduccion-hifuture-flybuds4-ai-1318430803",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "TV y Audio"
+    },
+    {
+      "id": "1318426836",
+      "title": "Altavoz Bluetooth HiFuture Ripple 30W",
+      "price": 53.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ls/yg/__/c10420p1318426836/i6827980257.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/altavoz-bluetooth-hifuture-ripple-30w-1318426836",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
       "id": "1318414172",
       "title": "Altavoz Bluetooth HiFuture Lino-S 12W",
       "price": 37.5,
@@ -9049,6 +9073,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 754,
-  "actualizado": "2026-10-29T12:31:43"
+  "total": 756,
+  "actualizado": "2026-10-29T13:01:42"
 }
