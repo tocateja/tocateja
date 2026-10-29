@@ -949,18 +949,6 @@
       "category": "TV y Audio"
     },
     {
-      "id": "1316585793",
-      "title": "TV LED Nevir 40\" pulgadas",
-      "price": 99.95,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lr/v0/__/c10420p1316585793/i6816986094.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/tv-led-nevir-40-pulgadas-1316585793",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
       "id": "1316584347",
       "title": "TV LCD Sony 40 pulgadas",
       "price": 149.0,
@@ -6121,18 +6109,6 @@
       "category": "Hogar"
     },
     {
-      "id": "1271115893",
-      "title": "Libro de 1972 Las aves de España",
-      "price": 30.5,
-      "currency": "EUR",
-      "status": "reserved",
-      "image": "https://cdn.wallapop.com/images/10420/l0/sf/__/c10420p1271115893/i6552767374.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/libro-de-1972-las-aves-de-espana-1271115893",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
       "id": "1273935309",
       "title": "Caballito de Tiovivo",
       "price": 245.0,
@@ -9013,6 +8989,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 751,
-  "actualizado": "2026-10-29T19:01:41"
+  "total": 749,
+  "actualizado": "2026-10-29T19:31:43"
 }
