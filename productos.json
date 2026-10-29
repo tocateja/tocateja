@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1316312224",
+      "title": "Colección 30 CD Box Chopin Complete Works",
+      "price": 20.5,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/lr/p5/__/c10420p1316312224/i6815414376.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/coleccion-30-cd-box-chopin-complete-works-1316312224",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
       "id": "1318216931",
       "title": "Altavoz Bluetooth HiFuture Ripple Precintado",
       "price": 53.95,
@@ -1067,18 +1079,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "TV y Audio"
-    },
-    {
-      "id": "1316312224",
-      "title": "Colección 30 CD Box Chopin Complete Works",
-      "price": 20.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lr/p5/__/c10420p1316312224/i6815414376.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/coleccion-30-cd-box-chopin-complete-works-1316312224",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
     },
     {
       "id": "1316307542",
@@ -9074,5 +9074,5 @@
     }
   ],
   "total": 756,
-  "actualizado": "2026-10-29T02:01:44"
+  "actualizado": "2026-10-29T08:01:46"
 }
