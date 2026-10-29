@@ -265,30 +265,6 @@
       "category": "Otros"
     },
     {
-      "id": "1318071691",
-      "title": "Alimentador Nintendo 64",
-      "price": 21.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ls/qu/__/c10420p1318071691/i6825743056.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/alimentador-nintendo-64-1318071691",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
-      "id": "1318067099",
-      "title": "Mando Nintendo 64",
-      "price": 11.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ls/qr/__/c10420p1318067099/i6825715116.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/mando-nintendo-64-1318067099",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
       "id": "1318062633",
       "title": "Altavoz Bluetooth Kimiso",
       "price": 19.5,
@@ -752,18 +728,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/ls/c6/__/c10420p1317387867/i6821310937.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/battlefield-hardline-ps4-1317387867",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
-      "id": "1317387057",
-      "title": "FC25 (EA Sports) para PS4",
-      "price": 13.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ls/c6/__/c10420p1317387057/i6821306886.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/fc25-ea-sports-para-ps4-1317387057",
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
@@ -9073,6 +9037,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 756,
-  "actualizado": "2026-10-29T10:01:44"
+  "total": 753,
+  "actualizado": "2026-10-29T10:31:44"
 }
