@@ -1,16 +1,16 @@
 {
   "productos": [
     {
-      "id": "1315548956",
-      "title": "Cómic Daredevil El fin del infierno",
-      "price": 6.0,
+      "id": "1318541607",
+      "title": "Cadena Musical Technics",
+      "price": 99.0,
       "currency": "EUR",
       "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lr/8s/__/c10420p1315548956/i6810929066.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/el-fin-del-infierno-1315548956",
+      "image": "https://cdn.wallapop.com/images/10420/lt/0x/__/c10420p1318541607/i6828690276.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/cadena-musical-technics-1318541607",
       "location": "Pamplona",
       "condition": "",
-      "category": "Libros, Cómics y Revistas"
+      "category": "Joyería y Complementos"
     },
     {
       "id": "1318525597",
@@ -709,18 +709,6 @@
       "category": "Otros"
     },
     {
-      "id": "1317479085",
-      "title": "Magia para el día a día",
-      "price": 11.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ls/e5/__/c10420p1317479085/i6821898475.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/magia-para-el-dia-a-dia-1317479085",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
       "id": "1317474523",
       "title": "Mini herramienta eléctrica Dexter A estrenar",
       "price": 30.5,
@@ -899,18 +887,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1315170745",
-      "title": "Libro Oráculo Mágico",
-      "price": 6.0,
-      "currency": "EUR",
-      "status": "reserved",
-      "image": "https://cdn.wallapop.com/images/10420/lr/0o/__/c10420p1315170745/i6808661096.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/oraculo-magico-guia-para-responder-a-las-pregu-1315170745",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
     },
     {
       "id": "1313669110",
@@ -1703,18 +1679,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Música e Instrumentos"
-    },
-    {
-      "id": "1315557014",
-      "title": "Casco Moto Jet NZI Zeta X",
-      "price": 15.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lr/8y/__/c10420p1315557014/i6810973976.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/casco-moto-jet-nzi-zeta-x-1315557014",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Motor"
     },
     {
       "id": "1315552602",
@@ -4064,18 +4028,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/lp/i2/__/c10420p1312622975/i6794284193.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/cartas-tarot-el-tarot-moderno-1312622975",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
-      "id": "1312620392",
-      "title": "Baraja Cartas Tarot La Bruja Verde El Oráculo",
-      "price": 12.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lp/i0/__/c10420p1312620392/i6794269214.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/baraja-cartas-tarot-la-bruja-verde-el-oraculo-1312620392",
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
@@ -9061,6 +9013,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 755,
-  "actualizado": "2026-10-29T18:31:44"
+  "total": 751,
+  "actualizado": "2026-10-29T19:01:41"
 }
