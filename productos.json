@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1315548956",
+      "title": "Cómic Daredevil El fin del infierno",
+      "price": 6.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lr/8s/__/c10420p1315548956/i6810929066.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/el-fin-del-infierno-1315548956",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
       "id": "1318525597",
       "title": "Caballetes para tablero",
       "price": 45.0,
@@ -781,18 +793,6 @@
       "category": "Deporte"
     },
     {
-      "id": "1317387867",
-      "title": "Battlefield Hardline (PS4)",
-      "price": 9.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ls/c6/__/c10420p1317387867/i6821310937.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/battlefield-hardline-ps4-1317387867",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
       "id": "1317383791",
       "title": "DJ Hero para Nintendo Wii",
       "price": 6.5,
@@ -983,18 +983,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1316587522",
-      "title": "TV LED 49\" LG Smart TV",
-      "price": 225.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lr/v1/__/c10420p1316587522/i6816994566.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/tv-led-49-lg-smart-tv-1316587522",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "TV y Audio"
     },
     {
       "id": "1316584347",
@@ -1741,18 +1729,6 @@
       "category": "Libros, Cómics y Revistas"
     },
     {
-      "id": "1315548956",
-      "title": "Cómic Daredevil El fin del infierno",
-      "price": 7.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lr/8s/__/c10420p1315548956/i6810929066.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/el-fin-del-infierno-1315548956",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
       "id": "1315547632",
       "title": "Cómic La mugre Pat Grant",
       "price": 15.5,
@@ -2279,18 +2255,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Móviles y Smartwatches"
-    },
-    {
-      "id": "1285866063",
-      "title": "Cómic Novela Gráfica Fagin El Judío de Will Eisner",
-      "price": 8.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l9/kk/__/c10420p1285866063/i6641076569.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/comic-novela-grafica-fagin-el-judio-de-will-eisner-1285866063",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
     },
     {
       "id": "1168688760",
@@ -9097,6 +9061,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 758,
-  "actualizado": "2026-10-29T18:01:43"
+  "total": 755,
+  "actualizado": "2026-10-29T18:31:44"
 }
