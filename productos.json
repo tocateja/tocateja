@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1318414172",
+      "title": "Altavoz Bluetooth HiFuture Lino-S 12W",
+      "price": 37.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ls/y6/__/c10420p1318414172/i6827900007.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/altavoz-bluetooth-hifuture-lino-s-12w-1318414172",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
       "id": "1316312224",
       "title": "Colección 30 CD Box Chopin Complete Works",
       "price": 20.5,
@@ -9037,6 +9049,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 753,
-  "actualizado": "2026-10-29T12:01:46"
+  "total": 754,
+  "actualizado": "2026-10-29T12:31:43"
 }
