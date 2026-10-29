@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1318525597",
+      "title": "Caballetes para tablero",
+      "price": 45.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lt/0k/__/c10420p1318525597/i6828597572.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/caballetes-para-tablero-1318525597",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1318519930",
+      "title": "Taladro + Herramientas Ferrestock Precintado",
+      "price": 51.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lt/0g/__/c10420p1318519930/i6828561119.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/taladro---herramientas-ferrestock-precintado-1318519930",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Herramientas"
+    },
+    {
       "id": "1318515734",
       "title": "Oppo Reno 14 F 5G",
       "price": 145.0,
@@ -9073,6 +9097,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 756,
-  "actualizado": "2026-10-29T17:31:43"
+  "total": 758,
+  "actualizado": "2026-10-29T18:01:43"
 }
