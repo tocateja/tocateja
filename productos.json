@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1318703105",
+      "title": "Turok 2: Seeds of Evil (Nintendo 64)",
+      "price": 13.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lt/4d/__/c10420p1318703105/i6829768718.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/turok-2-seeds-of-evil-nintendo-64-1318703105",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1318702734",
+      "title": "Quake II (Nintendo 64)",
+      "price": 16.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lt/4d/__/c10420p1318702734/i6829766643.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/quake-ii-nintendo-64-1318702734",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
       "id": "1271115893",
       "title": "Libro de 1972 Las aves de España",
       "price": 30.5,
@@ -8989,6 +9013,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 749,
-  "actualizado": "2026-10-30T10:31:41"
+  "total": 751,
+  "actualizado": "2026-10-30T11:01:42"
 }
