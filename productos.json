@@ -1,6 +1,54 @@
 {
   "productos": [
     {
+      "id": "1255331066",
+      "title": "Teléfono Inalámbrico duo Panasonic KX-TGK210SP",
+      "price": 21.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/kr/e3/__/c10420p1255331066/i6452328578.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/telefono-inalambrico-duo-panasonic-kx-tgk210sp-1255331066",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
+      "id": "1285398714",
+      "title": "Consola Nintendo Switch",
+      "price": 165.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l9/aj/__/c10420p1285398714/i6638429599.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/consola-nintendo-switch-1285398714",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1301625034",
+      "title": "Consola Nintendo Switch",
+      "price": 125.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/li/yc/__/c10420p1301625034/i6727733096.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/consola-nintendo-switch-1301625034",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1315194242",
+      "title": "Consola Nintendo Switch",
+      "price": 119.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lr/16/__/c10420p1315194242/i6808802567.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/consola-nintendo-switch-1315194242",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
       "id": "1315673620",
       "title": "Consola Nintendo Switch",
       "price": 140.0,
@@ -896,18 +944,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/ls/bc/__/c10420p1317347773/i6821047398.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/barra-de-sonido-panasonic-1317347773",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "TV y Audio"
-    },
-    {
-      "id": "1317345122",
-      "title": "Smart TV Samsung 32 pulgadas",
-      "price": 149.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ls/ba/__/c10420p1317345122/i6821030987.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/smart-tv-samsung-32-pulgadas-1317345122",
       "location": "Pamplona",
       "condition": "",
       "category": "TV y Audio"
@@ -1813,18 +1849,6 @@
       "category": "Informática"
     },
     {
-      "id": "1315194242",
-      "title": "Consola Nintendo Switch",
-      "price": 125.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lr/16/__/c10420p1315194242/i6808802567.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/consola-nintendo-switch-1315194242",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
       "id": "1315188591",
       "title": "Altavoz Bluetooth Peaq Robbie Williams",
       "price": 99.95,
@@ -1952,18 +1976,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/ku/lp/__/c10420p1260724605/i6487761575.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/huawei-watch-5-negro-1260724605",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
-    },
-    {
-      "id": "1255331066",
-      "title": "Teléfono Inalámbrico duo Panasonic KX-TGK210SP",
-      "price": 21.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kr/e3/__/c10420p1255331066/i6452328578.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/telefono-inalambrico-duo-panasonic-kx-tgk210sp-1255331066",
       "location": "Pamplona",
       "condition": "",
       "category": "Móviles y Smartwatches"
@@ -5101,18 +5113,6 @@
       "category": "Gaming"
     },
     {
-      "id": "1301625034",
-      "title": "Consola Nintendo Switch",
-      "price": 139.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/li/yc/__/c10420p1301625034/i6727733096.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/consola-nintendo-switch-1301625034",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
       "id": "1301990057",
       "title": "Vinilo Fausto Papetti 27ª Raccolta",
       "price": 8.5,
@@ -6239,18 +6239,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Joyería y Complementos"
-    },
-    {
-      "id": "1297040340",
-      "title": "Xiaomi 14T",
-      "price": 285.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lg/82/__/c10420p1297040340/i6705755003.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/xiaomi-14t-1297040340",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
     },
     {
       "id": "1296006305",
@@ -8341,18 +8329,6 @@
       "category": "Libros, Cómics y Revistas"
     },
     {
-      "id": "1285398714",
-      "title": "Consola Nintendo Switch",
-      "price": 185.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l9/aj/__/c10420p1285398714/i6638429599.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/consola-nintendo-switch-1285398714",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
       "id": "1045236388",
       "title": "LIBRO FORMACION Y ORIENTACION LABORAL",
       "price": 6.5,
@@ -8953,6 +8929,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 746,
-  "actualizado": "2026-10-30T13:01:43"
+  "total": 744,
+  "actualizado": "2026-10-30T13:31:43"
 }
