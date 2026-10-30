@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1313661277",
+      "title": "LEGO Star Wars: La Saga Skywalker (Switch)",
+      "price": 15.0,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/lq/4b/__/c10420p1313661277/i6800855194.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/lego-star-wars-la-saga-skywalker-switch-1313661277",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
       "id": "1318703105",
       "title": "Turok 2: Seeds of Evil (Nintendo 64)",
       "price": 13.5,
@@ -23,18 +35,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
-    },
-    {
-      "id": "1271115893",
-      "title": "Libro de 1972 Las aves de España",
-      "price": 30.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l0/sf/__/c10420p1271115893/i6552767374.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/libro-de-1972-las-aves-de-espana-1271115893",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
     },
     {
       "id": "1318541607",
@@ -1739,18 +1739,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
-    },
-    {
-      "id": "1315542751",
-      "title": "Samsung Galaxy Tab A11",
-      "price": 125.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lr/8n/__/c10420p1315542751/i6810893175.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/samsung-galaxy-tab-a11-1315542751",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
     },
     {
       "id": "1315537919",
@@ -3668,18 +3656,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/lq/4c/__/c10420p1313661985/i6800859158.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/pikmin-3-deluxe-nintendo-switch-1313661985",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
-      "id": "1313661277",
-      "title": "LEGO Star Wars: La Saga Skywalker (Switch)",
-      "price": 17.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lq/4b/__/c10420p1313661277/i6800855194.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/lego-star-wars-la-saga-skywalker-switch-1313661277",
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
@@ -7333,18 +7309,6 @@
       "category": "Herramientas"
     },
     {
-      "id": "1253403324",
-      "title": "Puzzle League DS Nintendo",
-      "price": 8.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kq/8s/__/c10420p1253403324/i6441182063.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/puzzle-league-ds-nintendo-1253403324",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
       "id": "1253388292",
       "title": "Elefante pequeño de ébano tallado",
       "price": 9.5,
@@ -8989,6 +8953,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 749,
-  "actualizado": "2026-10-30T11:31:41"
+  "total": 746,
+  "actualizado": "2026-10-30T12:01:42"
 }
