@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1315673620",
+      "title": "Consola Nintendo Switch",
+      "price": 140.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lr/bg/__/c10420p1315673620/i6811661108.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/consola-nintendo-switch-1315673620",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
       "id": "1313661277",
       "title": "LEGO Star Wars: La Saga Skywalker (Switch)",
       "price": 15.0,
@@ -1508,18 +1520,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/lr/bi/__/c10420p1315676956/i6811680672.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/mando-de-cable-pdp-para-nintendo-switch-1315676956",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
-      "id": "1315673620",
-      "title": "Consola Nintendo Switch",
-      "price": 165.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lr/bg/__/c10420p1315673620/i6811661108.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/consola-nintendo-switch-1315673620",
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
@@ -8954,5 +8954,5 @@
     }
   ],
   "total": 746,
-  "actualizado": "2026-10-30T12:31:41"
+  "actualizado": "2026-10-30T13:01:43"
 }
