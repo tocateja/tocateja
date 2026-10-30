@@ -1081,18 +1081,6 @@
       "category": "Otros"
     },
     {
-      "id": "1316401761",
-      "title": "Barra de Sonido Samsung",
-      "price": 125.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lr/r2/__/c10420p1316401761/i6815912484.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/barra-de-sonido-samsung-1316401761",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "TV y Audio"
-    },
-    {
       "id": "1316307542",
       "title": "Casco Jet Lem Italian Blanco",
       "price": 51.5,
@@ -2627,18 +2615,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Móviles y Smartwatches"
-    },
-    {
-      "id": "1276255524",
-      "title": "Cómic Street Fighter Volúmen Uno Hadoken",
-      "price": 9.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l3/ul/__/c10420p1276255524/i6582371170.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/comic-street-fighter-volumen-uno-hadoken-1276255524",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
     },
     {
       "id": "1275131809",
@@ -9013,6 +8989,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 751,
-  "actualizado": "2026-10-30T11:01:42"
+  "total": 749,
+  "actualizado": "2026-10-30T11:31:41"
 }
