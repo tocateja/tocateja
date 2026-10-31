@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1285433962",
+      "title": "Monitor Gaming Asus 43\" Antireflejos 120Hz",
+      "price": 539.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l9/bb/__/c10420p1285433962/i6638640783.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/monitor-gaming-asus-43-antireflejos-120hz-1285433962",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1318995620",
+      "title": "Portátil HP OmniBook 3 + Cargador Precintado",
+      "price": 590.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lt/an/__/c10420p1318995620/i6831585901.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/portatil-hp-omnibook-3---cargador-precintado-1318995620",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Informática"
+    },
+    {
       "id": "1255331066",
       "title": "Teléfono Inalámbrico duo Panasonic KX-TGK210SP",
       "price": 21.5,
@@ -241,18 +265,6 @@
       "category": "Móviles y Smartwatches"
     },
     {
-      "id": "1318183101",
-      "title": "Mario + Rabbids Kingdom Battle (Nintendo Switch)",
-      "price": 16.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ls/t8/__/c10420p1318183101/i6826366140.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/mario---rabbids-kingdom-battle-nintendo-switch-1318183101",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
       "id": "1318182655",
       "title": "EyeToy: Play 3 (PlayStation 2)",
       "price": 5.0,
@@ -383,18 +395,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
-    },
-    {
-      "id": "1318081048",
-      "title": "Radio Multibanda Venturer Estilo Militar",
-      "price": 51.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ls/r1/__/c10420p1318081048/i6825797773.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/radio-multibanda-venturer-estilo-militar-1318081048",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "TV y Audio"
     },
     {
       "id": "1318086761",
@@ -539,18 +539,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1317816680",
-      "title": "Libro Cómic Colección Super Humor Volumen XXVIII",
-      "price": 11.5,
-      "currency": "EUR",
-      "status": "reserved",
-      "image": "https://cdn.wallapop.com/images/10420/ls/ld/__/c10420p1317816680/i6824219240.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/libro-comic-coleccion-super-humor-volumen-xxviii-1317816680",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
     },
     {
       "id": "1317738935",
@@ -745,18 +733,6 @@
       "category": "Otros"
     },
     {
-      "id": "1317504415",
-      "title": "Auriculares Bluetooth JBL Tune 720BT Precintados",
-      "price": 50.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ls/eo/__/c10420p1317504415/i6822065030.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/auriculares-bluetooth-jbl-tune-720bt-1317504415",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "TV y Audio"
-    },
-    {
       "id": "1317495180",
       "title": "Mando Xbox Elite Series 2 Bluetooth",
       "price": 115.0,
@@ -947,18 +923,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1313669110",
-      "title": "Brain Training del Dr. Kawashima (Nintendo Switch)",
-      "price": 16.5,
-      "currency": "EUR",
-      "status": "reserved",
-      "image": "https://cdn.wallapop.com/images/10420/lq/4h/__/c10420p1313669110/i6800900468.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/brain-training-del-dr-kawashima-nintendo-switch-1313669110",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
     },
     {
       "id": "1316614694",
@@ -1259,18 +1223,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1315977111",
-      "title": "Auriculares con cable PDP para PS4 y PS5",
-      "price": 25.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lr/hy/__/c10420p1315977111/i6813437929.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/auriculares-con-cable-pdp-para-ps4-y-ps5-1315977111",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
     },
     {
       "id": "1315966944",
@@ -1585,18 +1537,6 @@
       "category": "Gaming"
     },
     {
-      "id": "1315601046",
-      "title": "Uncharted: The Nathan Drake Collection (PS4)",
-      "price": 10.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lr/9w/__/c10420p1315601046/i6811237427.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/uncharted-the-nathan-drake-collection-ps4-1315601046",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
       "id": "1315599879",
       "title": "Call of Duty: Black Ops II (PS3)",
       "price": 9.5,
@@ -1895,18 +1835,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1315163033",
-      "title": "Consola PS4 (PlayStation 4) Fat 500GB",
-      "price": 110.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lr/0i/__/c10420p1315163033/i6808618382.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/consola-ps4-playstation-4-fat-500gb-1315163033",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
     },
     {
       "id": "1274734184",
@@ -5821,18 +5749,6 @@
       "category": "Música e Instrumentos"
     },
     {
-      "id": "1299538555",
-      "title": "Mochila Fotografía Nikonistas",
-      "price": 40.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lh/pm/__/c10420p1299538555/i6717834048.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/mochila-fotografia-nikonistas-1299538555",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Foto y Vídeo"
-    },
-    {
       "id": "1299545524",
       "title": "Auriculares Bluetooth Bose",
       "price": 74.0,
@@ -6080,18 +5996,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/lg/p3/__/c10420p1297834466/i6709723740.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/ring-fit-adventure-nintendo-switch-1297834466",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
-      "id": "1285433962",
-      "title": "Monitor Gaming Asus 43\" Antireflejos 120Hz",
-      "price": 599.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l9/bb/__/c10420p1285433962/i6638640783.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/monitor-gaming-asus-43-antireflejos-120hz-1285433962",
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
@@ -7151,18 +7055,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Hogar"
-    },
-    {
-      "id": "1262734680",
-      "title": "Sniper Elite Wii",
-      "price": 9.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kv/ss/__/c10420p1262734680/i6500294983.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/sniper-elite-wii-1262734680",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
     },
     {
       "id": "1260228733",
@@ -8905,6 +8797,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 742,
-  "actualizado": "2026-10-31T08:01:45"
+  "total": 733,
+  "actualizado": "2026-10-31T14:01:44"
 }
