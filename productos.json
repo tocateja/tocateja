@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1320196698",
+      "title": "Caladora Bosch PST 700 E",
+      "price": 36.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lu/0e/__/c10420p1320196698/i6840325300.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/caladora-bosch-pst-700-e-1320196698",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Herramientas"
+    },
+    {
       "id": "1278283999",
       "title": "Protector Parachoques  Rolmovil Precintado",
       "price": 6.5,
@@ -8785,6 +8797,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 732,
-  "actualizado": "2026-11-03T11:01:41"
+  "total": 733,
+  "actualizado": "2026-11-03T11:31:44"
 }
