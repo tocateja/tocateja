@@ -1,6 +1,54 @@
 {
   "productos": [
     {
+      "id": "1320619269",
+      "title": "Set de Sacabocados de 4 a 20 mm",
+      "price": 21.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lu/9g/__/c10420p1320619269/i6843892239.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/set-de-sacabocados-de-4-a-20-mm-1320619269",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Herramientas"
+    },
+    {
+      "id": "1320608796",
+      "title": "Calculadora con Rollo Sharp EL-1611H",
+      "price": 21.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lu/98/__/c10420p1320608796/i6843759141.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/calculadora-con-rollo-sharp-el-1611h-1320608796",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Informática"
+    },
+    {
+      "id": "1320602410",
+      "title": "Libro Electrónico Kindle Paperwhite 7ª Generación",
+      "price": 59.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lu/93/__/c10420p1320602410/i6843674832.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/libro-electronico-kindle-paperwhite-7-generacion-1320602410",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1320595558",
+      "title": "Consola Retro Sega Mega Drive Arcade",
+      "price": 31.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lu/8y/__/c10420p1320595558/i6843581602.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/consola-retro-sega-mega-drive-arcade-1320595558",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
       "id": "1307564835",
       "title": "Mando Arcade Stick 8BitDo A estrenar",
       "price": 69.95,
@@ -277,18 +325,6 @@
       "category": "TV y Audio"
     },
     {
-      "id": "1318193404",
-      "title": "Funda para consola Nintendo Switch 2",
-      "price": 21.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ls/tg/__/c10420p1318193404/i6826427378.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/funda-para-consola-nintendo-switch-2-1318193404",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
       "id": "1304550656",
       "title": "Motorola Edge 70",
       "price": 349.0,
@@ -361,18 +397,6 @@
       "category": "Gaming"
     },
     {
-      "id": "1318171151",
-      "title": "Alimentador Sony para PS2",
-      "price": 11.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ls/sz/__/c10420p1318171151/i6826293187.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/alimentador-sony-para-ps2-1318171151",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
       "id": "1318172258",
       "title": "Mando Gameware para PS2 (PlayStation 2)",
       "price": 11.5,
@@ -407,18 +431,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Hogar"
-    },
-    {
-      "id": "1318165485",
-      "title": "Cable de Video para Nintendo 64",
-      "price": 10.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ls/su/__/c10420p1318165485/i6826262518.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/cable-de-video-para-nintendo-64-1318165485",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
     },
     {
       "id": "1318164077",
@@ -4129,18 +4141,6 @@
       "category": "Hogar"
     },
     {
-      "id": "1272694177",
-      "title": "Mando PowerA Nintendo switch 2",
-      "price": 27.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l1/q9/__/c10420p1272694177/i6562009800.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/mando-powera-switch-negro-1272694177",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
       "id": "1309524786",
       "title": "Consola Nintendo Wii",
       "price": 36.5,
@@ -4352,18 +4352,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/ln/4l/__/c10420p1308635391/i6770429209.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/assassin-s-creed-la-hermandad-ps3-1308635391",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
-      "id": "1308633047",
-      "title": "Soul Calibur IV (PS3)",
-      "price": 8.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ln/4j/__/c10420p1308633047/i6770400216.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/soul-calibur-iv-ps3-1308633047",
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
@@ -7765,18 +7753,6 @@
       "category": "Otros"
     },
     {
-      "id": "1181095546",
-      "title": "Reposapiés Fellowes",
-      "price": 8.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/jj/6z/__/c10420p1181095546/i5962709744.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/reposapies-fellowes-1181095546",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
       "id": "1273944222",
       "title": "Figura Final Fantasy XIII Snow Villiers",
       "price": 31.5,
@@ -8773,6 +8749,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 731,
-  "actualizado": "2026-11-04T10:31:41"
+  "total": 729,
+  "actualizado": "2026-11-04T11:31:42"
 }
