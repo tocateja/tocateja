@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1320633282",
+      "title": "Pluma Estilográfica Hachette Tompla",
+      "price": 21.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lu/9r/__/c10420p1320633282/i6844059662.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/pluma-estilografica-hachette-tompla-1320633282",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1320619269",
       "title": "Set de Sacabocados de 4 a 20 mm",
       "price": 21.5,
@@ -8749,6 +8761,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 729,
-  "actualizado": "2026-11-04T11:31:42"
+  "total": 730,
+  "actualizado": "2026-11-04T12:01:42"
 }
