@@ -5941,18 +5941,6 @@
       "category": "Informática"
     },
     {
-      "id": "1255841707",
-      "title": "Portátil Samsung Galaxy Book 4",
-      "price": 595.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kr/p1/__/c10420p1255841707/i6455447642.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/portatil-samsung-gris-plata-1255841707",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
-    },
-    {
       "id": "1290731251",
       "title": "Nintendo Switch Oled A estrenar",
       "price": 275.0,
@@ -8761,6 +8749,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 730,
-  "actualizado": "2026-11-04T12:01:42"
+  "total": 729,
+  "actualizado": "2026-11-04T12:31:42"
 }
