@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1318172258",
+      "title": "Mando Gameware para PS2 (PlayStation 2)",
+      "price": 11.5,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/ls/t0/__/c10420p1318172258/i6826299907.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/mando-gameware-para-ps2-playstation-2-1318172258",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
       "id": "1310734235",
       "title": "Raquetas de Nieve McKinley",
       "price": 59.0,
@@ -301,18 +313,6 @@
       "category": "Joyería y Complementos"
     },
     {
-      "id": "1318525597",
-      "title": "Caballetes para tablero",
-      "price": 45.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lt/0k/__/c10420p1318525597/i6828597572.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/caballetes-para-tablero-1318525597",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
       "id": "1318519930",
       "title": "Taladro + Herramientas Ferrestock Precintado",
       "price": 51.5,
@@ -464,18 +464,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/ls/t5/__/c10420p1318178756/i6826339340.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/bee-movie-game-playstation-2-1318178756",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
-      "id": "1318172258",
-      "title": "Mando Gameware para PS2 (PlayStation 2)",
-      "price": 11.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ls/t0/__/c10420p1318172258/i6826299907.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/mando-gameware-para-ps2-playstation-2-1318172258",
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
@@ -8725,6 +8713,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 727,
-  "actualizado": "2026-11-05T10:31:43"
+  "total": 726,
+  "actualizado": "2026-11-05T11:01:41"
 }
