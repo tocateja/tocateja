@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1321372800",
+      "title": "Bola del Mundo Geográfica con lupa",
+      "price": 19.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lu/pl/__/c10420p1321372800/i6849830905.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/bola-del-mundo-geografica-con-luz-1321372800",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1321366828",
+      "title": "Altavoces Profesionales Work Club 2",
+      "price": 120.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lu/ph/__/c10420p1321366828/i6849798374.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/altavoces-profesionales-work-club-2-1321366828",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
       "id": "1196822982",
       "title": "Juego PSP Invizimals: La otra dimensión",
       "price": 3.5,
@@ -8677,6 +8701,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 723,
-  "actualizado": "2026-11-06T11:01:42"
+  "total": 725,
+  "actualizado": "2026-11-06T11:31:42"
 }
