@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1321419247",
+      "title": "Splitter VGA Abtus 4 Puertos",
+      "price": 9.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lu/ql/__/c10420p1321419247/i6850091934.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/splitter-vga-abtus-4-puertos-1321419247",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1321401177",
       "title": "Pack Teclado y Ratón Gaming Xtrust",
       "price": 29.95,
@@ -8725,6 +8737,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 727,
-  "actualizado": "2026-11-06T13:01:43"
+  "total": 728,
+  "actualizado": "2026-11-06T13:31:43"
 }
