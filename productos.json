@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1321425858",
+      "title": "Luz Frontal LED Simond HL900",
+      "price": 29.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lu/qq/__/c10420p1321425858/i6850131346.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/luz-frontal-led-simond-hl900-1321425858",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1321422895",
+      "title": "Mesa de Mezclas Monacor MPX-5000",
+      "price": 29.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lu/qo/__/c10420p1321422895/i6850114660.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/mesa-de-mezclas-monacor-mpx-5000-1321422895",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Hogar"
+    },
+    {
       "id": "1321419247",
       "title": "Splitter VGA Abtus 4 Puertos",
       "price": 9.95,
@@ -8737,6 +8761,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 728,
-  "actualizado": "2026-11-06T13:31:43"
+  "total": 730,
+  "actualizado": "2026-11-06T14:01:44"
 }
