@@ -1,6 +1,42 @@
 {
   "productos": [
     {
+      "id": "1196822982",
+      "title": "Juego PSP Invizimals: La otra dimensión",
+      "price": 3.5,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/js/k2/__/c10420p1196822982/i6058029601.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/juego-psp-invizimals-la-otra-dimension-1196822982",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1196822528",
+      "title": "Juego PSP Invizimals: La Caza Comienza Aquí",
+      "price": 3.5,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/js/k2/__/c10420p1196822528/i6058025240.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/juego-psp-invizimals-la-caza-comienza-aqui-1196822528",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1310753125",
+      "title": "TPV Táctil+Datáfono+Cajón",
+      "price": 349.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lo/dz/__/c10420p1310753125/i6784061970.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/tpv-tactil-datafono-cajon--impresora-sumup-1310753125",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1321184687",
       "title": "Raqueta de Frontenis Head S6 Graphene",
       "price": 49.95,
@@ -1139,18 +1175,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1310753125",
-      "title": "TPV Táctil+Datáfono+Cajón+ Impresora Sumup",
-      "price": 349.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lo/dz/__/c10420p1310753125/i6784061970.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/tpv-tactil-datafono-cajon--impresora-sumup-1310753125",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Informática"
     },
     {
       "id": "1316405670",
@@ -2312,30 +2336,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/jb/3l/__/c10420p1167501503/i5888848375.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/madagascar-operacion-pinguino-gba-1167501503",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
-      "id": "1196822982",
-      "title": "Juego PSP Invizimals: La otra dimensión",
-      "price": 3.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/js/k2/__/c10420p1196822982/i6058029601.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/juego-psp-invizimals-la-otra-dimension-1196822982",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
-      "id": "1196822528",
-      "title": "Juego PSP Invizimals: La Caza Comienza Aquí",
-      "price": 3.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/js/k2/__/c10420p1196822528/i6058025240.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/juego-psp-invizimals-la-caza-comienza-aqui-1196822528",
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
@@ -4583,18 +4583,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Deporte"
-    },
-    {
-      "id": "1307048593",
-      "title": "Lámpara Antimosquitos J10",
-      "price": 11.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lm/6l/__/c10420p1307048593/i6758886456.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/lampara-antimosquitos-j10-1307048593",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Hogar"
     },
     {
       "id": "1306846798",
@@ -8689,6 +8677,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 724,
-  "actualizado": "2026-11-06T10:01:42"
+  "total": 723,
+  "actualizado": "2026-11-06T10:31:41"
 }
