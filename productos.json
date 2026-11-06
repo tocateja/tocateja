@@ -145,18 +145,6 @@
       "category": "Música e Instrumentos"
     },
     {
-      "id": "1321488839",
-      "title": "iPad Apple 128GB WiFi",
-      "price": 385.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lu/s3/__/c10420p1321488839/i6850479003.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/ipad-apple-128gb-wifi-1321488839",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
-    },
-    {
       "id": "1321484434",
       "title": "Giradiscos Amos",
       "price": 49.95,
@@ -6781,18 +6769,6 @@
       "category": "Antigüedades y Coleccionismo"
     },
     {
-      "id": "1294344277",
-      "title": "Móvil Rugerizado Doogee V Max Pro 512GB",
-      "price": 249.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/le/ma/__/c10420p1294344277/i6693428007.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/movil-rugerizado-doogee-v-max-pro-512gb-1294344277",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
-    },
-    {
       "id": "1294338349",
       "title": "Sargento de palanca Bessey G 40 H",
       "price": 59.95,
@@ -8905,6 +8881,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 742,
-  "actualizado": "2026-11-06T19:01:42"
+  "total": 740,
+  "actualizado": "2026-11-06T19:31:41"
 }
