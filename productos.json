@@ -1,6 +1,42 @@
 {
   "productos": [
     {
+      "id": "1321387022",
+      "title": "Máscara LED Facial Jocca Beauty Precintado",
+      "price": 19.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lu/pw/__/c10420p1321387022/i6849911894.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/mascara-led-facial-jocca-beauty-precintado-1321387022",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1321384692",
+      "title": "Máscara LED Facial Jocca Beauty Precintado",
+      "price": 19.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lu/pu/__/c10420p1321384692/i6849897441.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/mascara-led-facial-jocca-beauty-precintado-1321384692",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1321381028",
+      "title": "Auriculares Gaming Bluetooth Hyper X Cloud III S",
+      "price": 65.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lu/ps/__/c10420p1321381028/i6849878452.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/auriculares-gaming-bluetooth-hyper-x-cloud-iii-s-1321381028",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
       "id": "1321372800",
       "title": "Bola del Mundo Geográfica con lupa",
       "price": 19.95,
@@ -947,18 +983,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1317469169",
-      "title": "Centro de mesa Florence  Giuseppe Armani",
-      "price": 50.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ls/dx/__/c10420p1317469169/i6821829364.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/centro-de-mesa-florence-giuseppe-armani-1317469169",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Hogar"
     },
     {
       "id": "1317465898",
@@ -8701,6 +8725,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 725,
-  "actualizado": "2026-11-06T11:31:42"
+  "total": 727,
+  "actualizado": "2026-11-06T12:01:46"
 }
