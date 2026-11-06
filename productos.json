@@ -1,6 +1,42 @@
 {
   "productos": [
     {
+      "id": "1321504609",
+      "title": "Halloween: El Final (Blu-ray)",
+      "price": 9.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lu/sf/__/c10420p1321504609/i6850569351.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/halloween-el-final-blu-ray-1321504609",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1321503958",
+      "title": "Colección John Wayne Blu-ray (4 Películas)",
+      "price": 19.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lu/se/__/c10420p1321503958/i6850565973.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/coleccion-john-wayne-blu-ray-4-peliculas-1321503958",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1321501852",
+      "title": "Colección 5 Películas Jurassic World Blu-ray",
+      "price": 19.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lu/sd/__/c10420p1321501852/i6850553250.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/coleccion-5-peliculas-jurassic-world-blu-ray-1321501852",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
       "id": "1321496894",
       "title": "Amplificador Skytronic",
       "price": 49.95,
@@ -8809,6 +8845,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 734,
-  "actualizado": "2026-11-06T17:31:42"
+  "total": 737,
+  "actualizado": "2026-11-06T18:01:42"
 }
