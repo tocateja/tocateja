@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1321401177",
+      "title": "Pack Teclado y Ratón Gaming Xtrust",
+      "price": 29.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lu/q7/__/c10420p1321401177/i6849988850.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/pack-teclado-y-raton-gaming-xtrust-1321401177",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
       "id": "1310753125",
       "title": "TPV Táctil+Datáfono+Cajón",
       "price": 349.0,
@@ -1772,18 +1784,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/lr/9h/__/c10420p1315582426/i6811122580.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/mando-compatible-ps1-blaze-1315582426",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
-      "id": "1315580862",
-      "title": "Mando compatible para PS1",
-      "price": 7.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lr/9g/__/c10420p1315580862/i6811114115.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/mando-compatible-para-ps1-1315580862",
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
@@ -8726,5 +8726,5 @@
     }
   ],
   "total": 727,
-  "actualizado": "2026-11-06T12:31:42"
+  "actualizado": "2026-11-06T13:01:43"
 }
