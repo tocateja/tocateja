@@ -565,18 +565,6 @@
       "category": "Móviles y Smartwatches"
     },
     {
-      "id": "1313670067",
-      "title": "Estudio de videojuegos - Nintendo Switch",
-      "price": 19.5,
-      "currency": "EUR",
-      "status": "reserved",
-      "image": "https://cdn.wallapop.com/images/10420/lq/4i/__/c10420p1313670067/i6800907218.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/estudio-de-videojuegos-nintendo-switch-1313670067",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
       "id": "1318060304",
       "title": "TPV Táctil",
       "price": 89.95,
@@ -8845,6 +8833,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 737,
-  "actualizado": "2026-11-07T14:01:49"
+  "total": 736,
+  "actualizado": "2026-11-07T20:01:44"
 }
