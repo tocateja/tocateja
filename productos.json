@@ -1,6 +1,42 @@
 {
   "productos": [
     {
+      "id": "1321696239",
+      "title": "Monitor 32\" QD Mini Led TCL",
+      "price": 239.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lu/wj/__/c10420p1321696239/i6851762592.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/monitor-32-qd-mini-led-tcl-1321696239",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Informática"
+    },
+    {
+      "id": "1315702374",
+      "title": "Enchufe Inteligente Innr",
+      "price": 10.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lr/c2/__/c10420p1315702374/i6811831726.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/enchufe-inteligente-innr-1315702374",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1321381028",
+      "title": "Auriculares Gaming Bluetooth Hyper X Cloud III S",
+      "price": 65.0,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/lu/ps/__/c10420p1321381028/i6849878452.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/auriculares-gaming-bluetooth-hyper-x-cloud-iii-s-1321381028",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
       "id": "1321521695",
       "title": "Blu-ray Los Inmortales",
       "price": 9.95,
@@ -251,18 +287,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1321381028",
-      "title": "Auriculares Gaming Bluetooth Hyper X Cloud III S",
-      "price": 65.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lu/ps/__/c10420p1321381028/i6849878452.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/auriculares-gaming-bluetooth-hyper-x-cloud-iii-s-1321381028",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
     },
     {
       "id": "1321372800",
@@ -637,18 +661,6 @@
       "category": "Gaming"
     },
     {
-      "id": "1313661277",
-      "title": "LEGO Star Wars: La Saga Skywalker (Switch)",
-      "price": 15.0,
-      "currency": "EUR",
-      "status": "reserved",
-      "image": "https://cdn.wallapop.com/images/10420/lq/4b/__/c10420p1313661277/i6800855194.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/lego-star-wars-la-saga-skywalker-switch-1313661277",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
       "id": "1318541607",
       "title": "Cadena Musical Technics",
       "price": 99.0,
@@ -851,18 +863,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
-    },
-    {
-      "id": "1318078136",
-      "title": "Mini Herramienta Eléctrica Toledo",
-      "price": 15.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ls/qz/__/c10420p1318078136/i6825781460.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/mini-herramienta-electrica-toledo-1318078136",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
     },
     {
       "id": "1318062633",
@@ -1669,18 +1669,6 @@
       "category": "Otros"
     },
     {
-      "id": "1315919548",
-      "title": "Consola PlayStation 5 Slim Lector Discos 848gb",
-      "price": 549.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lr/gq/__/c10420p1315919548/i6813118799.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/consola-playstation-5-slim-lector-discos-848gb-1315919548",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
       "id": "1315915273",
       "title": "Jaula para Conejos o Mascotas",
       "price": 59.95,
@@ -1724,18 +1712,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/lr/c3/__/c10420p1315704328/i6811842637.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/walkman-panasonic-rq-e27v-1315704328",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
-      "id": "1315702374",
-      "title": "Enchufe Inteligente Innr",
-      "price": 10.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lr/c2/__/c10420p1315702374/i6811831726.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/enchufe-inteligente-innr-1315702374",
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
@@ -8869,6 +8845,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 739,
-  "actualizado": "2026-11-07T08:01:46"
+  "total": 737,
+  "actualizado": "2026-11-07T14:01:49"
 }
