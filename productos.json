@@ -589,18 +589,6 @@
       "category": "Informática"
     },
     {
-      "id": "1255331066",
-      "title": "Teléfono Inalámbrico duo Panasonic KX-TGK210SP",
-      "price": 21.5,
-      "currency": "EUR",
-      "status": "reserved",
-      "image": "https://cdn.wallapop.com/images/10420/kr/e3/__/c10420p1255331066/i6452328578.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/telefono-inalambrico-duo-panasonic-kx-tgk210sp-1255331066",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
-    },
-    {
       "id": "1285398714",
       "title": "Consola Nintendo Switch",
       "price": 165.0,
@@ -8881,6 +8869,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 740,
-  "actualizado": "2026-11-06T20:01:42"
+  "total": 739,
+  "actualizado": "2026-11-07T02:01:44"
 }
