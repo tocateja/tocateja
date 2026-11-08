@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1320602410",
+      "title": "Libro Electrónico Kindle Paperwhite 7ª Generación",
+      "price": 59.95,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/lu/93/__/c10420p1320602410/i6843674832.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/libro-electronico-kindle-paperwhite-7-generacion-1320602410",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
       "id": "1321696239",
       "title": "Monitor 32\" QD Mini Led TCL",
       "price": 239.0,
@@ -505,18 +517,6 @@
       "category": "Informática"
     },
     {
-      "id": "1320602410",
-      "title": "Libro Electrónico Kindle Paperwhite 7ª Generación",
-      "price": 59.95,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lu/93/__/c10420p1320602410/i6843674832.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/libro-electronico-kindle-paperwhite-7-generacion-1320602410",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
       "id": "1320595558",
       "title": "Consola Retro Sega Mega Drive Arcade",
       "price": 31.5,
@@ -563,18 +563,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Móviles y Smartwatches"
-    },
-    {
-      "id": "1318060304",
-      "title": "TPV Táctil",
-      "price": 89.95,
-      "currency": "EUR",
-      "status": "reserved",
-      "image": "https://cdn.wallapop.com/images/10420/ls/ql/__/c10420p1318060304/i6825677145.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/tpv-tactil-1318060304",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
     },
     {
       "id": "1285433962",
@@ -8833,6 +8821,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 736,
-  "actualizado": "2026-11-08T08:01:46"
+  "total": 735,
+  "actualizado": "2026-11-08T14:01:45"
 }
