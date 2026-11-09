@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1307811469",
+      "title": "Consola Nintendo Switch 2",
+      "price": 375.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lm/mx/__/c10420p1307811469/i6763484073.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/consola-nintendo-switch-2-1307811469",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
       "id": "1318172258",
       "title": "Mando Gameware compatible para PS2",
       "price": 11.5,
@@ -4621,18 +4633,6 @@
       "category": "Antigüedades y Coleccionismo"
     },
     {
-      "id": "1307811469",
-      "title": "Consola Nintendo Switch 2",
-      "price": 375.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lm/mx/__/c10420p1307811469/i6763484073.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/consola-nintendo-switch-2-1307811469",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
       "id": "1307569705",
       "title": "Oráculo de los 22 Arcángeles - Kyle Gray",
       "price": 12.0,
@@ -8882,5 +8882,5 @@
     }
   ],
   "total": 740,
-  "actualizado": "2026-11-09T18:31:43"
+  "actualizado": "2026-11-09T19:01:42"
 }
