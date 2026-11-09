@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1318172258",
+      "title": "Mando Gameware compatible para PS2",
+      "price": 11.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ls/t0/__/c10420p1318172258/i6826299907.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/mando-gameware-para-ps2-playstation-2-1318172258",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
       "id": "1321501852",
       "title": "Colección 5 Películas Jurassic World Blu-ray",
       "price": 19.95,
@@ -527,18 +539,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Herramientas"
-    },
-    {
-      "id": "1318172258",
-      "title": "Mando Gameware para PS2 (PlayStation 2)",
-      "price": 11.5,
-      "currency": "EUR",
-      "status": "reserved",
-      "image": "https://cdn.wallapop.com/images/10420/ls/t0/__/c10420p1318172258/i6826299907.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/mando-gameware-para-ps2-playstation-2-1318172258",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
     },
     {
       "id": "1310734235",
@@ -8894,5 +8894,5 @@
     }
   ],
   "total": 741,
-  "actualizado": "2026-11-09T16:31:41"
+  "actualizado": "2026-11-09T17:01:44"
 }
