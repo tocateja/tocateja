@@ -3,11 +3,23 @@
     {
       "id": "1322401090",
       "title": "Picadora Chef Plus Mixer",
-      "price": 29.95,
+      "price": 35.95,
       "currency": "EUR",
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/lv/bn/__/c10420p1322401090/i6855286299.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/picadora-chef-plus-mixer-1322401090",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1322408403",
+      "title": "Diana Electrónica Decathlon Canaveral ED310",
+      "price": 24.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lv/bs/__/c10420p1322408403/i6855326344.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/diana-electronica-decathlon-canaveral-ed310-1322408403",
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
@@ -8821,6 +8833,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 735,
-  "actualizado": "2026-11-09T11:01:44"
+  "total": 736,
+  "actualizado": "2026-11-09T11:31:45"
 }
