@@ -2,7 +2,7 @@
   "productos": [
     {
       "id": "1322432037",
-      "title": "Micrómetro Digital Mitutoyo",
+      "title": "Reloj Comparador Digital Mitutoyo",
       "price": 119.0,
       "currency": "EUR",
       "status": "available",
@@ -10,7 +10,7 @@
       "url": "https://es.wallapop.com/item/micrometro-digital-mitutoyo-1322432037",
       "location": "Pamplona",
       "condition": "",
-      "category": "Otros"
+      "category": "Joyería y Complementos"
     },
     {
       "id": "1322428170",
@@ -8870,5 +8870,5 @@
     }
   ],
   "total": 739,
-  "actualizado": "2026-11-09T12:02:04"
+  "actualizado": "2026-11-09T12:31:42"
 }
