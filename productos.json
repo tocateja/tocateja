@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1322401090",
+      "title": "Picadora Chef Plus Mixer",
+      "price": 29.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lv/bn/__/c10420p1322401090/i6855286299.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/picadora-chef-plus-mixer-1322401090",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1322395432",
       "title": "Trípode Profesional Slik Albe 300Dx",
       "price": 59.95,
@@ -8809,6 +8821,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 734,
-  "actualizado": "2026-11-09T10:31:49"
+  "total": 735,
+  "actualizado": "2026-11-09T11:01:44"
 }
