@@ -1,6 +1,42 @@
 {
   "productos": [
     {
+      "id": "1322450748",
+      "title": "Forza Motorsport 4 (Xbox 360)",
+      "price": 7.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lv/cp/__/c10420p1322450748/i6855559892.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/forza-motorsport-4-xbox-360-1322450748",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1322448531",
+      "title": "Pokémon Espada (Nintendo Switch)",
+      "price": 24.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lv/cn/__/c10420p1322448531/i6855546323.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/pokemon-espada-nintendo-switch-1322448531",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1322446806",
+      "title": "Fast & Furious: Spy Racers (Nintendo Switch)",
+      "price": 19.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lv/cm/__/c10420p1322446806/i6855535315.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/fast-furious-spy-racers-nintendo-switch-1322446806",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
       "id": "1322432037",
       "title": "Reloj Comparador Digital Mitutoyo",
       "price": 119.0,
@@ -8869,6 +8905,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 739,
-  "actualizado": "2026-11-09T12:31:42"
+  "total": 742,
+  "actualizado": "2026-11-09T13:01:45"
 }
