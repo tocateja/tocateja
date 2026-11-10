@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1322819104",
+      "title": "Disco Duro Externo Toshiba 1TB",
+      "price": 59.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lv/kl/__/c10420p1322819104/i6857547498.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/disco-duro-externo-toshiba-1tb-1322819104",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1322815070",
+      "title": "Micrófono Duo Hollyland Lark S1",
+      "price": 69.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lv/ki/__/c10420p1322815070/i6857523975.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/microfono-duo-hollyland-lark-s1-1322815070",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1322807251",
       "title": "Base Modular F-Line 5 Tomas + 4 USB",
       "price": 9.95,
@@ -8917,6 +8941,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 743,
-  "actualizado": "2026-11-10T11:31:47"
+  "total": 745,
+  "actualizado": "2026-11-10T12:01:49"
 }
