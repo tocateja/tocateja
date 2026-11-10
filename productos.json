@@ -361,18 +361,6 @@
       "category": "Libros, Cómics y Revistas"
     },
     {
-      "id": "1321517012",
-      "title": "Blu-ray Las aventuras de Jeremiah Johnson",
-      "price": 9.95,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lu/sp/__/c10420p1321517012/i6850639636.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/blu-ray-las-aventuras-de-jeremiah-johnson-1321517012",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
       "id": "1321512550",
       "title": "Blu-ray Invasión U.S.A. - Chuck Norris",
       "price": 9.95,
@@ -2663,18 +2651,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1222015275",
-      "title": "Lector DNI Electrónico Gobierno España",
-      "price": 6.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/k7/k1/__/c10420p1222015275/i6235757513.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/lector-dni-electronico-gobierno-espana-1222015275",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Informática"
     },
     {
       "id": "1167501941",
@@ -8953,6 +8929,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 746,
-  "actualizado": "2026-11-10T18:31:42"
+  "total": 744,
+  "actualizado": "2026-11-10T19:01:43"
 }
