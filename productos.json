@@ -1,18 +1,6 @@
 {
   "productos": [
     {
-      "id": "1322843464",
-      "title": "Picadora Ralladora Multiusos Sigma",
-      "price": 59.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lv/l4/__/c10420p1322843464/i6857696266.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/picadora-ralladora-multiusos-sigma-1322843464",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
       "id": "1322831585",
       "title": "Acordeón Zero Sette B22 Mussette",
       "price": 1890.0,
@@ -23,6 +11,30 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1168073783",
+      "title": "Caja 3 Machos Roscar Metal M8*125 6H",
+      "price": 4.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/jb/fv/__/c10420p1168073783/i5892018460.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/caja-3-machos-roscar-metal-m8-125-6h-1168073783",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Herramientas"
+    },
+    {
+      "id": "1322843464",
+      "title": "Picadora Ralladora Multiusos Sigma",
+      "price": 59.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lv/l4/__/c10420p1322843464/i6857696266.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/picadora-ralladora-multiusos-sigma-1322843464",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
     },
     {
       "id": "1322819104",
@@ -2543,18 +2555,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Música e Instrumentos"
-    },
-    {
-      "id": "1168073783",
-      "title": "Caja 3 Machos Roscar Metal M8*125 6H",
-      "price": 6.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/jb/fv/__/c10420p1168073783/i5892018460.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/caja-3-machos-roscar-metal-m8-125-6h-1168073783",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Herramientas"
     },
     {
       "id": "1285870481",
@@ -8966,5 +8966,5 @@
     }
   ],
   "total": 747,
-  "actualizado": "2026-11-10T16:31:43"
+  "actualizado": "2026-11-10T17:01:50"
 }
