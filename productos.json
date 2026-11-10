@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1322448531",
+      "title": "Pokémon Espada (Nintendo Switch)",
+      "price": 24.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lv/cn/__/c10420p1322448531/i6855546323.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/pokemon-espada-nintendo-switch-1322448531",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
       "id": "1322831585",
       "title": "Acordeón Zero Sette B22 Mussette",
       "price": 1890.0,
@@ -35,18 +47,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1322819104",
-      "title": "Disco Duro Externo Toshiba 1TB",
-      "price": 59.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lv/kl/__/c10420p1322819104/i6857547498.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/disco-duro-externo-toshiba-1tb-1322819104",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
     },
     {
       "id": "1322815070",
@@ -200,18 +200,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/lv/cp/__/c10420p1322450748/i6855559892.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/forza-motorsport-4-xbox-360-1322450748",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
-      "id": "1322448531",
-      "title": "Pokémon Espada (Nintendo Switch)",
-      "price": 24.95,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lv/cn/__/c10420p1322448531/i6855546323.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/pokemon-espada-nintendo-switch-1322448531",
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
@@ -8965,6 +8953,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 747,
-  "actualizado": "2026-11-10T17:01:50"
+  "total": 746,
+  "actualizado": "2026-11-10T17:31:45"
 }
