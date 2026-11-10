@@ -1,6 +1,42 @@
 {
   "productos": [
     {
+      "id": "1322807251",
+      "title": "Base Modular F-Line 5 Tomas + 4 USB",
+      "price": 9.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lv/kc/__/c10420p1322807251/i6857477519.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/base-modular-f-line-5-tomas---4-usb-1322807251",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1322804160",
+      "title": "Base modular F-Line 5 Tomas con USB",
+      "price": 9.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lv/ka/__/c10420p1322804160/i6857459099.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/base-modular-f-line-5-tomas-con-usb-1322804160",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1322797169",
+      "title": "Tablet Lenovo Idea Tab with pen Precintada",
+      "price": 185.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lv/k4/__/c10420p1322797169/i6857417753.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/tablet-lenovo-idea-tab-with-pen-precintada-1322797169",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
       "id": "1322794751",
       "title": "Máscara Facial LED Jocca",
       "price": 19.95,
@@ -8881,6 +8917,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 740,
-  "actualizado": "2026-11-10T11:01:45"
+  "total": 743,
+  "actualizado": "2026-11-10T11:31:47"
 }
