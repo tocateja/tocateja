@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1322794751",
+      "title": "Máscara Facial LED Jocca",
+      "price": 19.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lv/k2/__/c10420p1322794751/i6857404678.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/mascara-facial-led-jocca-1322794751",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1318519930",
       "title": "Taladro + Herramientas Ferrestock Precintado",
       "price": 51.5,
@@ -1247,18 +1259,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1317495180",
-      "title": "Mando Xbox Elite Series 2 Bluetooth",
-      "price": 115.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ls/eh/__/c10420p1317495180/i6822000633.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/mando-xbox-elite-series-2-bluetooth-1317495180",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
     },
     {
       "id": "1317474523",
@@ -8882,5 +8882,5 @@
     }
   ],
   "total": 740,
-  "actualizado": "2026-11-10T10:31:43"
+  "actualizado": "2026-11-10T11:01:45"
 }
