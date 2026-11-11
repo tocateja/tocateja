@@ -2173,18 +2173,6 @@
       "category": "Música e Instrumentos"
     },
     {
-      "id": "1315334135",
-      "title": "Xiaomi Redmi 15C",
-      "price": 125.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lr/46/__/c10420p1315334135/i6809598588.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/xiaomi-redmi-15c-1315334135",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
-    },
-    {
       "id": "1315330139",
       "title": "Cómic superman colección novelas gráficas",
       "price": 10.5,
@@ -8893,6 +8881,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 741,
-  "actualizado": "2026-11-11T17:31:47"
+  "total": 740,
+  "actualizado": "2026-11-11T18:01:43"
 }
