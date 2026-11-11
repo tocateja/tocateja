@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1197176894",
+      "title": "Termómetro Beurer FT09",
+      "price": 2.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/js/rn/__/c10420p1197176894/i6061739719.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/termometro-beurer-ft09-1197176894",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Electrodomésticos"
+    },
+    {
       "id": "1317458472",
       "title": "Detector de cables Bosch Truvo",
       "price": 35.5,
@@ -3032,18 +3044,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/ke/yu/__/c10420p1234464572/i6318237130.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/mopa-de-vapor-vileda-steam-precintada-1234464572",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Electrodomésticos"
-    },
-    {
-      "id": "1197176894",
-      "title": "Termómetro Beurer FT09",
-      "price": 4.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/js/rn/__/c10420p1197176894/i6061739719.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/termometro-beurer-ft09-1197176894",
       "location": "Pamplona",
       "condition": "",
       "category": "Electrodomésticos"
@@ -6973,18 +6973,6 @@
       "category": "Otros"
     },
     {
-      "id": "1275449207",
-      "title": "Luz bici Blackburn Dayblazer 550 Precintado",
-      "price": 18.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l3/da/__/c10420p1275449207/i6577646915.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/luz-bici-blackburn-dayblazer-550-usb-c-1275449207",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
       "id": "1209742720",
       "title": "Grifo Miomare para lavabo Eco-Clic",
       "price": 17.5,
@@ -8881,6 +8869,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 740,
-  "actualizado": "2026-11-11T19:01:43"
+  "total": 739,
+  "actualizado": "2026-11-11T19:31:43"
 }
