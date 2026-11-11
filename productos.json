@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1323149451",
+      "title": "Set de 3 Jarrones de Metal",
+      "price": 29.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lv/ro/__/c10420p1323149451/i6859532095.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/set-de-3-jarrones-de-metal-1323149451",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Hogar"
+    },
+    {
       "id": "1322448531",
       "title": "Pokémon Espada (Nintendo Switch)",
       "price": 24.95,
@@ -3695,18 +3707,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1314007137",
-      "title": "Xiaomi Watch S3",
-      "price": 62.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lq/bq/__/c10420p1314007137/i6802827169.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/xiaomi-watch-s3-1314007137",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
     },
     {
       "id": "1313998088",
@@ -8918,5 +8918,5 @@
     }
   ],
   "total": 743,
-  "actualizado": "2026-11-11T11:01:44"
+  "actualizado": "2026-11-11T11:31:46"
 }
