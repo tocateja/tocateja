@@ -1,6 +1,210 @@
 {
   "productos": [
     {
+      "id": "1234464572",
+      "title": "Mopa de vapor Vileda Steam PRECINTADA",
+      "price": 32.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ke/yu/__/c10420p1234464572/i6318237130.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/mopa-de-vapor-vileda-steam-precintada-1234464572",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Electrodomésticos"
+    },
+    {
+      "id": "1259789459",
+      "title": "Fotocopiadora Kyocera TASKalfa 3051ci",
+      "price": 899.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ku/1n/__/c10420p1259789459/i6481566266.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/fotocopiadora-kyocera-taskalfa-3051ci-1259789459",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1276982134",
+      "title": "Apple Watch Series 10 46MM GPS+ Cell",
+      "price": 224.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l4/a5/__/c10420p1276982134/i6586072835.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/apple-watch-series-10-46mm-gps--cell-1276982134",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
+      "id": "1277504969",
+      "title": "Cautín Profesional JBC",
+      "price": 44.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l4/ld/__/c10420p1277504969/i6589256585.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/cautin-profesional-jbc-1277504969",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1251090824",
+      "title": "Portátil HP Elitebook 8 G1i 16 PRECINTADO",
+      "price": 1099.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ko/v7/__/c10420p1251090824/i6427316016.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/portatil-hp-elitebook-8-g1i-16-1251090824",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1199373710",
+      "title": "Tostador Industrial Horizontal Sammic TP-200",
+      "price": 195.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ju/2q/__/c10420p1199373710/i6080508321.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/tostador-industrial-horizontal-sammic-tp-200-1199373710",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Electrodomésticos"
+    },
+    {
+      "id": "1168688760",
+      "title": "Calzado Seguridad Kingsmann A estrenar",
+      "price": 14.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/jb/t2/__/c10420p1168688760/i5895564029.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/calzado-seguridad-kingsmann-a-estrenar-1168688760",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Deporte"
+    },
+    {
+      "id": "1282244165",
+      "title": "Caja iPhone 13 Pro Max",
+      "price": 7.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l7/ex/__/c10420p1282244165/i6620038298.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/caja-iphone-13-pro-max-1282244165",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
+      "id": "1308681040",
+      "title": "Walkie Talkie Vintage Com-Talk CT-998",
+      "price": 9.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ln/5k/__/c10420p1308681040/i6778760342.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/walkie-talkie-vintage-com-talk-ct-998-1308681040",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Antigüedades y Coleccionismo"
+    },
+    {
+      "id": "1200153750",
+      "title": "Remolque Bici Niñ@ XLC",
+      "price": 179.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ju/jg/__/c10420p1200153750/i6359430227.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/remolque-bici-nin-xlc-1200153750",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Deporte"
+    },
+    {
+      "id": "1295481871",
+      "title": "Vinilo Kenny G Breathless Jazz",
+      "price": 25.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lf/ao/__/c10420p1295481871/i6698640698.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vinilo-kenny-g-breathless-jazz-1295481871",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1318164077",
+      "title": "Mando Sony PlayStation 3 (PS3)",
+      "price": 24.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ls/st/__/c10420p1318164077/i6826255700.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/mando-sony-playstation-3-ps3-1318164077",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
+      "id": "1315702374",
+      "title": "Enchufe Inteligente Innr",
+      "price": 9.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lr/c2/__/c10420p1315702374/i6811831726.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/enchufe-inteligente-innr-1315702374",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1315935181",
+      "title": "Set de 2 Figuras de Ángeles",
+      "price": 49.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lr/h2/__/c10420p1315935181/i6813204987.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/set-de-2-figuras-de-angeles-1315935181",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Hogar"
+    },
+    {
+      "id": "1315709281",
+      "title": "Coche F1 Miniatura Honda",
+      "price": 14.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lr/c7/__/c10420p1315709281/i6811868894.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/coche-f1-miniatura-honda-1315709281",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Motor"
+    },
+    {
+      "id": "1315707143",
+      "title": "Coche F1 Miniatura Matra",
+      "price": 14.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lr/c6/__/c10420p1315707143/i6811857053.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/coche-de-f1-en-miniatura-1315707143",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Motor"
+    },
+    {
+      "id": "1316307542",
+      "title": "Casco Jet Lem Italian Blanco",
+      "price": 49.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lr/p1/__/c10420p1316307542/i6815386532.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/casco-jet-lem-italian-blanco-1316307542",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1254325422",
       "title": "Samsung Galaxy A37 5G",
       "price": 305.0,
@@ -383,18 +587,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Informática"
-    },
-    {
-      "id": "1315702374",
-      "title": "Enchufe Inteligente Innr",
-      "price": 10.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lr/c2/__/c10420p1315702374/i6811831726.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/enchufe-inteligente-innr-1315702374",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
     },
     {
       "id": "1321521695",
@@ -1045,18 +1237,6 @@
       "category": "Hogar"
     },
     {
-      "id": "1318164077",
-      "title": "Mando Sony PlayStation 3 (PS3)",
-      "price": 26.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ls/st/__/c10420p1318164077/i6826255700.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/mando-sony-playstation-3-ps3-1318164077",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
       "id": "1318086761",
       "title": "Buzz! El Gran Reto (PS2) + 4 Pulsadores",
       "price": 16.5,
@@ -1088,18 +1268,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/ls/qn/__/c10420p1318062633/i6825689365.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/altavoz-bluetooth-kimiso-1318062633",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
-    },
-    {
-      "id": "1295481871",
-      "title": "Vinilo Kenny G Breathless Jazz",
-      "price": 26.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lf/ao/__/c10420p1295481871/i6698640698.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/vinilo-kenny-g-breathless-jazz-1295481871",
       "location": "Pamplona",
       "condition": "",
       "category": "Música e Instrumentos"
@@ -1199,18 +1367,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1200153750",
-      "title": "Remolque Bici Niñ@ XLC",
-      "price": 179.95,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ju/jg/__/c10420p1200153750/i6359430227.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/remolque-bici-nin-xlc-1200153750",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Deporte"
     },
     {
       "id": "1317831135",
@@ -1561,18 +1717,6 @@
       "category": "Otros"
     },
     {
-      "id": "1251090824",
-      "title": "Portátil HP Elitebook 8 G1i 16 PRECINTADO",
-      "price": 1099.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ko/v7/__/c10420p1251090824/i6427316016.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/portatil-hp-elitebook-8-g1i-16-1251090824",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
       "id": "1316405670",
       "title": "Pad para Batería Remo 20\"",
       "price": 26.5,
@@ -1583,42 +1727,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1316307542",
-      "title": "Casco Jet Lem Italian Blanco",
-      "price": 51.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lr/p1/__/c10420p1316307542/i6815386532.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/casco-jet-lem-italian-blanco-1316307542",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
-      "id": "1315707143",
-      "title": "Coche F1 Miniatura Matra",
-      "price": 16.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lr/c6/__/c10420p1315707143/i6811857053.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/coche-de-f1-en-miniatura-1315707143",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Motor"
-    },
-    {
-      "id": "1315709281",
-      "title": "Coche F1 Miniatura Honda",
-      "price": 16.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lr/c7/__/c10420p1315709281/i6811868894.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/coche-f1-miniatura-honda-1315709281",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Motor"
     },
     {
       "id": "1275434322",
@@ -1801,18 +1909,6 @@
       "category": "Gaming"
     },
     {
-      "id": "1315935181",
-      "title": "Set de 2 Figuras de Ángeles",
-      "price": 50.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lr/h2/__/c10420p1315935181/i6813204987.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/set-de-2-figuras-de-angeles-1315935181",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Hogar"
-    },
-    {
       "id": "1315929101",
       "title": "Micrófono Gaming Avermedia",
       "price": 51.5,
@@ -1883,18 +1979,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1308681040",
-      "title": "Walkie Talkie Vintage Com-Talk CT-998",
-      "price": 11.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ln/5k/__/c10420p1308681040/i6778760342.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/walkie-talkie-vintage-com-talk-ct-998-1308681040",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Antigüedades y Coleccionismo"
     },
     {
       "id": "1315698665",
@@ -2545,30 +2629,6 @@
       "category": "Otros"
     },
     {
-      "id": "1282244165",
-      "title": "Caja iPhone 13 Pro Max",
-      "price": 9.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l7/ex/__/c10420p1282244165/i6620038298.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/caja-iphone-13-pro-max-1282244165",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
-    },
-    {
-      "id": "1168688760",
-      "title": "Calzado Seguridad Kingsmann A estrenar",
-      "price": 16.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/jb/t2/__/c10420p1168688760/i5895564029.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/calzado-seguridad-kingsmann-a-estrenar-1168688760",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Deporte"
-    },
-    {
       "id": "1285742499",
       "title": "Vaso Completo Thermomix",
       "price": 67.5,
@@ -2663,18 +2723,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Hogar"
-    },
-    {
-      "id": "1199373710",
-      "title": "Tostador Industrial Horizontal Sammic TP-200",
-      "price": 195.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ju/2q/__/c10420p1199373710/i6080508321.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/tostador-industrial-horizontal-sammic-tp-200-1199373710",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Electrodomésticos"
     },
     {
       "id": "1282262696",
@@ -2821,18 +2869,6 @@
       "category": "Gaming"
     },
     {
-      "id": "1277504969",
-      "title": "Cautín Profesional JBC",
-      "price": 46.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l4/ld/__/c10420p1277504969/i6589256585.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/cautin-profesional-jbc-1277504969",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
       "id": "1277500828",
       "title": "Corona Starrett Fast Cut 152mm",
       "price": 36.5,
@@ -2879,18 +2915,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1276982134",
-      "title": "Apple Watch Series 10 46MM GPS+ Cell",
-      "price": 224.95,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l4/a5/__/c10420p1276982134/i6586072835.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/apple-watch-series-10-46mm-gps--cell-1276982134",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
     },
     {
       "id": "1275131809",
@@ -3001,18 +3025,6 @@
       "category": "Gaming"
     },
     {
-      "id": "1259789459",
-      "title": "Fotocopiadora Kyocera TASKalfa 3051ci",
-      "price": 899.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ku/1n/__/c10420p1259789459/i6481566266.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/fotocopiadora-kyocera-taskalfa-3051ci-1259789459",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
       "id": "1257549248",
       "title": "CD Ana Belén y Víctor Manuel - Una Canción Me Traj",
       "price": 8.5,
@@ -3023,18 +3035,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1234464572",
-      "title": "Mopa de vapor Vileda Steam PRECINTADA",
-      "price": 34.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ke/yu/__/c10420p1234464572/i6318237130.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/mopa-de-vapor-vileda-steam-precintada-1234464572",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Electrodomésticos"
     },
     {
       "id": "1227276670",
@@ -8762,5 +8762,5 @@
     }
   ],
   "total": 730,
-  "actualizado": "2026-11-12T17:31:49"
+  "actualizado": "2026-11-12T18:01:44"
 }
