@@ -2,7 +2,7 @@
   "productos": [
     {
       "id": "1323540375",
-      "title": "Lámpara de techo ABC Modrian 3 focos",
+      "title": "Lámpara de techo ACB Modrian 3 focos",
       "price": 39.95,
       "currency": "EUR",
       "status": "available",
@@ -8858,5 +8858,5 @@
     }
   ],
   "total": 738,
-  "actualizado": "2026-11-12T12:01:48"
+  "actualizado": "2026-11-12T12:31:44"
 }
