@@ -229,18 +229,6 @@
       "category": "Gaming"
     },
     {
-      "id": "1321501852",
-      "title": "Colección 5 Películas Jurassic World Blu-ray",
-      "price": 19.95,
-      "currency": "EUR",
-      "status": "reserved",
-      "image": "https://cdn.wallapop.com/images/10420/lu/sd/__/c10420p1321501852/i6850553250.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/coleccion-5-peliculas-jurassic-world-blu-ray-1321501852",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
       "id": "1209966482",
       "title": "Arenero Autolimpiable Petsafe Scoopfree A estrenar",
       "price": 121.95,
@@ -625,30 +613,6 @@
       "category": "Música e Instrumentos"
     },
     {
-      "id": "1196822982",
-      "title": "Juego PSP Invizimals: La otra dimensión",
-      "price": 3.5,
-      "currency": "EUR",
-      "status": "reserved",
-      "image": "https://cdn.wallapop.com/images/10420/js/k2/__/c10420p1196822982/i6058029601.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/juego-psp-invizimals-la-otra-dimension-1196822982",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
-      "id": "1196822528",
-      "title": "Juego PSP Invizimals: La Caza Comienza Aquí",
-      "price": 3.5,
-      "currency": "EUR",
-      "status": "reserved",
-      "image": "https://cdn.wallapop.com/images/10420/js/k2/__/c10420p1196822528/i6058025240.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/juego-psp-invizimals-la-caza-comienza-aqui-1196822528",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
       "id": "1321189038",
       "title": "Ordenador Sobremesa HP Omnidesk Desktop M02-031NS",
       "price": 699.0,
@@ -668,18 +632,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/lu/li/__/c10420p1321181959/i6848236789.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/oppo-find-x9-1321181959",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
-    },
-    {
-      "id": "1321174264",
-      "title": "iPhone 17 Pro Max 256GB",
-      "price": 999.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lu/lc/__/c10420p1321174264/i6848183613.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/iphone-17-pro-max-256gb-1321174264",
       "location": "Pamplona",
       "condition": "",
       "category": "Móviles y Smartwatches"
@@ -8857,6 +8809,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 738,
-  "actualizado": "2026-11-12T12:31:44"
+  "total": 734,
+  "actualizado": "2026-11-12T13:01:42"
 }
