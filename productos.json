@@ -8449,18 +8449,6 @@
       "category": "Otros"
     },
     {
-      "id": "1257510911",
-      "title": "CD QuiMi PorTet - La Terra és plana",
-      "price": 9.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ks/ot/__/c10420p1257510911/i6464677753.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/cd-quimi-portet-la-terra-es-plana-1257510911",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
       "id": "1257509551",
       "title": "CD Robbie Robertson Storyville",
       "price": 9.5,
@@ -8516,30 +8504,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/ks/k8/__/c10420p1257296469/i6463402099.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/cd-prince-graffiti-bridge-banda-sonora-1257296469",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
-      "id": "1258990061",
-      "title": "CD The Best of R.E.M. In Time 1988-2003",
-      "price": 6.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kt/ki/__/c10420p1258990061/i6475287537.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/cd-the-best-of-r-e-m-in-time-1988-2003-1258990061",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
-      "id": "1258986315",
-      "title": "CD Georges Moustaki Le Métèque",
-      "price": 6.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kt/kg/__/c10420p1258986315/i6475261314.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/cd-georges-moustaki-le-meteque-1258986315",
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
@@ -8869,6 +8833,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 739,
-  "actualizado": "2026-11-12T11:01:43"
+  "total": 736,
+  "actualizado": "2026-11-12T11:31:45"
 }
