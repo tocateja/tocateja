@@ -205,18 +205,6 @@
       "category": "Foto y Vídeo"
     },
     {
-      "id": "1321519247",
-      "title": "Blu-ray Jungla de Cristal: La Venganza",
-      "price": 9.95,
-      "currency": "EUR",
-      "status": "reserved",
-      "image": "https://cdn.wallapop.com/images/10420/lu/sq/__/c10420p1321519247/i6850652562.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/blu-ray-jungla-de-cristal-la-venganza-1321519247",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
       "id": "1307811469",
       "title": "Consola Nintendo Switch 2",
       "price": 375.0,
@@ -8809,6 +8797,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 734,
-  "actualizado": "2026-11-12T13:01:42"
+  "total": 733,
+  "actualizado": "2026-11-12T13:31:45"
 }
