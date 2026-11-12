@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1323540375",
+      "title": "Lámpara de techo ABC Modrian 3 focos",
+      "price": 39.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lw/02/__/c10420p1323540375/i6861768686.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/lampara-de-techo-abc-modrian-3-focos-1323540375",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Hogar"
+    },
+    {
+      "id": "1323531671",
+      "title": "Set de Cazos Bergner Cook Click",
+      "price": 39.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lv/zv/__/c10420p1323531671/i6861713496.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/set-de-cazos-bergner-cook-click-1323531671",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1197176894",
       "title": "Termómetro Beurer FT09",
       "price": 2.95,
@@ -8833,6 +8857,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 736,
-  "actualizado": "2026-11-12T11:31:45"
+  "total": 738,
+  "actualizado": "2026-11-12T12:01:48"
 }
