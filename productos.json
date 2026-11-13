@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1120849560",
+      "title": "ALTAVOCES MEGAFONÍA BOSE DESING MAX DM2S",
+      "price": 190.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ij/bp/__/c10420p1120849560/i5553989264.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/altavoces-megadonia-bose-desing-max-dm2s-1120849560",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
       "id": "1268419522",
       "title": "Fujinon XF 100-400MM 1:4.5-5.6  R LM OIS WR",
       "price": 885.0,
@@ -6181,18 +6193,6 @@
       "category": "Gaming"
     },
     {
-      "id": "1120849560",
-      "title": "ALTAVOCES MEGAFONÍA BOSE DESING MAX DM2S",
-      "price": 137.95,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ij/bp/__/c10420p1120849560/i5553989264.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/altavoces-megadonia-bose-desing-max-dm2s-1120849560",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
-    },
-    {
       "id": "1297909583",
       "title": "Lámpara Antigua Dragones",
       "price": 195.0,
@@ -8834,5 +8834,5 @@
     }
   ],
   "total": 736,
-  "actualizado": "2026-11-13T18:31:46"
+  "actualizado": "2026-11-13T19:01:45"
 }
