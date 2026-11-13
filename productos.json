@@ -1,6 +1,42 @@
 {
   "productos": [
     {
+      "id": "1323851477",
+      "title": "Aplique de pared Alemar",
+      "price": 24.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lw/6q/__/c10420p1323851477/i6863591703.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/aplique-de-pared-alemar-1323851477",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1323846406",
+      "title": "Silla de oficina azul y negra",
+      "price": 34.99,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lw/6m/__/c10420p1323846406/i6863565621.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/silla-de-oficina-azul-y-negra-1323846406",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Hogar"
+    },
+    {
+      "id": "1323844331",
+      "title": "Silla de oficina azul y plata",
+      "price": 29.99,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lw/6k/__/c10420p1323844331/i6863553291.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/silla-de-oficina-azul-y-plata-1323844331",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Joyería y Complementos"
+    },
+    {
       "id": "1234464572",
       "title": "Mopa de vapor Vileda Steam PRECINTADA",
       "price": 32.5,
@@ -8761,6 +8797,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 730,
-  "actualizado": "2026-11-13T10:31:42"
+  "total": 733,
+  "actualizado": "2026-11-13T11:01:44"
 }
