@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1323866342",
+      "title": "Just Dance 2021 (PS5)",
+      "price": 7.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lw/71/__/c10420p1323866342/i6863677422.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/just-dance-2021-ps5-1323866342",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
       "id": "1323858131",
       "title": "FIFA 20 para PS4",
       "price": 3.0,
@@ -8857,6 +8869,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 738,
-  "actualizado": "2026-11-13T11:31:43"
+  "total": 739,
+  "actualizado": "2026-11-13T12:01:44"
 }
