@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1305688164",
+      "title": "Cartas Oráculo La Bruja Verde",
+      "price": 12.0,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/ll/df/__/c10420p1305688164/i6751853458.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/cartas-oraculo-la-bruja-verde-1305688164",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1120849560",
       "title": "ALTAVOCES MEGAFONÍA BOSE DESING MAX DM2S",
       "price": 190.0,
@@ -4957,18 +4969,6 @@
       "category": "Otros"
     },
     {
-      "id": "1305688164",
-      "title": "Cartas Oráculo La Bruja Verde",
-      "price": 12.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ll/df/__/c10420p1305688164/i6751853458.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/cartas-oraculo-la-bruja-verde-1305688164",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
       "id": "1305686506",
       "title": "Baraja de Tarot y Libro Guía Wicked",
       "price": 14.0,
@@ -8834,5 +8834,5 @@
     }
   ],
   "total": 736,
-  "actualizado": "2026-11-13T20:01:47"
+  "actualizado": "2026-11-14T02:01:46"
 }
