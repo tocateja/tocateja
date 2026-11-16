@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1324918782",
+      "title": "Tocadiscos Vintage Cosmo",
+      "price": 29.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lw/tl/__/c10420p1324918782/i6869034020.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/tocadiscos-vintage-cosmo-1324918782",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
       "id": "1324912176",
       "title": "Disco Duro Externo WD easystore 2TB",
       "price": 79.95,
@@ -8749,6 +8761,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 729,
-  "actualizado": "2026-11-16T11:01:44"
+  "total": 730,
+  "actualizado": "2026-11-16T11:31:44"
 }
