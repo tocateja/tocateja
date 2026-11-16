@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1315171510",
+      "title": "Baraja de Tarot del Toro",
+      "price": 9.0,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/lr/0o/__/c10420p1315171510/i6808665673.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/baraja-de-tarot-del-toro-1315171510",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Joyería y Complementos"
+    },
+    {
       "id": "1323866342",
       "title": "Just Dance 2021 (PS5)",
       "price": 7.0,
@@ -2951,18 +2963,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1315171510",
-      "title": "Baraja de Tarot del Toro",
-      "price": 9.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lr/0o/__/c10420p1315171510/i6808665673.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/baraja-de-tarot-del-toro-1315171510",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Joyería y Complementos"
     },
     {
       "id": "1315168855",
@@ -8726,5 +8726,5 @@
     }
   ],
   "total": 727,
-  "actualizado": "2026-11-15T20:01:44"
+  "actualizado": "2026-11-16T02:01:44"
 }
