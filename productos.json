@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1266691843",
+      "title": "Reloj Jaguar J929/1 Connected Edición Especial",
+      "price": 325.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ky/5l/__/c10420p1266691843/i6523794657.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/reloj-jaguar-j929-1-connected-edicion-especial-1266691843",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Joyería y Complementos"
+    },
+    {
+      "id": "1297484180",
+      "title": "Picadora Vintage Garhe",
+      "price": 45.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lg/hl/__/c10420p1297484180/i6707978377.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/picadora-vintage-1297484180",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Antigüedades y Coleccionismo"
+    },
+    {
       "id": "1324918782",
       "title": "Tocadiscos Vintage Cosmo",
       "price": 29.95,
@@ -6745,18 +6769,6 @@
       "category": "Gaming"
     },
     {
-      "id": "1297484180",
-      "title": "Picadora Vintage Garhe",
-      "price": 46.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lg/hl/__/c10420p1297484180/i6707978377.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/picadora-vintage-1297484180",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Antigüedades y Coleccionismo"
-    },
-    {
       "id": "1297478418",
       "title": "Tensiómetro de mano Analógico Corysan",
       "price": 31.5,
@@ -6815,18 +6827,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
-    },
-    {
-      "id": "1266691843",
-      "title": "Reloj Jaguar J929/1 Connected Edición Especial",
-      "price": 359.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ky/5l/__/c10420p1266691843/i6523794657.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/reloj-jaguar-j929-1-connected-edicion-especial-1266691843",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Joyería y Complementos"
     },
     {
       "id": "1259366122",
@@ -8317,18 +8317,6 @@
       "category": "Libros, Cómics y Revistas"
     },
     {
-      "id": "1270555865",
-      "title": "Colección 25 CDs Karajan 100 Meisterwerke",
-      "price": 122.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l0/gf/__/c10420p1270555865/i6548790961.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/coleccion-25-cds-karajan-100-meisterwerke-1270555865",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
-    },
-    {
       "id": "1148380051",
       "title": "Foco Led A estrenar",
       "price": 3.5,
@@ -8761,6 +8749,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 730,
-  "actualizado": "2026-11-16T12:01:43"
+  "total": 729,
+  "actualizado": "2026-11-16T12:31:42"
 }
