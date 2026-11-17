@@ -1,6 +1,54 @@
 {
   "productos": [
     {
+      "id": "1325303592",
+      "title": "Figura de Acción Lewandowski FC Barcelona",
+      "price": 16.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lx/1u/__/c10420p1325303592/i6871721643.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/figura-de-accion-lewandowski-fc-barcelona-1325303592",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Hogar"
+    },
+    {
+      "id": "1325301965",
+      "title": "Figura de Acción Cristiano Ronaldo Portugal",
+      "price": 16.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lx/1t/__/c10420p1325301965/i6871713226.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/figura-de-accion-cristiano-ronaldo-portugal-1325301965",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Hogar"
+    },
+    {
+      "id": "1325300198",
+      "title": "Figura de Acción Real Madrid Carvajal",
+      "price": 16.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lx/1s/__/c10420p1325300198/i6871703625.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/figura-de-accion-real-madrid-carvajal-1325300198",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Hogar"
+    },
+    {
+      "id": "1325296602",
+      "title": "iPhone 16 256GB",
+      "price": 575.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lx/1p/__/c10420p1325296602/i6871683051.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/iphone-16-256gb-1325296602",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
       "id": "1325292972",
       "title": "Consola Xbox  X 1TB",
       "price": 149.95,
@@ -8665,6 +8713,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 722,
-  "actualizado": "2026-11-17T12:01:45"
+  "total": 726,
+  "actualizado": "2026-11-17T12:31:43"
 }
