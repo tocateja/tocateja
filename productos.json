@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1325401577",
+      "title": "iPod Nano 16GB Azul",
+      "price": 79.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lx/3y/__/c10420p1325401577/i6872232646.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/ipod-nano-16gb-azul-1325401577",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1325398925",
+      "title": "Reloj Pulsera Citizen",
+      "price": 169.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lx/3w/__/c10420p1325398925/i6872217174.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/reloj-pulsera-citizen-1325398925",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Joyería y Complementos"
+    },
+    {
       "id": "1325292972",
       "title": "Consola Xbox X 1TB",
       "price": 149.95,
@@ -8749,6 +8773,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 729,
-  "actualizado": "2026-11-17T17:01:43"
+  "total": 731,
+  "actualizado": "2026-11-17T17:31:43"
 }
