@@ -1,6 +1,42 @@
 {
   "productos": [
     {
+      "id": "1277272471",
+      "title": "Calibre Pie de Rey Mitutoyo Absolute Aos",
+      "price": 44.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l4/gd/__/c10420p1277272471/i6587727057.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/calibre-pie-de-rey-mitutoyo-digital-1277272471",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1277283557",
+      "title": "Calibre Pie de Rey Mitutoyo Para interior Piezas",
+      "price": 62.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l4/gm/__/c10420p1277283557/i6587788702.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/calibre-pie-de-rey-mitutoyo-para-interior-piezas-1277283557",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1101510810",
+      "title": "CALIBRE DIGITAL INSIZE 1108-150",
+      "price": 19.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/i7/t7/__/c10420p1101510810/i5411431117.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/calibre-digital-insize-1108-150-1101510810",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Herramientas"
+    },
+    {
       "id": "1252587309",
       "title": "Manipulador Morse Antiguo",
       "price": 117.95,
@@ -3061,18 +3097,6 @@
       "category": "Libros, Cómics y Revistas"
     },
     {
-      "id": "1315308398",
-      "title": "Portátil HP Pavilion 15CS-3002",
-      "price": 345.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lr/3m/__/c10420p1315308398/i6809447163.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/portatil-hp-pavilion-15cs-3002-1315308398",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Informática"
-    },
-    {
       "id": "1315188591",
       "title": "Altavoz Bluetooth Peaq Robbie Williams",
       "price": 99.95,
@@ -3644,30 +3668,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/l4/l0/__/c10420p1277489107/i6589163462.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/transportador-de-angulos-mitutoyo-1277489107",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
-      "id": "1277283557",
-      "title": "Calibre Pie de Rey Mitutoyo Para interior Piezas",
-      "price": 62.95,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l4/gm/__/c10420p1277283557/i6587788702.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/calibre-pie-de-rey-mitutoyo-para-interior-piezas-1277283557",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
-      "id": "1277272471",
-      "title": "Calibre Pie de Rey Mitutoyo Absolute Aos",
-      "price": 46.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l4/gd/__/c10420p1277272471/i6587727057.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/calibre-pie-de-rey-mitutoyo-digital-1277272471",
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
@@ -4688,18 +4688,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/j7/i5/__/c10420p1161461901/i5853578142.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/medidor-laser-metabo-ld-60-1161461901",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Herramientas"
-    },
-    {
-      "id": "1101510810",
-      "title": "CALIBRE DIGITAL INSIZE 1108-150",
-      "price": 21.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/i7/t7/__/c10420p1101510810/i5411431117.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/calibre-digital-insize-1108-150-1101510810",
       "location": "Pamplona",
       "condition": "",
       "category": "Herramientas"
@@ -8677,6 +8665,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 723,
-  "actualizado": "2026-11-18T10:31:45"
+  "total": 722,
+  "actualizado": "2026-11-18T11:01:45"
 }
