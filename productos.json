@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1325740950",
+      "title": "Móvil Realme GT Neo 3T",
+      "price": 145.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lx/b8/__/c10420p1325740950/i6874164366.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/movil-realme-gt-neo-3t-1325740950",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
+      "id": "1325737079",
+      "title": "PlayStation Portal Sony",
+      "price": 165.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lx/b5/__/c10420p1325737079/i6874145083.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/playstation-portal-sony-1325737079",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
       "id": "1325673056",
       "title": "Figura Colección Judge Dredd Q-Collectibles",
       "price": 999.0,
@@ -8665,6 +8689,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 722,
-  "actualizado": "2026-11-18T16:31:48"
+  "total": 724,
+  "actualizado": "2026-11-18T17:01:47"
 }
