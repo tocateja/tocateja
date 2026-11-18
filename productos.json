@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1282232803",
+      "title": "Baraja Colección  Antiguo y Nuevo testamento",
+      "price": 44.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/l7/ep/__/c10420p1282232803/i6619974463.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/baraja-coleccion-antiguo-y-nuevo-testamento-1282232803",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1325743580",
       "title": "Motorola Edge 70 Fusion Precintado",
       "price": 325.0,
@@ -3587,18 +3599,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1282232803",
-      "title": "Baraja Colección  Antiguo y Nuevo testamento",
-      "price": 46.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/l7/ep/__/c10420p1282232803/i6619974463.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/baraja-coleccion-antiguo-y-nuevo-testamento-1282232803",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
     },
     {
       "id": "1278599475",
@@ -8702,5 +8702,5 @@
     }
   ],
   "total": 725,
-  "actualizado": "2026-11-18T18:31:45"
+  "actualizado": "2026-11-18T19:01:45"
 }
