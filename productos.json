@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1325743580",
+      "title": "Motorola Edge 70 Fusion Precintado",
+      "price": 325.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lx/ba/__/c10420p1325743580/i6874182316.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/motorola-edge-70-fusion-precintado-1325743580",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
       "id": "1325740950",
       "title": "Móvil Realme GT Neo 3T",
       "price": 145.0,
@@ -8689,6 +8701,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 724,
-  "actualizado": "2026-11-18T17:01:47"
+  "total": 725,
+  "actualizado": "2026-11-18T17:31:46"
 }
