@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1325673056",
+      "title": "Figura Colección Judge Dredd Q-Collectibles",
+      "price": 999.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lx/9r/__/c10420p1325673056/i6873820347.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/figura-coleccion-judge-dredd-q-collectibles-1325673056",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Hogar"
+    },
+    {
       "id": "1325651788",
       "title": "iPhone 16 128GB",
       "price": 590.0,
@@ -8665,6 +8677,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 722,
-  "actualizado": "2026-11-18T13:31:44"
+  "total": 723,
+  "actualizado": "2026-11-18T14:01:45"
 }
