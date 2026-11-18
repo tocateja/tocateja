@@ -529,18 +529,6 @@
       "category": "Libros, Cómics y Revistas"
     },
     {
-      "id": "1307564835",
-      "title": "Mando Arcade Stick 8BitDo A estrenar",
-      "price": 69.95,
-      "currency": "EUR",
-      "status": "reserved",
-      "image": "https://cdn.wallapop.com/images/10420/lm/hn/__/c10420p1307564835/i6761868862.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/mando-arcade-stick-8bitdo-a-estrenar-1307564835",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
       "id": "1324196664",
       "title": "Tablet PC Samsung S7 FE 5G",
       "price": 195.0,
@@ -8677,6 +8665,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 723,
-  "actualizado": "2026-11-18T14:01:45"
+  "total": 722,
+  "actualizado": "2026-11-18T14:31:45"
 }
