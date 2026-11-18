@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1325629435",
+      "title": "iPhone 15 Pro Max",
+      "price": 599.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lx/8u/__/c10420p1325629435/i6873521191.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/iphone-15-pro-max-1325629435",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
       "id": "1277272471",
       "title": "Calibre Pie de Rey Mitutoyo Absolute Aos",
       "price": 44.95,
@@ -3253,18 +3265,6 @@
       "category": "Otros"
     },
     {
-      "id": "1240736846",
-      "title": "Smartband Honor Band 10 Precintado",
-      "price": 21.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ki/pa/__/c10420p1240736846/i6360927532.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/honor-band-10-negra-1240736846",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
-    },
-    {
       "id": "1289000075",
       "title": "Micrófono de condensador Tonor Tc20",
       "price": 48.5,
@@ -5809,30 +5809,6 @@
       "category": "Gaming"
     },
     {
-      "id": "1301990057",
-      "title": "Vinilo Fausto Papetti 27ª Raccolta",
-      "price": 8.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lj/65/__/c10420p1301990057/i6729451665.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/vinilo-fausto-papetti-27-raccolta-1301990057",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
-    },
-    {
-      "id": "1301988515",
-      "title": "Vinilo Fausto Papetti 26a Raccolta",
-      "price": 8.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lj/64/__/c10420p1301988515/i6729443373.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/vinilo-fausto-papetti-26a-raccolta-1301988515",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
-    },
-    {
       "id": "1301986558",
       "title": "Vinilo Fausto Papetti 25a Raccolta Sax",
       "price": 8.5,
@@ -6875,18 +6851,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Hogar"
-    },
-    {
-      "id": "1295488998",
-      "title": "Vinilo Los Éxitos del Espacio",
-      "price": 16.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lf/at/__/c10420p1295488998/i6698671703.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/vinilo-los-exitos-del-espacio-1295488998",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
     },
     {
       "id": "1295486867",
@@ -8665,6 +8629,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 722,
-  "actualizado": "2026-11-18T11:31:46"
+  "total": 719,
+  "actualizado": "2026-11-18T12:01:47"
 }
