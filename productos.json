@@ -1,6 +1,42 @@
 {
   "productos": [
     {
+      "id": "1325984657",
+      "title": "Martillo Perforador DeWalt",
+      "price": 199.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lx/gg/__/c10420p1325984657/i6875562912.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/martillo-perforador-dewalt-18v-xr-1325984657",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Herramientas"
+    },
+    {
+      "id": "1315537919",
+      "title": "Amplificador de Guitarra Harley Benton GPA-400",
+      "price": 110.0,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/lr/8j/__/c10420p1315537919/i6810864117.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/amplificador-de-guitarra-harley-benton-gpa-400-1315537919",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1325976759",
+      "title": "Guitarra Electroacústica José Torres",
+      "price": 215.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lx/ga/__/c10420p1325976759/i6875520269.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/guitarra-electroacustica-jose-torres-1325976759",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
       "id": "1325971391",
       "title": "Guitarra Clásica Alhambra",
       "price": 460.0,
@@ -3155,18 +3191,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
-    },
-    {
-      "id": "1315537919",
-      "title": "Amplificador de Guitarra Harley Benton GPA-400",
-      "price": 115.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lr/8j/__/c10420p1315537919/i6810864117.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/amplificador-de-guitarra-harley-benton-gpa-400-1315537919",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
     },
     {
       "id": "1315330139",
@@ -8701,6 +8725,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 725,
-  "actualizado": "2026-11-19T12:01:47"
+  "total": 727,
+  "actualizado": "2026-11-19T12:31:47"
 }
