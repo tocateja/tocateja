@@ -361,18 +361,6 @@
       "category": "Informática"
     },
     {
-      "id": "1325305249",
-      "title": "Termómetro de mano Parkside PITM A1",
-      "price": 6.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lx/1w/__/c10420p1325305249/i6871729757.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/termometro-de-mano-parkside-pitm-a1-1325305249",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Electrodomésticos"
-    },
-    {
       "id": "1325303592",
       "title": "Figura de Acción Lewandowski FC Barcelona",
       "price": 16.0,
@@ -4271,18 +4259,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Deporte"
-    },
-    {
-      "id": "1269283771",
-      "title": "Silla giratoria para bañera Ayudas Dinámicas",
-      "price": 26.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kz/p5/__/c10420p1269283771/i6541281360.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/silla-giratoria-para-banera-1269283771",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Hogar"
     },
     {
       "id": "1269272213",
@@ -8761,6 +8737,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 730,
-  "actualizado": "2026-11-19T19:01:44"
+  "total": 728,
+  "actualizado": "2026-11-19T19:31:45"
 }
