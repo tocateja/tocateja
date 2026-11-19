@@ -1,16 +1,16 @@
 {
   "productos": [
     {
-      "id": "1325984657",
-      "title": "Martillo Perforador DeWalt",
-      "price": 199.0,
+      "id": "1325997094",
+      "title": "iMac 24 pulgadas M3 Apple A2873 2023",
+      "price": 790.0,
       "currency": "EUR",
       "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lx/gg/__/c10420p1325984657/i6875562912.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/martillo-perforador-dewalt-18v-xr-1325984657",
+      "image": "https://cdn.wallapop.com/images/10420/lx/gp/__/c10420p1325997094/i6875630122.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/imac-24-pulgadas-m3-apple-a2873-2023-1325997094",
       "location": "Pamplona",
       "condition": "",
-      "category": "Herramientas"
+      "category": "Informática"
     },
     {
       "id": "1315537919",
@@ -23,6 +23,54 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1325991386",
+      "title": "Libro electrónico BQ Cervantes 4",
+      "price": 65.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lx/gl/__/c10420p1325991386/i6875599403.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/libro-electronico-bq-cervantes-4-1325991386",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1306829384",
+      "title": "Herramienta de Aplicación de Bridas HellermannTyto",
+      "price": 149.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lm/1w/__/c10420p1306829384/i6757624979.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/herramienta-de-aplicacion-de-bridas-hellermanntyto-1306829384",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1325988112",
+      "title": "Libro electrónico Rakuten Kobo Clare 2E",
+      "price": 99.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lx/gi/__/c10420p1325988112/i6875580618.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/libro-electronico-rakuten-kobo-clare-2e-1325988112",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1325984657",
+      "title": "Martillo Perforador DeWalt",
+      "price": 199.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lx/gg/__/c10420p1325984657/i6875562912.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/martillo-perforador-dewalt-18v-xr-1325984657",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Herramientas"
     },
     {
       "id": "1325976759",
@@ -5581,18 +5629,6 @@
       "category": "Deporte"
     },
     {
-      "id": "1306829384",
-      "title": "Herramienta de Aplicación de Bridas HellermannTyto",
-      "price": 149.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lm/1w/__/c10420p1306829384/i6757624979.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/herramienta-de-aplicacion-de-bridas-hellermanntyto-1306829384",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
       "id": "1305691443",
       "title": "Baraja cartas tarot El Árbol de la Vida ORACULO",
       "price": 12.0,
@@ -8725,6 +8761,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 727,
-  "actualizado": "2026-11-19T12:31:47"
+  "total": 730,
+  "actualizado": "2026-11-19T13:01:47"
 }
