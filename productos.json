@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1325971391",
+      "title": "Guitarra Clásica Alhambra",
+      "price": 460.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lx/g6/__/c10420p1325971391/i6875494305.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/guitarra-clasica-alhambra-1325971391",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
       "id": "1325651788",
       "title": "iPhone 16 128GB",
       "price": 499.0,
@@ -8689,6 +8701,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 724,
-  "actualizado": "2026-11-19T11:31:45"
+  "total": 725,
+  "actualizado": "2026-11-19T12:01:47"
 }
