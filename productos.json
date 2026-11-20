@@ -1,6 +1,66 @@
 {
   "productos": [
     {
+      "id": "1326316204",
+      "title": "Set de 5 Ruedas Negras para Silla de Oficina",
+      "price": 5.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lx/nk/__/c10420p1326316204/i6877415542.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/set-de-5-ruedas-negras-para-silla-de-oficina-1326316204",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Hogar"
+    },
+    {
+      "id": "1326314249",
+      "title": "Samsung Galaxy A37 5G Precintado",
+      "price": 295.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lx/ni/__/c10420p1326314249/i6877402430.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/samsung-galaxy-a37-5g-precintado-1326314249",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
+      "id": "1326312505",
+      "title": "Xiaomi Redmi Note 15 Pro 5G",
+      "price": 240.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lx/nh/__/c10420p1326312505/i6877390725.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/xiaomi-redmi-note-15-pro-5g-1326312505",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
+      "id": "1326311230",
+      "title": "Honor Magic 8 Lite",
+      "price": 225.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lx/ng/__/c10420p1326311230/i6877381145.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/honor-magic-8-lite-1326311230",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1326307541",
+      "title": "Tablet Samsung Galaxy Tab A11+",
+      "price": 245.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lx/nd/__/c10420p1326307541/i6877356232.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/tablet-samsung-galaxy-tab-a11-1326307541",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
       "id": "1326302954",
       "title": "Triturador de documentos Fellowes 100M",
       "price": 175.0,
@@ -8749,6 +8809,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 729,
-  "actualizado": "2026-11-20T12:01:48"
+  "total": 734,
+  "actualizado": "2026-11-20T12:31:46"
 }
