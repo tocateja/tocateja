@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1326322196",
+      "title": "Set de 5 Ruedas para Silla de Oficina",
+      "price": 6.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lx/no/__/c10420p1326322196/i6877459018.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/set-de-5-ruedas-para-silla-de-oficina-1326322196",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Hogar"
+    },
+    {
+      "id": "1326319945",
+      "title": "Set de 5 Ruedas para Silla de Oficina",
+      "price": 4.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lx/nn/__/c10420p1326319945/i6877442754.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/set-de-5-ruedas-para-silla-de-oficina-1326319945",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Hogar"
+    },
+    {
       "id": "1326316204",
       "title": "Set de 5 Ruedas Negras para Silla de Oficina",
       "price": 5.5,
@@ -8809,6 +8833,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 734,
-  "actualizado": "2026-11-20T12:31:46"
+  "total": 736,
+  "actualizado": "2026-11-20T13:01:46"
 }
