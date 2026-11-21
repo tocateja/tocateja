@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1326615811",
+      "title": "Vinilo Estopa - ¿La calle es tuya?",
+      "price": 19.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lx/tz/__/c10420p1326615811/i6879006333.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vinilo-estopa-la-calle-es-tuya-1326615811",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
       "id": "1325292972",
       "title": "Consola Xbox one X 1TB",
       "price": 149.95,
@@ -11,18 +23,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
-    },
-    {
-      "id": "1326615811",
-      "title": "Vinilo Estopa - ¿La calle es tuya?",
-      "price": 0.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lx/tz/__/c10420p1326615811/i6879006333.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/vinilo-estopa-la-calle-es-tuya-1326615811",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
     },
     {
       "id": "1326610029",
@@ -8762,5 +8762,5 @@
     }
   ],
   "total": 730,
-  "actualizado": "2026-11-21T14:01:47"
+  "actualizado": "2026-11-21T20:01:46"
 }
