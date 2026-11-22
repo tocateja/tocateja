@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1313297667",
+      "title": "Baraja Tarot El Poder de lo Femenino",
+      "price": 12.0,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/lp/wi/__/c10420p1313297667/i6798676760.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/baraja-tarot-el-poder-de-lo-femenino-1313297667",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1307569705",
+      "title": "Oráculo de los 22 Arcángeles - Kyle Gray",
+      "price": 12.0,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/lm/hr/__/c10420p1307569705/i6761899217.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/oraculo-de-los-22-arcangeles-kyle-gray-1307569705",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1326615811",
       "title": "Vinilo Estopa - ¿La calle es tuya?",
       "price": 19.95,
@@ -4945,18 +4969,6 @@
       "category": "Música e Instrumentos"
     },
     {
-      "id": "1313297667",
-      "title": "Baraja Tarot El Poder de lo Femenino",
-      "price": 12.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lp/wi/__/c10420p1313297667/i6798676760.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/baraja-tarot-el-poder-de-lo-femenino-1313297667",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
       "id": "1312937881",
       "title": "Micrófono de Condensador Rode",
       "price": 115.0,
@@ -5471,18 +5483,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Antigüedades y Coleccionismo"
-    },
-    {
-      "id": "1307569705",
-      "title": "Oráculo de los 22 Arcángeles - Kyle Gray",
-      "price": 12.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lm/hr/__/c10420p1307569705/i6761899217.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/oraculo-de-los-22-arcangeles-kyle-gray-1307569705",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
     },
     {
       "id": "1307432747",
@@ -8762,5 +8762,5 @@
     }
   ],
   "total": 730,
-  "actualizado": "2026-11-22T14:01:47"
+  "actualizado": "2026-11-22T20:01:47"
 }
