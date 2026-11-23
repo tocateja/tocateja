@@ -1,9 +1,45 @@
 {
   "productos": [
     {
+      "id": "1326322196",
+      "title": "Set de 5 Ruedas para Silla de Oficina",
+      "price": 6.5,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lx/no/__/c10420p1326322196/i6877459018.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/set-de-5-ruedas-para-silla-de-oficina-1326322196",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Hogar"
+    },
+    {
+      "id": "1326610029",
+      "title": "Vinilo Chet Baker - The Hits",
+      "price": 15.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lx/tu/__/c10420p1326610029/i6878979951.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vinilo-chet-baker-the-hits-1326610029",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
+      "id": "1326605533",
+      "title": "Vinilo Louis Armstrong & Oscar Peterson",
+      "price": 10.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lx/tr/__/c10420p1326605533/i6878959154.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/vinilo-louis-armstrong-oscar-peterson-1326605533",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
       "id": "1327356542",
       "title": "Bicicleta Elíptica Domyos E Shape + 09",
-      "price": 0.0,
+      "price": 175.0,
       "currency": "EUR",
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/ly/9u/__/c10420p1327356542/i6882962410.jpg?pictureSize=W640",
@@ -11,6 +47,18 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Deporte"
+    },
+    {
+      "id": "1327361712",
+      "title": "Compresor de Aire Stratos HP2 50L",
+      "price": 89.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ly/9y/__/c10420p1327361712/i6882991743.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/compresor-de-aire-stratos-hp2-50l-1327361712",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Herramientas"
     },
     {
       "id": "1325292972",
@@ -73,30 +121,6 @@
       "category": "TV y Audio"
     },
     {
-      "id": "1326610029",
-      "title": "Vinilo Chet Baker - The Hits",
-      "price": 0.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lx/tu/__/c10420p1326610029/i6878979951.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/vinilo-chet-baker-the-hits-1326610029",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
-    },
-    {
-      "id": "1326605533",
-      "title": "Vinilo Louis Armstrong & Oscar Peterson",
-      "price": 0.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lx/tr/__/c10420p1326605533/i6878959154.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/vinilo-louis-armstrong-oscar-peterson-1326605533",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
-    },
-    {
       "id": "1254325422",
       "title": "Samsung Galaxy A37 5G",
       "price": 265.0,
@@ -119,18 +143,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Móviles y Smartwatches"
-    },
-    {
-      "id": "1326322196",
-      "title": "Set de 5 Ruedas para Silla de Oficina",
-      "price": 6.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lx/no/__/c10420p1326322196/i6877459018.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/set-de-5-ruedas-para-silla-de-oficina-1326322196",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Hogar"
     },
     {
       "id": "1326319945",
@@ -8749,6 +8761,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 729,
-  "actualizado": "2026-11-23T12:31:46"
+  "total": 730,
+  "actualizado": "2026-11-23T13:01:44"
 }
