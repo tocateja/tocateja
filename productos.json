@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1327463964",
+      "title": "Reloj Jaguar Connected J929",
+      "price": 299.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ly/c5/__/c10420p1327463964/i6883535575.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/reloj-jaguar-connected-j929-1327463964",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Joyería y Complementos"
+    },
+    {
       "id": "1327461654",
       "title": "Altavoz Inteligente Amazon Echo Spot Blanco",
       "price": 49.0,
@@ -155,18 +167,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Música e Instrumentos"
-    },
-    {
-      "id": "1317721073",
-      "title": "Tarjeta de sonido externa Creative Sound Blaster",
-      "price": 36.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ls/jc/__/c10420p1317721073/i6823686008.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/tarjeta-de-sonido-externa-creative-sound-blaster-1317721073",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "TV y Audio"
     },
     {
       "id": "1254325422",
@@ -6013,18 +6013,6 @@
       "category": "Otros"
     },
     {
-      "id": "1301636998",
-      "title": "Ghost of Tsushima Director's Cut PS4",
-      "price": 30.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/li/yl/__/c10420p1301636998/i6727786397.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/ghost-of-tsushima-director-s-cut-ps4-1301636998",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
       "id": "1301986558",
       "title": "Vinilo Fausto Papetti 25a Raccolta Sax",
       "price": 8.5,
@@ -8809,6 +8797,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 734,
-  "actualizado": "2026-11-23T17:31:47"
+  "total": 733,
+  "actualizado": "2026-11-23T18:01:45"
 }
