@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1327356542",
+      "title": "Bicicleta Elíptica Domyos E Shape + 09",
+      "price": 0.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ly/9u/__/c10420p1327356542/i6882962410.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/bicicleta-eliptica-domyos-e-shape---09-1327356542",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Deporte"
+    },
+    {
       "id": "1325292972",
       "title": "Consola Xbox one X 1TB",
       "price": 149.95,
@@ -851,18 +863,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Joyería y Complementos"
-    },
-    {
-      "id": "1321504609",
-      "title": "Halloween: El Final (Blu-ray)",
-      "price": 9.95,
-      "currency": "EUR",
-      "status": "reserved",
-      "image": "https://cdn.wallapop.com/images/10420/lu/sf/__/c10420p1321504609/i6850569351.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/halloween-el-final-blu-ray-1321504609",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
     },
     {
       "id": "1324196664",
@@ -8750,5 +8750,5 @@
     }
   ],
   "total": 729,
-  "actualizado": "2026-11-23T12:01:45"
+  "actualizado": "2026-11-23T12:31:46"
 }
