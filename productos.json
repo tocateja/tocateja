@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1328196896",
+      "title": "Guitarra Eléctrica Cort G254",
+      "price": 129.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ly/rv/__/c10420p1328196896/i6888068615.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/guitarra-electrica-cort-g254-1328196896",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
       "id": "1328183486",
       "title": "Teclado Casio CTK-485 de 5 octavas",
       "price": 75.0,
@@ -752,18 +764,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/kp/ra/__/c10420p1252587309/i6436058236.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/manipulador-morse-antiguo-1252587309",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
-      "id": "1325401577",
-      "title": "iPod Nano 16GB Azul",
-      "price": 79.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lx/3y/__/c10420p1325401577/i6872232646.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/ipod-nano-16gb-azul-1325401577",
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
@@ -8798,5 +8798,5 @@
     }
   ],
   "total": 733,
-  "actualizado": "2026-11-25T18:31:55"
+  "actualizado": "2026-11-25T19:01:53"
 }
