@@ -1,6 +1,42 @@
 {
   "productos": [
     {
+      "id": "1328065346",
+      "title": "Lenovo ThinkCentre M75q Gen 5",
+      "price": 499.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ly/p1/__/c10420p1328065346/i6887400050.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/lenovo-thinkcentre-m75q-gen-5-1328065346",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1327813303",
+      "title": "Figura Marvel Legends Series Marvel's Carnage",
+      "price": 49.0,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/ly/jn/__/c10420p1327813303/i6886029030.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/figura-marvel-legends-series-marvel-s-carnage-1327813303",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
+      "id": "1328060393",
+      "title": "Lenovo ThinkCentre M75 Gen 5",
+      "price": 499.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ly/ox/__/c10420p1328060393/i6887391819.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/lenovo-thinkcentre-m75-gen-5-1328060393",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1328051486",
       "title": "Portátil Dell 15 DC15250",
       "price": 795.0,
@@ -80,18 +116,6 @@
       "status": "reserved",
       "image": "https://cdn.wallapop.com/images/10420/ly/af/__/c10420p1327383025/i6883107140.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/figura-marvel-legends-hulkbuster-85-aniversario-1327383025",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
-    },
-    {
-      "id": "1327813303",
-      "title": "Figura Marvel Legends Series Marvel's Carnage",
-      "price": 49.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ly/jn/__/c10420p1327813303/i6886029030.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/figura-marvel-legends-series-marvel-s-carnage-1327813303",
       "location": "Pamplona",
       "condition": "",
       "category": "Libros, Cómics y Revistas"
@@ -8737,6 +8761,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 728,
-  "actualizado": "2026-11-25T12:31:47"
+  "total": 730,
+  "actualizado": "2026-11-25T13:01:48"
 }
