@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1230282127",
+      "title": "Zetman 13 (Seinen Manga) (Spanish Edition)",
+      "price": 3.5,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/kc/h7/__/c10420p1230282127/i6291333124.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/zetman-13-seinen-manga-spanish-edition-1230282127",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Libros, Cómics y Revistas"
+    },
+    {
       "id": "1327383025",
       "title": "Figura Marvel Legends Hulkbuster 85 Aniversario",
       "price": 29.95,
@@ -4055,18 +4067,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Deporte"
-    },
-    {
-      "id": "1230282127",
-      "title": "Zetman 13 (Seinen Manga) (Spanish Edition)",
-      "price": 3.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/kc/h7/__/c10420p1230282127/i6291333124.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/zetman-13-seinen-manga-spanish-edition-1230282127",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Libros, Cómics y Revistas"
     },
     {
       "id": "1230205268",
@@ -8726,5 +8726,5 @@
     }
   ],
   "total": 727,
-  "actualizado": "2026-11-24T20:01:44"
+  "actualizado": "2026-11-25T02:01:47"
 }
