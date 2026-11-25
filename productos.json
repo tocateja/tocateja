@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1328183486",
+      "title": "Teclado Casio CTK-485 de 5 octavas",
+      "price": 75.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ly/rk/__/c10420p1328183486/i6888018493.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/teclado-casio-ctk-485-de-5-octavas-1328183486",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Informática"
+    },
+    {
+      "id": "1328179766",
+      "title": "Teclado Roland E-28 con soporte",
+      "price": 149.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ly/ri/__/c10420p1328179766/i6887990683.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/teclado-roland-e-28-con-soporte-1328179766",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Informática"
+    },
+    {
       "id": "1276075100",
       "title": "Objeto religioso",
       "price": 9.5,
@@ -8773,6 +8797,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 731,
-  "actualizado": "2026-11-25T18:01:52"
+  "total": 733,
+  "actualizado": "2026-11-25T18:31:55"
 }
