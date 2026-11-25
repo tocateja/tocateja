@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1328213389",
+      "title": "TV Samsung 43 Crystal UHD",
+      "price": 249.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ly/s8/__/c10420p1328213389/i6888149567.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/tv-samsung-43-crystal-uhd-1328213389",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1328196896",
       "title": "Guitarra Eléctrica Cort G254",
       "price": 129.0,
@@ -695,18 +707,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Joyería y Complementos"
-    },
-    {
-      "id": "1325629435",
-      "title": "iPhone 15 Pro Max",
-      "price": 599.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lx/8u/__/c10420p1325629435/i6873521191.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/iphone-15-pro-max-1325629435",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
     },
     {
       "id": "1325639691",
@@ -8798,5 +8798,5 @@
     }
   ],
   "total": 733,
-  "actualizado": "2026-11-25T19:01:53"
+  "actualizado": "2026-11-25T19:32:02"
 }
