@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1328510609",
+      "title": "Set de Pintura 3D Madnesstoys",
+      "price": 15.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ly/yl/__/c10420p1328510609/i6889744138.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/set-de-pintura-3d-madnesstoys-1328510609",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
       "id": "1328508086",
       "title": "Set Lanzador Beyblade X Soar Phoenix",
       "price": 16.0,
@@ -8893,6 +8905,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 741,
-  "actualizado": "2026-11-26T17:31:59"
+  "total": 742,
+  "actualizado": "2026-11-26T18:01:52"
 }
