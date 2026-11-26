@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1328377001",
+      "title": "Monitor Gaming Curvo Xiaomi 34",
+      "price": 175.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ly/vq/__/c10420p1328377001/i6889012217.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/monitor-gaming-curvo-xiaomi-34-1328377001",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Móviles y Smartwatches"
+    },
+    {
+      "id": "1328071923",
+      "title": "Bicicleta Híbrida Btwin Triban 500 RC",
+      "price": 299.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ly/p6/__/c10420p1328071923/i6887436333.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/bicicleta-hibrida-btwin-triban-500-rc-1328071923",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Deporte"
+    },
+    {
       "id": "1328369043",
       "title": "Bicicleta Montaña Junior Rockrider 500 Azul",
       "price": 110.0,
@@ -95,18 +119,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1328071923",
-      "title": "Bicicleta Híbrida Btwin Triban 500 RC",
-      "price": 299.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ly/p6/__/c10420p1328071923/i6887436333.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/bicicleta-hibrida-btwin-triban-500-rc-1328071923",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Deporte"
     },
     {
       "id": "1328065346",
@@ -8785,6 +8797,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 732,
-  "actualizado": "2026-11-26T10:31:47"
+  "total": 733,
+  "actualizado": "2026-11-26T11:01:48"
 }
