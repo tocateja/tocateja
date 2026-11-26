@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1328369043",
+      "title": "Bicicleta Montaña Junior Rockrider 500 Azul",
+      "price": 110.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ly/vk/__/c10420p1328369043/i6888969523.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/bicicleta-montana-junior-rockrider-500-azul-1328369043",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Deporte"
+    },
+    {
       "id": "1328213389",
       "title": "TV Samsung 43 Crystal UHD",
       "price": 249.0,
@@ -1043,18 +1055,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Joyería y Complementos"
-    },
-    {
-      "id": "1324912176",
-      "title": "Disco Duro Externo WD easystore 2TB",
-      "price": 79.95,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lw/tg/__/c10420p1324912176/i6868991835.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/disco-duro-externo-wd-easystore-2tb-1324912176",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
     },
     {
       "id": "1324903701",
@@ -2975,18 +2975,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1316575476",
-      "title": "Bicicleta de Montaña Decathlon Rockrider 20\"",
-      "price": 79.95,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lr/us/__/c10420p1316575476/i6816938321.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/bicicleta-de-montana-decathlon-rockrider-20-1316575476",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Deporte"
     },
     {
       "id": "1316568809",
@@ -8797,6 +8785,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 733,
-  "actualizado": "2026-11-26T10:01:47"
+  "total": 732,
+  "actualizado": "2026-11-26T10:31:47"
 }
