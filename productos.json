@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1328409940",
+      "title": "Amplificador de Guitarra Roland Cube 15",
+      "price": 79.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ly/wf/__/c10420p1328409940/i6889189229.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/amplificador-de-guitarra-roland-cube-15-1328409940",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
       "id": "1328388311",
       "title": "Silla Eléctrica Plegable APEX i-Discover 2",
       "price": 999.0,
@@ -8809,6 +8821,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 734,
-  "actualizado": "2026-11-26T12:01:47"
+  "total": 735,
+  "actualizado": "2026-11-26T12:31:49"
 }
