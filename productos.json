@@ -517,30 +517,6 @@
       "category": "Deporte"
     },
     {
-      "id": "1313297667",
-      "title": "Baraja Tarot El Poder de lo Femenino",
-      "price": 12.0,
-      "currency": "EUR",
-      "status": "reserved",
-      "image": "https://cdn.wallapop.com/images/10420/lp/wi/__/c10420p1313297667/i6798676760.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/baraja-tarot-el-poder-de-lo-femenino-1313297667",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
-      "id": "1307569705",
-      "title": "Oráculo de los 22 Arcángeles - Kyle Gray",
-      "price": 12.0,
-      "currency": "EUR",
-      "status": "reserved",
-      "image": "https://cdn.wallapop.com/images/10420/lm/hr/__/c10420p1307569705/i6761899217.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/oraculo-de-los-22-arcangeles-kyle-gray-1307569705",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
       "id": "1326314249",
       "title": "Samsung Galaxy A37 5G Precintado",
       "price": 310.0,
@@ -8893,6 +8869,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 741,
-  "actualizado": "2026-11-26T19:31:51"
+  "total": 739,
+  "actualizado": "2026-11-26T20:02:00"
 }
