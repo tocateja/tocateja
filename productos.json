@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1328551500",
+      "title": "Reloj Automático Seiko Presage Cocktail",
+      "price": 349.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ly/zg/__/c10420p1328551500/i6889966727.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/reloj-automatico-seiko-presage-cocktail-1328551500",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Joyería y Complementos"
+    },
+    {
       "id": "1328530926",
       "title": "Reloj Lanscotte Dorado",
       "price": 149.0,
@@ -8881,6 +8893,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 740,
-  "actualizado": "2026-11-26T19:01:53"
+  "total": 741,
+  "actualizado": "2026-11-26T19:31:51"
 }
