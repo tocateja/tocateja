@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1328495779",
+      "title": "Mando DualSense PS5 (PlayStation 5)",
+      "price": 44.95,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ly/y9/__/c10420p1328495779/i6889659117.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/mando-dualsense-ps5-playstation-5-1328495779",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
       "id": "1328419976",
       "title": "Portátil Acer Aspire 3 15",
       "price": 290.0,
@@ -635,18 +647,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Informática"
-    },
-    {
-      "id": "1315537919",
-      "title": "Amplificador de Guitarra Harley Benton GPA-400",
-      "price": 110.0,
-      "currency": "EUR",
-      "status": "reserved",
-      "image": "https://cdn.wallapop.com/images/10420/lr/8j/__/c10420p1315537919/i6810864117.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/amplificador-de-guitarra-harley-benton-gpa-400-1315537919",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
     },
     {
       "id": "1325991386",
@@ -8858,5 +8858,5 @@
     }
   ],
   "total": 738,
-  "actualizado": "2026-11-26T16:31:48"
+  "actualizado": "2026-11-26T17:01:57"
 }
