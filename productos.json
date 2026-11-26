@@ -1,6 +1,30 @@
 {
   "productos": [
     {
+      "id": "1328419976",
+      "title": "Portátil Acer Aspire 3 15",
+      "price": 290.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ly/wn/__/c10420p1328419976/i6889245043.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/portatil-acer-aspire-3-15-1328419976",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Informática"
+    },
+    {
+      "id": "1328415166",
+      "title": "Altavoces Autoamplificados Wiibo Neo 50",
+      "price": 65.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ly/wj/__/c10420p1328415166/i6889219440.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/altavoces-autoamplificados-wiibo-neo-50-1328415166",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Música e Instrumentos"
+    },
+    {
       "id": "1328409940",
       "title": "Amplificador de Guitarra Roland Cube 15",
       "price": 79.0,
@@ -8821,6 +8845,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 735,
-  "actualizado": "2026-11-26T12:31:49"
+  "total": 737,
+  "actualizado": "2026-11-26T13:01:53"
 }
