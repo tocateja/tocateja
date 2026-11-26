@@ -373,18 +373,6 @@
       "category": "Libros, Cómics y Revistas"
     },
     {
-      "id": "1327806780",
-      "title": "Radiador de aceite Bodner NY2009",
-      "price": 34.95,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ly/ji/__/c10420p1327806780/i6885985801.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/radiador-de-aceite-bodner-ny2009-1327806780",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
-    },
-    {
       "id": "1327719365",
       "title": "TV Samsung 50 LED",
       "price": 349.0,
@@ -8893,6 +8881,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 741,
-  "actualizado": "2026-11-26T18:31:51"
+  "total": 740,
+  "actualizado": "2026-11-26T19:01:53"
 }
