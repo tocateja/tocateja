@@ -1,6 +1,42 @@
 {
   "productos": [
     {
+      "id": "1328508086",
+      "title": "Set Lanzador Beyblade X Soar Phoenix",
+      "price": 16.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ly/yj/__/c10420p1328508086/i6889729944.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/set-lanzador-beyblade-x-soar-phoenix-1328508086",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1328503989",
+      "title": "Figura de Acción Real Madrid Bellingham 5",
+      "price": 16.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ly/yg/__/c10420p1328503989/i6889705802.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/figura-de-accion-real-madrid-bellingham-5-1328503989",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Hogar"
+    },
+    {
+      "id": "1328502005",
+      "title": "Figura de Acción Lamine Yamal 10 - FC Barcelona",
+      "price": 18.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/ly/ye/__/c10420p1328502005/i6889693985.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/figura-de-accion-lamine-yamal-10-fc-barcelona-1328502005",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Hogar"
+    },
+    {
       "id": "1328495779",
       "title": "Mando DualSense PS5 (PlayStation 5)",
       "price": 44.95,
@@ -8857,6 +8893,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 738,
-  "actualizado": "2026-11-26T17:01:57"
+  "total": 741,
+  "actualizado": "2026-11-26T17:31:59"
 }
