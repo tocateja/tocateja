@@ -5989,18 +5989,6 @@
       "category": "Gaming"
     },
     {
-      "id": "1302909352",
-      "title": "Gran Turismo 7 PS4",
-      "price": 36.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lj/pv/__/c10420p1302909352/i6736375046.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/gran-turismo-7-ps4-1302909352",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
       "id": "1302900597",
       "title": "Dino Crisis PS1 (PlayStation 1)",
       "price": 100.0,
@@ -7861,18 +7849,6 @@
       "category": "Otros"
     },
     {
-      "id": "1292600315",
-      "title": "Altavoz Bluetooth Marshall Emberton II",
-      "price": 95.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ld/kw/__/c10420p1292600315/i6684659674.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/altavoz-bluetooth-marshall-emberton-ii-1292600315",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
-    },
-    {
       "id": "1267281969",
       "title": "Guitarra Clásica Prudencio Saez",
       "price": 265.0,
@@ -8881,6 +8857,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 740,
-  "actualizado": "2026-11-27T18:31:47"
+  "total": 738,
+  "actualizado": "2026-11-27T19:01:50"
 }
