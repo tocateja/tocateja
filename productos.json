@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1328752573",
+      "title": "Consola Nintendo Wii Family Edition",
+      "price": 99.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lz/3s/__/c10420p1328752573/i6891128995.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/consola-nintendo-wii-family-edition-1328752573",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Gaming"
+    },
+    {
       "id": "1328731292",
       "title": "Cámara Compacta Canon PowerShot A2500",
       "price": 39.0,
@@ -8869,6 +8881,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 739,
-  "actualizado": "2026-11-27T12:31:56"
+  "total": 740,
+  "actualizado": "2026-11-27T13:01:57"
 }
