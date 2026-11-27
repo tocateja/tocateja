@@ -1,6 +1,18 @@
 {
   "productos": [
     {
+      "id": "1299545524",
+      "title": "Auriculares Bluetooth Bose",
+      "price": 74.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lh/pr/__/c10420p1299545524/i6717867354.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/auriculares-bluetooth-bose-1299545524",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "TV y Audio"
+    },
+    {
       "id": "1328551500",
       "title": "Reloj Automático Seiko Presage Cocktail",
       "price": 349.0,
@@ -6793,18 +6805,6 @@
       "category": "Música e Instrumentos"
     },
     {
-      "id": "1299545524",
-      "title": "Auriculares Bluetooth Bose",
-      "price": 74.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lh/pr/__/c10420p1299545524/i6717867354.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/auriculares-bluetooth-bose-1299545524",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "TV y Audio"
-    },
-    {
       "id": "1299542328",
       "title": "Lente Angular Jessop 72-67mm",
       "price": 15.5,
@@ -8870,5 +8870,5 @@
     }
   ],
   "total": 739,
-  "actualizado": "2026-11-26T20:02:00"
+  "actualizado": "2026-11-27T02:01:49"
 }
