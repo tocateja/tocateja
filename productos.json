@@ -1,6 +1,42 @@
 {
   "productos": [
     {
+      "id": "1329073291",
+      "title": "iPod Nano 16GB Azul",
+      "price": 79.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lz/an/__/c10420p1329073291/i6892744068.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/ipod-nano-16gb-azul-1329073291",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Otros"
+    },
+    {
+      "id": "1328032720",
+      "title": "Tarjeta de Sonido Focusrite Scarlett Solo",
+      "price": 59.95,
+      "currency": "EUR",
+      "status": "reserved",
+      "image": "https://cdn.wallapop.com/images/10420/ly/oc/__/c10420p1328032720/i6887229887.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/tarjeta-de-sonido-focusrite-scarlett-solo-1328032720",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "TV y Audio"
+    },
+    {
+      "id": "1329020248",
+      "title": "Portátil HP Pavilion 15CS-3002",
+      "price": 345.0,
+      "currency": "EUR",
+      "status": "available",
+      "image": "https://cdn.wallapop.com/images/10420/lz/9i/__/c10420p1329020248/i6892509991.jpg?pictureSize=W640",
+      "url": "https://es.wallapop.com/item/portatil-hp-pavilion-15cs-3002-1329020248",
+      "location": "Pamplona",
+      "condition": "",
+      "category": "Informática"
+    },
+    {
       "id": "1328508086",
       "title": "Set Lanzador Beyblade X Soar Phoenix",
       "price": 16.0,
@@ -397,18 +433,6 @@
       "category": "Móviles y Smartwatches"
     },
     {
-      "id": "1328032720",
-      "title": "Tarjeta de Sonido Focusrite Scarlett Solo",
-      "price": 59.95,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ly/oc/__/c10420p1328032720/i6887229887.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/tarjeta-de-sonido-focusrite-scarlett-solo-1328032720",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "TV y Audio"
-    },
-    {
       "id": "1318519930",
       "title": "Taladro + Herramientas Ferrestock Precintado",
       "price": 51.5,
@@ -491,18 +515,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Móviles y Smartwatches"
-    },
-    {
-      "id": "1327361712",
-      "title": "Compresor de Aire Stratos HP2 50L",
-      "price": 89.95,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ly/9y/__/c10420p1327361712/i6882991743.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/compresor-de-aire-stratos-hp2-50l-1327361712",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Herramientas"
     },
     {
       "id": "1326322196",
@@ -827,18 +839,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Joyería y Complementos"
-    },
-    {
-      "id": "1325639691",
-      "title": "Portátil Lenovo V15 G4 IRU",
-      "price": 395.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lx/92/__/c10420p1325639691/i6873582205.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/portatil-lenovo-v15-g4-iru-1325639691",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Informática"
     },
     {
       "id": "1277272471",
@@ -2125,18 +2125,6 @@
       "category": "Juguetes"
     },
     {
-      "id": "1322446806",
-      "title": "Fast & Furious: Spy Racers (Nintendo Switch)",
-      "price": 19.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lv/cm/__/c10420p1322446806/i6855535315.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/fast-furious-spy-racers-nintendo-switch-1322446806",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
       "id": "1322432037",
       "title": "Reloj Comparador Digital Mitutoyo",
       "price": 119.0,
@@ -2965,18 +2953,6 @@
       "category": "Otros"
     },
     {
-      "id": "1317465898",
-      "title": "Sierra de calar Black+Decker 620W",
-      "price": 35.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ls/dv/__/c10420p1317465898/i6821811177.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/sierra-de-calar-black-decker-620w-1317465898",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Herramientas"
-    },
-    {
       "id": "1317383791",
       "title": "DJ Hero para Nintendo Wii",
       "price": 6.5,
@@ -3071,18 +3047,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "TV y Audio"
-    },
-    {
-      "id": "1316584347",
-      "title": "TV LCD Sony 40 pulgadas",
-      "price": 149.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lr/uy/__/c10420p1316584347/i6816980191.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/tv-lcd-sony-40-pulgadas-1316584347",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Otros"
     },
     {
       "id": "1316568809",
@@ -4057,18 +4021,6 @@
       "category": "Libros, Cómics y Revistas"
     },
     {
-      "id": "1304552370",
-      "title": "Auriculares Motorola Moto Buds 2 Bluetooth Negros",
-      "price": 54.95,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lk/p3/__/c10420p1304552370/i6745531695.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/auriculares-motorola-moto-buds-2-bluetooth-negros-1304552370",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Móviles y Smartwatches"
-    },
-    {
       "id": "1278589494",
       "title": "Lote comics manga Crimson Grimoire",
       "price": 8.5,
@@ -5012,18 +4964,6 @@
       "status": "available",
       "image": "https://cdn.wallapop.com/images/10420/lq/49/__/c10420p1313659084/i6800843336.jpg?pictureSize=W640",
       "url": "https://es.wallapop.com/item/paper-mario-the-origami-king-nintendo-switch-1313659084",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Gaming"
-    },
-    {
-      "id": "1313656860",
-      "title": "Super Mario 3D World + Bowser's Fury Switch",
-      "price": 41.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lq/48/__/c10420p1313656860/i6800832274.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/super-mario-3d-world---bowser-s-fury-switch-1313656860",
       "location": "Pamplona",
       "condition": "",
       "category": "Gaming"
@@ -6769,18 +6709,6 @@
       "category": "Música e Instrumentos"
     },
     {
-      "id": "1299638971",
-      "title": "Vinilo Eros Ramazzotti In Concert",
-      "price": 8.5,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/lh/rr/__/c10420p1299638971/i6718294372.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/vinilo-eros-ramazzotti-in-concert-1299638971",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
-    },
-    {
       "id": "1299635581",
       "title": "Vinilo Eros Ramazzotti Todo Historias",
       "price": 11.5,
@@ -7547,18 +7475,6 @@
       "location": "Pamplona",
       "condition": "",
       "category": "Otros"
-    },
-    {
-      "id": "1294233059",
-      "title": "Altavoz Bluetooth Party Lg",
-      "price": 169.95,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/le/jw/__/c10420p1294233059/i6692915821.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/altavoz-bluetooth-party-lg-1294233059",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Música e Instrumentos"
     },
     {
       "id": "1293389099",
@@ -8785,30 +8701,6 @@
       "category": "Informática"
     },
     {
-      "id": "1115726750",
-      "title": "FOCO LED 6W LEDUS A ESTRENAR",
-      "price": 4.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ig/9w/__/c10420p1115726750/i5508036885.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/foco-led-6w-ledus-a-estrenar-1115726750",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Informática"
-    },
-    {
-      "id": "1115721937",
-      "title": "FOCO LED LEDUS 10W A ESTRENAR",
-      "price": 4.0,
-      "currency": "EUR",
-      "status": "available",
-      "image": "https://cdn.wallapop.com/images/10420/ig/9s/__/c10420p1115721937/i5508006378.jpg?pictureSize=W640",
-      "url": "https://es.wallapop.com/item/foco-led-ledus-10w-a-estrenar-1115721937",
-      "location": "Pamplona",
-      "condition": "",
-      "category": "Informática"
-    },
-    {
       "id": "1116029409",
       "title": "FOCO LED LEDUS 10W A ESTRENAR",
       "price": 4.0,
@@ -8845,6 +8737,6 @@
       "category": "Móviles y Smartwatches"
     }
   ],
-  "total": 737,
-  "actualizado": "2026-11-28T08:01:55"
+  "total": 728,
+  "actualizado": "2026-11-28T14:01:54"
 }
